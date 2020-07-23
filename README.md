@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an experimental nuclear physicist :atom: with an interest in tools to improve productivity :chart_with_upwards_trend: and scientific insight :telescope:.
+I'm an experimental nuclear physicist :atom: with an interest in tools :wrench: to improve productivity :chart_with_upwards_trend: and scientific insight :telescope:.
 <!--
 **agoose77/agoose77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
