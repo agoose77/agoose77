@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm an experimental nuclear physicist with an interest in tools to improve productivity and scientific insight.
 <!--
 **agoose77/agoose77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+---
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
