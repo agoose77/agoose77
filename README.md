@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com//voila-dashboards/voila/issues/498) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
-2. 🎉 Merged PR [#3](https://github.com//agoose77/markdown-it-diagrams/pull/3) in [agoose77/markdown-it-diagrams](https://github.com//agoose77/markdown-it-diagrams)
-3. 🎉 Merged PR [#7](https://github.com//agoose77/jupyterlab-markup/pull/7) in [agoose77/jupyterlab-markup](https://github.com//agoose77/jupyterlab-markup)
-4. 🗣 Commented on [#8668](https://github.com//jupyterlab/jupyterlab/issues/8668) in [jupyterlab/jupyterlab](https://github.com//jupyterlab/jupyterlab)
+1. 🗣 Commented on [#5612](https://github.com//jupyter/notebook/issues/5612) in [jupyter/notebook](https://github.com//jupyter/notebook)
+2. 🗣 Commented on [#498](https://github.com//voila-dashboards/voila/issues/498) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
+3. 🎉 Merged PR [#3](https://github.com//agoose77/markdown-it-diagrams/pull/3) in [agoose77/markdown-it-diagrams](https://github.com//agoose77/markdown-it-diagrams)
+4. 🎉 Merged PR [#7](https://github.com//agoose77/jupyterlab-markup/pull/7) in [agoose77/jupyterlab-markup](https://github.com//agoose77/jupyterlab-markup)
 5. 🗣 Commented on [#8668](https://github.com//jupyterlab/jupyterlab/issues/8668) in [jupyterlab/jupyterlab](https://github.com//jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
