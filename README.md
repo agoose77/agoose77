@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
-2. 🎉 Merged PR [#2](https://github.com//agoose77/traitlet_widgets/pull/2) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
-3. 💪 Opened PR [#2](https://github.com//agoose77/traitlet_widgets/pull/2) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
-4. 🎉 Merged PR [#1](https://github.com//agoose77/traitlet_widgets/pull/1) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
-5. 💪 Opened PR [#1](https://github.com//agoose77/traitlet_widgets/pull/1) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
+1. 🗣 Commented on [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
+2. ❗️ Opened issue [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
+3. 🎉 Merged PR [#2](https://github.com//agoose77/traitlet_widgets/pull/2) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
+4. 💪 Opened PR [#2](https://github.com//agoose77/traitlet_widgets/pull/2) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
+5. 🎉 Merged PR [#1](https://github.com//agoose77/traitlet_widgets/pull/1) in [agoose77/traitlet_widgets](https://github.com//agoose77/traitlet_widgets)
 <!--END_SECTION:activity-->
