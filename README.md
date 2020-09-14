@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
-2. 🗣 Commented on [#50](https://github.com//danielfrg/jupyter-flex/issues/50) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
+1. ❗️ Opened issue [#51](https://github.com//danielfrg/jupyter-flex/issues/51) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
+2. 🗣 Commented on [#8922](https://github.com//jupyterlab/jupyterlab/issues/8922) in [jupyterlab/jupyterlab](https://github.com//jupyterlab/jupyterlab)
 3. 🗣 Commented on [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
-4. 🗣 Commented on [#1301](https://github.com//python-poetry/poetry/issues/1301) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
-5. 🗣 Commented on [#344](https://github.com//maartenbreddels/ipyvolume/issues/344) in [maartenbreddels/ipyvolume](https://github.com//maartenbreddels/ipyvolume)
+4. 🗣 Commented on [#50](https://github.com//danielfrg/jupyter-flex/issues/50) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
+5. 🗣 Commented on [#47](https://github.com//danielfrg/jupyter-flex/issues/47) in [danielfrg/jupyter-flex](https://github.com//danielfrg/jupyter-flex)
 <!--END_SECTION:activity-->
