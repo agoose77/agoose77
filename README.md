@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2976](https://github.com//jupyter-widgets/ipywidgets/pull/2976) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
-2. 💪 Opened PR [#2975](https://github.com//jupyter-widgets/ipywidgets/pull/2975) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
-3. 🗣 Commented on [#2959](https://github.com//jupyter-widgets/ipywidgets/issues/2959) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
-4. 🗣 Commented on [#56](https://github.com//mwcraig/ipyevents/issues/56) in [mwcraig/ipyevents](https://github.com//mwcraig/ipyevents)
-5. ❗️ Opened issue [#57](https://github.com//mwcraig/ipyevents/issues/57) in [mwcraig/ipyevents](https://github.com//mwcraig/ipyevents)
+1. 🗣 Commented on [#711](https://github.com//voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
+2. 💪 Opened PR [#2976](https://github.com//jupyter-widgets/ipywidgets/pull/2976) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
+3. 💪 Opened PR [#2975](https://github.com//jupyter-widgets/ipywidgets/pull/2975) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
+4. 🗣 Commented on [#2959](https://github.com//jupyter-widgets/ipywidgets/issues/2959) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
+5. 🗣 Commented on [#56](https://github.com//mwcraig/ipyevents/issues/56) in [mwcraig/ipyevents](https://github.com//mwcraig/ipyevents)
 <!--END_SECTION:activity-->
