@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#711](https://github.com//voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
-2. 🗣 Commented on [#711](https://github.com//voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
-3. 🗣 Commented on [#711](https://github.com//voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
-4. 🗣 Commented on [#711](https://github.com//voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com//voila-dashboards/voila)
-5. 💪 Opened PR [#2976](https://github.com//jupyter-widgets/ipywidgets/pull/2976) in [jupyter-widgets/ipywidgets](https://github.com//jupyter-widgets/ipywidgets)
+1. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+2. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+3. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+4. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+5. 💪 Opened PR [#2976](https://github.com/jupyter-widgets/ipywidgets/pull/2976) in [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)
 <!--END_SECTION:activity-->
