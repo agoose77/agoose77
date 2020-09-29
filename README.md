@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/agoose77/traitlet_widgets/issues/3) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
-2. ❗️ Opened issue [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-3. 🗣 Commented on [#53](https://github.com/danielfrg/jupyter-flex/issues/53) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+1. 🗣 Commented on [#2929](https://github.com/python-poetry/poetry/issues/2929) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. ❗️ Opened issue [#3](https://github.com/agoose77/traitlet_widgets/issues/3) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
+3. ❗️ Opened issue [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
 4. 🗣 Commented on [#53](https://github.com/danielfrg/jupyter-flex/issues/53) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
 5. 🗣 Commented on [#53](https://github.com/danielfrg/jupyter-flex/issues/53) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
 <!--END_SECTION:activity-->
