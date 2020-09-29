@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 2. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. ❗️ Opened issue [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#2929](https://github.com/python-poetry/poetry/issues/2929) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. ❗️ Opened issue [#3](https://github.com/agoose77/traitlet_widgets/issues/3) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
+3. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. ❗️ Opened issue [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🗣 Commented on [#2929](https://github.com/python-poetry/poetry/issues/2929) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
