@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#55](https://github.com/danielfrg/jupyter-flex/issues/55) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
 2. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 3. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. ❗️ Opened issue [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#2929](https://github.com/python-poetry/poetry/issues/2929) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. ❗️ Opened issue [#2996](https://github.com/python-poetry/poetry/issues/2996) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
