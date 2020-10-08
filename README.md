@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#328](https://github.com/jupyter-xeus/xeus-python/pull/328) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-2. 🗣 Commented on [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-3. 🗣 Commented on [#3079](https://github.com/python-poetry/poetry/issues/3079) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#57](https://github.com/danielfrg/jupyter-flex/issues/57) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-5. ❗️ Opened issue [#3079](https://github.com/python-poetry/poetry/issues/3079) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#9084](https://github.com/jupyterlab/jupyterlab/issues/9084) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#9132](https://github.com/jupyterlab/jupyterlab/issues/9132) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 💪 Opened PR [#328](https://github.com/jupyter-xeus/xeus-python/pull/328) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+4. 🗣 Commented on [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+5. 🗣 Commented on [#3079](https://github.com/python-poetry/poetry/issues/3079) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
