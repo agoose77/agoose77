@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8960](https://github.com/jupyterlab/jupyterlab/issues/8960) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-3. 🗣 Commented on [#8959](https://github.com/jupyterlab/jupyterlab/issues/8959) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#8947](https://github.com/jupyterlab/jupyterlab/issues/8947) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#268](https://github.com/krassowski/jupyterlab-lsp/issues/268) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+1. ❗️ Opened issue [#62](https://github.com/danielfrg/jupyter-flex/issues/62) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+2. ❗️ Opened issue [#61](https://github.com/danielfrg/jupyter-flex/issues/61) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+3. 💪 Opened PR [#60](https://github.com/danielfrg/jupyter-flex/pull/60) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+4. 🗣 Commented on [#8960](https://github.com/jupyterlab/jupyterlab/issues/8960) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#324](https://github.com/jupyter-xeus/xeus-python/issues/324) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
 <!--END_SECTION:activity-->
