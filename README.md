@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9147](https://github.com/jupyterlab/jupyterlab/issues/9147) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#9127](https://github.com/jupyterlab/jupyterlab/issues/9127) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. ❗️ Closed issue [#4](https://github.com/agoose77/traitlet_widgets/issues/4) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
-4. 🗣 Commented on [#4](https://github.com/agoose77/traitlet_widgets/issues/4) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
-5. ❗️ Opened issue [#4](https://github.com/agoose77/traitlet_widgets/issues/4) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
+1. ❌ Closed PR [#2](https://github.com/agoose77/jupyterlab-log-renderer/pull/2) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+2. 🎉 Merged PR [#3](https://github.com/agoose77/jupyterlab-log-renderer/pull/3) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+3. 🗣 Commented on [#9147](https://github.com/jupyterlab/jupyterlab/issues/9147) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#9127](https://github.com/jupyterlab/jupyterlab/issues/9127) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Closed issue [#4](https://github.com/agoose77/traitlet_widgets/issues/4) in [agoose77/traitlet_widgets](https://github.com/agoose77/traitlet_widgets)
 <!--END_SECTION:activity-->
