@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/danielfrg/jupyter-flex/issues/62) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-2. ❌ Closed PR [#2](https://github.com/agoose77/jupyterlab-log-renderer/pull/2) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
-3. 🎉 Merged PR [#3](https://github.com/agoose77/jupyterlab-log-renderer/pull/3) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
-4. 🗣 Commented on [#9147](https://github.com/jupyterlab/jupyterlab/issues/9147) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#9127](https://github.com/jupyterlab/jupyterlab/issues/9127) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-markup/pull/8) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🗣 Commented on [#62](https://github.com/danielfrg/jupyter-flex/issues/62) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+3. ❌ Closed PR [#2](https://github.com/agoose77/jupyterlab-log-renderer/pull/2) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+4. 🎉 Merged PR [#3](https://github.com/agoose77/jupyterlab-log-renderer/pull/3) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+5. 🗣 Commented on [#9147](https://github.com/jupyterlab/jupyterlab/issues/9147) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
