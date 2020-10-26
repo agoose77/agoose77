@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/danielfrg/jupyter-flex/pull/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-2. 🗣 Commented on [#255](https://github.com/ansible-collections/google.cloud/issues/255) in [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
-3. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-markup/pull/8) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 🗣 Commented on [#62](https://github.com/danielfrg/jupyter-flex/issues/62) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-5. ❌ Closed PR [#2](https://github.com/agoose77/jupyterlab-log-renderer/pull/2) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+1. 🗣 Commented on [#73](https://github.com/danielfrg/jupyter-flex/issues/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+2. 💪 Opened PR [#73](https://github.com/danielfrg/jupyter-flex/pull/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+3. 🗣 Commented on [#255](https://github.com/ansible-collections/google.cloud/issues/255) in [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
+4. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-markup/pull/8) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🗣 Commented on [#62](https://github.com/danielfrg/jupyter-flex/issues/62) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
 <!--END_SECTION:activity-->
 
 
