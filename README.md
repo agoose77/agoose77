@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
-2. 🗣 Commented on [#73](https://github.com/danielfrg/jupyter-flex/issues/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-3. 💪 Opened PR [#73](https://github.com/danielfrg/jupyter-flex/pull/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-4. 🗣 Commented on [#255](https://github.com/ansible-collections/google.cloud/issues/255) in [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
-5. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-markup/pull/8) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
+2. ❗️ Opened issue [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
+3. 🗣 Commented on [#73](https://github.com/danielfrg/jupyter-flex/issues/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+4. 💪 Opened PR [#73](https://github.com/danielfrg/jupyter-flex/pull/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+5. 🗣 Commented on [#255](https://github.com/ansible-collections/google.cloud/issues/255) in [ansible-collections/google.cloud](https://github.com/ansible-collections/google.cloud)
 <!--END_SECTION:activity-->
 
 
