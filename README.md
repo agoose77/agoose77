@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/agoose77/literary/issues/1) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🗣 Commented on [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
-3. ❗️ Opened issue [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
-4. 🗣 Commented on [#73](https://github.com/danielfrg/jupyter-flex/issues/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
-5. 💪 Opened PR [#73](https://github.com/danielfrg/jupyter-flex/pull/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
+1. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. ❗️ Opened issue [#1](https://github.com/agoose77/literary/issues/1) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🗣 Commented on [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
+4. ❗️ Opened issue [#209](https://github.com/scikit-hep/mplhep/issues/209) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
+5. 🗣 Commented on [#73](https://github.com/danielfrg/jupyter-flex/issues/73) in [danielfrg/jupyter-flex](https://github.com/danielfrg/jupyter-flex)
 <!--END_SECTION:activity-->
 
 
