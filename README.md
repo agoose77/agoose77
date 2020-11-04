@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 2. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🗣 Commented on [#12](https://github.com/agoose77/jupyterlab-markup/issues/12) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. ❗️ Opened issue [#9278](https://github.com/jupyterlab/jupyterlab/issues/9278) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 5. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
