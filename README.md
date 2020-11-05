@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#121](https://github.com/jupyter/nbclient/issues/121) in [jupyter/nbclient](https://github.com/jupyter/nbclient)
-2. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. ❗️ Opened issue [#3](https://github.com/agoose77/literary/issues/3) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 💪 Opened PR [#122](https://github.com/jupyter/nbclient/pull/122) in [jupyter/nbclient](https://github.com/jupyter/nbclient)
+3. 🗣 Commented on [#121](https://github.com/jupyter/nbclient/issues/121) in [jupyter/nbclient](https://github.com/jupyter/nbclient)
+4. ❗️ Opened issue [#121](https://github.com/jupyter/nbclient/issues/121) in [jupyter/nbclient](https://github.com/jupyter/nbclient)
 5. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
