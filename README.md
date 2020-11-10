@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9299](https://github.com/jupyterlab/jupyterlab/issues/9299) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#9183](https://github.com/jupyterlab/jupyterlab/issues/9183) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#6173](https://github.com/numba/numba/issues/6173) in [numba/numba](https://github.com/numba/numba)
-4. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#9183](https://github.com/jupyterlab/jupyterlab/issues/9183) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#9299](https://github.com/jupyterlab/jupyterlab/issues/9299) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#9183](https://github.com/jupyterlab/jupyterlab/issues/9183) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#6173](https://github.com/numba/numba/issues/6173) in [numba/numba](https://github.com/numba/numba)
+5. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-markup/issues/10) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
