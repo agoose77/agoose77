@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2049](https://github.com/python-poetry/poetry/issues/2049) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🗣 Commented on [#3288](https://github.com/python-poetry/poetry/issues/3288) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#184](https://github.com/executablebooks/meta/issues/184) in [executablebooks/meta](https://github.com/executablebooks/meta)
+1. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#2049](https://github.com/python-poetry/poetry/issues/2049) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. 🗣 Commented on [#3288](https://github.com/python-poetry/poetry/issues/3288) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
