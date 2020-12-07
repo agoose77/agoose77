@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-2. ❗️ Opened issue [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-3. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#2049](https://github.com/python-poetry/poetry/issues/2049) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Closed issue [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+2. 🗣 Commented on [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+3. 🗣 Commented on [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+4. ❗️ Opened issue [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+5. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
