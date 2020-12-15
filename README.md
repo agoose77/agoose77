@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
-2. 🗣 Commented on [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
-3. 🗣 Commented on [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-4. ❗️ Opened issue [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-5. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Opened issue [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❗️ Closed issue [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+4. 🗣 Commented on [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+5. 🗣 Commented on [#364](https://github.com/jupyter-xeus/xeus-python/issues/364) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
 <!--END_SECTION:activity-->
 
 
