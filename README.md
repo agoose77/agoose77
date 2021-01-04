@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#113](https://github.com/alandefreitas/matplotplusplus/issues/113) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-2. ❗️ Closed issue [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Opened issue [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
-5. ❗️ Closed issue [#5](https://github.com/agoose77/numpy-html/issues/5) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+1. 🎉 Merged PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 💪 Opened PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. ❗️ Opened issue [#113](https://github.com/alandefreitas/matplotplusplus/issues/113) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+4. ❗️ Closed issue [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 🗣 Commented on [#4](https://github.com/agoose77/literary/issues/4) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
