@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9551](https://github.com/jupyterlab/jupyterlab/pull/9551) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. ❗️ Opened issue [#9550](https://github.com/jupyterlab/jupyterlab/issues/9550) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🎉 Merged PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 💪 Opened PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. ❗️ Opened issue [#113](https://github.com/alandefreitas/matplotplusplus/issues/113) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+1. ❗️ Opened issue [#5313](https://github.com/google/jax/issues/5313) in [google/jax](https://github.com/google/jax)
+2. 💪 Opened PR [#9551](https://github.com/jupyterlab/jupyterlab/pull/9551) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. ❗️ Opened issue [#9550](https://github.com/jupyterlab/jupyterlab/issues/9550) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🎉 Merged PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 💪 Opened PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
