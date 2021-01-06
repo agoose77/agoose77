@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5316](https://github.com/google/jax/issues/5316) in [google/jax](https://github.com/google/jax)
-2. ❗️ Opened issue [#5313](https://github.com/google/jax/issues/5313) in [google/jax](https://github.com/google/jax)
-3. 💪 Opened PR [#9551](https://github.com/jupyterlab/jupyterlab/pull/9551) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Opened issue [#9550](https://github.com/jupyterlab/jupyterlab/issues/9550) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🎉 Merged PR [#15](https://github.com/agoose77/jupyterlab-markup/pull/15) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Opened issue [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
+2. 🗣 Commented on [#5316](https://github.com/google/jax/issues/5316) in [google/jax](https://github.com/google/jax)
+3. ❗️ Opened issue [#5313](https://github.com/google/jax/issues/5313) in [google/jax](https://github.com/google/jax)
+4. 💪 Opened PR [#9551](https://github.com/jupyterlab/jupyterlab/pull/9551) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#9550](https://github.com/jupyterlab/jupyterlab/issues/9550) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
