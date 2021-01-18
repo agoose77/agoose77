@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
-2. 🗣 Commented on [#148](https://github.com/executablebooks/MyST-NB/issues/148) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
-4. 💪 Opened PR [#1](https://github.com/maartenbreddels/pythreejs/pull/1) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-5. 🗣 Commented on [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
+1. 🗣 Commented on [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+2. ❗️ Opened issue [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+3. 🗣 Commented on [#148](https://github.com/executablebooks/MyST-NB/issues/148) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+5. 💪 Opened PR [#1](https://github.com/maartenbreddels/pythreejs/pull/1) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
 <!--END_SECTION:activity-->
 
 
