@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
-2. 💪 Opened PR [#1](https://github.com/maartenbreddels/pythreejs/pull/1) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-3. 🗣 Commented on [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
-4. ❗️ Opened issue [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
-5. 🗣 Commented on [#5316](https://github.com/google/jax/issues/5316) in [google/jax](https://github.com/google/jax)
+1. 🗣 Commented on [#148](https://github.com/executablebooks/MyST-NB/issues/148) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+3. 💪 Opened PR [#1](https://github.com/maartenbreddels/pythreejs/pull/1) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+4. 🗣 Commented on [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
+5. ❗️ Opened issue [#5331](https://github.com/google/jax/issues/5331) in [google/jax](https://github.com/google/jax)
 <!--END_SECTION:activity-->
 
 
