@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
-2. ❗️ Opened issue [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
-3. 🗣 Commented on [#148](https://github.com/executablebooks/MyST-NB/issues/148) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
-5. 💪 Opened PR [#1](https://github.com/maartenbreddels/pythreejs/pull/1) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+1. ❗️ Opened issue [#2286](https://github.com/xtensor-stack/xtensor/issues/2286) in [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
+2. 🗣 Commented on [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+3. ❗️ Opened issue [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+4. 🗣 Commented on [#148](https://github.com/executablebooks/MyST-NB/issues/148) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
 <!--END_SECTION:activity-->
 
 
