@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1245](https://github.com/bqplot/bqplot/issues/1245) in [bqplot/bqplot](https://github.com/bqplot/bqplot)
-2. 🗣 Commented on [#163](https://github.com/xtensor-stack/xtensor-blas/issues/163) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-3. 🗣 Commented on [#168](https://github.com/xtensor-stack/xtensor-blas/issues/168) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-4. 💪 Opened PR [#182](https://github.com/xtensor-stack/xtensor-blas/pull/182) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-5. ❗️ Opened issue [#2286](https://github.com/xtensor-stack/xtensor/issues/2286) in [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
+1. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+2. 💪 Opened PR [#2](https://github.com/maartenbreddels/pythreejs/pull/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+3. 🗣 Commented on [#1245](https://github.com/bqplot/bqplot/issues/1245) in [bqplot/bqplot](https://github.com/bqplot/bqplot)
+4. 🗣 Commented on [#163](https://github.com/xtensor-stack/xtensor-blas/issues/163) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
+5. 🗣 Commented on [#168](https://github.com/xtensor-stack/xtensor-blas/issues/168) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
 <!--END_SECTION:activity-->
 
 
