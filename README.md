@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/xtensor-stack/xtensor-blas/issues/163) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-2. 🗣 Commented on [#168](https://github.com/xtensor-stack/xtensor-blas/issues/168) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-3. 💪 Opened PR [#182](https://github.com/xtensor-stack/xtensor-blas/pull/182) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
-4. ❗️ Opened issue [#2286](https://github.com/xtensor-stack/xtensor/issues/2286) in [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
-5. 🗣 Commented on [#244](https://github.com/scikit-hep/uproot4/issues/244) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+1. 🗣 Commented on [#1245](https://github.com/bqplot/bqplot/issues/1245) in [bqplot/bqplot](https://github.com/bqplot/bqplot)
+2. 🗣 Commented on [#163](https://github.com/xtensor-stack/xtensor-blas/issues/163) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
+3. 🗣 Commented on [#168](https://github.com/xtensor-stack/xtensor-blas/issues/168) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
+4. 💪 Opened PR [#182](https://github.com/xtensor-stack/xtensor-blas/pull/182) in [xtensor-stack/xtensor-blas](https://github.com/xtensor-stack/xtensor-blas)
+5. ❗️ Opened issue [#2286](https://github.com/xtensor-stack/xtensor/issues/2286) in [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
 <!--END_SECTION:activity-->
 
 
