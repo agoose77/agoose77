@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/root-project/jsroot/issues/166) in [root-project/jsroot](https://github.com/root-project/jsroot)
-2. ❗️ Opened issue [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-3. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
+1. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
+2. 🗣 Commented on [#166](https://github.com/root-project/jsroot/issues/166) in [root-project/jsroot](https://github.com/root-project/jsroot)
+3. ❗️ Opened issue [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
 4. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
-5. ❗️ Opened issue [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
+5. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
 <!--END_SECTION:activity-->
 
 
