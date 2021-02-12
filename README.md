@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
-2. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-3. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
-4. 🗣 Commented on [#166](https://github.com/root-project/jsroot/issues/166) in [root-project/jsroot](https://github.com/root-project/jsroot)
-5. ❗️ Opened issue [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+1. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+2. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+3. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+4. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
+5. 🗣 Commented on [#166](https://github.com/root-project/jsroot/issues/166) in [root-project/jsroot](https://github.com/root-project/jsroot)
 <!--END_SECTION:activity-->
 
 
