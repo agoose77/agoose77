@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-2. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-3. 🗣 Commented on [#342](https://github.com/jupyter-widgets/pythreejs/issues/342) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+1. 💪 Opened PR [#350](https://github.com/jupyter-widgets/pythreejs/pull/350) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+2. ❌ Closed PR [#2](https://github.com/maartenbreddels/pythreejs/pull/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
+3. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
 4. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
-5. 🗣 Commented on [#5799](https://github.com/hpcng/singularity/issues/5799) in [hpcng/singularity](https://github.com/hpcng/singularity)
+5. 🗣 Commented on [#2](https://github.com/maartenbreddels/pythreejs/issues/2) in [maartenbreddels/pythreejs](https://github.com/maartenbreddels/pythreejs)
 <!--END_SECTION:activity-->
 
 
