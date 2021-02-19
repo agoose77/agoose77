@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#400](https://github.com/jupyter-xeus/xeus-python/issues/400) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
-3. 🗣 Commented on [#350](https://github.com/jupyter-widgets/pythreejs/issues/350) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
-4. 🗣 Commented on [#9785](https://github.com/jupyterlab/jupyterlab/issues/9785) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 💪 Opened PR [#350](https://github.com/jupyter-widgets/pythreejs/pull/350) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+1. 🗣 Commented on [#1981](https://github.com/moby/buildkit/issues/1981) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#400](https://github.com/jupyter-xeus/xeus-python/issues/400) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+4. 🗣 Commented on [#350](https://github.com/jupyter-widgets/pythreejs/issues/350) in [jupyter-widgets/pythreejs](https://github.com/jupyter-widgets/pythreejs)
+5. 🗣 Commented on [#9785](https://github.com/jupyterlab/jupyterlab/issues/9785) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
