@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7953](https://github.com/pypa/pip/issues/7953) in [pypa/pip](https://github.com/pypa/pip)
-2. 🗣 Commented on [#1981](https://github.com/moby/buildkit/issues/1981) in [moby/buildkit](https://github.com/moby/buildkit)
+1. 🗣 Commented on [#3702](https://github.com/python-poetry/poetry/issues/3702) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#7953](https://github.com/pypa/pip/issues/7953) in [pypa/pip](https://github.com/pypa/pip)
 3. 🗣 Commented on [#1981](https://github.com/moby/buildkit/issues/1981) in [moby/buildkit](https://github.com/moby/buildkit)
-4. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#400](https://github.com/jupyter-xeus/xeus-python/issues/400) in [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python)
+4. 🗣 Commented on [#1981](https://github.com/moby/buildkit/issues/1981) in [moby/buildkit](https://github.com/moby/buildkit)
+5. 🗣 Commented on [#9379](https://github.com/jupyterlab/jupyterlab/issues/9379) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
