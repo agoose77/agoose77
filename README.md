@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/maartenbreddels/ipyvolume/issues/369) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
+1. ❗️ Opened issue [#745](https://github.com/ukaea/paramak/issues/745) in [ukaea/paramak](https://github.com/ukaea/paramak)
 2. 🗣 Commented on [#369](https://github.com/maartenbreddels/ipyvolume/issues/369) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
-3. 🎉 Merged PR [#5](https://github.com/agoose77/literary/pull/5) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 💪 Opened PR [#5](https://github.com/agoose77/literary/pull/5) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#3702](https://github.com/python-poetry/poetry/issues/3702) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#369](https://github.com/maartenbreddels/ipyvolume/issues/369) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
+4. 🎉 Merged PR [#5](https://github.com/agoose77/literary/pull/5) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 💪 Opened PR [#5](https://github.com/agoose77/literary/pull/5) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
