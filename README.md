@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3061](https://github.com/containers/buildah/issues/3061) in [containers/buildah](https://github.com/containers/buildah)
-2. ❗️ Opened issue [#3061](https://github.com/containers/buildah/issues/3061) in [containers/buildah](https://github.com/containers/buildah)
-3. ❗️ Opened issue [#9629](https://github.com/containers/podman/issues/9629) in [containers/podman](https://github.com/containers/podman)
-4. 🗣 Commented on [#746](https://github.com/ukaea/paramak/issues/746) in [ukaea/paramak](https://github.com/ukaea/paramak)
+2. 🗣 Commented on [#3061](https://github.com/containers/buildah/issues/3061) in [containers/buildah](https://github.com/containers/buildah)
+3. ❗️ Opened issue [#3061](https://github.com/containers/buildah/issues/3061) in [containers/buildah](https://github.com/containers/buildah)
+4. ❗️ Opened issue [#9629](https://github.com/containers/podman/issues/9629) in [containers/podman](https://github.com/containers/podman)
 5. 🗣 Commented on [#746](https://github.com/ukaea/paramak/issues/746) in [ukaea/paramak](https://github.com/ukaea/paramak)
 <!--END_SECTION:activity-->
 
