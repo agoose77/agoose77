@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9899](https://github.com/jupyterlab/jupyterlab/issues/9899) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#9911](https://github.com/jupyterlab/jupyterlab/issues/9911) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#9906](https://github.com/jupyterlab/jupyterlab/issues/9906) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Opened issue [#9636](https://github.com/containers/podman/issues/9636) in [containers/podman](https://github.com/containers/podman)
-5. 🗣 Commented on [#3061](https://github.com/containers/buildah/issues/3061) in [containers/buildah](https://github.com/containers/buildah)
+1. 🗣 Commented on [#9714](https://github.com/jupyterlab/jupyterlab/issues/9714) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#9899](https://github.com/jupyterlab/jupyterlab/issues/9899) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#9911](https://github.com/jupyterlab/jupyterlab/issues/9911) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#9906](https://github.com/jupyterlab/jupyterlab/issues/9906) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#9636](https://github.com/containers/podman/issues/9636) in [containers/podman](https://github.com/containers/podman)
 <!--END_SECTION:activity-->
 
 
