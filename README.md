@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9933](https://github.com/jupyterlab/jupyterlab/issues/9933) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+1. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+2. 🗣 Commented on [#9933](https://github.com/jupyterlab/jupyterlab/issues/9933) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 3. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 4. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 5. 🗣 Commented on [#711](https://github.com/voila-dashboards/voila/issues/711) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
