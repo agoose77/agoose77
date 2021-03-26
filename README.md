@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
+1. 🗣 Commented on [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
-3. ❗️ Opened issue [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
-4. 🗣 Commented on [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
+4. ❗️ Opened issue [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
 5. 🗣 Commented on [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
