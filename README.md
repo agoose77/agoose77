@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-2. 🗣 Commented on [#728](https://github.com/python-poetry/poetry/issues/728) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
-5. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
+1. 🎉 Merged PR [#4](https://github.com/agoose77/jupyterlab-log-renderer/pull/4) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+2. 🎉 Merged PR [#5](https://github.com/agoose77/jupyterlab-log-renderer/pull/5) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+3. 🎉 Merged PR [#6](https://github.com/agoose77/jupyterlab-log-renderer/pull/6) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+4. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+5. 🗣 Commented on [#728](https://github.com/python-poetry/poetry/issues/728) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
 
 
