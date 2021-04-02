@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 3. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 4. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-5. 🎉 Merged PR [#4](https://github.com/agoose77/jupyterlab-log-renderer/pull/4) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+5. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 <!--END_SECTION:activity-->
 
 
