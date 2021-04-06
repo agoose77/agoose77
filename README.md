@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/voila-dashboards/voila-reveal/issues/7) in [voila-dashboards/voila-reveal](https://github.com/voila-dashboards/voila-reveal)
-2. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-3. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-4. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-5. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+1. 🗣 Commented on [#1542](https://github.com/jupyter/nbconvert/issues/1542) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+2. 🗣 Commented on [#1543](https://github.com/jupyter/nbconvert/issues/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+3. 💪 Opened PR [#1543](https://github.com/jupyter/nbconvert/pull/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+4. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+5. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
 <!--END_SECTION:activity-->
 
 
