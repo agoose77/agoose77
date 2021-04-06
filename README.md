@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+1. 🗣 Commented on [#7](https://github.com/voila-dashboards/voila-reveal/issues/7) in [voila-dashboards/voila-reveal](https://github.com/voila-dashboards/voila-reveal)
 2. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 3. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 4. 🗣 Commented on [#864](https://github.com/voila-dashboards/voila/issues/864) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
