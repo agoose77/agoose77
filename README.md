@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1542](https://github.com/jupyter/nbconvert/issues/1542) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-2. 🗣 Commented on [#1543](https://github.com/jupyter/nbconvert/issues/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-3. 💪 Opened PR [#1543](https://github.com/jupyter/nbconvert/pull/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-4. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+1. 🗣 Commented on [#372](https://github.com/maartenbreddels/ipyvolume/issues/372) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
+2. 🗣 Commented on [#1542](https://github.com/jupyter/nbconvert/issues/1542) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+3. 🗣 Commented on [#1543](https://github.com/jupyter/nbconvert/issues/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+4. 💪 Opened PR [#1543](https://github.com/jupyter/nbconvert/pull/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
 5. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
 <!--END_SECTION:activity-->
 
