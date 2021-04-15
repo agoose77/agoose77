@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1553](https://github.com/jupyter/nbconvert/pull/1553) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-2. 🗣 Commented on [#372](https://github.com/maartenbreddels/ipyvolume/issues/372) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
-3. 🗣 Commented on [#1542](https://github.com/jupyter/nbconvert/issues/1542) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-4. 🗣 Commented on [#1543](https://github.com/jupyter/nbconvert/issues/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-5. 💪 Opened PR [#1543](https://github.com/jupyter/nbconvert/pull/1543) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+1. 🗣 Commented on [#10077](https://github.com/jupyterlab/jupyterlab/issues/10077) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#10038](https://github.com/jupyterlab/jupyterlab/issues/10038) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#10071](https://github.com/jupyterlab/jupyterlab/issues/10071) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 💪 Opened PR [#1553](https://github.com/jupyter/nbconvert/pull/1553) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+5. 🗣 Commented on [#372](https://github.com/maartenbreddels/ipyvolume/issues/372) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
 <!--END_SECTION:activity-->
 
 
