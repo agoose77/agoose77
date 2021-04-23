@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/jupyter/jupyter-packaging/issues/65) in [jupyter/jupyter-packaging](https://github.com/jupyter/jupyter-packaging)
-2. ❗️ Opened issue [#205](https://github.com/scikit-hep/hist/issues/205) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
-3. 🗣 Commented on [#1552](https://github.com/jupyter/nbconvert/issues/1552) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-4. 🗣 Commented on [#1552](https://github.com/jupyter/nbconvert/issues/1552) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-5. 💪 Opened PR [#1556](https://github.com/jupyter/nbconvert/pull/1556) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+1. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+2. 🗣 Commented on [#557](https://github.com/scikit-hep/boost-histogram/issues/557) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+3. ❗️ Closed issue [#557](https://github.com/scikit-hep/boost-histogram/issues/557) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+4. ❗️ Reopened issue [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+5. ❗️ Closed issue [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
 <!--END_SECTION:activity-->
 
 
