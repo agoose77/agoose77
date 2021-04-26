@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
-2. ❗️ Closed issue [#10149](https://github.com/jupyterlab/jupyterlab/issues/10149) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#10149](https://github.com/jupyterlab/jupyterlab/issues/10149) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#10154](https://github.com/jupyterlab/jupyterlab/issues/10154) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+1. ❗️ Opened issue [#849](https://github.com/scikit-hep/awkward-1.0/issues/849) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+3. ❗️ Closed issue [#10149](https://github.com/jupyterlab/jupyterlab/issues/10149) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#10149](https://github.com/jupyterlab/jupyterlab/issues/10149) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#10154](https://github.com/jupyterlab/jupyterlab/issues/10154) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
