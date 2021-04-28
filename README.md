@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#99](https://github.com/scikit-hep/vector/issues/99) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Opened issue [#7](https://github.com/agoose77/literary/issues/7) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
-4. ❗️ Closed issue [#10166](https://github.com/jupyterlab/jupyterlab/issues/10166) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#10166](https://github.com/jupyterlab/jupyterlab/issues/10166) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#847](https://github.com/scikit-hep/awkward-1.0/issues/847) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#99](https://github.com/scikit-hep/vector/issues/99) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Opened issue [#7](https://github.com/agoose77/literary/issues/7) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🗣 Commented on [#556](https://github.com/scikit-hep/boost-histogram/issues/556) in [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram)
+5. ❗️ Closed issue [#10166](https://github.com/jupyterlab/jupyterlab/issues/10166) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
