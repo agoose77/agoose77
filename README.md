@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
-2. 🗣 Commented on [#99](https://github.com/scikit-hep/vector/issues/99) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#10158](https://github.com/jupyterlab/jupyterlab/issues/10158) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Closed issue [#10158](https://github.com/jupyterlab/jupyterlab/issues/10158) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#847](https://github.com/scikit-hep/awkward-1.0/issues/847) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Closed issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+2. 🗣 Commented on [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+3. ❗️ Opened issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+4. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
+5. 🗣 Commented on [#99](https://github.com/scikit-hep/vector/issues/99) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
