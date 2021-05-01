@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
-2. 🗣 Commented on [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
-3. ❗️ Opened issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
-4. 🗣 Commented on [#7684](https://github.com/root-project/root/issues/7684) in [root-project/root](https://github.com/root-project/root)
-5. 🗣 Commented on [#99](https://github.com/scikit-hep/vector/issues/99) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🎉 Merged PR [#2](https://github.com/agoose77/svgbob-wasm/pull/2) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+2. 🎉 Merged PR [#5](https://github.com/agoose77/markdown-it-diagrams/pull/5) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+3. ❗️ Closed issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+4. 🗣 Commented on [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+5. ❗️ Opened issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
 <!--END_SECTION:activity-->
 
 
