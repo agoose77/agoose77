@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/agoose77/svgbob-wasm/pull/3) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
-2. 🎉 Merged PR [#2](https://github.com/agoose77/svgbob-wasm/pull/2) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
-3. 🎉 Merged PR [#5](https://github.com/agoose77/markdown-it-diagrams/pull/5) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
-4. ❗️ Closed issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
-5. 🗣 Commented on [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
+1. ❗️ Reopened issue [#9](https://github.com/agoose77/jupyterlab-markup/issues/9) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🎉 Merged PR [#3](https://github.com/agoose77/svgbob-wasm/pull/3) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+3. 🎉 Merged PR [#2](https://github.com/agoose77/svgbob-wasm/pull/2) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+4. 🎉 Merged PR [#5](https://github.com/agoose77/markdown-it-diagrams/pull/5) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+5. ❗️ Closed issue [#12931](https://github.com/ipython/ipython/issues/12931) in [ipython/ipython](https://github.com/ipython/ipython)
 <!--END_SECTION:activity-->
 
 
