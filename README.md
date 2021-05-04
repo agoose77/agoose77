@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/agoose77/jupyterlab-markup/issues/9) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. ❗️ Reopened issue [#9](https://github.com/agoose77/jupyterlab-markup/issues/9) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🎉 Merged PR [#3](https://github.com/agoose77/svgbob-wasm/pull/3) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
-4. 🎉 Merged PR [#2](https://github.com/agoose77/svgbob-wasm/pull/2) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
-5. 🎉 Merged PR [#5](https://github.com/agoose77/markdown-it-diagrams/pull/5) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+1. 🎉 Merged PR [#17](https://github.com/agoose77/jupyterlab-markup/pull/17) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 💪 Opened PR [#18](https://github.com/agoose77/jupyterlab-markup/pull/18) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. 🗣 Commented on [#9](https://github.com/agoose77/jupyterlab-markup/issues/9) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. ❗️ Reopened issue [#9](https://github.com/agoose77/jupyterlab-markup/issues/9) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🎉 Merged PR [#3](https://github.com/agoose77/svgbob-wasm/pull/3) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
 <!--END_SECTION:activity-->
 
 
