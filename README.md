@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/agoose77/jupyterlab-markup/issues/21) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. 🗣 Commented on [#21](https://github.com/agoose77/jupyterlab-markup/issues/21) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🗣 Commented on [#14797](https://github.com/conda-forge/staged-recipes/issues/14797) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-4. ❗️ Opened issue [#21](https://github.com/agoose77/jupyterlab-markup/issues/21) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. ❗️ Opened issue [#20](https://github.com/agoose77/jupyterlab-markup/issues/20) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Opened issue [#3](https://github.com/agoose77/parallels/issues/3) in [agoose77/parallels](https://github.com/agoose77/parallels)
+2. ❗️ Opened issue [#2](https://github.com/agoose77/parallels/issues/2) in [agoose77/parallels](https://github.com/agoose77/parallels)
+3. ❗️ Opened issue [#1](https://github.com/agoose77/parallels/issues/1) in [agoose77/parallels](https://github.com/agoose77/parallels)
+4. ❗️ Closed issue [#21](https://github.com/agoose77/jupyterlab-markup/issues/21) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🗣 Commented on [#21](https://github.com/agoose77/jupyterlab-markup/issues/21) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
