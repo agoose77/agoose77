@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/agoose77/parallels/pull/4) in [agoose77/parallels](https://github.com/agoose77/parallels)
-2. 💪 Opened PR [#4](https://github.com/agoose77/parallels/pull/4) in [agoose77/parallels](https://github.com/agoose77/parallels)
-3. ❗️ Opened issue [#3](https://github.com/agoose77/parallels/issues/3) in [agoose77/parallels](https://github.com/agoose77/parallels)
-4. ❗️ Opened issue [#2](https://github.com/agoose77/parallels/issues/2) in [agoose77/parallels](https://github.com/agoose77/parallels)
-5. ❗️ Opened issue [#1](https://github.com/agoose77/parallels/issues/1) in [agoose77/parallels](https://github.com/agoose77/parallels)
+1. ❗️ Closed issue [#2](https://github.com/agoose77/parallels/issues/2) in [agoose77/parallels](https://github.com/agoose77/parallels)
+2. ❗️ Closed issue [#1](https://github.com/agoose77/parallels/issues/1) in [agoose77/parallels](https://github.com/agoose77/parallels)
+3. ❗️ Closed issue [#3](https://github.com/agoose77/parallels/issues/3) in [agoose77/parallels](https://github.com/agoose77/parallels)
+4. 🎉 Merged PR [#4](https://github.com/agoose77/parallels/pull/4) in [agoose77/parallels](https://github.com/agoose77/parallels)
+5. 💪 Opened PR [#4](https://github.com/agoose77/parallels/pull/4) in [agoose77/parallels](https://github.com/agoose77/parallels)
 <!--END_SECTION:activity-->
 
 
