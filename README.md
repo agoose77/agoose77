@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/agoose77/literary/issues/12) in [agoose77/literary](https://github.com/agoose77/literary)
-2. ❗️ Opened issue [#11](https://github.com/agoose77/literary/issues/11) in [agoose77/literary](https://github.com/agoose77/literary)
-3. ❗️ Opened issue [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Opened issue [#9](https://github.com/agoose77/literary/issues/9) in [agoose77/literary](https://github.com/agoose77/literary)
-5. ❗️ Opened issue [#8](https://github.com/agoose77/literary/issues/8) in [agoose77/literary](https://github.com/agoose77/literary)
+1. ❗️ Closed issue [#11](https://github.com/agoose77/literary/issues/11) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Opened issue [#12](https://github.com/agoose77/literary/issues/12) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❗️ Opened issue [#11](https://github.com/agoose77/literary/issues/11) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Opened issue [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Opened issue [#9](https://github.com/agoose77/literary/issues/9) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
