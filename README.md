@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/agoose77/literary-build/pull/2) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
-2. ❗️ Closed issue [#1](https://github.com/agoose77/literary-build/issues/1) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
-3. 💪 Opened PR [#2](https://github.com/agoose77/literary-build/pull/2) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
-4. ❗️ Opened issue [#1](https://github.com/agoose77/literary-build/issues/1) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
-5. ❗️ Closed issue [#2](https://github.com/agoose77/parallels/issues/2) in [agoose77/parallels](https://github.com/agoose77/parallels)
+1. ❗️ Opened issue [#8](https://github.com/agoose77/literary/issues/8) in [agoose77/literary](https://github.com/agoose77/literary)
+2. 🎉 Merged PR [#2](https://github.com/agoose77/literary-build/pull/2) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
+3. ❗️ Closed issue [#1](https://github.com/agoose77/literary-build/issues/1) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
+4. 💪 Opened PR [#2](https://github.com/agoose77/literary-build/pull/2) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
+5. ❗️ Opened issue [#1](https://github.com/agoose77/literary-build/issues/1) in [agoose77/literary-build](https://github.com/agoose77/literary-build)
 <!--END_SECTION:activity-->
 
 
