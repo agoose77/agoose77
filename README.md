@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+1. 🗣 Commented on [#10198](https://github.com/jupyterlab/jupyterlab/issues/10198) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
-3. ❗️ Opened issue [#592](https://github.com/krassowski/jupyterlab-lsp/issues/592) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
-4. ❗️ Closed issue [#12](https://github.com/agoose77/literary/issues/12) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#12](https://github.com/agoose77/literary/issues/12) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+4. ❗️ Opened issue [#592](https://github.com/krassowski/jupyterlab-lsp/issues/592) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+5. ❗️ Closed issue [#12](https://github.com/agoose77/literary/issues/12) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
