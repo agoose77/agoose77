@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/agoose77/dotfiles/issues/2) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-2. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-3. ❗️ Opened issue [#509](https://github.com/zdharma/zinit/issues/509) in [zdharma/zinit](https://github.com/zdharma/zinit)
-4. 🗣 Commented on [#9461](https://github.com/ohmyzsh/ohmyzsh/issues/9461) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-5. 🗣 Commented on [#6292](https://github.com/ohmyzsh/ohmyzsh/issues/6292) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+1. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+2. ❗️ Opened issue [#2](https://github.com/agoose77/dotfiles/issues/2) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+3. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+4. ❗️ Opened issue [#509](https://github.com/zdharma/zinit/issues/509) in [zdharma/zinit](https://github.com/zdharma/zinit)
+5. 🗣 Commented on [#9461](https://github.com/ohmyzsh/ohmyzsh/issues/9461) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 <!--END_SECTION:activity-->
 
 
