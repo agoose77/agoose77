@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
-2. 🗣 Commented on [#10198](https://github.com/jupyterlab/jupyterlab/issues/10198) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
-4. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
-5. ❗️ Opened issue [#592](https://github.com/krassowski/jupyterlab-lsp/issues/592) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+1. 🎉 Merged PR [#4](https://github.com/agoose77/svgbob-wasm/pull/4) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+2. 🎉 Merged PR [#7](https://github.com/agoose77/markdown-it-diagrams/pull/7) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+3. 🎉 Merged PR [#6](https://github.com/agoose77/markdown-it-diagrams/pull/6) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+4. 🎉 Merged PR [#4](https://github.com/agoose77/markdown-it-diagrams/pull/4) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+5. 🗣 Commented on [#467](https://github.com/krassowski/jupyterlab-lsp/issues/467) in [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
 <!--END_SECTION:activity-->
 
 
