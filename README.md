@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7646](https://github.com/dask/dask/issues/7646) in [dask/dask](https://github.com/dask/dask)
-2. 🗣 Commented on [#1920](https://github.com/pyenv/pyenv/issues/1920) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-3. 🗣 Commented on [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-4. ❗️ Opened issue [#5](https://github.com/agoose77/dotfiles/issues/5) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-5. ❗️ Opened issue [#4](https://github.com/agoose77/dotfiles/issues/4) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+1. 💪 Opened PR [#1](https://github.com/nsmith-/dask-hep-tutorial/pull/1) in [nsmith-/dask-hep-tutorial](https://github.com/nsmith-/dask-hep-tutorial)
+2. ❗️ Opened issue [#7646](https://github.com/dask/dask/issues/7646) in [dask/dask](https://github.com/dask/dask)
+3. 🗣 Commented on [#1920](https://github.com/pyenv/pyenv/issues/1920) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+4. 🗣 Commented on [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+5. ❗️ Opened issue [#5](https://github.com/agoose77/dotfiles/issues/5) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
 <!--END_SECTION:activity-->
 
 
