@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-2. ❗️ Opened issue [#5](https://github.com/agoose77/dotfiles/issues/5) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-3. ❗️ Opened issue [#4](https://github.com/agoose77/dotfiles/issues/4) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-4. ❗️ Opened issue [#3](https://github.com/agoose77/dotfiles/issues/3) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-5. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+1. 🗣 Commented on [#1920](https://github.com/pyenv/pyenv/issues/1920) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+2. 🗣 Commented on [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+3. ❗️ Opened issue [#5](https://github.com/agoose77/dotfiles/issues/5) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+4. ❗️ Opened issue [#4](https://github.com/agoose77/dotfiles/issues/4) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+5. ❗️ Opened issue [#3](https://github.com/agoose77/dotfiles/issues/3) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
 <!--END_SECTION:activity-->
 
 
