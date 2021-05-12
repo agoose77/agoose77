@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/agoose77/svgbob-wasm/pull/5) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
-2. 🎉 Merged PR [#9](https://github.com/agoose77/jupyterlab-log-renderer/pull/9) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
-3. 🎉 Merged PR [#8](https://github.com/agoose77/markdown-it-diagrams/pull/8) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
-4. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-log-renderer/pull/8) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
-5. 🗣 Commented on [#24](https://github.com/agoose77/jupyterlab-markup/issues/24) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Opened issue [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
+2. 🎉 Merged PR [#5](https://github.com/agoose77/svgbob-wasm/pull/5) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+3. 🎉 Merged PR [#9](https://github.com/agoose77/jupyterlab-log-renderer/pull/9) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+4. 🎉 Merged PR [#8](https://github.com/agoose77/markdown-it-diagrams/pull/8) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+5. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-log-renderer/pull/8) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
 <!--END_SECTION:activity-->
 
 
