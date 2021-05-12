@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nsmith-/dask-hep-tutorial/pull/1) in [nsmith-/dask-hep-tutorial](https://github.com/nsmith-/dask-hep-tutorial)
-2. ❗️ Opened issue [#7646](https://github.com/dask/dask/issues/7646) in [dask/dask](https://github.com/dask/dask)
-3. 🗣 Commented on [#1920](https://github.com/pyenv/pyenv/issues/1920) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. 🗣 Commented on [#1](https://github.com/agoose77/dotfiles/issues/1) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-5. ❗️ Opened issue [#5](https://github.com/agoose77/dotfiles/issues/5) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+1. 🎉 Merged PR [#5](https://github.com/agoose77/svgbob-wasm/pull/5) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+2. 🎉 Merged PR [#9](https://github.com/agoose77/jupyterlab-log-renderer/pull/9) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+3. 🎉 Merged PR [#8](https://github.com/agoose77/markdown-it-diagrams/pull/8) in [agoose77/markdown-it-diagrams](https://github.com/agoose77/markdown-it-diagrams)
+4. 🎉 Merged PR [#8](https://github.com/agoose77/jupyterlab-log-renderer/pull/8) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+5. 🗣 Commented on [#24](https://github.com/agoose77/jupyterlab-markup/issues/24) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
