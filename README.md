@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. 💪 Opened PR [#864](https://github.com/scikit-hep/awkward-1.0/pull/864) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. ❗️ Opened issue [#863](https://github.com/scikit-hep/awkward-1.0/issues/863) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. ❗️ Opened issue [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
-5. 🎉 Merged PR [#5](https://github.com/agoose77/svgbob-wasm/pull/5) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+2. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+3. 💪 Opened PR [#864](https://github.com/scikit-hep/awkward-1.0/pull/864) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#863](https://github.com/scikit-hep/awkward-1.0/issues/863) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
 <!--END_SECTION:activity-->
 
 
