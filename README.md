@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/agoose77/literary/pull/14) in [agoose77/literary](https://github.com/agoose77/literary)
-2. ❌ Closed PR [#15](https://github.com/agoose77/literary/pull/15) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🎉 Merged PR [#13](https://github.com/agoose77/literary/pull/13) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Opened issue [#20](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/20) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
-5. 🗣 Commented on [#385](https://github.com/pyenv/pyenv-virtualenv/issues/385) in [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+1. ❗️ Opened issue [#16](https://github.com/agoose77/literary/issues/16) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❌ Closed PR [#14](https://github.com/agoose77/literary/pull/14) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❌ Closed PR [#15](https://github.com/agoose77/literary/pull/15) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🎉 Merged PR [#13](https://github.com/agoose77/literary/pull/13) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Opened issue [#20](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/20) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
 <!--END_SECTION:activity-->
 
 
