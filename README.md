@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
-2. ❗️ Opened issue [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
-3. ❗️ Opened issue [#22](https://github.com/agoose77/literary/issues/22) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Closed issue [#21](https://github.com/agoose77/literary/issues/21) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🎉 Merged PR [#18](https://github.com/agoose77/literary/pull/18) in [agoose77/literary](https://github.com/agoose77/literary)
+2. 🗣 Commented on [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
+3. 🗣 Commented on [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
+4. ❗️ Opened issue [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
+5. ❗️ Opened issue [#22](https://github.com/agoose77/literary/issues/22) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
