@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
+2. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 3. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
 4. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
-5. 🗣 Commented on [#4820](https://github.com/dask/distributed/issues/4820) in [dask/distributed](https://github.com/dask/distributed)
+5. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
 <!--END_SECTION:activity-->
 
 
