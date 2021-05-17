@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#867](https://github.com/scikit-hep/awkward-1.0/issues/867) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-3. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+1. ❗️ Opened issue [#24](https://github.com/agoose77/literary/issues/24) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Closed issue [#22](https://github.com/agoose77/literary/issues/22) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🗣 Commented on [#867](https://github.com/scikit-hep/awkward-1.0/issues/867) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-5. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
+5. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 <!--END_SECTION:activity-->
 
 
