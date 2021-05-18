@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/agoose77/literary/issues/31) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🗣 Commented on [#31](https://github.com/agoose77/literary/issues/31) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#30](https://github.com/agoose77/literary/issues/30) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Closed issue [#30](https://github.com/agoose77/literary/issues/30) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#26](https://github.com/agoose77/literary/issues/26) in [agoose77/literary](https://github.com/agoose77/literary)
+1. ❗️ Opened issue [#36](https://github.com/agoose77/literary/issues/36) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Opened issue [#35](https://github.com/agoose77/literary/issues/35) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❗️ Opened issue [#34](https://github.com/agoose77/literary/issues/34) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Closed issue [#31](https://github.com/agoose77/literary/issues/31) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 🗣 Commented on [#31](https://github.com/agoose77/literary/issues/31) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
