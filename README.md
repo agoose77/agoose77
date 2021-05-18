@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/agoose77/literary/issues/26) in [agoose77/literary](https://github.com/agoose77/literary)
-2. ❗️ Opened issue [#25](https://github.com/agoose77/literary/issues/25) in [agoose77/literary](https://github.com/agoose77/literary)
-3. ❗️ Opened issue [#24](https://github.com/agoose77/literary/issues/24) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Closed issue [#22](https://github.com/agoose77/literary/issues/22) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#867](https://github.com/scikit-hep/awkward-1.0/issues/867) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Opened issue [#29](https://github.com/agoose77/literary/issues/29) in [agoose77/literary](https://github.com/agoose77/literary)
+2. 🎉 Merged PR [#28](https://github.com/agoose77/literary/pull/28) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❗️ Closed issue [#27](https://github.com/agoose77/literary/issues/27) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 💪 Opened PR [#28](https://github.com/agoose77/literary/pull/28) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Opened issue [#27](https://github.com/agoose77/literary/issues/27) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
