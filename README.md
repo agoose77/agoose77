@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/pyenv/pyenv-virtualenv/issues/233) in [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
-2. 🗣 Commented on [#10277](https://github.com/jupyterlab/jupyterlab/issues/10277) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#10270](https://github.com/jupyterlab/jupyterlab/issues/10270) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#10277](https://github.com/jupyterlab/jupyterlab/issues/10277) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. ❗️ Opened issue [#25](https://github.com/agoose77/jupyterlab-markup/issues/25) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
+2. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+4. 💪 Opened PR [#7688](https://github.com/dask/dask/pull/7688) in [dask/dask](https://github.com/dask/dask)
+5. 🗣 Commented on [#233](https://github.com/pyenv/pyenv-virtualenv/issues/233) in [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
 <!--END_SECTION:activity-->
 
 
