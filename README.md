@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
-2. ❗️ Opened issue [#36](https://github.com/agoose77/literary/issues/36) in [agoose77/literary](https://github.com/agoose77/literary)
-3. ❗️ Opened issue [#35](https://github.com/agoose77/literary/issues/35) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Opened issue [#34](https://github.com/agoose77/literary/issues/34) in [agoose77/literary](https://github.com/agoose77/literary)
-5. ❗️ Closed issue [#31](https://github.com/agoose77/literary/issues/31) in [agoose77/literary](https://github.com/agoose77/literary)
+1. 🗣 Commented on [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
+2. ❗️ Opened issue [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
+3. ❗️ Opened issue [#36](https://github.com/agoose77/literary/issues/36) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Opened issue [#35](https://github.com/agoose77/literary/issues/35) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Opened issue [#34](https://github.com/agoose77/literary/issues/34) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
