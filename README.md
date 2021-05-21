@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. ❗️ Opened issue [#37](https://github.com/agoose77/literary/issues/37) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
-5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+1. ❗️ Opened issue [#6](https://github.com/agoose77/dotfiles/issues/6) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+2. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. ❗️ Opened issue [#37](https://github.com/agoose77/literary/issues/37) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#24](https://github.com/executablebooks/markdown-it-myst/issues/24) in [executablebooks/markdown-it-myst](https://github.com/executablebooks/markdown-it-myst)
 <!--END_SECTION:activity-->
 
 
