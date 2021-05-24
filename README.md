@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/zdharma/zinit/issues/467) in [zdharma/zinit](https://github.com/zdharma/zinit)
-2. 🗣 Commented on [#467](https://github.com/zdharma/zinit/issues/467) in [zdharma/zinit](https://github.com/zdharma/zinit)
-3. 🗣 Commented on [#7647](https://github.com/dask/dask/issues/7647) in [dask/dask](https://github.com/dask/dask)
-4. ❗️ Opened issue [#6](https://github.com/agoose77/dotfiles/issues/6) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-5. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. ❗️ Closed issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+2. 🗣 Commented on [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+3. ❗️ Opened issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+4. 🗣 Commented on [#467](https://github.com/zdharma/zinit/issues/467) in [zdharma/zinit](https://github.com/zdharma/zinit)
+5. 🗣 Commented on [#467](https://github.com/zdharma/zinit/issues/467) in [zdharma/zinit](https://github.com/zdharma/zinit)
 <!--END_SECTION:activity-->
 
 
