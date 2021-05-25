@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. ❗️ Opened issue [#38](https://github.com/agoose77/literary/issues/38) in [agoose77/literary](https://github.com/agoose77/literary)
-3. ❗️ Opened issue [#962](https://github.com/mamba-org/mamba/issues/962) in [mamba-org/mamba](https://github.com/mamba-org/mamba)
-4. ❗️ Closed issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
-5. 🗣 Commented on [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+2. 🗣 Commented on [#1](https://github.com/executablebooks/jupyterlab-myst/issues/1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. ❗️ Opened issue [#38](https://github.com/agoose77/literary/issues/38) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Opened issue [#962](https://github.com/mamba-org/mamba/issues/962) in [mamba-org/mamba](https://github.com/mamba-org/mamba)
+5. ❗️ Closed issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
 <!--END_SECTION:activity-->
 
 
