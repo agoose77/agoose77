@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#962](https://github.com/mamba-org/mamba/issues/962) in [mamba-org/mamba](https://github.com/mamba-org/mamba)
-2. ❗️ Closed issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
-3. 🗣 Commented on [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
-4. ❗️ Opened issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
-5. 🗣 Commented on [#467](https://github.com/zdharma/zinit/issues/467) in [zdharma/zinit](https://github.com/zdharma/zinit)
+1. ❗️ Opened issue [#38](https://github.com/agoose77/literary/issues/38) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Opened issue [#962](https://github.com/mamba-org/mamba/issues/962) in [mamba-org/mamba](https://github.com/mamba-org/mamba)
+3. ❗️ Closed issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+4. 🗣 Commented on [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
+5. ❗️ Opened issue [#147](https://github.com/regolith-linux/website/issues/147) in [regolith-linux/website](https://github.com/regolith-linux/website)
 <!--END_SECTION:activity-->
 
 
