@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#10290](https://github.com/jupyterlab/jupyterlab/issues/10290) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Opened issue [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#3](https://github.com/executablebooks/jupyterlab-myst/issues/3) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
