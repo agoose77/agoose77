@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-markup/issues/27) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 3. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-5. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-markup/issues/27) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 <!--END_SECTION:activity-->
 
 
