@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 💪 Opened PR [#1](https://github.com/martinRenou/jupyterlab-unfold/pull/1) in [martinRenou/jupyterlab-unfold](https://github.com/martinRenou/jupyterlab-unfold)
 2. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. 🗣 Commented on [#10290](https://github.com/jupyterlab/jupyterlab/issues/10290) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+3. 🗣 Commented on [#10295](https://github.com/jupyterlab/jupyterlab/issues/10295) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#1914](https://github.com/pyenv/pyenv/issues/1914) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+5. 🗣 Commented on [#10290](https://github.com/jupyterlab/jupyterlab/issues/10290) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
