@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#10290](https://github.com/jupyterlab/jupyterlab/issues/10290) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#9902](https://github.com/ohmyzsh/ohmyzsh/issues/9902) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 3. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-markup/issues/27) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#10290](https://github.com/jupyterlab/jupyterlab/issues/10290) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#10287](https://github.com/jupyterlab/jupyterlab/issues/10287) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-markup/issues/27) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
