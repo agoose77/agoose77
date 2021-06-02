@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#889](https://github.com/scikit-hep/awkward-1.0/issues/889) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#324](https://github.com/maartenbreddels/ipyvolume/issues/324) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
-3. ❗️ Opened issue [#8](https://github.com/agoose77/throttlestop/issues/8) in [agoose77/throttlestop](https://github.com/agoose77/throttlestop)
-4. 🗣 Commented on [#10318](https://github.com/jupyterlab/jupyterlab/issues/10318) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#889](https://github.com/scikit-hep/awkward-1.0/issues/889) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#890](https://github.com/scikit-hep/awkward-1.0/pull/890) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#889](https://github.com/scikit-hep/awkward-1.0/issues/889) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#889](https://github.com/scikit-hep/awkward-1.0/issues/889) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 5. 🗣 Commented on [#324](https://github.com/maartenbreddels/ipyvolume/issues/324) in [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)
 <!--END_SECTION:activity-->
 
