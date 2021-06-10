@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#907](https://github.com/scikit-hep/awkward-1.0/issues/907) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 💪 Opened PR [#907](https://github.com/scikit-hep/awkward-1.0/pull/907) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 🗣 Commented on [#905](https://github.com/scikit-hep/awkward-1.0/issues/905) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#795](https://github.com/bqplot/bqplot/issues/795) in [bqplot/bqplot](https://github.com/bqplot/bqplot)
+2. 🗣 Commented on [#907](https://github.com/scikit-hep/awkward-1.0/issues/907) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 💪 Opened PR [#907](https://github.com/scikit-hep/awkward-1.0/pull/907) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#905](https://github.com/scikit-hep/awkward-1.0/issues/905) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 5. 🗣 Commented on [#905](https://github.com/scikit-hep/awkward-1.0/issues/905) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
