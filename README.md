@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-2. 🗣 Commented on [#929](https://github.com/scikit-hep/awkward-1.0/issues/929) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
 3. 🗣 Commented on [#929](https://github.com/scikit-hep/awkward-1.0/issues/929) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#929](https://github.com/scikit-hep/awkward-1.0/issues/929) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 5. 🗣 Commented on [#929](https://github.com/scikit-hep/awkward-1.0/issues/929) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
