@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9935](https://github.com/ohmyzsh/ohmyzsh/issues/9935) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. ❗️ Opened issue [#939](https://github.com/scikit-hep/awkward-1.0/issues/939) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. ❗️ Opened issue [#938](https://github.com/scikit-hep/awkward-1.0/issues/938) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 💪 Opened PR [#937](https://github.com/scikit-hep/awkward-1.0/pull/937) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+1. 💪 Opened PR [#942](https://github.com/scikit-hep/awkward-1.0/pull/942) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#941](https://github.com/scikit-hep/awkward-1.0/issues/941) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. ❗️ Opened issue [#940](https://github.com/scikit-hep/awkward-1.0/issues/940) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 🗣 Commented on [#9935](https://github.com/ohmyzsh/ohmyzsh/issues/9935) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+5. ❗️ Opened issue [#939](https://github.com/scikit-hep/awkward-1.0/issues/939) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
