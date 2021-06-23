@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#886](https://github.com/scikit-hep/awkward-1.0/issues/886) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#10580](https://github.com/apache/arrow/issues/10580) in [apache/arrow](https://github.com/apache/arrow)
 2. 🗣 Commented on [#886](https://github.com/scikit-hep/awkward-1.0/issues/886) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 3. 🗣 Commented on [#886](https://github.com/scikit-hep/awkward-1.0/issues/886) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. ❗️ Opened issue [#10580](https://github.com/apache/arrow/issues/10580) in [apache/arrow](https://github.com/apache/arrow)
-5. 🗣 Commented on [#886](https://github.com/scikit-hep/awkward-1.0/issues/886) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 🗣 Commented on [#886](https://github.com/scikit-hep/awkward-1.0/issues/886) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#10580](https://github.com/apache/arrow/issues/10580) in [apache/arrow](https://github.com/apache/arrow)
 <!--END_SECTION:activity-->
 
 
