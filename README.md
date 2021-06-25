@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+1. ❗️ Opened issue [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
+2. 🗣 Commented on [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
 3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
 4. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-5. 🗣 Commented on [#952](https://github.com/scikit-hep/awkward-1.0/issues/952) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
 <!--END_SECTION:activity-->
 
 
