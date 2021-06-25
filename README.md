@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
-2. 🗣 Commented on [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-4. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+1. 🗣 Commented on [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. ❗️ Opened issue [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
+4. 🗣 Commented on [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
 5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
 <!--END_SECTION:activity-->
 
