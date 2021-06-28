@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#965](https://github.com/scikit-hep/awkward-1.0/pull/965) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. ❌ Closed PR [#965](https://github.com/scikit-hep/awkward-1.0/pull/965) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#965](https://github.com/scikit-hep/awkward-1.0/pull/965) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 3. 🗣 Commented on [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. ❗️ Opened issue [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
-5. 🗣 Commented on [#10](https://github.com/agoose77/literary/issues/10) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🗣 Commented on [#4](https://github.com/executablebooks/jupyterlab-myst/issues/4) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. ❗️ Opened issue [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
 <!--END_SECTION:activity-->
 
 
