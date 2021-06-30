@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/scikit-hep/uproot4/issues/383) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
-2. 🗣 Commented on [#10508](https://github.com/jupyterlab/jupyterlab/issues/10508) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
-4. 🗣 Commented on [#383](https://github.com/scikit-hep/uproot4/issues/383) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
-5. ❗️ Opened issue [#10509](https://github.com/jupyterlab/jupyterlab/issues/10509) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#967](https://github.com/scikit-hep/awkward-1.0/issues/967) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#967](https://github.com/scikit-hep/awkward-1.0/issues/967) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#383](https://github.com/scikit-hep/uproot4/issues/383) in [scikit-hep/uproot4](https://github.com/scikit-hep/uproot4)
+4. 🗣 Commented on [#10508](https://github.com/jupyterlab/jupyterlab/issues/10508) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#13](https://github.com/Carreau/papyri/issues/13) in [Carreau/papyri](https://github.com/Carreau/papyri)
 <!--END_SECTION:activity-->
 
 
