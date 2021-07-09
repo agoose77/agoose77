@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#983](https://github.com/scikit-hep/awkward-1.0/issues/983) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. ❗️ Opened issue [#2](https://github.com/agoose77/test-issue-syntax/issues/2) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
-3. ❗️ Closed issue [#1](https://github.com/agoose77/test-issue-syntax/issues/1) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
-4. ❗️ Opened issue [#986](https://github.com/scikit-hep/awkward-1.0/issues/986) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#1](https://github.com/agoose77/test-issue-syntax/issues/1) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
+1. 🗣 Commented on [#987](https://github.com/scikit-hep/awkward-1.0/issues/987) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#987](https://github.com/scikit-hep/awkward-1.0/pull/987) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#983](https://github.com/scikit-hep/awkward-1.0/issues/983) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#2](https://github.com/agoose77/test-issue-syntax/issues/2) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
+5. ❗️ Closed issue [#1](https://github.com/agoose77/test-issue-syntax/issues/1) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
 <!--END_SECTION:activity-->
 
 
