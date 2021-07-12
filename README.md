@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#917](https://github.com/scikit-hep/awkward-1.0/issues/917) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#987](https://github.com/scikit-hep/awkward-1.0/issues/987) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#917](https://github.com/scikit-hep/awkward-1.0/issues/917) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 3. 🗣 Commented on [#987](https://github.com/scikit-hep/awkward-1.0/issues/987) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🗣 Commented on [#10554](https://github.com/jupyterlab/jupyterlab/issues/10554) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#986](https://github.com/scikit-hep/awkward-1.0/issues/986) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 🗣 Commented on [#987](https://github.com/scikit-hep/awkward-1.0/issues/987) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🗣 Commented on [#10554](https://github.com/jupyterlab/jupyterlab/issues/10554) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
