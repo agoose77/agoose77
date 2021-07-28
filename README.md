@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/QuantStack/ipysheet/pull/203) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
-2. ❗️ Opened issue [#4](https://github.com/agoose77/test-issue-syntax/issues/4) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
-3. ❗️ Opened issue [#3](https://github.com/agoose77/test-issue-syntax/issues/3) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
-4. 💪 Opened PR [#1030](https://github.com/scikit-hep/awkward-1.0/pull/1030) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#1029](https://github.com/scikit-hep/awkward-1.0/issues/1029) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Opened issue [#1034](https://github.com/scikit-hep/awkward-1.0/issues/1034) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#203](https://github.com/QuantStack/ipysheet/pull/203) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
+3. ❗️ Opened issue [#4](https://github.com/agoose77/test-issue-syntax/issues/4) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
+4. ❗️ Opened issue [#3](https://github.com/agoose77/test-issue-syntax/issues/3) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
+5. 💪 Opened PR [#1030](https://github.com/scikit-hep/awkward-1.0/pull/1030) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
