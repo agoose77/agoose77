@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1034](https://github.com/scikit-hep/awkward-1.0/issues/1034) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. ❗️ Opened issue [#1034](https://github.com/scikit-hep/awkward-1.0/issues/1034) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 💪 Opened PR [#203](https://github.com/QuantStack/ipysheet/pull/203) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
-4. ❗️ Opened issue [#4](https://github.com/agoose77/test-issue-syntax/issues/4) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
-5. ❗️ Opened issue [#3](https://github.com/agoose77/test-issue-syntax/issues/3) in [agoose77/test-issue-syntax](https://github.com/agoose77/test-issue-syntax)
+2. ❗️ Opened issue [#1037](https://github.com/scikit-hep/awkward-1.0/issues/1037) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#1034](https://github.com/scikit-hep/awkward-1.0/issues/1034) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#1034](https://github.com/scikit-hep/awkward-1.0/issues/1034) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 💪 Opened PR [#203](https://github.com/QuantStack/ipysheet/pull/203) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
 <!--END_SECTION:activity-->
 
 
