@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/agoose77/literary/issues/39) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-3. ❗️ Closed issue [#1042](https://github.com/scikit-hep/awkward-1.0/issues/1042) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. ❗️ Opened issue [#1042](https://github.com/scikit-hep/awkward-1.0/issues/1042) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#1041](https://github.com/scikit-hep/awkward-1.0/issues/1041) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1541](https://github.com/scikit-hep/pyhf/issues/1541) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
+2. ❗️ Opened issue [#39](https://github.com/agoose77/literary/issues/39) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
+4. ❗️ Closed issue [#1042](https://github.com/scikit-hep/awkward-1.0/issues/1042) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#1042](https://github.com/scikit-hep/awkward-1.0/issues/1042) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
