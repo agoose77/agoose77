@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10785](https://github.com/jupyterlab/jupyterlab/issues/10785) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#1541](https://github.com/scikit-hep/pyhf/issues/1541) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
-3. ❗️ Opened issue [#39](https://github.com/agoose77/literary/issues/39) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 🗣 Commented on [#1423](https://github.com/jupyter/nbconvert/issues/1423) in [jupyter/nbconvert](https://github.com/jupyter/nbconvert)
-5. ❗️ Closed issue [#1042](https://github.com/scikit-hep/awkward-1.0/issues/1042) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#1052](https://github.com/scikit-hep/awkward-1.0/issues/1052) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 🗣 Commented on [#10785](https://github.com/jupyterlab/jupyterlab/issues/10785) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#1541](https://github.com/scikit-hep/pyhf/issues/1541) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
 <!--END_SECTION:activity-->
 
 
