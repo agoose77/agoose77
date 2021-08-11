@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/QuantStack/ipysheet/issues/203) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
-2. 🗣 Commented on [#200](https://github.com/QuantStack/ipysheet/issues/200) in [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet)
-3. 🗣 Commented on [#10785](https://github.com/jupyterlab/jupyterlab/issues/10785) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#1541](https://github.com/scikit-hep/pyhf/issues/1541) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
-5. 🗣 Commented on [#1052](https://github.com/scikit-hep/awkward-1.0/issues/1052) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Opened issue [#5](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/5) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+2. ❗️ Opened issue [#4](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/4) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+3. ❗️ Opened issue [#34](https://github.com/agoose77/jupyterlab-markup/issues/34) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. ❗️ Opened issue [#3](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/3) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+5. ❗️ Opened issue [#2](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/2) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
 <!--END_SECTION:activity-->
 
 
