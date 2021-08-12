@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/7) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
-2. ❗️ Opened issue [#6](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/6) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
-3. ❗️ Opened issue [#5](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/5) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
-4. ❗️ Opened issue [#4](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/4) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
-5. ❗️ Opened issue [#34](https://github.com/agoose77/jupyterlab-markup/issues/34) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Opened issue [#33](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/33) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
+2. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/7) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+3. ❗️ Opened issue [#6](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/6) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+4. ❗️ Opened issue [#5](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/5) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+5. ❗️ Opened issue [#4](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/4) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
 <!--END_SECTION:activity-->
 
 
