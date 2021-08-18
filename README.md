@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#729](https://github.com/ipython/ipykernel/issues/729) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
-2. 🗣 Commented on [#33](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/33) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
-3. ❗️ Opened issue [#33](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/33) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
-4. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/7) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
-5. ❗️ Opened issue [#6](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/6) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
+1. 🗣 Commented on [#1045](https://github.com/scikit-hep/awkward-1.0/issues/1045) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#729](https://github.com/ipython/ipykernel/issues/729) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+3. 🗣 Commented on [#33](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/33) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
+4. ❗️ Opened issue [#33](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar/issues/33) in [jupyterlab-contrib/jlab-enhanced-cell-toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
+5. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-knowledge-graph/issues/7) in [agoose77/jupyterlab-knowledge-graph](https://github.com/agoose77/jupyterlab-knowledge-graph)
 <!--END_SECTION:activity-->
 
 
