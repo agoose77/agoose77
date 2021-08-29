@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10934](https://github.com/jupyterlab/jupyterlab/issues/10934) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#10940](https://github.com/jupyterlab/jupyterlab/issues/10940) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#10923](https://github.com/jupyterlab/jupyterlab/issues/10923) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🎉 Merged PR [#33](https://github.com/agoose77/jupyterlab-markup/pull/33) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🎉 Merged PR [#32](https://github.com/agoose77/jupyterlab-markup/pull/32) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. 🎉 Merged PR [#26](https://github.com/agoose77/jupyterlab-markup/pull/26) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. 🎉 Merged PR [#23](https://github.com/agoose77/jupyterlab-markup/pull/23) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🎉 Merged PR [#22](https://github.com/agoose77/jupyterlab-markup/pull/22) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
