@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#929](https://github.com/voila-dashboards/voila/issues/929) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
+1. 🗣 Commented on [#10934](https://github.com/jupyterlab/jupyterlab/issues/10934) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#10940](https://github.com/jupyterlab/jupyterlab/issues/10940) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#10923](https://github.com/jupyterlab/jupyterlab/issues/10923) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 4. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. ❗️ Reopened issue [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
