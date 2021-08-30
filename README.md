@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#600](https://github.com/jupyter/nbdime/pull/600) in [jupyter/nbdime](https://github.com/jupyter/nbdime)
-2. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#10923](https://github.com/jupyterlab/jupyterlab/issues/10923) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Opened issue [#5](https://github.com/executablebooks/jupyterlab-myst/issues/5) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🎉 Merged PR [#33](https://github.com/agoose77/jupyterlab-markup/pull/33) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🎉 Merged PR [#36](https://github.com/agoose77/jupyterlab-markup/pull/36) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🗣 Commented on [#36](https://github.com/agoose77/jupyterlab-markup/issues/36) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. 💪 Opened PR [#600](https://github.com/jupyter/nbdime/pull/600) in [jupyter/nbdime](https://github.com/jupyter/nbdime)
+4. 🗣 Commented on [#10935](https://github.com/jupyterlab/jupyterlab/issues/10935) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#10923](https://github.com/jupyterlab/jupyterlab/issues/10923) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
