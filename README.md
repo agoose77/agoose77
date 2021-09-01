@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/agoose77/jupyterlab-markup/pull/38) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. ❗️ Opened issue [#7](https://github.com/agoose77/dotfiles/issues/7) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-4. 🗣 Commented on [#202](https://github.com/dask/dask-labextension/issues/202) in [dask/dask-labextension](https://github.com/dask/dask-labextension)
-5. 💪 Opened PR [#18](https://github.com/dask-contrib/dask-ctl/pull/18) in [dask-contrib/dask-ctl](https://github.com/dask-contrib/dask-ctl)
+1. 💪 Opened PR [#39](https://github.com/agoose77/jupyterlab-markup/pull/39) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 💪 Opened PR [#38](https://github.com/agoose77/jupyterlab-markup/pull/38) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. ❗️ Opened issue [#7](https://github.com/agoose77/dotfiles/issues/7) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+4. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+5. 🗣 Commented on [#202](https://github.com/dask/dask-labextension/issues/202) in [dask/dask-labextension](https://github.com/dask/dask-labextension)
 <!--END_SECTION:activity-->
 
 
