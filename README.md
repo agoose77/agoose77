@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. 🗣 Commented on [#40](https://github.com/agoose77/jupyterlab-markup/issues/40) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🎉 Merged PR [#38](https://github.com/agoose77/jupyterlab-markup/pull/38) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 💪 Opened PR [#7](https://github.com/executablebooks/jupyterlab-myst/pull/7) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. ❗️ Opened issue [#6](https://github.com/executablebooks/jupyterlab-myst/issues/6) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#10940](https://github.com/jupyterlab/jupyterlab/issues/10940) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. 🗣 Commented on [#40](https://github.com/agoose77/jupyterlab-markup/issues/40) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. 🎉 Merged PR [#38](https://github.com/agoose77/jupyterlab-markup/pull/38) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 💪 Opened PR [#7](https://github.com/executablebooks/jupyterlab-myst/pull/7) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
