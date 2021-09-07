@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/psf/fundable-packaging-improvements/pull/41) in [psf/fundable-packaging-improvements](https://github.com/psf/fundable-packaging-improvements)
-2. ❗️ Opened issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-3. ❗️ Opened issue [#1](https://github.com/agoose77/project-ideas/issues/1) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-4. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#7291](https://github.com/jupyterlab/jupyterlab/issues/7291) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#1083](https://github.com/scikit-hep/awkward-1.0/issues/1083) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#41](https://github.com/psf/fundable-packaging-improvements/pull/41) in [psf/fundable-packaging-improvements](https://github.com/psf/fundable-packaging-improvements)
+3. ❗️ Opened issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+4. ❗️ Opened issue [#1](https://github.com/agoose77/project-ideas/issues/1) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+5. 🗣 Commented on [#13](https://github.com/agoose77/jupyterlab-markup/issues/13) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
