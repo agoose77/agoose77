@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1084](https://github.com/scikit-hep/awkward-1.0/issues/1084) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#1083](https://github.com/scikit-hep/awkward-1.0/issues/1083) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 💪 Opened PR [#41](https://github.com/psf/fundable-packaging-improvements/pull/41) in [psf/fundable-packaging-improvements](https://github.com/psf/fundable-packaging-improvements)
-4. ❗️ Opened issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-5. ❗️ Opened issue [#1](https://github.com/agoose77/project-ideas/issues/1) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+1. 💪 Opened PR [#1085](https://github.com/scikit-hep/awkward-1.0/pull/1085) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#1084](https://github.com/scikit-hep/awkward-1.0/issues/1084) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#1083](https://github.com/scikit-hep/awkward-1.0/issues/1083) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 💪 Opened PR [#41](https://github.com/psf/fundable-packaging-improvements/pull/41) in [psf/fundable-packaging-improvements](https://github.com/psf/fundable-packaging-improvements)
+5. ❗️ Opened issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
