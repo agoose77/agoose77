@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/agoose77/jupyterlab-imarkdown/issues/8) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-2. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-imarkdown/issues/7) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-3. ❗️ Opened issue [#6](https://github.com/agoose77/jupyterlab-imarkdown/issues/6) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-4. ❗️ Opened issue [#5](https://github.com/agoose77/jupyterlab-imarkdown/issues/5) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-5. ❗️ Opened issue [#4](https://github.com/agoose77/jupyterlab-imarkdown/issues/4) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+1. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-imarkdown/issues/10) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+2. ❗️ Opened issue [#8](https://github.com/agoose77/jupyterlab-imarkdown/issues/8) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+3. ❗️ Opened issue [#7](https://github.com/agoose77/jupyterlab-imarkdown/issues/7) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+4. ❗️ Opened issue [#6](https://github.com/agoose77/jupyterlab-imarkdown/issues/6) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+5. ❗️ Opened issue [#5](https://github.com/agoose77/jupyterlab-imarkdown/issues/5) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
 <!--END_SECTION:activity-->
 
 
