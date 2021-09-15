@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-imarkdown/issues/10) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-2. 🎉 Merged PR [#18](https://github.com/agoose77/jupyterlab-imarkdown/pull/18) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-3. 🗣 Commented on [#11062](https://github.com/jupyterlab/jupyterlab/issues/11062) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Opened issue [#21](https://github.com/agoose77/jupyterlab-imarkdown/issues/21) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-5. ❗️ Opened issue [#20](https://github.com/agoose77/jupyterlab-imarkdown/issues/20) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+1. 🗣 Commented on [#4](https://github.com/agoose77/jupyterlab-imarkdown/issues/4) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+2. 🗣 Commented on [#10](https://github.com/agoose77/jupyterlab-imarkdown/issues/10) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+3. 🎉 Merged PR [#18](https://github.com/agoose77/jupyterlab-imarkdown/pull/18) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+4. 🗣 Commented on [#11062](https://github.com/jupyterlab/jupyterlab/issues/11062) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#21](https://github.com/agoose77/jupyterlab-imarkdown/issues/21) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
 <!--END_SECTION:activity-->
 
 
