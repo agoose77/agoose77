@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/executablebooks/jupyterlab-myst/issues/8) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🎉 Merged PR [#39](https://github.com/agoose77/jupyterlab-markup/pull/39) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. 🎉 Merged PR [#25](https://github.com/agoose77/jupyterlab-imarkdown/pull/25) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-4. 🗣 Commented on [#25](https://github.com/agoose77/jupyterlab-imarkdown/issues/25) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-5. 🗣 Commented on [#160](https://github.com/jupyter/nbclient/issues/160) in [jupyter/nbclient](https://github.com/jupyter/nbclient)
+1. 🗣 Commented on [#9](https://github.com/executablebooks/jupyterlab-myst/issues/9) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#9](https://github.com/executablebooks/jupyterlab-myst/issues/9) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 💪 Opened PR [#11](https://github.com/executablebooks/jupyterlab-myst/pull/11) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. ❗️ Opened issue [#10](https://github.com/executablebooks/jupyterlab-myst/issues/10) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. ❗️ Opened issue [#9](https://github.com/executablebooks/jupyterlab-myst/issues/9) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
