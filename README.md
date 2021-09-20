@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/agoose77/project-ideas/issues/3) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-2. 🎉 Merged PR [#26](https://github.com/agoose77/jupyterlab-imarkdown/pull/26) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-3. 💪 Opened PR [#26](https://github.com/agoose77/jupyterlab-imarkdown/pull/26) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-4. ❗️ Opened issue [#42](https://github.com/agoose77/jupyterlab-markup/issues/42) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#1](https://github.com/conda-forge/jupyterlab-markup-feedstock/issues/1) in [conda-forge/jupyterlab-markup-feedstock](https://github.com/conda-forge/jupyterlab-markup-feedstock)
+1. 💪 Opened PR [#27](https://github.com/vinayak-mehta/nbcommands/pull/27) in [vinayak-mehta/nbcommands](https://github.com/vinayak-mehta/nbcommands)
+2. ❗️ Opened issue [#3](https://github.com/agoose77/project-ideas/issues/3) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+3. 🎉 Merged PR [#26](https://github.com/agoose77/jupyterlab-imarkdown/pull/26) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+4. 💪 Opened PR [#26](https://github.com/agoose77/jupyterlab-imarkdown/pull/26) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+5. ❗️ Opened issue [#42](https://github.com/agoose77/jupyterlab-markup/issues/42) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
