@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1104](https://github.com/scikit-hep/awkward-1.0/issues/1104) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. ❗️ Opened issue [#5](https://github.com/agoose77/project-ideas/issues/5) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-3. 🗣 Commented on [#1103](https://github.com/scikit-hep/awkward-1.0/issues/1103) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. ❗️ Opened issue [#4](https://github.com/agoose77/project-ideas/issues/4) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-5. 💪 Opened PR [#27](https://github.com/vinayak-mehta/nbcommands/pull/27) in [vinayak-mehta/nbcommands](https://github.com/vinayak-mehta/nbcommands)
+1. ❗️ Opened issue [#1106](https://github.com/scikit-hep/awkward-1.0/issues/1106) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#1104](https://github.com/scikit-hep/awkward-1.0/issues/1104) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. ❗️ Opened issue [#5](https://github.com/agoose77/project-ideas/issues/5) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+4. 🗣 Commented on [#1103](https://github.com/scikit-hep/awkward-1.0/issues/1103) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#4](https://github.com/agoose77/project-ideas/issues/4) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
