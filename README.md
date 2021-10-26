@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 2. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 3. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
-4. 💪 Opened PR [#1](https://github.com/Allentro/talys-docker/pull/1) in [Allentro/talys-docker](https://github.com/Allentro/talys-docker)
-5. 🗣 Commented on [#11216](https://github.com/jupyterlab/jupyterlab/issues/11216) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
+5. 💪 Opened PR [#1](https://github.com/Allentro/talys-docker/pull/1) in [Allentro/talys-docker](https://github.com/Allentro/talys-docker)
 <!--END_SECTION:activity-->
 
 
