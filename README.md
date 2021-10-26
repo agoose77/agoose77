@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
-2. 💪 Opened PR [#1](https://github.com/Allentro/talys-docker/pull/1) in [Allentro/talys-docker](https://github.com/Allentro/talys-docker)
-3. 🗣 Commented on [#11216](https://github.com/jupyterlab/jupyterlab/issues/11216) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#1085](https://github.com/scikit-hep/awkward-1.0/issues/1085) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#2](https://github.com/micimize/jupyterlab-wikify/issues/2) in [micimize/jupyterlab-wikify](https://github.com/micimize/jupyterlab-wikify)
+2. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
+3. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
+4. 💪 Opened PR [#1](https://github.com/Allentro/talys-docker/pull/1) in [Allentro/talys-docker](https://github.com/Allentro/talys-docker)
+5. 🗣 Commented on [#11216](https://github.com/jupyterlab/jupyterlab/issues/11216) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
