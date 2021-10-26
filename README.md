@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 3. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 4. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
-5. 💪 Opened PR [#1](https://github.com/Allentro/talys-docker/pull/1) in [Allentro/talys-docker](https://github.com/Allentro/talys-docker)
+5. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 <!--END_SECTION:activity-->
 
 
