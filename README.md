@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
+1. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
 2. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 3. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
 4. 🗣 Commented on [#6210](https://github.com/jupyter/notebook/issues/6210) in [jupyter/notebook](https://github.com/jupyter/notebook)
