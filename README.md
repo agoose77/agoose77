@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
+1. 🗣 Commented on [#11336](https://github.com/jupyterlab/jupyterlab/issues/11336) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
 3. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
 4. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
