@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1126](https://github.com/scikit-hep/awkward-1.0/issues/1126) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#11336](https://github.com/jupyterlab/jupyterlab/issues/11336) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
+1. ❗️ Opened issue [#8](https://github.com/agoose77/dotfiles/issues/8) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
+2. ❗️ Opened issue [#1126](https://github.com/scikit-hep/awkward-1.0/issues/1126) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#11336](https://github.com/jupyterlab/jupyterlab/issues/11336) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 4. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
 5. 🗣 Commented on [#2934](https://github.com/berkeley-dsep-infra/datahub/issues/2934) in [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub)
 <!--END_SECTION:activity-->
