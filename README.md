@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4530](https://github.com/xonsh/xonsh/issues/4530) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-2. ❗️ Opened issue [#4529](https://github.com/xonsh/xonsh/issues/4529) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-3. ❗️ Opened issue [#6](https://github.com/agoose77/project-ideas/issues/6) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-4. ❗️ Opened issue [#8](https://github.com/agoose77/dotfiles/issues/8) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
-5. ❗️ Opened issue [#1126](https://github.com/scikit-hep/awkward-1.0/issues/1126) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 💪 Opened PR [#4531](https://github.com/xonsh/xonsh/pull/4531) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+2. ❗️ Opened issue [#4530](https://github.com/xonsh/xonsh/issues/4530) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+3. ❗️ Opened issue [#4529](https://github.com/xonsh/xonsh/issues/4529) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+4. ❗️ Opened issue [#6](https://github.com/agoose77/project-ideas/issues/6) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+5. ❗️ Opened issue [#8](https://github.com/agoose77/dotfiles/issues/8) in [agoose77/dotfiles](https://github.com/agoose77/dotfiles)
 <!--END_SECTION:activity-->
 
 
