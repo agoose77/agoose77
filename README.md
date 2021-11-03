@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/agoose77/xonsh/issues/4) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-2. ❗️ Opened issue [#3](https://github.com/agoose77/xonsh/issues/3) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-3. ❗️ Opened issue [#2](https://github.com/agoose77/xonsh/issues/2) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-4. ❗️ Opened issue [#1](https://github.com/agoose77/xonsh/issues/1) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-5. 💪 Opened PR [#4534](https://github.com/xonsh/xonsh/pull/4534) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. 💪 Opened PR [#4535](https://github.com/xonsh/xonsh/pull/4535) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+2. ❗️ Opened issue [#4](https://github.com/agoose77/xonsh/issues/4) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
+3. ❗️ Opened issue [#3](https://github.com/agoose77/xonsh/issues/3) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
+4. ❗️ Opened issue [#2](https://github.com/agoose77/xonsh/issues/2) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
+5. ❗️ Opened issue [#1](https://github.com/agoose77/xonsh/issues/1) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
 <!--END_SECTION:activity-->
 
 
