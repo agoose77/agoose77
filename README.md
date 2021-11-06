@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-2. ❗️ Closed issue [#2](https://github.com/agoose77/GOAP/issues/2) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-3. 🗣 Commented on [#2](https://github.com/agoose77/GOAP/issues/2) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-4. 🗣 Commented on [#11336](https://github.com/jupyterlab/jupyterlab/issues/11336) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 💪 Opened PR [#4535](https://github.com/xonsh/xonsh/pull/4535) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. 🗣 Commented on [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+2. ❗️ Closed issue [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+3. 🗣 Commented on [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+4. 🗣 Commented on [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+5. ❗️ Closed issue [#2](https://github.com/agoose77/GOAP/issues/2) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
 <!--END_SECTION:activity-->
 
 
