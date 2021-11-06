@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-2. 🗣 Commented on [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-3. ❗️ Closed issue [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-4. 🗣 Commented on [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+1. 🗣 Commented on [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+2. ❗️ Closed issue [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+3. 🗣 Commented on [#4](https://github.com/agoose77/GOAP/issues/4) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+4. ❗️ Closed issue [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
 5. 🗣 Commented on [#3](https://github.com/agoose77/GOAP/issues/3) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
 <!--END_SECTION:activity-->
 
