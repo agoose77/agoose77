@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4538](https://github.com/xonsh/xonsh/issues/4538) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-2. 💪 Opened PR [#4539](https://github.com/xonsh/xonsh/pull/4539) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-3. 🗣 Commented on [#4535](https://github.com/xonsh/xonsh/issues/4535) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-4. 🗣 Commented on [#1](https://github.com/oh-my-xonsh/oh-my-xonsh/issues/1) in [oh-my-xonsh/oh-my-xonsh](https://github.com/oh-my-xonsh/oh-my-xonsh)
-5. ❗️ Opened issue [#1136](https://github.com/scikit-hep/awkward-1.0/issues/1136) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Opened issue [#40](https://github.com/agoose77/literary/issues/40) in [agoose77/literary](https://github.com/agoose77/literary)
+2. 🗣 Commented on [#4538](https://github.com/xonsh/xonsh/issues/4538) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+3. 💪 Opened PR [#4539](https://github.com/xonsh/xonsh/pull/4539) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+4. 🗣 Commented on [#4535](https://github.com/xonsh/xonsh/issues/4535) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+5. 🗣 Commented on [#1](https://github.com/oh-my-xonsh/oh-my-xonsh/issues/1) in [oh-my-xonsh/oh-my-xonsh](https://github.com/oh-my-xonsh/oh-my-xonsh)
 <!--END_SECTION:activity-->
 
 
