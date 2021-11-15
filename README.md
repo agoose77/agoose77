@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4543](https://github.com/xonsh/xonsh/pull/4543) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-2. 💪 Opened PR [#4542](https://github.com/xonsh/xonsh/pull/4542) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-3. 🗣 Commented on [#3](https://github.com/agoose77/xonsh/issues/3) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-4. ❗️ Opened issue [#7](https://github.com/agoose77/xonsh/issues/7) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
-5. ❗️ Opened issue [#4541](https://github.com/xonsh/xonsh/issues/4541) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. ❗️ Opened issue [#4545](https://github.com/xonsh/xonsh/issues/4545) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+2. 💪 Opened PR [#4543](https://github.com/xonsh/xonsh/pull/4543) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+3. 💪 Opened PR [#4542](https://github.com/xonsh/xonsh/pull/4542) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+4. 🗣 Commented on [#3](https://github.com/agoose77/xonsh/issues/3) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
+5. ❗️ Opened issue [#7](https://github.com/agoose77/xonsh/issues/7) in [agoose77/xonsh](https://github.com/agoose77/xonsh)
 <!--END_SECTION:activity-->
 
 
