@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1152](https://github.com/scikit-hep/awkward-1.0/issues/1152) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 2. 🗣 Commented on [#1152](https://github.com/scikit-hep/awkward-1.0/issues/1152) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. ❗️ Opened issue [#4548](https://github.com/xonsh/xonsh/issues/4548) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-4. 💪 Opened PR [#4547](https://github.com/xonsh/xonsh/pull/4547) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-5. ❗️ Opened issue [#4545](https://github.com/xonsh/xonsh/issues/4545) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+3. 🗣 Commented on [#1152](https://github.com/scikit-hep/awkward-1.0/issues/1152) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#4548](https://github.com/xonsh/xonsh/issues/4548) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+5. 💪 Opened PR [#4547](https://github.com/xonsh/xonsh/pull/4547) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
 <!--END_SECTION:activity-->
 
 
