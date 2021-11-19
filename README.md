@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#752](https://github.com/pdm-project/pdm/pull/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-2. 💪 Opened PR [#749](https://github.com/pdm-project/pdm/pull/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-3. ❗️ Opened issue [#4553](https://github.com/xonsh/xonsh/issues/4553) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-4. 🗣 Commented on [#112](https://github.com/PySport/kloppy/issues/112) in [PySport/kloppy](https://github.com/PySport/kloppy)
-5. ❌ Closed PR [#4543](https://github.com/xonsh/xonsh/pull/4543) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+2. 💪 Opened PR [#752](https://github.com/pdm-project/pdm/pull/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+3. 💪 Opened PR [#749](https://github.com/pdm-project/pdm/pull/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+4. ❗️ Opened issue [#4553](https://github.com/xonsh/xonsh/issues/4553) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+5. 🗣 Commented on [#112](https://github.com/PySport/kloppy/issues/112) in [PySport/kloppy](https://github.com/PySport/kloppy)
 <!--END_SECTION:activity-->
 
 
