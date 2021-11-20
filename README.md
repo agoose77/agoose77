@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 2. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 3. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-4. 💪 Opened PR [#752](https://github.com/pdm-project/pdm/pull/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-5. 💪 Opened PR [#749](https://github.com/pdm-project/pdm/pull/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+4. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+5. 🗣 Commented on [#752](https://github.com/pdm-project/pdm/issues/752) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 <!--END_SECTION:activity-->
 
 
