@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#749](https://github.com/pdm-project/pdm/issues/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-2. 🗣 Commented on [#4003](https://github.com/xonsh/xonsh/issues/4003) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+2. 🗣 Commented on [#749](https://github.com/pdm-project/pdm/issues/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 3. 🗣 Commented on [#4003](https://github.com/xonsh/xonsh/issues/4003) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-4. ❗️ Closed issue [#4553](https://github.com/xonsh/xonsh/issues/4553) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-5. 🗣 Commented on [#4553](https://github.com/xonsh/xonsh/issues/4553) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+4. 🗣 Commented on [#4003](https://github.com/xonsh/xonsh/issues/4003) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+5. ❗️ Closed issue [#4553](https://github.com/xonsh/xonsh/issues/4553) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
 <!--END_SECTION:activity-->
 
 
