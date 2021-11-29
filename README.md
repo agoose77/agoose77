@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/agoose77/project-ideas/issues/7) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-2. 🗣 Commented on [#352](https://github.com/scikit-hep/hist/issues/352) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
-3. ❗️ Opened issue [#352](https://github.com/scikit-hep/hist/issues/352) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
-4. 💪 Opened PR [#760](https://github.com/pdm-project/pdm/pull/760) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-5. 🗣 Commented on [#749](https://github.com/pdm-project/pdm/issues/749) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+1. 🗣 Commented on [#1166](https://github.com/scikit-hep/awkward-1.0/issues/1166) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#7](https://github.com/agoose77/project-ideas/issues/7) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+3. 🗣 Commented on [#352](https://github.com/scikit-hep/hist/issues/352) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+4. ❗️ Opened issue [#352](https://github.com/scikit-hep/hist/issues/352) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+5. 💪 Opened PR [#760](https://github.com/pdm-project/pdm/pull/760) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 <!--END_SECTION:activity-->
 
 
