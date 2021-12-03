@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4534](https://github.com/xonsh/xonsh/issues/4534) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-2. ❗️ Opened issue [#8](https://github.com/agoose77/project-ideas/issues/8) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-3. 🗣 Commented on [#1166](https://github.com/scikit-hep/awkward-1.0/issues/1166) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#4582](https://github.com/xonsh/xonsh/issues/4582) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+2. 🗣 Commented on [#4534](https://github.com/xonsh/xonsh/issues/4534) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+3. ❗️ Opened issue [#8](https://github.com/agoose77/project-ideas/issues/8) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 4. 🗣 Commented on [#1166](https://github.com/scikit-hep/awkward-1.0/issues/1166) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#7](https://github.com/agoose77/project-ideas/issues/7) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+5. 🗣 Commented on [#1166](https://github.com/scikit-hep/awkward-1.0/issues/1166) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
