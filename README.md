@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/agoose77/jupyterlab-filebrowser-terminal/issues/2) in [agoose77/jupyterlab-filebrowser-terminal](https://github.com/agoose77/jupyterlab-filebrowser-terminal)
-2. ❗️ Opened issue [#1](https://github.com/agoose77/jupyterlab-filebrowser-terminal/issues/1) in [agoose77/jupyterlab-filebrowser-terminal](https://github.com/agoose77/jupyterlab-filebrowser-terminal)
-3. ❗️ Opened issue [#23](https://github.com/dracula/jupyterlab/issues/23) in [dracula/jupyterlab](https://github.com/dracula/jupyterlab)
-4. ❗️ Opened issue [#9](https://github.com/agoose77/project-ideas/issues/9) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-5. 🗣 Commented on [#4581](https://github.com/xonsh/xonsh/issues/4581) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+1. 🗣 Commented on [#11062](https://github.com/jupyterlab/jupyterlab/issues/11062) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. ❗️ Opened issue [#2](https://github.com/agoose77/jupyterlab-filebrowser-terminal/issues/2) in [agoose77/jupyterlab-filebrowser-terminal](https://github.com/agoose77/jupyterlab-filebrowser-terminal)
+3. ❗️ Opened issue [#1](https://github.com/agoose77/jupyterlab-filebrowser-terminal/issues/1) in [agoose77/jupyterlab-filebrowser-terminal](https://github.com/agoose77/jupyterlab-filebrowser-terminal)
+4. ❗️ Opened issue [#23](https://github.com/dracula/jupyterlab/issues/23) in [dracula/jupyterlab](https://github.com/dracula/jupyterlab)
+5. ❗️ Opened issue [#9](https://github.com/agoose77/project-ideas/issues/9) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
