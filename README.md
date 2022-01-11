@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1040](https://github.com/scikit-hep/awkward-1.0/issues/1040) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1209](https://github.com/scikit-hep/awkward-1.0/issues/1209) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 2. 🗣 Commented on [#1040](https://github.com/scikit-hep/awkward-1.0/issues/1040) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 3. 🗣 Commented on [#1040](https://github.com/scikit-hep/awkward-1.0/issues/1040) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#1040](https://github.com/scikit-hep/awkward-1.0/issues/1040) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#11](https://github.com/agoose77/project-ideas/issues/11) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+5. 🗣 Commented on [#1040](https://github.com/scikit-hep/awkward-1.0/issues/1040) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
