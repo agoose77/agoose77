@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/agoose77/project-ideas/issues/12) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-2. ❗️ Opened issue [#4654](https://github.com/xonsh/xonsh/issues/4654) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
-3. 🗣 Commented on [#12](https://github.com/agoose77/jupyterlab-markup/issues/12) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 🗣 Commented on [#1039](https://github.com/scikit-hep/awkward-1.0/issues/1039) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#990](https://github.com/scikit-hep/awkward-1.0/issues/990) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. ❗️ Opened issue [#1247](https://github.com/scikit-hep/awkward-1.0/issues/1247) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#12](https://github.com/agoose77/project-ideas/issues/12) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+3. ❗️ Opened issue [#4654](https://github.com/xonsh/xonsh/issues/4654) in [xonsh/xonsh](https://github.com/xonsh/xonsh)
+4. 🗣 Commented on [#12](https://github.com/agoose77/jupyterlab-markup/issues/12) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🗣 Commented on [#1039](https://github.com/scikit-hep/awkward-1.0/issues/1039) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
