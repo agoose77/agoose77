@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#879](https://github.com/pdm-project/pdm/issues/879) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-2. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#879](https://github.com/pdm-project/pdm/issues/879) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 3. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 5. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
