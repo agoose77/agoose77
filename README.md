@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#640](https://github.com/CoffeaTeam/coffea/issues/640) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-2. 🗣 Commented on [#1278](https://github.com/scikit-hep/awkward-1.0/issues/1278) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 🗣 Commented on [#1274](https://github.com/scikit-hep/awkward-1.0/issues/1274) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🗣 Commented on [#1266](https://github.com/scikit-hep/awkward-1.0/issues/1266) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#879](https://github.com/pdm-project/pdm/issues/879) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+1. 🗣 Commented on [#1193](https://github.com/scikit-hep/awkward-1.0/issues/1193) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 💪 Opened PR [#1279](https://github.com/scikit-hep/awkward-1.0/pull/1279) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#640](https://github.com/CoffeaTeam/coffea/issues/640) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+4. 🗣 Commented on [#1278](https://github.com/scikit-hep/awkward-1.0/issues/1278) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🗣 Commented on [#1274](https://github.com/scikit-hep/awkward-1.0/issues/1274) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
