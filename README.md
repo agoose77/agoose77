@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1365](https://github.com/scikit-hep/awkward-1.0/issues/1365) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 2. 🗣 Commented on [#1365](https://github.com/scikit-hep/awkward-1.0/issues/1365) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 💪 Opened PR [#1365](https://github.com/scikit-hep/awkward-1.0/pull/1365) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 💪 Opened PR [#1362](https://github.com/scikit-hep/awkward-1.0/pull/1362) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#1361](https://github.com/scikit-hep/awkward-1.0/issues/1361) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#1365](https://github.com/scikit-hep/awkward-1.0/issues/1365) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 💪 Opened PR [#1365](https://github.com/scikit-hep/awkward-1.0/pull/1365) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 💪 Opened PR [#1362](https://github.com/scikit-hep/awkward-1.0/pull/1362) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
