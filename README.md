@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/agoose77/gco-ext/pull/1) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-2. ❗️ Opened issue [#12274](https://github.com/jupyterlab/jupyterlab/issues/12274) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#12269](https://github.com/jupyterlab/jupyterlab/issues/12269) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#1377](https://github.com/scikit-hep/awkward-1.0/issues/1377) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. ❗️ Opened issue [#1377](https://github.com/scikit-hep/awkward-1.0/issues/1377) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🎉 Merged PR [#1](https://github.com/agoose77/gco-ext/pull/1) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+3. ❗️ Opened issue [#12274](https://github.com/jupyterlab/jupyterlab/issues/12274) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#12269](https://github.com/jupyterlab/jupyterlab/issues/12269) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#1377](https://github.com/scikit-hep/awkward-1.0/issues/1377) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
