@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1288](https://github.com/scikit-hep/awkward-1.0/issues/1288) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 💪 Opened PR [#1389](https://github.com/scikit-hep/awkward-1.0/pull/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#1288](https://github.com/scikit-hep/awkward-1.0/issues/1288) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 3. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🎉 Merged PR [#1](https://github.com/agoose77/gco-ext/pull/1) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-5. ❗️ Opened issue [#12274](https://github.com/jupyterlab/jupyterlab/issues/12274) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🎉 Merged PR [#1](https://github.com/agoose77/gco-ext/pull/1) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
 <!--END_SECTION:activity-->
 
 
