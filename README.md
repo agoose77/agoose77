@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/CoffeaTeam/lpcjobqueue/pull/8) in [CoffeaTeam/lpcjobqueue](https://github.com/CoffeaTeam/lpcjobqueue)
-2. 💪 Opened PR [#1389](https://github.com/scikit-hep/awkward-1.0/pull/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 🗣 Commented on [#1288](https://github.com/scikit-hep/awkward-1.0/issues/1288) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#8](https://github.com/CoffeaTeam/lpcjobqueue/issues/8) in [CoffeaTeam/lpcjobqueue](https://github.com/CoffeaTeam/lpcjobqueue)
+2. 💪 Opened PR [#8](https://github.com/CoffeaTeam/lpcjobqueue/pull/8) in [CoffeaTeam/lpcjobqueue](https://github.com/CoffeaTeam/lpcjobqueue)
+3. 💪 Opened PR [#1389](https://github.com/scikit-hep/awkward-1.0/pull/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. 🗣 Commented on [#1288](https://github.com/scikit-hep/awkward-1.0/issues/1288) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 5. 🗣 Commented on [#1386](https://github.com/scikit-hep/awkward-1.0/issues/1386) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
