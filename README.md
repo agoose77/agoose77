@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
 2. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
-3. 🗣 Commented on [#1389](https://github.com/scikit-hep/awkward-1.0/issues/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-5. 🗣 Commented on [#8](https://github.com/CoffeaTeam/lpcjobqueue/issues/8) in [CoffeaTeam/lpcjobqueue](https://github.com/CoffeaTeam/lpcjobqueue)
+3. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
+4. 🗣 Commented on [#1389](https://github.com/scikit-hep/awkward-1.0/issues/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
 <!--END_SECTION:activity-->
 
 
