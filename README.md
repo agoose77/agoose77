@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
 2. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
 3. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
-4. 🗣 Commented on [#1389](https://github.com/scikit-hep/awkward-1.0/issues/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+4. 🗣 Commented on [#1668](https://github.com/xrootd/xrootd/issues/1668) in [xrootd/xrootd](https://github.com/xrootd/xrootd)
+5. 🗣 Commented on [#1389](https://github.com/scikit-hep/awkward-1.0/issues/1389) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
