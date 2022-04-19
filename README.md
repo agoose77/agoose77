@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#12437](https://github.com/jupyterlab/jupyterlab/issues/12437) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. ❗️ Opened issue [#14](https://github.com/agoose77/project-ideas/issues/14) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-4. 💪 Opened PR [#337](https://github.com/K3D-tools/K3D-jupyter/pull/337) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
-5. 🗣 Commented on [#1408](https://github.com/scikit-hep/awkward-1.0/issues/1408) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#12437](https://github.com/jupyterlab/jupyterlab/issues/12437) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#14](https://github.com/agoose77/project-ideas/issues/14) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
