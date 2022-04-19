@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 2. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 3. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#12437](https://github.com/jupyterlab/jupyterlab/issues/12437) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. ❗️ Opened issue [#14](https://github.com/agoose77/project-ideas/issues/14) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+4. 🗣 Commented on [#12436](https://github.com/jupyterlab/jupyterlab/issues/12436) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#12437](https://github.com/jupyterlab/jupyterlab/issues/12437) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
