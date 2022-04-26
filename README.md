@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9278](https://github.com/jupyterlab/jupyterlab/issues/9278) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#36](https://github.com/y-crdt/ypy/issues/36) in [y-crdt/ypy](https://github.com/y-crdt/ypy)
-3. ❗️ Opened issue [#15](https://github.com/regolith-linux/ilia/issues/15) in [regolith-linux/ilia](https://github.com/regolith-linux/ilia)
-4. ❗️ Opened issue [#15](https://github.com/agoose77/project-ideas/issues/15) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-5. ❗️ Closed issue [#1](https://github.com/agoose77/svgbob-wasm/issues/1) in [agoose77/svgbob-wasm](https://github.com/agoose77/svgbob-wasm)
+1. ❗️ Opened issue [#407](https://github.com/scikit-hep/hist/issues/407) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+2. 🗣 Commented on [#9278](https://github.com/jupyterlab/jupyterlab/issues/9278) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#36](https://github.com/y-crdt/ypy/issues/36) in [y-crdt/ypy](https://github.com/y-crdt/ypy)
+4. ❗️ Opened issue [#15](https://github.com/regolith-linux/ilia/issues/15) in [regolith-linux/ilia](https://github.com/regolith-linux/ilia)
+5. ❗️ Opened issue [#15](https://github.com/agoose77/project-ideas/issues/15) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
