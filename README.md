@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/executablebooks/jupyterlab-myst/issues/34) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. ❗️ Opened issue [#37](https://github.com/executablebooks/markdown-it-docutils/issues/37) in [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils)
-3. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. ❗️ Opened issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#34](https://github.com/executablebooks/jupyterlab-myst/issues/34) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. ❗️ Opened issue [#37](https://github.com/executablebooks/markdown-it-docutils/issues/37) in [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils)
+4. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
