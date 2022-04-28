@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. ❗️ Opened issue [#58](https://github.com/agoose77/jupyterlab-markup/issues/58) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. ❗️ Closed issue [#57](https://github.com/agoose77/jupyterlab-markup/issues/57) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#57](https://github.com/agoose77/jupyterlab-markup/issues/57) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. ❗️ Opened issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🗣 Commented on [#1449](https://github.com/scikit-hep/awkward-1.0/issues/1449) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❗️ Opened issue [#58](https://github.com/agoose77/jupyterlab-markup/issues/58) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. ❗️ Closed issue [#57](https://github.com/agoose77/jupyterlab-markup/issues/57) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
 
 
