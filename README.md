@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/regolith-linux/ilia/issues/16) in [regolith-linux/ilia](https://github.com/regolith-linux/ilia)
-2. ❗️ Opened issue [#1453](https://github.com/scikit-hep/awkward-1.0/issues/1453) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. 🗣 Commented on [#2](https://github.com/conda-forge/jupyterlab-markup-feedstock/issues/2) in [conda-forge/jupyterlab-markup-feedstock](https://github.com/conda-forge/jupyterlab-markup-feedstock)
-4. 🗣 Commented on [#33](https://github.com/executablebooks/jupyterlab-myst/issues/33) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#2](https://github.com/conda-forge/jupyterlab-markup-feedstock/issues/2) in [conda-forge/jupyterlab-markup-feedstock](https://github.com/conda-forge/jupyterlab-markup-feedstock)
+1. ❌ Closed PR [#1348](https://github.com/scikit-hep/awkward-1.0/pull/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+2. 🗣 Commented on [#1348](https://github.com/scikit-hep/awkward-1.0/issues/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#1362](https://github.com/scikit-hep/awkward-1.0/issues/1362) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+4. ❌ Closed PR [#1362](https://github.com/scikit-hep/awkward-1.0/pull/1362) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#16](https://github.com/regolith-linux/ilia/issues/16) in [regolith-linux/ilia](https://github.com/regolith-linux/ilia)
 <!--END_SECTION:activity-->
 
 
