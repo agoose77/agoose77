@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/K3D-tools/K3D-jupyter/issues/336) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
-2. 🎉 Merged PR [#3](https://github.com/agoose77/gco-ext/pull/3) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-3. ❌ Closed PR [#1348](https://github.com/scikit-hep/awkward-1.0/pull/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-4. 🗣 Commented on [#1348](https://github.com/scikit-hep/awkward-1.0/issues/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#1362](https://github.com/scikit-hep/awkward-1.0/issues/1362) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1040](https://github.com/pdm-project/pdm/issues/1040) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+2. 🗣 Commented on [#336](https://github.com/K3D-tools/K3D-jupyter/issues/336) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
+3. 🎉 Merged PR [#3](https://github.com/agoose77/gco-ext/pull/3) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+4. ❌ Closed PR [#1348](https://github.com/scikit-hep/awkward-1.0/pull/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. 🗣 Commented on [#1348](https://github.com/scikit-hep/awkward-1.0/issues/1348) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
