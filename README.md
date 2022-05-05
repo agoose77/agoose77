@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#3](https://github.com/kolibril13/jupyter-splitview/issues/3) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
-3. 💪 Opened PR [#3](https://github.com/kolibril13/jupyter-splitview/pull/3) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
-4. 🗣 Commented on [#2](https://github.com/kolibril13/jupyter-splitview/issues/2) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
-5. 💪 Opened PR [#2](https://github.com/kolibril13/jupyter-splitview/pull/2) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
+2. 🗣 Commented on [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+3. 🗣 Commented on [#3](https://github.com/kolibril13/jupyter-splitview/issues/3) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
+4. 💪 Opened PR [#3](https://github.com/kolibril13/jupyter-splitview/pull/3) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
+5. 🗣 Commented on [#2](https://github.com/kolibril13/jupyter-splitview/issues/2) in [kolibril13/jupyter-splitview](https://github.com/kolibril13/jupyter-splitview)
 <!--END_SECTION:activity-->
 
 
