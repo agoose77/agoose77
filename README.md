@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-2. 🗣 Commented on [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-3. ❗️ Opened issue [#1460](https://github.com/scikit-hep/awkward-1.0/issues/1460) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 🗣 Commented on [#1](https://github.com/agoose77/markdown-it-mermaid/issues/1) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+2. 🗣 Commented on [#1460](https://github.com/scikit-hep/awkward/issues/1460) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Closed issue [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 4. 🗣 Commented on [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
-5. 🗣 Commented on [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+5. ❗️ Opened issue [#1460](https://github.com/scikit-hep/awkward-1.0/issues/1460) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
 <!--END_SECTION:activity-->
 
 
