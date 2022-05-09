@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/executablebooks/jupyterlab-myst/issues/36) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 💪 Opened PR [#36](https://github.com/executablebooks/jupyterlab-myst/pull/36) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#1](https://github.com/agoose77/markdown-it-mermaid/issues/1) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-4. 🗣 Commented on [#1460](https://github.com/scikit-hep/awkward/issues/1460) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗️ Closed issue [#1459](https://github.com/scikit-hep/awkward-1.0/issues/1459) in [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)
+1. 💪 Opened PR [#39](https://github.com/gradhep/relaxed/pull/39) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
+2. 🗣 Commented on [#36](https://github.com/executablebooks/jupyterlab-myst/issues/36) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 💪 Opened PR [#36](https://github.com/executablebooks/jupyterlab-myst/pull/36) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#1](https://github.com/agoose77/markdown-it-mermaid/issues/1) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+5. 🗣 Commented on [#1460](https://github.com/scikit-hep/awkward/issues/1460) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
