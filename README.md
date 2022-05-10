@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
 2. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
-3. ❗️ Opened issue [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#33](https://github.com/executablebooks/jupyterlab-myst/issues/33) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
+4. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
+5. ❗️ Opened issue [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 
