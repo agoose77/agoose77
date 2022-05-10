@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
 3. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
 4. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
-5. ❗️ Opened issue [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 
