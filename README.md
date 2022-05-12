@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/agoose77/literary/pull/42) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 💪 Opened PR [#42](https://github.com/agoose77/literary/pull/42) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#228](https://github.com/pypa/hatch/issues/228) in [pypa/hatch](https://github.com/pypa/hatch)
+1. ❗️ Closed issue [#20](https://github.com/agoose77/literary/issues/20) in [agoose77/literary](https://github.com/agoose77/literary)
+2. ❗️ Closed issue [#33](https://github.com/agoose77/literary/issues/33) in [agoose77/literary](https://github.com/agoose77/literary)
+3. ❗️ Closed issue [#37](https://github.com/agoose77/literary/issues/37) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Closed issue [#38](https://github.com/agoose77/literary/issues/38) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Closed issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
