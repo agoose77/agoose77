@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/agoose77/literary/issues/20) in [agoose77/literary](https://github.com/agoose77/literary)
-2. ❗️ Closed issue [#33](https://github.com/agoose77/literary/issues/33) in [agoose77/literary](https://github.com/agoose77/literary)
-3. ❗️ Closed issue [#37](https://github.com/agoose77/literary/issues/37) in [agoose77/literary](https://github.com/agoose77/literary)
-4. ❗️ Closed issue [#38](https://github.com/agoose77/literary/issues/38) in [agoose77/literary](https://github.com/agoose77/literary)
-5. ❗️ Closed issue [#41](https://github.com/agoose77/literary/issues/41) in [agoose77/literary](https://github.com/agoose77/literary)
+1. ❗️ Opened issue [#1083](https://github.com/pdm-project/pdm/issues/1083) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+2. 🗣 Commented on [#51](https://github.com/repo-helper/whey/issues/51) in [repo-helper/whey](https://github.com/repo-helper/whey)
+3. ❗️ Closed issue [#20](https://github.com/agoose77/literary/issues/20) in [agoose77/literary](https://github.com/agoose77/literary)
+4. ❗️ Closed issue [#33](https://github.com/agoose77/literary/issues/33) in [agoose77/literary](https://github.com/agoose77/literary)
+5. ❗️ Closed issue [#37](https://github.com/agoose77/literary/issues/37) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
 
 
