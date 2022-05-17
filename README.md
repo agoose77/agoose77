@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#145](https://github.com/jupyter/jupyter-packaging/issues/145) in [jupyter/jupyter-packaging](https://github.com/jupyter/jupyter-packaging)
-2. ❗️ Closed issue [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#9976](https://github.com/jupyterlab/jupyterlab/issues/9976) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#6008](https://github.com/jupyterlab/jupyterlab/issues/6008) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. ❗️ Closed issue [#6008](https://github.com/jupyterlab/jupyterlab/issues/6008) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#2](https://github.com/agoose77/jupyterlab-imarkdown/issues/2) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+2. ❗️ Closed issue [#4](https://github.com/agoose77/jupyterlab-imarkdown/issues/4) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+3. ❗️ Closed issue [#3](https://github.com/agoose77/jupyterlab-imarkdown/issues/3) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+4. ❗️ Closed issue [#5](https://github.com/agoose77/jupyterlab-imarkdown/issues/5) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+5. ❗️ Opened issue [#145](https://github.com/jupyter/jupyter-packaging/issues/145) in [jupyter/jupyter-packaging](https://github.com/jupyter/jupyter-packaging)
 <!--END_SECTION:activity-->
 
 
