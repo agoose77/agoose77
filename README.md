@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
-2. ❗️ Opened issue [#6](https://github.com/agoose77/numpy-html/issues/6) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+1. ❗️ Closed issue [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
+2. 🗣 Commented on [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
 3. 🗣 Commented on [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
-4. ❗️ Opened issue [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
-5. ❗️ Opened issue [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. ❗️ Opened issue [#6](https://github.com/agoose77/numpy-html/issues/6) in [agoose77/numpy-html](https://github.com/agoose77/numpy-html)
+5. 🗣 Commented on [#11130](https://github.com/pypa/pip/issues/11130) in [pypa/pip](https://github.com/pypa/pip)
 <!--END_SECTION:activity-->
 
 
