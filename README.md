@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/gradhep/relaxed/pull/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
-2. 💪 Opened PR [#388](https://github.com/scikit-hep/mplhep/pull/388) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
-3. ❗️ Opened issue [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#1482](https://github.com/scikit-hep/awkward/issues/1482) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#44](https://github.com/gradhep/relaxed/issues/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
+2. 💪 Opened PR [#44](https://github.com/gradhep/relaxed/pull/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
+3. 💪 Opened PR [#388](https://github.com/scikit-hep/mplhep/pull/388) in [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep)
+4. ❗️ Opened issue [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
