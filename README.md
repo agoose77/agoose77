@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1488](https://github.com/scikit-hep/awkward/issues/1488) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗️ Opened issue [#1489](https://github.com/scikit-hep/awkward/issues/1489) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1488](https://github.com/scikit-hep/awkward/issues/1488) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-4. 🗣 Commented on [#44](https://github.com/gradhep/relaxed/issues/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
-5. 💪 Opened PR [#44](https://github.com/gradhep/relaxed/pull/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
+3. 🗣 Commented on [#1488](https://github.com/scikit-hep/awkward/issues/1488) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+5. 🗣 Commented on [#44](https://github.com/gradhep/relaxed/issues/44) in [gradhep/relaxed](https://github.com/gradhep/relaxed)
 <!--END_SECTION:activity-->
 
 
