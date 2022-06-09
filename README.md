@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+1. 🗣 Commented on [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 2. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-3. 🗣 Commented on [#1122](https://github.com/pdm-project/pdm/issues/1122) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-4. 💪 Opened PR [#13693](https://github.com/ipython/ipython/pull/13693) in [ipython/ipython](https://github.com/ipython/ipython)
-5. ❗️ Opened issue [#1122](https://github.com/pdm-project/pdm/issues/1122) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+3. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+4. 🗣 Commented on [#1122](https://github.com/pdm-project/pdm/issues/1122) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+5. 💪 Opened PR [#13693](https://github.com/ipython/ipython/pull/13693) in [ipython/ipython](https://github.com/ipython/ipython)
 <!--END_SECTION:activity-->
 
 
