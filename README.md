@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/jupyterlab/hatch_jupyter_builder/issues/24) in [jupyterlab/hatch_jupyter_builder](https://github.com/jupyterlab/hatch_jupyter_builder)
-2. 💪 Opened PR [#23](https://github.com/jupyterlab/hatch_jupyter_builder/pull/23) in [jupyterlab/hatch_jupyter_builder](https://github.com/jupyterlab/hatch_jupyter_builder)
-3. 🗣 Commented on [#1751](https://github.com/executablebooks/jupyter-book/issues/1751) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#13693](https://github.com/ipython/ipython/issues/13693) in [ipython/ipython](https://github.com/ipython/ipython)
+2. ❗️ Opened issue [#24](https://github.com/jupyterlab/hatch_jupyter_builder/issues/24) in [jupyterlab/hatch_jupyter_builder](https://github.com/jupyterlab/hatch_jupyter_builder)
+3. 💪 Opened PR [#23](https://github.com/jupyterlab/hatch_jupyter_builder/pull/23) in [jupyterlab/hatch_jupyter_builder](https://github.com/jupyterlab/hatch_jupyter_builder)
+4. 🗣 Commented on [#1751](https://github.com/executablebooks/jupyter-book/issues/1751) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 5. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
 
