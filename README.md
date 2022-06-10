@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#1751](https://github.com/executablebooks/jupyter-book/issues/1751) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 2. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🗣 Commented on [#1751](https://github.com/executablebooks/jupyter-book/issues/1751) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 💪 Opened PR [#99](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/99) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+3. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🗣 Commented on [#1751](https://github.com/executablebooks/jupyter-book/issues/1751) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🗣 Commented on [#1748](https://github.com/executablebooks/jupyter-book/issues/1748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
 
 
