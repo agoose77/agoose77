@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 🗣 Commented on [#1888](https://github.com/scikit-hep/pyhf/issues/1888) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
-3. 🗣 Commented on [#273](https://github.com/pypa/hatch/issues/273) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 💪 Opened PR [#1888](https://github.com/scikit-hep/pyhf/pull/1888) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
-5. ❗️ Opened issue [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🗣 Commented on [#277](https://github.com/pypa/hatch/issues/277) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 💪 Opened PR [#277](https://github.com/pypa/hatch/pull/277) in [pypa/hatch](https://github.com/pypa/hatch)
+4. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🗣 Commented on [#1888](https://github.com/scikit-hep/pyhf/issues/1888) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
 <!--END_SECTION:activity-->
 
 
