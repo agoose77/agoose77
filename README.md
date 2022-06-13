@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#482](https://github.com/pypa/build/issues/482) in [pypa/build](https://github.com/pypa/build)
-3. ❗️ Opened issue [#45](https://github.com/executablebooks/jupyterlab-myst/issues/45) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. ❗️ Opened issue [#44](https://github.com/executablebooks/jupyterlab-myst/issues/44) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🎉 Merged PR [#43](https://github.com/executablebooks/jupyterlab-myst/pull/43) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#482](https://github.com/pypa/build/issues/482) in [pypa/build](https://github.com/pypa/build)
+2. 🗣 Commented on [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#482](https://github.com/pypa/build/issues/482) in [pypa/build](https://github.com/pypa/build)
+4. ❗️ Opened issue [#45](https://github.com/executablebooks/jupyterlab-myst/issues/45) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. ❗️ Opened issue [#44](https://github.com/executablebooks/jupyterlab-myst/issues/44) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
