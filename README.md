@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#428](https://github.com/executablebooks/MyST-NB/pull/428) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-3. 💪 Opened PR [#17](https://github.com/ipython/matplotlib-inline/pull/17) in [ipython/matplotlib-inline](https://github.com/ipython/matplotlib-inline)
-4. 🗣 Commented on [#285](https://github.com/executablebooks/MyST-NB/issues/285) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. ❗️ Closed issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+1. 💪 Opened PR [#87](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/87) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+2. 💪 Opened PR [#428](https://github.com/executablebooks/MyST-NB/pull/428) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+4. 💪 Opened PR [#17](https://github.com/ipython/matplotlib-inline/pull/17) in [ipython/matplotlib-inline](https://github.com/ipython/matplotlib-inline)
+5. 🗣 Commented on [#285](https://github.com/executablebooks/MyST-NB/issues/285) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
 
 
