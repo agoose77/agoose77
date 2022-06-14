@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-2. 🗣 Commented on [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-3. ❗️ Opened issue [#46](https://github.com/executablebooks/jupyterlab-myst/issues/46) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. ❗️ Opened issue [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+2. 💪 Opened PR [#17](https://github.com/ipython/matplotlib-inline/pull/17) in [ipython/matplotlib-inline](https://github.com/ipython/matplotlib-inline)
+3. 🗣 Commented on [#285](https://github.com/executablebooks/MyST-NB/issues/285) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. ❗️ Closed issue [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
+5. 🗣 Commented on [#2](https://github.com/agoose77/project-ideas/issues/2) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 <!--END_SECTION:activity-->
 
 
