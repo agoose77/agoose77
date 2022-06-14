@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-2. 💪 Opened PR [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-3. 💪 Opened PR [#87](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/87) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-4. 💪 Opened PR [#428](https://github.com/executablebooks/MyST-NB/pull/428) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+1. 🗣 Commented on [#1489](https://github.com/scikit-hep/awkward/issues/1489) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+3. 💪 Opened PR [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+4. 💪 Opened PR [#87](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/87) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+5. 💪 Opened PR [#428](https://github.com/executablebooks/MyST-NB/pull/428) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
 
 
