@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. ❗️ Opened issue [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. ❗️ Opened issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-4. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#277](https://github.com/pypa/hatch/issues/277) in [pypa/hatch](https://github.com/pypa/hatch)
+1. ❗️ Opened issue [#46](https://github.com/executablebooks/jupyterlab-myst/issues/46) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. ❗️ Opened issue [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. ❗️ Opened issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+5. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 
