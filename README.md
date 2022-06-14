@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 🗣 Commented on [#277](https://github.com/pypa/hatch/issues/277) in [pypa/hatch](https://github.com/pypa/hatch)
-3. 💪 Opened PR [#277](https://github.com/pypa/hatch/pull/277) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#1888](https://github.com/scikit-hep/pyhf/issues/1888) in [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf)
+1. ❗️ Opened issue [#12696](https://github.com/jupyterlab/jupyterlab/issues/12696) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. ❗️ Opened issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+3. 🗣 Commented on [#276](https://github.com/pypa/hatch/issues/276) in [pypa/hatch](https://github.com/pypa/hatch)
+4. 🗣 Commented on [#277](https://github.com/pypa/hatch/issues/277) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 💪 Opened PR [#277](https://github.com/pypa/hatch/pull/277) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 
