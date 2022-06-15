@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#1489](https://github.com/scikit-hep/awkward/issues/1489) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-4. 💪 Opened PR [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
-5. 💪 Opened PR [#87](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/87) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+1. 🗣 Commented on [#573](https://github.com/executablebooks/sphinx-book-theme/issues/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 💪 Opened PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#1489](https://github.com/scikit-hep/awkward/issues/1489) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/issues/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
+5. 💪 Opened PR [#88](https://github.com/mgaitan/sphinxcontrib-mermaid/pull/88) in [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)
 <!--END_SECTION:activity-->
 
 
