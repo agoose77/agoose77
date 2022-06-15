@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. ❌ Closed PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🗣 Commented on [#573](https://github.com/executablebooks/sphinx-book-theme/issues/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#1505](https://github.com/scikit-hep/awkward/issues/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#1505](https://github.com/scikit-hep/awkward/pull/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+2. ❌ Reopened PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. ❌ Closed PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🗣 Commented on [#573](https://github.com/executablebooks/sphinx-book-theme/issues/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#1505](https://github.com/scikit-hep/awkward/issues/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
