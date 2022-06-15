@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 🗣 Commented on [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 💪 Opened PR [#429](https://github.com/executablebooks/MyST-NB/pull/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
-5. ❌ Reopened PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#12699](https://github.com/jupyterlab/jupyterlab/issues/12699) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. ❗️ Closed issue [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+3. 🗣 Commented on [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 💪 Opened PR [#429](https://github.com/executablebooks/MyST-NB/pull/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
 <!--END_SECTION:activity-->
 
 
