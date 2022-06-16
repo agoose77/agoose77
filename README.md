@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1505](https://github.com/scikit-hep/awkward/issues/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#81](https://github.com/hagenw/sphinxcontrib-katex/pull/81) in [hagenw/sphinxcontrib-katex](https://github.com/hagenw/sphinxcontrib-katex)
-3. 🗣 Commented on [#12699](https://github.com/jupyterlab/jupyterlab/issues/12699) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. ❗️ Closed issue [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 🗣 Commented on [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. ❗️ Opened issue [#280](https://github.com/pypa/hatch/issues/280) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🎉 Merged PR [#47](https://github.com/executablebooks/jupyterlab-myst/pull/47) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 💪 Opened PR [#47](https://github.com/executablebooks/jupyterlab-myst/pull/47) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#1505](https://github.com/scikit-hep/awkward/issues/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#81](https://github.com/hagenw/sphinxcontrib-katex/pull/81) in [hagenw/sphinxcontrib-katex](https://github.com/hagenw/sphinxcontrib-katex)
 <!--END_SECTION:activity-->
 
 
