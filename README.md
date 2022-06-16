@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12699](https://github.com/jupyterlab/jupyterlab/issues/12699) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. ❗️ Closed issue [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. 🗣 Commented on [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 💪 Opened PR [#429](https://github.com/executablebooks/MyST-NB/pull/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#821](https://github.com/pdm-project/pdm/issues/821) in [pdm-project/pdm](https://github.com/pdm-project/pdm)
+1. 🗣 Commented on [#1505](https://github.com/scikit-hep/awkward/issues/1505) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#81](https://github.com/hagenw/sphinxcontrib-katex/pull/81) in [hagenw/sphinxcontrib-katex](https://github.com/hagenw/sphinxcontrib-katex)
+3. 🗣 Commented on [#12699](https://github.com/jupyterlab/jupyterlab/issues/12699) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. ❗️ Closed issue [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 🗣 Commented on [#7715](https://github.com/jupyterlab/jupyterlab/issues/7715) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
 
 
