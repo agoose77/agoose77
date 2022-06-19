@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. ❌ Closed PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 💪 Opened PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. ❗️ Opened issue [#38](https://github.com/executablebooks/markdown-it-docutils/issues/38) in [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils)
-5. 🎉 Merged PR [#59](https://github.com/agoose77/jupyterlab-markup/pull/59) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. ❗️ Opened issue [#10586](https://github.com/sphinx-doc/sphinx/issues/10586) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+2. 💪 Opened PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. ❌ Closed PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 💪 Opened PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. ❗️ Opened issue [#38](https://github.com/executablebooks/markdown-it-docutils/issues/38) in [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils)
 <!--END_SECTION:activity-->
 
 
