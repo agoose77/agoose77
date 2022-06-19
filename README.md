@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/agoose77/jupyterlab-markup/pull/59) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. 💪 Opened PR [#59](https://github.com/agoose77/jupyterlab-markup/pull/59) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-3. ❗️ Opened issue [#280](https://github.com/pypa/hatch/issues/280) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🎉 Merged PR [#47](https://github.com/executablebooks/jupyterlab-myst/pull/47) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 💪 Opened PR [#47](https://github.com/executablebooks/jupyterlab-myst/pull/47) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. ❗️ Opened issue [#38](https://github.com/executablebooks/markdown-it-docutils/issues/38) in [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils)
+2. 🎉 Merged PR [#59](https://github.com/agoose77/jupyterlab-markup/pull/59) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. 💪 Opened PR [#59](https://github.com/agoose77/jupyterlab-markup/pull/59) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+4. ❗️ Opened issue [#280](https://github.com/pypa/hatch/issues/280) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🎉 Merged PR [#47](https://github.com/executablebooks/jupyterlab-myst/pull/47) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
