@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/agoose77/gco-ext/pull/6) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-2. ❗️ Closed issue [#6](https://github.com/agoose77/GOAP/issues/6) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-3. ❗️ Opened issue [#10586](https://github.com/sphinx-doc/sphinx/issues/10586) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-4. 💪 Opened PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. ❌ Closed PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#1511](https://github.com/scikit-hep/awkward/issues/1511) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1511](https://github.com/scikit-hep/awkward/issues/1511) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#6](https://github.com/agoose77/gco-ext/pull/6) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+4. ❗️ Closed issue [#6](https://github.com/agoose77/GOAP/issues/6) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+5. ❗️ Opened issue [#10586](https://github.com/sphinx-doc/sphinx/issues/10586) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 <!--END_SECTION:activity-->
 
 
