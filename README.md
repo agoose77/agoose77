@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/agoose77/GOAP/issues/6) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-2. ❗️ Opened issue [#10586](https://github.com/sphinx-doc/sphinx/issues/10586) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-3. 💪 Opened PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. ❌ Closed PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 💪 Opened PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🎉 Merged PR [#6](https://github.com/agoose77/gco-ext/pull/6) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+2. ❗️ Closed issue [#6](https://github.com/agoose77/GOAP/issues/6) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+3. ❗️ Opened issue [#10586](https://github.com/sphinx-doc/sphinx/issues/10586) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. 💪 Opened PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. ❌ Closed PR [#48](https://github.com/executablebooks/jupyterlab-myst/pull/48) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
