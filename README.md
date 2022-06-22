@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/executablebooks/markdown-it-dollarmath/issues/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
-2. 💪 Opened PR [#7](https://github.com/executablebooks/markdown-it-dollarmath/pull/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
-3. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🗣 Commented on [#7](https://github.com/executablebooks/markdown-it-dollarmath/issues/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
+3. 💪 Opened PR [#7](https://github.com/executablebooks/markdown-it-dollarmath/pull/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
 4. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 5. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 <!--END_SECTION:activity-->
