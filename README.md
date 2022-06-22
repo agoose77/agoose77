@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🗣 Commented on [#50](https://github.com/executablebooks/jupyterlab-myst/issues/50) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#7](https://github.com/executablebooks/markdown-it-dollarmath/issues/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
+1. 🎉 Merged PR [#60](https://github.com/agoose77/jupyterlab-markup/pull/60) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. 🎉 Merged PR [#49](https://github.com/executablebooks/jupyterlab-myst/pull/49) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#50](https://github.com/executablebooks/jupyterlab-myst/issues/50) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 4. 🗣 Commented on [#7](https://github.com/executablebooks/markdown-it-dollarmath/issues/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
-5. 💪 Opened PR [#7](https://github.com/executablebooks/markdown-it-dollarmath/pull/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
+5. 🗣 Commented on [#7](https://github.com/executablebooks/markdown-it-dollarmath/issues/7) in [executablebooks/markdown-it-dollarmath](https://github.com/executablebooks/markdown-it-dollarmath)
 <!--END_SECTION:activity-->
 
 
