@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. 🎉 Merged PR [#52](https://github.com/executablebooks/jupyterlab-myst/pull/52) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 💪 Opened PR [#52](https://github.com/executablebooks/jupyterlab-myst/pull/52) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. ❌ Closed PR [#51](https://github.com/executablebooks/jupyterlab-myst/pull/51) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🎉 Merged PR [#61](https://github.com/agoose77/jupyterlab-markup/pull/61) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+1. 🗣 Commented on [#8](https://github.com/agoose77/GOAP/issues/8) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+2. ❌ Closed PR [#8](https://github.com/agoose77/GOAP/pull/8) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+3. 🗣 Commented on [#7](https://github.com/agoose77/GOAP/issues/7) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+4. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+5. 🎉 Merged PR [#52](https://github.com/executablebooks/jupyterlab-myst/pull/52) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
 
 
