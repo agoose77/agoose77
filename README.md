@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1516](https://github.com/scikit-hep/awkward/pull/1516) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1295](https://github.com/scikit-hep/awkward/issues/1295) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 🗣 Commented on [#14](https://github.com/agoose77/jupyterlab-markup/issues/14) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-5. 🗣 Commented on [#8](https://github.com/agoose77/GOAP/issues/8) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+1. 🎉 Merged PR [#22](https://github.com/agoose77/jupyterlab-log-renderer/pull/22) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+2. 🎉 Merged PR [#11](https://github.com/agoose77/jupyterlab-log-renderer/pull/11) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+3. 🎉 Merged PR [#12](https://github.com/agoose77/jupyterlab-log-renderer/pull/12) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+4. 🎉 Merged PR [#15](https://github.com/agoose77/jupyterlab-log-renderer/pull/15) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
+5. 🎉 Merged PR [#16](https://github.com/agoose77/jupyterlab-log-renderer/pull/16) in [agoose77/jupyterlab-log-renderer](https://github.com/agoose77/jupyterlab-log-renderer)
 <!--END_SECTION:activity-->
 
 
