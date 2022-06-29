@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. ❗️ Opened issue [#17](https://github.com/agoose77/project-ideas/issues/17) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 2. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 3. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#13693](https://github.com/ipython/ipython/issues/13693) in [ipython/ipython](https://github.com/ipython/ipython)
-5. 🗣 Commented on [#12731](https://github.com/jupyterlab/jupyterlab/issues/12731) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+4. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#13693](https://github.com/ipython/ipython/issues/13693) in [ipython/ipython](https://github.com/ipython/ipython)
 <!--END_SECTION:activity-->
 
 
