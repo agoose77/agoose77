@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/jupyterlab/hatch-jupyter-builder/issues/24) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
-2. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
-3. ❗️ Opened issue [#17](https://github.com/agoose77/project-ideas/issues/17) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
-4. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#9229](https://github.com/dask/dask/pull/9229) in [dask/dask](https://github.com/dask/dask)
+2. ❗️ Closed issue [#24](https://github.com/jupyterlab/hatch-jupyter-builder/issues/24) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
+3. 🗣 Commented on [#7688](https://github.com/dask/dask/issues/7688) in [dask/dask](https://github.com/dask/dask)
+4. ❗️ Opened issue [#17](https://github.com/agoose77/project-ideas/issues/17) in [agoose77/project-ideas](https://github.com/agoose77/project-ideas)
 5. 🗣 Commented on [#429](https://github.com/executablebooks/MyST-NB/issues/429) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
 
