@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. ❗️ Opened issue [#643](https://github.com/scikit-hep/uproot5/issues/643) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#12739](https://github.com/jupyterlab/jupyterlab/issues/12739) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 💪 Opened PR [#9229](https://github.com/dask/dask/pull/9229) in [dask/dask](https://github.com/dask/dask)
-5. ❗️ Closed issue [#24](https://github.com/jupyterlab/hatch-jupyter-builder/issues/24) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
+1. ❗️ Opened issue [#1534](https://github.com/scikit-hep/awkward/issues/1534) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#391](https://github.com/scikit-hep/awkward/issues/391) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#9229](https://github.com/dask/dask/issues/9229) in [dask/dask](https://github.com/dask/dask)
+4. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#643](https://github.com/scikit-hep/uproot5/issues/643) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
 
 
