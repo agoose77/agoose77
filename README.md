@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/executablebooks/sphinx-external-toc/issues/79) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-2. ❗️ Opened issue [#225](https://github.com/scikit-hep/vector/issues/225) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#2](https://github.com/agoose77/markdown-it-mermaid/pull/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-5. 🗣 Commented on [#2](https://github.com/agoose77/markdown-it-mermaid/issues/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+1. 💪 Opened PR [#1545](https://github.com/scikit-hep/awkward/pull/1545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#79](https://github.com/executablebooks/sphinx-external-toc/issues/79) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+3. ❗️ Opened issue [#225](https://github.com/scikit-hep/vector/issues/225) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2](https://github.com/agoose77/markdown-it-mermaid/pull/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
 <!--END_SECTION:activity-->
 
 
