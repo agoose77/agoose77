@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#2](https://github.com/agoose77/markdown-it-mermaid/pull/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-3. 🗣 Commented on [#2](https://github.com/agoose77/markdown-it-mermaid/issues/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-4. 🗣 Commented on [#1361](https://github.com/scikit-hep/awkward/issues/1361) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗️ Opened issue [#225](https://github.com/scikit-hep/vector/issues/225) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#2](https://github.com/agoose77/markdown-it-mermaid/pull/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+4. 🗣 Commented on [#2](https://github.com/agoose77/markdown-it-mermaid/issues/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
 5. 🗣 Commented on [#1361](https://github.com/scikit-hep/awkward/issues/1361) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
