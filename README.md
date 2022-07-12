@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1545](https://github.com/scikit-hep/awkward/pull/1545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#79](https://github.com/executablebooks/sphinx-external-toc/issues/79) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-3. ❗️ Opened issue [#225](https://github.com/scikit-hep/vector/issues/225) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#1483](https://github.com/scikit-hep/awkward/issues/1483) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2](https://github.com/agoose77/markdown-it-mermaid/pull/2) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+1. 🎉 Merged PR [#7](https://github.com/agoose77/gco-ext/pull/7) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+2. ❗️ Closed issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+3. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 💪 Opened PR [#1545](https://github.com/scikit-hep/awkward/pull/1545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
