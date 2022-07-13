@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-2. 🎉 Merged PR [#7](https://github.com/agoose77/gco-ext/pull/7) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-3. ❗️ Closed issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
-4. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 🗣 Commented on [#6936](https://github.com/jupyterlab/jupyterlab/issues/6936) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#12795](https://github.com/jupyterlab/jupyterlab/issues/12795) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🎉 Merged PR [#7](https://github.com/agoose77/gco-ext/pull/7) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+4. ❗️ Closed issue [#7](https://github.com/ofek/hatch-vcs/issues/7) in [ofek/hatch-vcs](https://github.com/ofek/hatch-vcs)
+5. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
