@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1550](https://github.com/scikit-hep/awkward/pull/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/issues/98) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-3. 🗣 Commented on [#336](https://github.com/executablebooks/MyST-Parser/issues/336) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
-4. 🗣 Commented on [#336](https://github.com/executablebooks/MyST-Parser/issues/336) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
-5. 🗣 Commented on [#12795](https://github.com/jupyterlab/jupyterlab/issues/12795) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. 🗣 Commented on [#1550](https://github.com/scikit-hep/awkward/issues/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1551](https://github.com/scikit-hep/awkward/issues/1551) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#1550](https://github.com/scikit-hep/awkward/pull/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/issues/98) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+5. 🗣 Commented on [#336](https://github.com/executablebooks/MyST-Parser/issues/336) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
 <!--END_SECTION:activity-->
 
 
