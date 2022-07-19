@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9438](https://github.com/readthedocs/readthedocs.org/issues/9438) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
-2. 🗣 Commented on [#1553](https://github.com/scikit-hep/awkward/issues/1553) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 3. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗️ Opened issue [#9438](https://github.com/readthedocs/readthedocs.org/issues/9438) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+4. 🗣 Commented on [#9438](https://github.com/readthedocs/readthedocs.org/issues/9438) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+5. 🗣 Commented on [#1553](https://github.com/scikit-hep/awkward/issues/1553) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
