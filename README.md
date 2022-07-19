@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗️ Opened issue [#9438](https://github.com/readthedocs/readthedocs.org/issues/9438) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
-3. 💪 Opened PR [#1](https://github.com/agoose77/test-ccache-gha/pull/1) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
-4. 🗣 Commented on [#14](https://github.com/dfm/rtds-action/issues/14) in [dfm/rtds-action](https://github.com/dfm/rtds-action)
-5. 🗣 Commented on [#1550](https://github.com/scikit-hep/awkward/issues/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Opened issue [#9438](https://github.com/readthedocs/readthedocs.org/issues/9438) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+4. 💪 Opened PR [#1](https://github.com/agoose77/test-ccache-gha/pull/1) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
+5. 🗣 Commented on [#14](https://github.com/dfm/rtds-action/issues/14) in [dfm/rtds-action](https://github.com/dfm/rtds-action)
 <!--END_SECTION:activity-->
 
 
