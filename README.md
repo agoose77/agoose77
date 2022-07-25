@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#106](https://github.com/2i2c-org/2i2c-org.github.io/pull/106) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#106](https://github.com/2i2c-org/2i2c-org.github.io/pull/106) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
 
 
