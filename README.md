@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1127](https://github.com/scikit-hep/awkward/issues/1127) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1127](https://github.com/scikit-hep/awkward/issues/1127) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1127](https://github.com/scikit-hep/awkward/issues/1127) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1552](https://github.com/scikit-hep/awkward/issues/1552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
