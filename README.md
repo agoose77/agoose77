@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12866](https://github.com/jupyterlab/jupyterlab/issues/12866) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-2. 💪 Opened PR [#1573](https://github.com/scikit-hep/awkward/pull/1573) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#12866](https://github.com/jupyterlab/jupyterlab/issues/12866) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1673](https://github.com/executablebooks/jupyter-book/issues/1673) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#1570](https://github.com/scikit-hep/awkward/issues/1570) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#12866](https://github.com/jupyterlab/jupyterlab/issues/12866) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. 💪 Opened PR [#1573](https://github.com/scikit-hep/awkward/pull/1573) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
