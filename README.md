@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗️ Closed issue [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#73](https://github.com/executablebooks/github-activity/pull/73) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+2. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Closed issue [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🗣 Commented on [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 5. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
