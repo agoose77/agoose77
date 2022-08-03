@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/executablebooks/github-activity/pull/74) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-2. 💪 Opened PR [#73](https://github.com/executablebooks/github-activity/pull/73) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-3. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗️ Closed issue [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#434](https://github.com/executablebooks/MyST-NB/issues/434) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+2. 💪 Opened PR [#75](https://github.com/executablebooks/github-activity/pull/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+3. 🗣 Commented on [#74](https://github.com/executablebooks/github-activity/issues/74) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+4. 💪 Opened PR [#74](https://github.com/executablebooks/github-activity/pull/74) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+5. 💪 Opened PR [#73](https://github.com/executablebooks/github-activity/pull/73) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
 <!--END_SECTION:activity-->
 
 
