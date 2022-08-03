@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-3. ❗️ Opened issue [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-5. 💪 Opened PR [#75](https://github.com/executablebooks/github-activity/pull/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+1. 💪 Opened PR [#755](https://github.com/jupyterlite/jupyterlite/pull/755) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+2. 🗣 Commented on [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+4. ❗️ Opened issue [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
 <!--END_SECTION:activity-->
 
 
