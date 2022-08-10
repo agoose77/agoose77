@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1573](https://github.com/scikit-hep/awkward/issues/1573) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#755](https://github.com/jupyterlite/jupyterlite/issues/755) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-3. 💪 Opened PR [#756](https://github.com/jupyterlite/jupyterlite/pull/756) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-4. 💪 Opened PR [#755](https://github.com/jupyterlite/jupyterlite/pull/755) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-5. 🗣 Commented on [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1580](https://github.com/scikit-hep/awkward/pull/1580) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1573](https://github.com/scikit-hep/awkward/issues/1573) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#755](https://github.com/jupyterlite/jupyterlite/issues/755) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+4. 💪 Opened PR [#756](https://github.com/jupyterlite/jupyterlite/pull/756) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+5. 💪 Opened PR [#755](https://github.com/jupyterlite/jupyterlite/pull/755) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
 <!--END_SECTION:activity-->
 
 
