@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/executablebooks/github-activity/issues/75) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-2. 🗣 Commented on [#73](https://github.com/executablebooks/github-activity/issues/73) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-3. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-imarkdown/issues/27) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1582](https://github.com/scikit-hep/awkward/issues/1582) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Closed issue [#1578](https://github.com/scikit-hep/awkward/issues/1578) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🎉 Merged PR [#1581](https://github.com/scikit-hep/awkward/pull/1581) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 5. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
