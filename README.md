@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-imarkdown/issues/27) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
+1. ❗️ Opened issue [#766](https://github.com/jupyterlite/jupyterlite/issues/766) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
 2. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-imarkdown/issues/27) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
 3. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-imarkdown/issues/27) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
-4. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#27](https://github.com/agoose77/jupyterlab-imarkdown/issues/27) in [agoose77/jupyterlab-imarkdown](https://github.com/agoose77/jupyterlab-imarkdown)
 5. 🗣 Commented on [#1563](https://github.com/scikit-hep/awkward/issues/1563) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
