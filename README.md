@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1588](https://github.com/scikit-hep/awkward/issues/1588) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#20083](https://github.com/conda-forge/staged-recipes/issues/20083) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-3. 🎉 Merged PR [#2](https://github.com/agoose77/hatch-nodejs-version/pull/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 🗣 Commented on [#2](https://github.com/agoose77/hatch-nodejs-version/issues/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 💪 Opened PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1597](https://github.com/scikit-hep/awkward/pull/1597) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1588](https://github.com/scikit-hep/awkward/issues/1588) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#20083](https://github.com/conda-forge/staged-recipes/issues/20083) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+4. 🎉 Merged PR [#2](https://github.com/agoose77/hatch-nodejs-version/pull/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🗣 Commented on [#2](https://github.com/agoose77/hatch-nodejs-version/issues/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
