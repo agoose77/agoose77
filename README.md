@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1592](https://github.com/scikit-hep/awkward/pull/1592) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#1591](https://github.com/scikit-hep/awkward/pull/1591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#63](https://github.com/agoose77/jupyterlab-markup/issues/63) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-4. 💪 Opened PR [#1591](https://github.com/scikit-hep/awkward/pull/1591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#1590](https://github.com/scikit-hep/awkward/pull/1590) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#3](https://github.com/agoose77/markdown-it-mermaid/issues/3) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+3. 🎉 Merged PR [#1592](https://github.com/scikit-hep/awkward/pull/1592) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#1592](https://github.com/scikit-hep/awkward/pull/1592) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#1591](https://github.com/scikit-hep/awkward/pull/1591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
