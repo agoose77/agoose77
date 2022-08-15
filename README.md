@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#3](https://github.com/agoose77/markdown-it-mermaid/issues/3) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-3. 🎉 Merged PR [#1592](https://github.com/scikit-hep/awkward/pull/1592) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#1592](https://github.com/scikit-hep/awkward/pull/1592) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#1591](https://github.com/scikit-hep/awkward/pull/1591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#20083](https://github.com/conda-forge/staged-recipes/issues/20083) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+2. 🎉 Merged PR [#2](https://github.com/agoose77/hatch-nodejs-version/pull/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🗣 Commented on [#2](https://github.com/agoose77/hatch-nodejs-version/issues/2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 💪 Opened PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#3](https://github.com/agoose77/markdown-it-mermaid/issues/3) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
 <!--END_SECTION:activity-->
 
 
