@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/peterridolfi/Pyhf-to-Combine-converter/issues/21) in [peterridolfi/Pyhf-to-Combine-converter](https://github.com/peterridolfi/Pyhf-to-Combine-converter)
-2. 🗣 Commented on [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1550](https://github.com/scikit-hep/awkward/issues/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#554](https://github.com/executablebooks/thebe/issues/554) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-5. 🗣 Commented on [#1597](https://github.com/scikit-hep/awkward/issues/1597) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#12914](https://github.com/jupyterlab/jupyterlab/issues/12914) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+2. 🗣 Commented on [#21](https://github.com/peterridolfi/Pyhf-to-Combine-converter/issues/21) in [peterridolfi/Pyhf-to-Combine-converter](https://github.com/peterridolfi/Pyhf-to-Combine-converter)
+3. 🗣 Commented on [#1577](https://github.com/scikit-hep/awkward/issues/1577) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1550](https://github.com/scikit-hep/awkward/issues/1550) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#554](https://github.com/executablebooks/thebe/issues/554) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
 <!--END_SECTION:activity-->
 
 
