@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/jupyterlite/jupyterlite-sphinx/issues/75) in [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx)
-2. ❗️ Opened issue [#1606](https://github.com/scikit-hep/awkward/issues/1606) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. ❗️ Opened issue [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-5. 🎉 Merged PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1610](https://github.com/scikit-hep/awkward/issues/1610) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#1590](https://github.com/scikit-hep/awkward/pull/1590) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1590](https://github.com/scikit-hep/awkward/issues/1590) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗️ Opened issue [#75](https://github.com/jupyterlite/jupyterlite-sphinx/issues/75) in [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx)
+5. ❗️ Opened issue [#1606](https://github.com/scikit-hep/awkward/issues/1606) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
