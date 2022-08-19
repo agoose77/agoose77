@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1606](https://github.com/scikit-hep/awkward/issues/1606) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. ❗️ Opened issue [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. 🎉 Merged PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#12914](https://github.com/jupyterlab/jupyterlab/issues/12914) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+1. ❗️ Opened issue [#75](https://github.com/jupyterlite/jupyterlite-sphinx/issues/75) in [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx)
+2. ❗️ Opened issue [#1606](https://github.com/scikit-hep/awkward/issues/1606) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. ❗️ Opened issue [#2991](https://github.com/pyodide/pyodide/issues/2991) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+5. 🎉 Merged PR [#1594](https://github.com/scikit-hep/awkward/pull/1594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
