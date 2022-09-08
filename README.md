@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1688](https://github.com/scikit-hep/awkward/issues/1688) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1689](https://github.com/scikit-hep/awkward/pull/1689) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1688](https://github.com/scikit-hep/awkward/issues/1688) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 3. 🗣 Commented on [#1688](https://github.com/scikit-hep/awkward/issues/1688) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#10807](https://github.com/sphinx-doc/sphinx/issues/10807) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-5. 🗣 Commented on [#1688](https://github.com/scikit-hep/awkward/issues/1688) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1688](https://github.com/scikit-hep/awkward/issues/1688) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#10807](https://github.com/sphinx-doc/sphinx/issues/10807) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 <!--END_SECTION:activity-->
 
 
