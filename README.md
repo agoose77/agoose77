@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-2. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
-3. ❗️ Opened issue [#1686](https://github.com/scikit-hep/awkward/issues/1686) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗️ Opened issue [#1685](https://github.com/scikit-hep/awkward/issues/1685) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗️ Closed issue [#1672](https://github.com/scikit-hep/awkward/issues/1672) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗️ Opened issue [#1687](https://github.com/scikit-hep/awkward/issues/1687) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#5](https://github.com/agoose77/hatch-nodejs-version/pull/5) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🎉 Merged PR [#4](https://github.com/agoose77/hatch-nodejs-version/pull/4) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 💪 Opened PR [#4](https://github.com/agoose77/hatch-nodejs-version/pull/4) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
