@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
-2. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
-3. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 🎉 Merged PR [#6](https://github.com/agoose77/hatch-nodejs-version/pull/6) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 💪 Opened PR [#6](https://github.com/agoose77/hatch-nodejs-version/pull/6) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+1. 💪 Opened PR [#1690](https://github.com/scikit-hep/awkward/pull/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1676](https://github.com/scikit-hep/awkward/issues/1676) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
+4. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
+5. 🗣 Commented on [#1](https://github.com/agoose77/hatch-nodejs-version/issues/1) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
