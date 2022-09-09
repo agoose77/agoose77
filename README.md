@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#704](https://github.com/scikit-hep/uproot5/issues/704) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 💪 Opened PR [#1690](https://github.com/scikit-hep/awkward/pull/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1676](https://github.com/scikit-hep/awkward/issues/1676) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
+2. 🗣 Commented on [#704](https://github.com/scikit-hep/uproot5/issues/704) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 💪 Opened PR [#1690](https://github.com/scikit-hep/awkward/pull/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1676](https://github.com/scikit-hep/awkward/issues/1676) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 5. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
 <!--END_SECTION:activity-->
 
