@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#704](https://github.com/scikit-hep/uproot5/issues/704) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 🎉 Merged PR [#7](https://github.com/agoose77/hatch-nodejs-version/pull/7) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 2. 🗣 Commented on [#704](https://github.com/scikit-hep/uproot5/issues/704) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 💪 Opened PR [#1690](https://github.com/scikit-hep/awkward/pull/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#1676](https://github.com/scikit-hep/awkward/issues/1676) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#222](https://github.com/jupyterlab/extension-cookiecutter-ts/issues/222) in [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts)
+3. 🗣 Commented on [#704](https://github.com/scikit-hep/uproot5/issues/704) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 💪 Opened PR [#1690](https://github.com/scikit-hep/awkward/pull/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1676](https://github.com/scikit-hep/awkward/issues/1676) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
