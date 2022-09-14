@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗️ Closed issue [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗️ Opened issue [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗️ Closed issue [#12](https://github.com/agoose77/hatch-nodejs-version/issues/12) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. ❗️ Opened issue [#1693](https://github.com/scikit-hep/awkward/issues/1693) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1694](https://github.com/scikit-hep/awkward/issues/1694) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Closed issue [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗️ Opened issue [#1696](https://github.com/scikit-hep/awkward/issues/1696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗️ Closed issue [#12](https://github.com/agoose77/hatch-nodejs-version/issues/12) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
