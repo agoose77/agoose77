@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#712](https://github.com/scikit-hep/uproot5/issues/712) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#81](https://github.com/ContinuumIO/dask-awkward/pull/81) in [ContinuumIO/dask-awkward](https://github.com/ContinuumIO/dask-awkward)
-4. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1638](https://github.com/pybind/pybind11/issues/1638) in [pybind/pybind11](https://github.com/pybind/pybind11)
+1. 💪 Opened PR [#713](https://github.com/scikit-hep/uproot5/pull/713) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#712](https://github.com/scikit-hep/uproot5/issues/712) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#81](https://github.com/ContinuumIO/dask-awkward/pull/81) in [ContinuumIO/dask-awkward](https://github.com/ContinuumIO/dask-awkward)
+5. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
