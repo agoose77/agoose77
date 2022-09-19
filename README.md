@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/agoose77/markdown-it-mermaid/issues/6) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-2. ❗️ Closed issue [#1](https://github.com/agoose77/markdown-it-mermaid/issues/1) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-3. 🎉 Merged PR [#6](https://github.com/agoose77/markdown-it-mermaid/pull/6) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-4. ❗️ Closed issue [#712](https://github.com/scikit-hep/uproot5/issues/712) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🎉 Merged PR [#713](https://github.com/scikit-hep/uproot5/pull/713) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#6](https://github.com/agoose77/markdown-it-mermaid/issues/6) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+3. ❗️ Closed issue [#1](https://github.com/agoose77/markdown-it-mermaid/issues/1) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+4. 🎉 Merged PR [#6](https://github.com/agoose77/markdown-it-mermaid/pull/6) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+5. ❗️ Closed issue [#712](https://github.com/scikit-hep/uproot5/issues/712) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
 
 
