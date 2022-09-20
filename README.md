@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4341](https://github.com/squidfunk/mkdocs-material/issues/4341) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-2. 🗣 Commented on [#4341](https://github.com/squidfunk/mkdocs-material/issues/4341) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-3. 🎉 Merged PR [#11](https://github.com/agoose77/gco-ext/pull/11) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
-4. 🗣 Commented on [#722](https://github.com/scikit-hep/uproot5/issues/722) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🗣 Commented on [#717](https://github.com/scikit-hep/uproot5/issues/717) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 💪 Opened PR [#1708](https://github.com/scikit-hep/awkward/pull/1708) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#721](https://github.com/scikit-hep/uproot5/issues/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. ❌ Reopened PR [#721](https://github.com/scikit-hep/uproot5/pull/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. ❌ Closed PR [#721](https://github.com/scikit-hep/uproot5/pull/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#1707](https://github.com/scikit-hep/awkward/issues/1707) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
