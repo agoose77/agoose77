@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/scikit-hep/uproot5/issues/722) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#717](https://github.com/scikit-hep/uproot5/issues/717) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#715](https://github.com/scikit-hep/uproot5/issues/715) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#6](https://github.com/agoose77/markdown-it-mermaid/issues/6) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+1. 🎉 Merged PR [#11](https://github.com/agoose77/gco-ext/pull/11) in [agoose77/gco-ext](https://github.com/agoose77/gco-ext)
+2. 🗣 Commented on [#722](https://github.com/scikit-hep/uproot5/issues/722) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🗣 Commented on [#717](https://github.com/scikit-hep/uproot5/issues/717) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#715](https://github.com/scikit-hep/uproot5/issues/715) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
