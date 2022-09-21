@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#721](https://github.com/scikit-hep/uproot5/pull/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#13](https://github.com/agoose77/hatch-nodejs-version/issues/13) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-3. 💪 Opened PR [#13](https://github.com/agoose77/hatch-nodejs-version/pull/13) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 💪 Opened PR [#1708](https://github.com/scikit-hep/awkward/pull/1708) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#721](https://github.com/scikit-hep/uproot5/issues/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 🗣 Commented on [#4341](https://github.com/squidfunk/mkdocs-material/issues/4341) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+2. 🎉 Merged PR [#13](https://github.com/agoose77/hatch-nodejs-version/pull/13) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🗣 Commented on [#13](https://github.com/agoose77/hatch-nodejs-version/issues/13) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 🎉 Merged PR [#721](https://github.com/scikit-hep/uproot5/pull/721) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#13](https://github.com/agoose77/hatch-nodejs-version/issues/13) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
 
 
