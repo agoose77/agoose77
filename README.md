@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#727](https://github.com/scikit-hep/uproot5/issues/727) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 2. 🗣 Commented on [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Closed PR [#259](https://github.com/scikit-hep/vector/pull/259) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#259](https://github.com/scikit-hep/vector/issues/259) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. ❗️ Opened issue [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Closed PR [#259](https://github.com/scikit-hep/vector/pull/259) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#259](https://github.com/scikit-hep/vector/issues/259) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
