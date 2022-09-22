@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#99](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/99) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-2. 🗣 Commented on [#99](https://github.com/executablebooks/sphinx-jupyterbook-latex/issues/99) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-3. ❗️ Opened issue [#1713](https://github.com/scikit-hep/awkward/issues/1713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#1712](https://github.com/scikit-hep/awkward/pull/1712) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1708](https://github.com/scikit-hep/awkward/issues/1708) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#63](https://github.com/agoose77/jupyterlab-markup/issues/63) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+2. ❗️ Closed issue [#4](https://github.com/agoose77/markdown-it-mermaid/issues/4) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+3. 🗣 Commented on [#7](https://github.com/agoose77/markdown-it-mermaid/issues/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+4. 🎉 Merged PR [#7](https://github.com/agoose77/markdown-it-mermaid/pull/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+5. ❌ Closed PR [#99](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/99) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
 <!--END_SECTION:activity-->
 
 
