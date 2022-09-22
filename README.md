@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#727](https://github.com/scikit-hep/uproot5/issues/727) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1719](https://github.com/scikit-hep/awkward/issues/1719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1690](https://github.com/scikit-hep/awkward/issues/1690) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#727](https://github.com/scikit-hep/uproot5/issues/727) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
 
 
