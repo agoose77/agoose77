@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/agoose77/jupyterlab-markup/issues/63) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
-2. ❗️ Closed issue [#4](https://github.com/agoose77/markdown-it-mermaid/issues/4) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-3. 🗣 Commented on [#7](https://github.com/agoose77/markdown-it-mermaid/issues/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-4. 🎉 Merged PR [#7](https://github.com/agoose77/markdown-it-mermaid/pull/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-5. ❌ Closed PR [#99](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/99) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+1. ❗️ Opened issue [#507](https://github.com/pypa/hatch/issues/507) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🗣 Commented on [#63](https://github.com/agoose77/jupyterlab-markup/issues/63) in [agoose77/jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
+3. ❗️ Closed issue [#4](https://github.com/agoose77/markdown-it-mermaid/issues/4) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+4. 🗣 Commented on [#7](https://github.com/agoose77/markdown-it-mermaid/issues/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
+5. 🎉 Merged PR [#7](https://github.com/agoose77/markdown-it-mermaid/pull/7) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
 <!--END_SECTION:activity-->
 
 
