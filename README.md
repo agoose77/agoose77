@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/jupyterlab/hatch-jupyter-builder/issues/72) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
-2. 💪 Opened PR [#378](https://github.com/K3D-tools/K3D-jupyter/pull/378) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
-3. 🗣 Commented on [#377](https://github.com/K3D-tools/K3D-jupyter/issues/377) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
-4. 🎉 Merged PR [#7](https://github.com/agoose77/pysrim/pull/7) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
-5. 💪 Opened PR [#7](https://github.com/agoose77/pysrim/pull/7) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+1. 💪 Opened PR [#1730](https://github.com/scikit-hep/awkward/pull/1730) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#736](https://github.com/scikit-hep/uproot5/issues/736) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 💪 Opened PR [#736](https://github.com/scikit-hep/uproot5/pull/736) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#1729](https://github.com/scikit-hep/awkward/issues/1729) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗️ Opened issue [#1728](https://github.com/scikit-hep/awkward/issues/1728) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
