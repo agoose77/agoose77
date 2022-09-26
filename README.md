@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/agoose77/pysrim/pull/4) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
-2. 🎉 Merged PR [#5](https://github.com/agoose77/pysrim/pull/5) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
-3. 💪 Opened PR [#5](https://github.com/agoose77/pysrim/pull/5) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
-4. 💪 Opened PR [#4](https://github.com/agoose77/pysrim/pull/4) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
-5. 🎉 Merged PR [#3](https://github.com/agoose77/pysrim/pull/3) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+1. 🎉 Merged PR [#7](https://github.com/agoose77/pysrim/pull/7) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+2. 💪 Opened PR [#7](https://github.com/agoose77/pysrim/pull/7) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+3. 🎉 Merged PR [#6](https://github.com/agoose77/pysrim/pull/6) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+4. 💪 Opened PR [#6](https://github.com/agoose77/pysrim/pull/6) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
+5. 🎉 Merged PR [#4](https://github.com/agoose77/pysrim/pull/4) in [agoose77/pysrim](https://github.com/agoose77/pysrim)
 <!--END_SECTION:activity-->
 
 
