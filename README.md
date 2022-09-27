@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1735](https://github.com/scikit-hep/awkward/issues/1735) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#1734](https://github.com/scikit-hep/awkward/pull/1734) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#36](https://github.com/executablebooks/mdit-py-plugins/issues/36) in [executablebooks/mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins)
-4. 🗣 Commented on [#36](https://github.com/executablebooks/mdit-py-plugins/issues/36) in [executablebooks/mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins)
-5. 🗣 Commented on [#36](https://github.com/executablebooks/mdit-py-plugins/issues/36) in [executablebooks/mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins)
+1. ❗️ Reopened issue [#1736](https://github.com/scikit-hep/awkward/issues/1736) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗️ Closed issue [#1713](https://github.com/scikit-hep/awkward/issues/1713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1713](https://github.com/scikit-hep/awkward/issues/1713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗️ Opened issue [#1736](https://github.com/scikit-hep/awkward/issues/1736) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗️ Opened issue [#1735](https://github.com/scikit-hep/awkward/issues/1735) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
