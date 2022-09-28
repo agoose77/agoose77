@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1732](https://github.com/scikit-hep/awkward/issues/1732) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗️ Opened issue [#1741](https://github.com/scikit-hep/awkward/issues/1741) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1738](https://github.com/scikit-hep/awkward/issues/1738) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#1739](https://github.com/scikit-hep/awkward/issues/1739) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1732](https://github.com/scikit-hep/awkward/issues/1732) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#374](https://github.com/K3D-tools/K3D-jupyter/issues/374) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
+2. 🗣 Commented on [#1732](https://github.com/scikit-hep/awkward/issues/1732) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗️ Opened issue [#1741](https://github.com/scikit-hep/awkward/issues/1741) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1738](https://github.com/scikit-hep/awkward/issues/1738) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1739](https://github.com/scikit-hep/awkward/issues/1739) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
