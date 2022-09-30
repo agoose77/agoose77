@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#736](https://github.com/scikit-hep/uproot5/issues/736) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#1755](https://github.com/scikit-hep/awkward/issues/1755) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗️ Opened issue [#11475](https://github.com/pypa/pip/issues/11475) in [pypa/pip](https://github.com/pypa/pip)
-4. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1758](https://github.com/scikit-hep/awkward/issues/1758) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#736](https://github.com/scikit-hep/uproot5/issues/736) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🗣 Commented on [#1755](https://github.com/scikit-hep/awkward/issues/1755) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗️ Opened issue [#11475](https://github.com/pypa/pip/issues/11475) in [pypa/pip](https://github.com/pypa/pip)
 5. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
