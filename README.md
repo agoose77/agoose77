@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11475](https://github.com/pypa/pip/issues/11475) in [pypa/pip](https://github.com/pypa/pip)
-2. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1755](https://github.com/scikit-hep/awkward/issues/1755) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗️ Opened issue [#11475](https://github.com/pypa/pip/issues/11475) in [pypa/pip](https://github.com/pypa/pip)
 3. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 4. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1748](https://github.com/scikit-hep/awkward/issues/1748) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1757](https://github.com/scikit-hep/awkward/issues/1757) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
