@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1763](https://github.com/scikit-hep/awkward/issues/1763) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1763](https://github.com/scikit-hep/awkward/issues/1763) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗️ Closed issue [#1745](https://github.com/scikit-hep/awkward/issues/1745) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#1751](https://github.com/scikit-hep/awkward/pull/1751) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1628](https://github.com/scikit-hep/awkward/issues/1628) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1763](https://github.com/scikit-hep/awkward/issues/1763) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1763](https://github.com/scikit-hep/awkward/issues/1763) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗️ Closed issue [#1745](https://github.com/scikit-hep/awkward/issues/1745) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
