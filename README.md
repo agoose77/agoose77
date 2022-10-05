@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#1769](https://github.com/scikit-hep/awkward/pull/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. ❌ Closed PR [#1769](https://github.com/scikit-hep/awkward/pull/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1769](https://github.com/scikit-hep/awkward/issues/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#1770](https://github.com/scikit-hep/awkward/issues/1770) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#378](https://github.com/K3D-tools/K3D-jupyter/issues/378) in [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
+3. ❌ Reopened PR [#1769](https://github.com/scikit-hep/awkward/pull/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Closed PR [#1769](https://github.com/scikit-hep/awkward/pull/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1769](https://github.com/scikit-hep/awkward/issues/1769) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
