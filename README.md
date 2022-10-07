@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#371](https://github.com/scikit-hep/cabinetry/pull/371) in [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry)
-2. 🗣 Commented on [#532](https://github.com/pypa/hatch/issues/532) in [pypa/hatch](https://github.com/pypa/hatch)
-3. 🗣 Commented on [#532](https://github.com/pypa/hatch/issues/532) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#1775](https://github.com/scikit-hep/awkward/issues/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1773](https://github.com/scikit-hep/awkward/issues/1773) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#1775](https://github.com/scikit-hep/awkward/pull/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1775](https://github.com/scikit-hep/awkward/issues/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#371](https://github.com/scikit-hep/cabinetry/pull/371) in [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry)
+4. 🗣 Commented on [#532](https://github.com/pypa/hatch/issues/532) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🗣 Commented on [#532](https://github.com/pypa/hatch/issues/532) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 
