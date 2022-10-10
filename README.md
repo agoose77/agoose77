@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1778](https://github.com/scikit-hep/awkward/pull/1778) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#503](https://github.com/scikit-hep/awkward/issues/503) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1772](https://github.com/scikit-hep/awkward/issues/1772) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#1778](https://github.com/scikit-hep/awkward/pull/1778) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 4. 🗣 Commented on [#503](https://github.com/scikit-hep/awkward/issues/503) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#371](https://github.com/scikit-hep/cabinetry/issues/371) in [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry)
+5. 🗣 Commented on [#503](https://github.com/scikit-hep/awkward/issues/503) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
