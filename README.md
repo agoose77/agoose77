@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 2. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 3. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#1782](https://github.com/scikit-hep/awkward/pull/1782) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1776](https://github.com/scikit-hep/awkward/issues/1776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#1782](https://github.com/scikit-hep/awkward/pull/1782) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
