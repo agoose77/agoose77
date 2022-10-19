@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1812](https://github.com/scikit-hep/awkward/pull/1812) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1811](https://github.com/scikit-hep/awkward/issues/1811) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#1811](https://github.com/scikit-hep/awkward/pull/1811) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#9673](https://github.com/readthedocs/readthedocs.org/issues/9673) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
-5. 🗣 Commented on [#9673](https://github.com/readthedocs/readthedocs.org/issues/9673) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+1. ❌ Reopened PR [#1810](https://github.com/scikit-hep/awkward/pull/1810) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❌ Closed PR [#1810](https://github.com/scikit-hep/awkward/pull/1810) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#1812](https://github.com/scikit-hep/awkward/pull/1812) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1811](https://github.com/scikit-hep/awkward/issues/1811) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#1811](https://github.com/scikit-hep/awkward/pull/1811) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
