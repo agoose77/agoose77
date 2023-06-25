@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#28](https://github.com/conda-forge/dask-awkward-feedstock/pull/28) in [conda-forge/dask-awkward-feedstock](https://github.com/conda-forge/dask-awkward-feedstock)
+2. 🗣 Commented on [#28](https://github.com/conda-forge/dask-awkward-feedstock/issues/28) in [conda-forge/dask-awkward-feedstock](https://github.com/conda-forge/dask-awkward-feedstock)
+3. 💪 Opened PR [#163](https://github.com/executablebooks/jupyterlab-myst/pull/163) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#2541](https://github.com/scikit-hep/awkward/issues/2541) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#11](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/11) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
 <!--END_SECTION:activity-->
