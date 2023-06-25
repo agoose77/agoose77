@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/agoose77?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/agoose77)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
