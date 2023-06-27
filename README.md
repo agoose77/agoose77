@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#300](https://github.com/dask-contrib/dask-awkward/issues/300) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❌ Reopened PR [#900](https://github.com/scikit-hep/uproot5/pull/900) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#2547](https://github.com/scikit-hep/awkward/pull/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1043](https://github.com/executablebooks/meta/issues/1043) in [executablebooks/meta](https://github.com/executablebooks/meta)
+2. 🗣 Commented on [#300](https://github.com/dask-contrib/dask-awkward/issues/300) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. ❌ Reopened PR [#900](https://github.com/scikit-hep/uproot5/pull/900) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#2547](https://github.com/scikit-hep/awkward/pull/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
