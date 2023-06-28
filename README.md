@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 3. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 4. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#2545](https://github.com/scikit-hep/awkward/issues/2545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
