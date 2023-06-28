@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#147](https://github.com/executablebooks/jupyterlab-myst/issues/147) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#2540](https://github.com/scikit-hep/awkward/issues/2540) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 3. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 4. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 5. 🗣 Commented on [#2547](https://github.com/scikit-hep/awkward/issues/2547) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
