@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2554](https://github.com/scikit-hep/awkward/pull/2554) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2553](https://github.com/scikit-hep/awkward/issues/2553) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#3776](https://github.com/MDAnalysis/mdanalysis/issues/3776) in [MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
-4. 🎉 Merged PR [#2552](https://github.com/scikit-hep/awkward/pull/2552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#900](https://github.com/scikit-hep/uproot5/pull/900) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. ❗ Opened issue [#305](https://github.com/dask-contrib/dask-awkward/issues/305) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 💪 Opened PR [#2554](https://github.com/scikit-hep/awkward/pull/2554) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2553](https://github.com/scikit-hep/awkward/issues/2553) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#3776](https://github.com/MDAnalysis/mdanalysis/issues/3776) in [MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
+5. 🎉 Merged PR [#2552](https://github.com/scikit-hep/awkward/pull/2552) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
