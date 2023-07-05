@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/conda-forge/awkward-cpp-feedstock/pull/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-2. 🎉 Merged PR [#114](https://github.com/conda-forge/awkward-feedstock/pull/114) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-3. 🗣 Commented on [#26](https://github.com/conda-forge/awkward-cpp-feedstock/issues/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-4. 💪 Opened PR [#26](https://github.com/conda-forge/awkward-cpp-feedstock/pull/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-5. 🚀 Published release [Version 2.3.0](https://github.com/Version 2.3.0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗ Opened issue [#2569](https://github.com/scikit-hep/awkward/issues/2569) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#26](https://github.com/conda-forge/awkward-cpp-feedstock/pull/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
+3. 🎉 Merged PR [#114](https://github.com/conda-forge/awkward-feedstock/pull/114) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+4. 🗣 Commented on [#26](https://github.com/conda-forge/awkward-cpp-feedstock/issues/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
+5. 💪 Opened PR [#26](https://github.com/conda-forge/awkward-cpp-feedstock/pull/26) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
 <!--END_SECTION:activity-->
