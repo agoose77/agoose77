@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1035](https://github.com/scverse/anndata/issues/1035) in [scverse/anndata](https://github.com/scverse/anndata)
-2. 🎉 Merged PR [#115](https://github.com/conda-forge/awkward-feedstock/pull/115) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-3. 🗣 Commented on [#115](https://github.com/conda-forge/awkward-feedstock/issues/115) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-4. 🗣 Commented on [#2367](https://github.com/scikit-hep/awkward/issues/2367) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2572](https://github.com/scikit-hep/awkward/pull/2572) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1035](https://github.com/scverse/anndata/issues/1035) in [scverse/anndata](https://github.com/scverse/anndata)
+3. 🎉 Merged PR [#115](https://github.com/conda-forge/awkward-feedstock/pull/115) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+4. 🗣 Commented on [#115](https://github.com/conda-forge/awkward-feedstock/issues/115) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+5. 🗣 Commented on [#2367](https://github.com/scikit-hep/awkward/issues/2367) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
