@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2597](https://github.com/scikit-hep/awkward/issues/2597#issuecomment-1655683079) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗ Opened issue [#2596](https://github.com/scikit-hep/awkward/issues/2596) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#2595](https://github.com/scikit-hep/awkward/pull/2595) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗ Opened issue [#2594](https://github.com/scikit-hep/awkward/issues/2594) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#2591](https://github.com/scikit-hep/awkward/issues/2591#issuecomment-1652538980) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2598](https://github.com/scikit-hep/awkward/issues/2598#issuecomment-1656243029) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#2598](https://github.com/scikit-hep/awkward/issues/2598) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2597](https://github.com/scikit-hep/awkward/issues/2597#issuecomment-1655683079) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗ Opened issue [#2596](https://github.com/scikit-hep/awkward/issues/2596) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#2595](https://github.com/scikit-hep/awkward/pull/2595) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
