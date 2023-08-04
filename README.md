@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/scientific-python/upload-nightly-action/issues/29) in [scientific-python/upload-nightly-action](https://github.com/scientific-python/upload-nightly-action)
-2. 💪 Opened PR [#2613](https://github.com/scikit-hep/awkward/pull/2613) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1665406364) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2605](https://github.com/scikit-hep/awkward/issues/2605#issuecomment-1665401054) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#2604](https://github.com/scikit-hep/awkward/pull/2604#issuecomment-1665384855) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗ Opened issue [#2615](https://github.com/scikit-hep/awkward/issues/2615) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#2614](https://github.com/scikit-hep/awkward/issues/2614) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗ Opened issue [#29](https://github.com/scientific-python/upload-nightly-action/issues/29) in [scientific-python/upload-nightly-action](https://github.com/scientific-python/upload-nightly-action)
+4. 💪 Opened PR [#2613](https://github.com/scikit-hep/awkward/pull/2613) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1665406364) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
