@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2640](https://github.com/scikit-hep/awkward/pull/2640) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🔒 Closed issue [#2578](https://github.com/scikit-hep/awkward/issues/2578) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🔒 Closed issue [#2578](https://github.com/scikit-hep/awkward/issues/2578) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🔒 Closed issue [#2624](https://github.com/scikit-hep/awkward/issues/2624) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2631](https://github.com/scikit-hep/awkward/pull/2631) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2635](https://github.com/scikit-hep/awkward/pull/2635#issuecomment-1675449122) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#19](https://github.com/agoose77/hatch-nodejs-version/issues/19#issuecomment-1675448387) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 💪 Opened PR [#2640](https://github.com/scikit-hep/awkward/pull/2640) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🔒 Closed issue [#2578](https://github.com/scikit-hep/awkward/issues/2578) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🔒 Closed issue [#2578](https://github.com/scikit-hep/awkward/issues/2578) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
