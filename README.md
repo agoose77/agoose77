@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2643](https://github.com/scikit-hep/awkward/pull/2643) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#116](https://github.com/conda-forge/awkward-feedstock/pull/116) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-3. 🎉 Merged PR [#2641](https://github.com/scikit-hep/awkward/pull/2641) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#116](https://github.com/conda-forge/awkward-feedstock/pull/116#issuecomment-1675842662) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-5. 🗣 Commented on [#2635](https://github.com/scikit-hep/awkward/pull/2635#issuecomment-1675449122) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1677800532) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#2643](https://github.com/scikit-hep/awkward/pull/2643) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#116](https://github.com/conda-forge/awkward-feedstock/pull/116) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+4. 🎉 Merged PR [#2641](https://github.com/scikit-hep/awkward/pull/2641) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#116](https://github.com/conda-forge/awkward-feedstock/pull/116#issuecomment-1675842662) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
 <!--END_SECTION:activity-->
