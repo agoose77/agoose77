@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2654](https://github.com/scikit-hep/awkward/pull/2654) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2654](https://github.com/scikit-hep/awkward/pull/2654#issuecomment-1682232870) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#2654](https://github.com/scikit-hep/awkward/pull/2654) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#177](https://github.com/executablebooks/jupyterlab-myst/pull/177#issuecomment-1681778865) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 💪 Opened PR [#941](https://github.com/scikit-hep/uproot5/pull/941) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 💪 Opened PR [#2657](https://github.com/scikit-hep/awkward/pull/2657) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#2654](https://github.com/scikit-hep/awkward/pull/2654) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2654](https://github.com/scikit-hep/awkward/pull/2654#issuecomment-1682232870) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#2654](https://github.com/scikit-hep/awkward/pull/2654) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#177](https://github.com/executablebooks/jupyterlab-myst/pull/177#issuecomment-1681778865) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
