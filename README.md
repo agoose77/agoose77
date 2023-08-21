@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1684195270) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#5](https://github.com/hrosiak/pycatima/pull/5#issuecomment-1684191028) in [hrosiak/pycatima](https://github.com/hrosiak/pycatima)
-3. 💪 Opened PR [#5](https://github.com/hrosiak/pycatima/pull/5) in [hrosiak/pycatima](https://github.com/hrosiak/pycatima)
-4. 🗣 Commented on [#2658](https://github.com/scikit-hep/awkward/pull/2658#issuecomment-1684177098) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2658](https://github.com/scikit-hep/awkward/pull/2658) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#2662](https://github.com/scikit-hep/awkward/pull/2662) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1684195270) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#5](https://github.com/hrosiak/pycatima/pull/5#issuecomment-1684191028) in [hrosiak/pycatima](https://github.com/hrosiak/pycatima)
+4. 💪 Opened PR [#5](https://github.com/hrosiak/pycatima/pull/5) in [hrosiak/pycatima](https://github.com/hrosiak/pycatima)
+5. 🗣 Commented on [#2658](https://github.com/scikit-hep/awkward/pull/2658#issuecomment-1684177098) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
