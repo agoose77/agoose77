@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2660](https://github.com/scikit-hep/awkward/pull/2660#issuecomment-1686793020) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#7](https://github.com/HSF/PyHEP.dev-workshops/issues/7#issuecomment-1686604971) in [HSF/PyHEP.dev-workshops](https://github.com/HSF/PyHEP.dev-workshops)
-3. 🗣 Commented on [#2660](https://github.com/scikit-hep/awkward/pull/2660#issuecomment-1686294579) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2659](https://github.com/scikit-hep/awkward/pull/2659#issuecomment-1686247621) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2662](https://github.com/scikit-hep/awkward/pull/2662) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2660](https://github.com/scikit-hep/awkward/pull/2660#issuecomment-1686830829) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2660](https://github.com/scikit-hep/awkward/pull/2660#issuecomment-1686793020) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#7](https://github.com/HSF/PyHEP.dev-workshops/issues/7#issuecomment-1686604971) in [HSF/PyHEP.dev-workshops](https://github.com/HSF/PyHEP.dev-workshops)
+4. 🗣 Commented on [#2660](https://github.com/scikit-hep/awkward/pull/2660#issuecomment-1686294579) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2659](https://github.com/scikit-hep/awkward/pull/2659#issuecomment-1686247621) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
