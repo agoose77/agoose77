@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2671](https://github.com/scikit-hep/awkward/pull/2671#issuecomment-1693545212) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#351](https://github.com/dask-contrib/dask-awkward/pull/351) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 🗣 Commented on [#2671](https://github.com/scikit-hep/awkward/pull/2671#issuecomment-1693527735) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#349](https://github.com/dask-contrib/dask-awkward/pull/349) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#2667](https://github.com/scikit-hep/awkward/issues/2667#issuecomment-1693430187) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#623](https://github.com/emscripten-forge/recipes/pull/623#issuecomment-1694376758) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+2. 💪 Opened PR [#623](https://github.com/emscripten-forge/recipes/pull/623) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+3. ❌ Closed PR [#283](https://github.com/emscripten-forge/recipes/pull/283) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+4. 🗣 Commented on [#2671](https://github.com/scikit-hep/awkward/pull/2671#issuecomment-1693545212) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#351](https://github.com/dask-contrib/dask-awkward/pull/351) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
