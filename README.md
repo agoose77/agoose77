@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4101](https://github.com/pyodide/pyodide/pull/4101) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🗣 Commented on [#623](https://github.com/emscripten-forge/recipes/pull/623#issuecomment-1696004590) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
-3. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1695812577) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🎉 Merged PR [#2671](https://github.com/scikit-hep/awkward/pull/2671) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#623](https://github.com/emscripten-forge/recipes/pull/623#issuecomment-1694376758) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+1. 🗣 Commented on [#2676](https://github.com/scikit-hep/awkward/issues/2676#issuecomment-1696984809) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#4101](https://github.com/pyodide/pyodide/pull/4101) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+3. 🗣 Commented on [#623](https://github.com/emscripten-forge/recipes/pull/623#issuecomment-1696004590) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+4. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1695812577) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🎉 Merged PR [#2671](https://github.com/scikit-hep/awkward/pull/2671) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
