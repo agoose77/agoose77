@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2679](https://github.com/scikit-hep/awkward/pull/2679#issuecomment-1698958479) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132#issuecomment-1698687536) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-3. 🗣 Commented on [#1122](https://github.com/jupyterlite/jupyterlite/issues/1122#issuecomment-1698686071) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-4. 🗣 Commented on [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132#issuecomment-1698098029) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-5. 🎉 Merged PR [#13](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/13) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
+1. 🗣 Commented on [#37437](https://github.com/apache/arrow/issues/37437#issuecomment-1699088345) in [apache/arrow](https://github.com/apache/arrow)
+2. 🗣 Commented on [#2679](https://github.com/scikit-hep/awkward/pull/2679#issuecomment-1698958479) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132#issuecomment-1698687536) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+4. 🗣 Commented on [#1122](https://github.com/jupyterlite/jupyterlite/issues/1122#issuecomment-1698686071) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+5. 🗣 Commented on [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132#issuecomment-1698098029) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
 <!--END_SECTION:activity-->
