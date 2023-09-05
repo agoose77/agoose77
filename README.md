@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/dask-contrib/dask-awkward/pull/351#issuecomment-1706848656) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❗ Opened issue [#2694](https://github.com/scikit-hep/awkward/issues/2694) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2692](https://github.com/scikit-hep/awkward/pull/2692) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#2693](https://github.com/scikit-hep/awkward/pull/2693) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2689](https://github.com/scikit-hep/awkward/pull/2689) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1707295356) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+2. 🔒 Closed issue [#19](https://github.com/agoose77/hatch-nodejs-version/issues/19) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🗣 Commented on [#19](https://github.com/agoose77/hatch-nodejs-version/issues/19#issuecomment-1707292672) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 🎉 Merged PR [#20](https://github.com/agoose77/hatch-nodejs-version/pull/20) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🗣 Commented on [#20](https://github.com/agoose77/hatch-nodejs-version/pull/20#issuecomment-1707292253) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
