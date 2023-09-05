@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/executablebooks/jupyterlab-myst/pull/183) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 💪 Opened PR [#183](https://github.com/executablebooks/jupyterlab-myst/pull/183) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🚀 Published release [v2.4.1](https://github.com/scikit-hep/awkward/releases/tag/v2.4.1) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🚀 Published release [Version 2.4.0](https://github.com/scikit-hep/awkward/releases/tag/v2.4.0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#630](https://github.com/emscripten-forge/recipes/pull/630#issuecomment-1705646729) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+1. ❗ Opened issue [#356](https://github.com/dask-contrib/dask-awkward/issues/356) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🎉 Merged PR [#118](https://github.com/conda-forge/awkward-feedstock/pull/118) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+3. 🎉 Merged PR [#183](https://github.com/executablebooks/jupyterlab-myst/pull/183) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 💪 Opened PR [#183](https://github.com/executablebooks/jupyterlab-myst/pull/183) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🚀 Published release [v2.4.1](https://github.com/scikit-hep/awkward/releases/tag/v2.4.1) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
