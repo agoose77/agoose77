@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-2. 🔒 Closed issue [#22](https://github.com/agoose77/hatch-nodejs-version/issues/22) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-3. 🗣 Commented on [#22](https://github.com/agoose77/hatch-nodejs-version/issues/22#issuecomment-1708190872) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 🚀 Published release [v0.3.2](https://github.com/agoose77/hatch-nodejs-version/releases/tag/v0.3.2) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1707975060) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🔒 Closed issue [#344](https://github.com/dask-contrib/dask-awkward/issues/344) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🎉 Merged PR [#354](https://github.com/dask-contrib/dask-awkward/pull/354) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. ❌ Closed PR [#1132](https://github.com/jupyterlite/jupyterlite/pull/1132) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+4. 🔒 Closed issue [#22](https://github.com/agoose77/hatch-nodejs-version/issues/22) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🗣 Commented on [#22](https://github.com/agoose77/hatch-nodejs-version/issues/22#issuecomment-1708190872) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
