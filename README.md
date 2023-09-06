@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2697](https://github.com/scikit-hep/awkward/pull/2697#issuecomment-1708890391) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#2697](https://github.com/scikit-hep/awkward/pull/2697) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Closed PR [#2696](https://github.com/scikit-hep/awkward/pull/2696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2696](https://github.com/scikit-hep/awkward/pull/2696#issuecomment-1708852735) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2696](https://github.com/scikit-hep/awkward/pull/2696) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#29](https://github.com/jupyterlite/xeus-python-demo/pull/29) in [jupyterlite/xeus-python-demo](https://github.com/jupyterlite/xeus-python-demo)
+2. 🚀 Published release [Version 2.4.2](https://github.com/scikit-hep/awkward/releases/tag/v2.4.2) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🔒 Closed issue [#2695](https://github.com/scikit-hep/awkward/issues/2695) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🎉 Merged PR [#2697](https://github.com/scikit-hep/awkward/pull/2697) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#26](https://github.com/conda-forge/hist-feedstock/pull/26#issuecomment-1708951118) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
 <!--END_SECTION:activity-->
