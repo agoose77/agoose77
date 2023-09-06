@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/emscripten-forge/empack/pull/82#issuecomment-1709087150) in [emscripten-forge/empack](https://github.com/emscripten-forge/empack)
-2. 💪 Opened PR [#29](https://github.com/jupyterlite/xeus-python-demo/pull/29) in [jupyterlite/xeus-python-demo](https://github.com/jupyterlite/xeus-python-demo)
-3. 🚀 Published release [Version 2.4.2](https://github.com/scikit-hep/awkward/releases/tag/v2.4.2) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🔒 Closed issue [#2695](https://github.com/scikit-hep/awkward/issues/2695) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2697](https://github.com/scikit-hep/awkward/pull/2697) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1709194210) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+2. 💪 Opened PR [#27](https://github.com/conda-forge/hist-feedstock/pull/27) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+3. 🗣 Commented on [#82](https://github.com/emscripten-forge/empack/pull/82#issuecomment-1709087150) in [emscripten-forge/empack](https://github.com/emscripten-forge/empack)
+4. 💪 Opened PR [#29](https://github.com/jupyterlite/xeus-python-demo/pull/29) in [jupyterlite/xeus-python-demo](https://github.com/jupyterlite/xeus-python-demo)
+5. 🚀 Published release [Version 2.4.2](https://github.com/scikit-hep/awkward/releases/tag/v2.4.2) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
