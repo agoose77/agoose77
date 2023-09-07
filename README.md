@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1709194210) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
-2. 💪 Opened PR [#27](https://github.com/conda-forge/hist-feedstock/pull/27) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
-3. 🗣 Commented on [#82](https://github.com/emscripten-forge/empack/pull/82#issuecomment-1709087150) in [emscripten-forge/empack](https://github.com/emscripten-forge/empack)
-4. 💪 Opened PR [#29](https://github.com/jupyterlite/xeus-python-demo/pull/29) in [jupyterlite/xeus-python-demo](https://github.com/jupyterlite/xeus-python-demo)
-5. 🚀 Published release [Version 2.4.2](https://github.com/scikit-hep/awkward/releases/tag/v2.4.2) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#119](https://github.com/conda-forge/awkward-feedstock/pull/119) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+2. 🗣 Commented on [#805](https://github.com/executablebooks/MyST-Parser/issues/805#issuecomment-1709838643) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
+3. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1709194210) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+4. 💪 Opened PR [#27](https://github.com/conda-forge/hist-feedstock/pull/27) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+5. 🗣 Commented on [#82](https://github.com/emscripten-forge/empack/pull/82#issuecomment-1709087150) in [emscripten-forge/empack](https://github.com/emscripten-forge/empack)
 <!--END_SECTION:activity-->
