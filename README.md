@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/conda-forge/scipy-feedstock/issues/247#issuecomment-1710823683) in [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock)
-2. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710809228) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
-3. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710764019) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
-4. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710763590) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
-5. 🗣 Commented on [#327](https://github.com/dask-contrib/dask-awkward/pull/327#issuecomment-1710171655) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🎉 Merged PR [#2699](https://github.com/scikit-hep/awkward/pull/2699) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#247](https://github.com/conda-forge/scipy-feedstock/issues/247#issuecomment-1710823683) in [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock)
+3. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710809228) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+4. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710764019) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
+5. 🗣 Commented on [#27](https://github.com/conda-forge/hist-feedstock/pull/27#issuecomment-1710763590) in [conda-forge/hist-feedstock](https://github.com/conda-forge/hist-feedstock)
 <!--END_SECTION:activity-->
