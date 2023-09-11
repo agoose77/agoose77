@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a software developer 💻 with a background in experimental nuclear physisc :atom:. My interest lies in tools :wrench: to improve productivity :chart_with_upwards_trend: and scientific insight :telescope:, including rich documentation 📚, interactive computing 🧮, and more! 
+I'm a software developer 💻 with a background in experimental nuclear physics :atom:. My interest lies in tools :wrench: to improve productivity :chart_with_upwards_trend: and scientific insight :telescope:, including rich documentation 📚, interactive computing 🧮, and more! 
 
 I have experience in many aspects of software engineering, including game design, full-stack web development, and high-performance numeric computing. My main focus at Princeton is on the [Awkward Array project](awkward-array.org/), which describes itself as a library that can 
 > manipulate JSON-like data with NumPy-like idioms.
