@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2644](https://github.com/scikit-hep/awkward/pull/2644) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1715901782) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1715688501) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1714311280) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. ❌ Closed PR [#2700](https://github.com/scikit-hep/awkward/pull/2700) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗ Opened issue [#636](https://github.com/emscripten-forge/recipes/issues/636) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+2. 🎉 Merged PR [#2644](https://github.com/scikit-hep/awkward/pull/2644) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1715901782) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2644](https://github.com/scikit-hep/awkward/pull/2644#issuecomment-1715688501) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1714311280) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
