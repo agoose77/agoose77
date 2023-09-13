@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#636](https://github.com/emscripten-forge/recipes/issues/636#issuecomment-1716253974) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
-2. ❗ Opened issue [#2708](https://github.com/scikit-hep/awkward/issues/2708) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#636](https://github.com/emscripten-forge/recipes/issues/636#issuecomment-1716032077) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
-4. ❗ Opened issue [#636](https://github.com/emscripten-forge/recipes/issues/636) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
-5. 🎉 Merged PR [#2644](https://github.com/scikit-hep/awkward/pull/2644) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#637](https://github.com/emscripten-forge/recipes/issues/637#issuecomment-1717216995) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+2. ❗ Opened issue [#1](https://github.com/agoose77/pyhep-23-jupyterlite/issues/1) in [agoose77/pyhep-23-jupyterlite](https://github.com/agoose77/pyhep-23-jupyterlite)
+3. 🗣 Commented on [#636](https://github.com/emscripten-forge/recipes/issues/636#issuecomment-1716253974) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+4. ❗ Opened issue [#2708](https://github.com/scikit-hep/awkward/issues/2708) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#636](https://github.com/emscripten-forge/recipes/issues/636#issuecomment-1716032077) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
 <!--END_SECTION:activity-->
