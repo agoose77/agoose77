@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#956](https://github.com/scikit-hep/uproot5/pull/956) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#593](https://github.com/executablebooks/mystmd/issues/593#issuecomment-1718212068) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#1991](https://github.com/executablebooks/jupyter-book/issues/1991#issuecomment-1717589725) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. ❗ Opened issue [#954](https://github.com/scikit-hep/uproot5/issues/954) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🗣 Commented on [#637](https://github.com/emscripten-forge/recipes/issues/637#issuecomment-1717216995) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+1. 🎉 Merged PR [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1718924322) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 💪 Opened PR [#956](https://github.com/scikit-hep/uproot5/pull/956) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#593](https://github.com/executablebooks/mystmd/issues/593#issuecomment-1718212068) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1991](https://github.com/executablebooks/jupyter-book/issues/1991#issuecomment-1717589725) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
