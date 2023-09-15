@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1721171973) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1719922159) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1719348077) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1719324731) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🚀 Published release [v2.0.3a0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.0.3a0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#64](https://github.com/executablebooks/jupyterlab-myst/issues/64#issuecomment-1721340560) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1721171973) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1719922159) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#118](https://github.com/executablebooks/jupyterlab-myst/pull/118#issuecomment-1719348077) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#956](https://github.com/scikit-hep/uproot5/pull/956#issuecomment-1719324731) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
