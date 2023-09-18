@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#366](https://github.com/dask-contrib/dask-awkward/pull/366) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 💪 Opened PR [#2714](https://github.com/scikit-hep/awkward/pull/2714) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2713](https://github.com/scikit-hep/awkward/pull/2713#issuecomment-1722511087) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#2713](https://github.com/scikit-hep/awkward/pull/2713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#37757](https://github.com/apache/arrow/issues/37757) in [apache/arrow](https://github.com/apache/arrow)
+1. ❌ Reopened PR [#373](https://github.com/executablebooks/MyST-NB/pull/373) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. ❌ Closed PR [#373](https://github.com/executablebooks/MyST-NB/pull/373) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#529](https://github.com/executablebooks/MyST-NB/pull/529) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🎉 Merged PR [#534](https://github.com/executablebooks/MyST-NB/pull/534) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#538](https://github.com/executablebooks/MyST-NB/pull/538) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
