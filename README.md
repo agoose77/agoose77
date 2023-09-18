@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#366](https://github.com/dask-contrib/dask-awkward/pull/366#issuecomment-1723261877) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 🗣 Commented on [#2713](https://github.com/scikit-hep/awkward/pull/2713#issuecomment-1723182040) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723099277) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
-4. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723097384) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
-5. 💪 Opened PR [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
+1. 🗣 Commented on [#366](https://github.com/dask-contrib/dask-awkward/pull/366#issuecomment-1723600652) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#366](https://github.com/dask-contrib/dask-awkward/pull/366#issuecomment-1723261877) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#2713](https://github.com/scikit-hep/awkward/pull/2713#issuecomment-1723182040) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723099277) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
+5. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723097384) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
 <!--END_SECTION:activity-->
