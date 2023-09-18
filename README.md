@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#804](https://github.com/executablebooks/MyST-Parser/pull/804#issuecomment-1723057503) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
-2. 🗣 Commented on [#536](https://github.com/executablebooks/MyST-NB/pull/536#issuecomment-1723028231) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. ❌ Reopened PR [#373](https://github.com/executablebooks/MyST-NB/pull/373) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. ❌ Closed PR [#373](https://github.com/executablebooks/MyST-NB/pull/373) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🎉 Merged PR [#529](https://github.com/executablebooks/MyST-NB/pull/529) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723099277) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
+2. 🗣 Commented on [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21#issuecomment-1723097384) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
+3. 💪 Opened PR [#21](https://github.com/sphinx-extensions2/sphinx-pytest/pull/21) in [sphinx-extensions2/sphinx-pytest](https://github.com/sphinx-extensions2/sphinx-pytest)
+4. 🗣 Commented on [#804](https://github.com/executablebooks/MyST-Parser/pull/804#issuecomment-1723057503) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
+5. 🗣 Commented on [#536](https://github.com/executablebooks/MyST-NB/pull/536#issuecomment-1723028231) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
