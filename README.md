@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.3rc1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.0.3rc1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🎉 Merged PR [#187](https://github.com/executablebooks/jupyterlab-myst/pull/187) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🎉 Merged PR [#186](https://github.com/executablebooks/jupyterlab-myst/pull/186) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🎉 Merged PR [#190](https://github.com/executablebooks/jupyterlab-myst/pull/190) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 💪 Opened PR [#2719](https://github.com/scikit-hep/awkward/pull/2719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#2719](https://github.com/scikit-hep/awkward/pull/2719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🚀 Published release [v2.0.3rc1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.0.3rc1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🎉 Merged PR [#187](https://github.com/executablebooks/jupyterlab-myst/pull/187) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🎉 Merged PR [#186](https://github.com/executablebooks/jupyterlab-myst/pull/186) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🎉 Merged PR [#190](https://github.com/executablebooks/jupyterlab-myst/pull/190) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
