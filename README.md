@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#858](https://github.com/aws-actions/configure-aws-credentials/issues/858#issuecomment-1734298783) in [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
-2. 🎉 Merged PR [#2719](https://github.com/scikit-hep/awkward/pull/2719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🚀 Published release [v2.0.3rc1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.0.3rc1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🎉 Merged PR [#187](https://github.com/executablebooks/jupyterlab-myst/pull/187) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🎉 Merged PR [#186](https://github.com/executablebooks/jupyterlab-myst/pull/186) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🎉 Merged PR [#2721](https://github.com/scikit-hep/awkward/pull/2721) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#858](https://github.com/aws-actions/configure-aws-credentials/issues/858#issuecomment-1734298783) in [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
+3. 🎉 Merged PR [#2719](https://github.com/scikit-hep/awkward/pull/2719) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🚀 Published release [v2.0.3rc1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.0.3rc1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🎉 Merged PR [#187](https://github.com/executablebooks/jupyterlab-myst/pull/187) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
