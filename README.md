@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#547](https://github.com/executablebooks/MyST-NB/pull/547) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🎉 Merged PR [#537](https://github.com/executablebooks/MyST-NB/pull/537) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🎉 Merged PR [#542](https://github.com/executablebooks/MyST-NB/pull/542) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🔒 Closed issue [#545](https://github.com/executablebooks/MyST-NB/issues/545) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🎉 Merged PR [#546](https://github.com/executablebooks/MyST-NB/pull/546) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#2724](https://github.com/scikit-hep/awkward/pull/2724) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#547](https://github.com/executablebooks/MyST-NB/pull/547) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#537](https://github.com/executablebooks/MyST-NB/pull/537) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🎉 Merged PR [#542](https://github.com/executablebooks/MyST-NB/pull/542) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🔒 Closed issue [#545](https://github.com/executablebooks/MyST-NB/issues/545) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
