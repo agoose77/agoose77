@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/deathbeds/jupyterlab-deck/pull/53) in [deathbeds/jupyterlab-deck](https://github.com/deathbeds/jupyterlab-deck)
-2. 🔒 Closed issue [#1779](https://github.com/executablebooks/jupyter-book/issues/1779) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🎉 Merged PR [#121](https://github.com/conda-forge/awkward-feedstock/pull/121) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-4. ❗ Opened issue [#2731](https://github.com/scikit-hep/awkward/issues/2731) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#1071](https://github.com/executablebooks/meta/pull/1071) in [executablebooks/meta](https://github.com/executablebooks/meta)
+1. 🗣 Commented on [#689](https://github.com/executablebooks/thebe/issues/689#issuecomment-1742823849) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+2. 💪 Opened PR [#53](https://github.com/deathbeds/jupyterlab-deck/pull/53) in [deathbeds/jupyterlab-deck](https://github.com/deathbeds/jupyterlab-deck)
+3. 🔒 Closed issue [#1779](https://github.com/executablebooks/jupyter-book/issues/1779) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🎉 Merged PR [#121](https://github.com/conda-forge/awkward-feedstock/pull/121) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+5. ❗ Opened issue [#2731](https://github.com/scikit-hep/awkward/issues/2731) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
