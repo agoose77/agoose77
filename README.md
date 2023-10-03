@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1745673283) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 💪 Opened PR [#900](https://github.com/CoffeaTeam/coffea/pull/900) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-3. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1745347527) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 💪 Opened PR [#966](https://github.com/scikit-hep/uproot5/pull/966) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🎉 Merged PR [#2732](https://github.com/scikit-hep/awkward/pull/2732) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#379](https://github.com/dask-contrib/dask-awkward/pull/379#issuecomment-1745747363) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1745673283) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 💪 Opened PR [#900](https://github.com/CoffeaTeam/coffea/pull/900) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+4. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1745347527) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 💪 Opened PR [#966](https://github.com/scikit-hep/uproot5/pull/966) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
