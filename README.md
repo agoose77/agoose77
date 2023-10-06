@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/dask-contrib/dask-awkward/pull/379#issuecomment-1751276344) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 🚀 Published release [Version 2.4.5](https://github.com/scikit-hep/awkward/releases/tag/v2.4.5) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2744](https://github.com/scikit-hep/awkward/pull/2744) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2744](https://github.com/scikit-hep/awkward/pull/2744#issuecomment-1750870214) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2744](https://github.com/scikit-hep/awkward/pull/2744) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 💪 Opened PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🎉 Merged PR [#368](https://github.com/dask-contrib/dask-awkward/pull/368) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🔒 Closed issue [#313](https://github.com/dask-contrib/dask-awkward/issues/313) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 🎉 Merged PR [#379](https://github.com/dask-contrib/dask-awkward/pull/379) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
