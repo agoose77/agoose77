@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2023.10a1](https://github.com/dask-contrib/dask-awkward/releases/tag/2023.10a1) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 🎉 Merged PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 💪 Opened PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🎉 Merged PR [#368](https://github.com/dask-contrib/dask-awkward/pull/368) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🔒 Closed issue [#313](https://github.com/dask-contrib/dask-awkward/issues/313) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 💪 Opened PR [#980](https://github.com/scikit-hep/uproot5/pull/980) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1751454496) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🚀 Published release [2023.10a1](https://github.com/dask-contrib/dask-awkward/releases/tag/2023.10a1) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🎉 Merged PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 💪 Opened PR [#381](https://github.com/dask-contrib/dask-awkward/pull/381) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
