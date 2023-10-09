@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/4) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
-2. 💪 Opened PR [#3](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/3) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
-3. 🗣 Commented on [#900](https://github.com/CoffeaTeam/coffea/pull/900#issuecomment-1752057286) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-4. 🗣 Commented on [#966](https://github.com/scikit-hep/uproot5/pull/966#issuecomment-1751999738) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🗣 Commented on [#900](https://github.com/CoffeaTeam/coffea/pull/900#issuecomment-1751998548) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+1. 🎉 Merged PR [#1](https://github.com/agoose77/kaitai_awkward_runtime/pull/1) in [agoose77/kaitai_awkward_runtime](https://github.com/agoose77/kaitai_awkward_runtime)
+2. 💪 Opened PR [#1](https://github.com/agoose77/kaitai_awkward_runtime/pull/1) in [agoose77/kaitai_awkward_runtime](https://github.com/agoose77/kaitai_awkward_runtime)
+3. 🗣 Commented on [#382](https://github.com/dask-contrib/dask-awkward/pull/382#issuecomment-1753392176) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🗣 Commented on [#5](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/5#issuecomment-1753384127) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+5. ❌ Closed PR [#4](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/4) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
 <!--END_SECTION:activity-->
