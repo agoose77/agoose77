@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/6) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
-2. 🎉 Merged PR [#14](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/14) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
-3. 🚀 Published release [v2.1.0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.1.0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🎉 Merged PR [#192](https://github.com/executablebooks/jupyterlab-myst/pull/192) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 💪 Opened PR [#192](https://github.com/executablebooks/jupyterlab-myst/pull/192) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 💪 Opened PR [#385](https://github.com/dask-contrib/dask-awkward/pull/385) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#382](https://github.com/dask-contrib/dask-awkward/pull/382#issuecomment-1756136589) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 💪 Opened PR [#6](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/6) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+4. 🎉 Merged PR [#14](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/14) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
+5. 🚀 Published release [v2.1.0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.1.0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
