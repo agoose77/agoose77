@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#766](https://github.com/executablebooks/sphinx-book-theme/pull/766#issuecomment-1756257926) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#385](https://github.com/dask-contrib/dask-awkward/pull/385#issuecomment-1756206816) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 🗣 Commented on [#766](https://github.com/executablebooks/sphinx-book-theme/pull/766#issuecomment-1756181266) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 💪 Opened PR [#385](https://github.com/dask-contrib/dask-awkward/pull/385) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#382](https://github.com/dask-contrib/dask-awkward/pull/382#issuecomment-1756136589) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. ❌ Closed PR [#187](https://github.com/dask-contrib/dask-awkward/pull/187) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#187](https://github.com/dask-contrib/dask-awkward/pull/187#issuecomment-1757196460) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🎉 Merged PR [#382](https://github.com/dask-contrib/dask-awkward/pull/382) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🗣 Commented on [#382](https://github.com/dask-contrib/dask-awkward/pull/382#issuecomment-1757190108) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 🎉 Merged PR [#2748](https://github.com/scikit-hep/awkward/pull/2748) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
