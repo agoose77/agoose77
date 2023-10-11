@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/agoose77/pyhep-2023-jupyterlite-slides/releases/tag/v1.0.0) in [agoose77/pyhep-2023-jupyterlite-slides](https://github.com/agoose77/pyhep-2023-jupyterlite-slides)
-2. 🚀 Published release [v1.0.0](https://github.com/agoose77/pyhep-2023-jupyterlite-demo/releases/tag/v1.0.0) in [agoose77/pyhep-2023-jupyterlite-demo](https://github.com/agoose77/pyhep-2023-jupyterlite-demo)
-3. 💪 Opened PR [#2750](https://github.com/scikit-hep/awkward/pull/2750) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#892](https://github.com/CoffeaTeam/coffea/issues/892#issuecomment-1757660711) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-5. 🗣 Commented on [#983](https://github.com/scikit-hep/uproot5/pull/983#issuecomment-1757582946) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 🎉 Merged PR [#2750](https://github.com/scikit-hep/awkward/pull/2750) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🚀 Published release [v1.0.1](https://github.com/agoose77/pyhep-2023-jupyterlite-slides/releases/tag/v1.0.1) in [agoose77/pyhep-2023-jupyterlite-slides](https://github.com/agoose77/pyhep-2023-jupyterlite-slides)
+3. 🚀 Published release [v1.0.0](https://github.com/agoose77/pyhep-2023-jupyterlite-slides/releases/tag/v1.0.0) in [agoose77/pyhep-2023-jupyterlite-slides](https://github.com/agoose77/pyhep-2023-jupyterlite-slides)
+4. 🚀 Published release [v1.0.0](https://github.com/agoose77/pyhep-2023-jupyterlite-demo/releases/tag/v1.0.0) in [agoose77/pyhep-2023-jupyterlite-demo](https://github.com/agoose77/pyhep-2023-jupyterlite-demo)
+5. 🚀 Published release [v1.0.0](https://github.com/agoose77/pyhep-2023-jupyterlite-slides/releases/tag/v1.0.0) in [agoose77/pyhep-2023-jupyterlite-slides](https://github.com/agoose77/pyhep-2023-jupyterlite-slides)
 <!--END_SECTION:activity-->
