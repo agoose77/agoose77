@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#980](https://github.com/scikit-hep/uproot5/pull/980#issuecomment-1757349053) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. ❌ Closed PR [#187](https://github.com/dask-contrib/dask-awkward/pull/187) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 🗣 Commented on [#187](https://github.com/dask-contrib/dask-awkward/pull/187#issuecomment-1757196460) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🎉 Merged PR [#382](https://github.com/dask-contrib/dask-awkward/pull/382) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#382](https://github.com/dask-contrib/dask-awkward/pull/382#issuecomment-1757190108) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🗣 Commented on [#983](https://github.com/scikit-hep/uproot5/pull/983#issuecomment-1757582946) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#980](https://github.com/scikit-hep/uproot5/pull/980#issuecomment-1757349053) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. ❌ Closed PR [#187](https://github.com/dask-contrib/dask-awkward/pull/187) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🗣 Commented on [#187](https://github.com/dask-contrib/dask-awkward/pull/187#issuecomment-1757196460) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 🎉 Merged PR [#382](https://github.com/dask-contrib/dask-awkward/pull/382) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
