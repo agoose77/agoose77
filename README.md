@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2734](https://github.com/scikit-hep/awkward/issues/2734) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗ Opened issue [#2751](https://github.com/scikit-hep/awkward/issues/2751) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2749](https://github.com/scikit-hep/awkward/pull/2749) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#2750](https://github.com/scikit-hep/awkward/pull/2750) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🚀 Published release [v1.0.1](https://github.com/agoose77/pyhep-2023-jupyterlite-slides/releases/tag/v1.0.1) in [agoose77/pyhep-2023-jupyterlite-slides](https://github.com/agoose77/pyhep-2023-jupyterlite-slides)
+1. 💪 Opened PR [#2752](https://github.com/scikit-hep/awkward/pull/2752) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🔒 Closed issue [#2734](https://github.com/scikit-hep/awkward/issues/2734) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗ Opened issue [#2751](https://github.com/scikit-hep/awkward/issues/2751) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🎉 Merged PR [#2749](https://github.com/scikit-hep/awkward/pull/2749) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2750](https://github.com/scikit-hep/awkward/pull/2750) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
