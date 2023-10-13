@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2754](https://github.com/scikit-hep/awkward/pull/2754) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#986](https://github.com/scikit-hep/uproot5/pull/986#issuecomment-1760189997) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 💪 Opened PR [#986](https://github.com/scikit-hep/uproot5/pull/986) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#985](https://github.com/scikit-hep/uproot5/pull/985#issuecomment-1760085513) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🚀 Published release [Version 2.4.6](https://github.com/scikit-hep/awkward/releases/tag/v2.4.6) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#123](https://github.com/conda-forge/awkward-feedstock/pull/123) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+2. 💪 Opened PR [#2754](https://github.com/scikit-hep/awkward/pull/2754) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#986](https://github.com/scikit-hep/uproot5/pull/986#issuecomment-1760189997) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 💪 Opened PR [#986](https://github.com/scikit-hep/uproot5/pull/986) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#985](https://github.com/scikit-hep/uproot5/pull/985#issuecomment-1760085513) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
