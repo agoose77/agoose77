@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#900](https://github.com/CoffeaTeam/coffea/pull/900#issuecomment-1762740342) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-2. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1761529727) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#552](https://github.com/executablebooks/MyST-NB/pull/552#issuecomment-1761467527) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 💪 Opened PR [#552](https://github.com/executablebooks/MyST-NB/pull/552) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🎉 Merged PR [#550](https://github.com/executablebooks/MyST-NB/pull/550) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1763461113) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#900](https://github.com/CoffeaTeam/coffea/pull/900#issuecomment-1762740342) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+3. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1761529727) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#552](https://github.com/executablebooks/MyST-NB/pull/552#issuecomment-1761467527) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 💪 Opened PR [#552](https://github.com/executablebooks/MyST-NB/pull/552) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
