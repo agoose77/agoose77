@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2759](https://github.com/scikit-hep/awkward/pull/2759) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#2758](https://github.com/scikit-hep/awkward/pull/2758) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#54](https://github.com/deathbeds/jupyterlab-deck/pull/54#issuecomment-1764216271) in [deathbeds/jupyterlab-deck](https://github.com/deathbeds/jupyterlab-deck)
-4. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1763461113) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#900](https://github.com/CoffeaTeam/coffea/pull/900#issuecomment-1762740342) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+1. 🗣 Commented on [#2759](https://github.com/scikit-hep/awkward/pull/2759#issuecomment-1764866924) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#2759](https://github.com/scikit-hep/awkward/pull/2759) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#2758](https://github.com/scikit-hep/awkward/pull/2758) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#54](https://github.com/deathbeds/jupyterlab-deck/pull/54#issuecomment-1764216271) in [deathbeds/jupyterlab-deck](https://github.com/deathbeds/jupyterlab-deck)
+5. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1763461113) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
