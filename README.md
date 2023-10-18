@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19228](https://github.com/scipy/scipy/issues/19228#issuecomment-1768877305) in [scipy/scipy](https://github.com/scipy/scipy)
-2. 🗣 Commented on [#992](https://github.com/scikit-hep/uproot5/pull/992#issuecomment-1767796039) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. ❗ Opened issue [#2760](https://github.com/scikit-hep/awkward/issues/2760) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#992](https://github.com/scikit-hep/uproot5/pull/992#issuecomment-1766819203) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🎉 Merged PR [#553](https://github.com/executablebooks/MyST-NB/pull/553) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#996](https://github.com/scikit-hep/uproot5/pull/996#issuecomment-1769196448) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#37757](https://github.com/apache/arrow/issues/37757#issuecomment-1769146547) in [apache/arrow](https://github.com/apache/arrow)
+3. 🗣 Commented on [#997](https://github.com/scikit-hep/uproot5/pull/997#issuecomment-1769144862) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#19228](https://github.com/scipy/scipy/issues/19228#issuecomment-1768877305) in [scipy/scipy](https://github.com/scipy/scipy)
+5. 🗣 Commented on [#992](https://github.com/scikit-hep/uproot5/pull/992#issuecomment-1767796039) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
