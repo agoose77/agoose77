@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#998](https://github.com/scikit-hep/uproot5/pull/998#issuecomment-1769343931) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 💪 Opened PR [#998](https://github.com/scikit-hep/uproot5/pull/998) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#996](https://github.com/scikit-hep/uproot5/pull/996#issuecomment-1769196448) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#37757](https://github.com/apache/arrow/issues/37757#issuecomment-1769146547) in [apache/arrow](https://github.com/apache/arrow)
-5. 🗣 Commented on [#997](https://github.com/scikit-hep/uproot5/pull/997#issuecomment-1769144862) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 💪 Opened PR [#2761](https://github.com/scikit-hep/awkward/pull/2761) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#998](https://github.com/scikit-hep/uproot5/pull/998#issuecomment-1769343931) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 💪 Opened PR [#998](https://github.com/scikit-hep/uproot5/pull/998) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#996](https://github.com/scikit-hep/uproot5/pull/996#issuecomment-1769196448) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#37757](https://github.com/apache/arrow/issues/37757#issuecomment-1769146547) in [apache/arrow](https://github.com/apache/arrow)
 <!--END_SECTION:activity-->
