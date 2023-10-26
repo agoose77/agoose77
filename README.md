@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2762](https://github.com/scikit-hep/awkward/issues/2762) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#2770](https://github.com/scikit-hep/awkward/pull/2770) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#12](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/12) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
-4. 🗣 Commented on [#2774](https://github.com/scikit-hep/awkward/pull/2774#issuecomment-1781445881) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#11](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/11#issuecomment-1781414611) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+1. 💪 Opened PR [#559](https://github.com/executablebooks/MyST-NB/pull/559) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🗣 Commented on [#557](https://github.com/executablebooks/MyST-NB/issues/557#issuecomment-1781934948) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#558](https://github.com/executablebooks/MyST-NB/issues/558#issuecomment-1781928854) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🔒 Closed issue [#2762](https://github.com/scikit-hep/awkward/issues/2762) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2770](https://github.com/scikit-hep/awkward/pull/2770) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
