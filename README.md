@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2773](https://github.com/scikit-hep/awkward/pull/2773) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2773](https://github.com/scikit-hep/awkward/pull/2773#issuecomment-1781169712) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2776](https://github.com/scikit-hep/awkward/pull/2776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#10](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/10#issuecomment-1781153716) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
-5. 💪 Opened PR [#10](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/10) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+1. 🗣 Commented on [#11](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/11#issuecomment-1781414611) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+2. 💪 Opened PR [#11](https://github.com/ManasviGoyal/kaitai_awkward_runtime/pull/11) in [ManasviGoyal/kaitai_awkward_runtime](https://github.com/ManasviGoyal/kaitai_awkward_runtime)
+3. 🎉 Merged PR [#2773](https://github.com/scikit-hep/awkward/pull/2773) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2773](https://github.com/scikit-hep/awkward/pull/2773#issuecomment-1781169712) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2776](https://github.com/scikit-hep/awkward/pull/2776) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
