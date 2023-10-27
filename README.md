@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.5.0rc0](https://github.com/scikit-hep/awkward/releases/tag/v2.5.0rc0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#2779](https://github.com/scikit-hep/awkward/pull/2779) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🔒 Closed issue [#2764](https://github.com/scikit-hep/awkward/issues/2764) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#2775](https://github.com/scikit-hep/awkward/pull/2775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🚀 Published release [Version 2.4.7](https://github.com/scikit-hep/awkward/releases/tag/v2.4.7) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2772](https://github.com/scikit-hep/awkward/issues/2772#issuecomment-1782710657) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#37757](https://github.com/apache/arrow/issues/37757#issuecomment-1782706357) in [apache/arrow](https://github.com/apache/arrow)
+3. 🎉 Merged PR [#559](https://github.com/executablebooks/MyST-NB/pull/559) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🚀 Published release [Version 2.5.0rc0](https://github.com/scikit-hep/awkward/releases/tag/v2.5.0rc0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#2779](https://github.com/scikit-hep/awkward/pull/2779) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
