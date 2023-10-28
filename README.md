@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2781](https://github.com/scikit-hep/awkward/pull/2781) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#916](https://github.com/CoffeaTeam/coffea/pull/916#issuecomment-1782900692) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-3. 🗣 Commented on [#916](https://github.com/CoffeaTeam/coffea/pull/916#issuecomment-1782891678) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-4. 🗣 Commented on [#2772](https://github.com/scikit-hep/awkward/issues/2772#issuecomment-1782710657) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#37757](https://github.com/apache/arrow/issues/37757#issuecomment-1782706357) in [apache/arrow](https://github.com/apache/arrow)
+1. 🗣 Commented on [#2783](https://github.com/scikit-hep/awkward/pull/2783#issuecomment-1783754671) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❌ Closed PR [#2781](https://github.com/scikit-hep/awkward/pull/2781) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2781](https://github.com/scikit-hep/awkward/pull/2781#issuecomment-1783754570) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#2783](https://github.com/scikit-hep/awkward/pull/2783) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2731](https://github.com/scikit-hep/awkward/issues/2731#issuecomment-1783750296) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
