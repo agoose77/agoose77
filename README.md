@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/executablebooks/sphinx-external-toc/pull/97) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-2. ❌ Closed PR [#96](https://github.com/executablebooks/sphinx-external-toc/pull/96) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-3. 🗣 Commented on [#96](https://github.com/executablebooks/sphinx-external-toc/pull/96#issuecomment-1784221132) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-4. 💪 Opened PR [#97](https://github.com/executablebooks/sphinx-external-toc/pull/97) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-5. ❌ Closed PR [#560](https://github.com/executablebooks/MyST-NB/pull/560) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#1991](https://github.com/executablebooks/jupyter-book/issues/1991#issuecomment-1784234801) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🔒 Closed issue [#90](https://github.com/executablebooks/sphinx-external-toc/issues/90) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+3. 🗣 Commented on [#90](https://github.com/executablebooks/sphinx-external-toc/issues/90#issuecomment-1784233342) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+4. 🔒 Closed issue [#93](https://github.com/executablebooks/sphinx-external-toc/issues/93) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+5. 🗣 Commented on [#93](https://github.com/executablebooks/sphinx-external-toc/issues/93#issuecomment-1784233286) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
 <!--END_SECTION:activity-->
