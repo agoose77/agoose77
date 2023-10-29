@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2731](https://github.com/scikit-hep/awkward/issues/2731#issuecomment-1783907515) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2783](https://github.com/scikit-hep/awkward/pull/2783#issuecomment-1783754671) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Closed PR [#2781](https://github.com/scikit-hep/awkward/pull/2781) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2781](https://github.com/scikit-hep/awkward/pull/2781#issuecomment-1783754570) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2783](https://github.com/scikit-hep/awkward/pull/2783) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#97](https://github.com/executablebooks/sphinx-external-toc/pull/97) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+2. ❌ Closed PR [#560](https://github.com/executablebooks/MyST-NB/pull/560) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 💪 Opened PR [#560](https://github.com/executablebooks/MyST-NB/pull/560) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🗣 Commented on [#2731](https://github.com/scikit-hep/awkward/issues/2731#issuecomment-1783907515) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2783](https://github.com/scikit-hep/awkward/pull/2783#issuecomment-1783754671) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
