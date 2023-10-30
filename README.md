@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2784](https://github.com/scikit-hep/awkward/issues/2784) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1991](https://github.com/executablebooks/jupyter-book/issues/1991#issuecomment-1784234801) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🔒 Closed issue [#90](https://github.com/executablebooks/sphinx-external-toc/issues/90) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-4. 🗣 Commented on [#90](https://github.com/executablebooks/sphinx-external-toc/issues/90#issuecomment-1784233342) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-5. 🔒 Closed issue [#93](https://github.com/executablebooks/sphinx-external-toc/issues/93) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+1. ❌ Closed PR [#2774](https://github.com/scikit-hep/awkward/pull/2774) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2774](https://github.com/scikit-hep/awkward/pull/2774#issuecomment-1784991099) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#2785](https://github.com/scikit-hep/awkward/pull/2785) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗ Opened issue [#2784](https://github.com/scikit-hep/awkward/issues/2784) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1991](https://github.com/executablebooks/jupyter-book/issues/1991#issuecomment-1784234801) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
