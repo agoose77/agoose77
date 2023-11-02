@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/42#issuecomment-1789802426) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-2. 🗣 Commented on [#41](https://github.com/executablebooks/cookiecutter-jupyter-book/issues/41#issuecomment-1789801371) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-3. 🔒 Closed issue [#41](https://github.com/executablebooks/cookiecutter-jupyter-book/issues/41) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-4. 🎉 Merged PR [#42](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/42) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-5. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1789791997) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#2794](https://github.com/scikit-hep/awkward/pull/2794) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#42](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/42#issuecomment-1789802426) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
+3. 🗣 Commented on [#41](https://github.com/executablebooks/cookiecutter-jupyter-book/issues/41#issuecomment-1789801371) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
+4. 🔒 Closed issue [#41](https://github.com/executablebooks/cookiecutter-jupyter-book/issues/41) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
+5. 🎉 Merged PR [#42](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/42) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
 <!--END_SECTION:activity-->
