@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2793](https://github.com/scikit-hep/awkward/pull/2793) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1792769847) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1792740960) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#2795](https://github.com/scikit-hep/awkward/pull/2795) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#2795](https://github.com/scikit-hep/awkward/pull/2795#issuecomment-1792496522) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1083](https://github.com/executablebooks/meta/pull/1083#issuecomment-1793207379) in [executablebooks/meta](https://github.com/executablebooks/meta)
+2. 🎉 Merged PR [#2793](https://github.com/scikit-hep/awkward/pull/2793) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1792769847) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2757](https://github.com/scikit-hep/awkward/pull/2757#issuecomment-1792740960) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2795](https://github.com/scikit-hep/awkward/pull/2795) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
