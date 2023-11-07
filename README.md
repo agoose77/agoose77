@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2805](https://github.com/scikit-hep/awkward/pull/2805) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2805](https://github.com/scikit-hep/awkward/pull/2805#issuecomment-1799587456) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2804](https://github.com/scikit-hep/awkward/pull/2804) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#2805](https://github.com/scikit-hep/awkward/pull/2805) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2804](https://github.com/scikit-hep/awkward/pull/2804) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#101](https://github.com/executablebooks/sphinx-external-toc/pull/101) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+2. 💪 Opened PR [#101](https://github.com/executablebooks/sphinx-external-toc/pull/101) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+3. 🎉 Merged PR [#566](https://github.com/executablebooks/MyST-NB/pull/566) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 💪 Opened PR [#566](https://github.com/executablebooks/MyST-NB/pull/566) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#2805](https://github.com/scikit-hep/awkward/pull/2805) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
