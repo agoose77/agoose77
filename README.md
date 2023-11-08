@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#923](https://github.com/CoffeaTeam/coffea/pull/923) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-2. 🎉 Merged PR [#111](https://github.com/executablebooks/jupyter-cache/pull/111) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-3. 🗣 Commented on [#407](https://github.com/dask-contrib/dask-awkward/pull/407#issuecomment-1802435142) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 💪 Opened PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. ❗ Opened issue [#406](https://github.com/dask-contrib/dask-awkward/issues/406) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 💪 Opened PR [#567](https://github.com/executablebooks/MyST-NB/pull/567) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 💪 Opened PR [#923](https://github.com/CoffeaTeam/coffea/pull/923) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+3. 🎉 Merged PR [#111](https://github.com/executablebooks/jupyter-cache/pull/111) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+4. 🗣 Commented on [#407](https://github.com/dask-contrib/dask-awkward/pull/407#issuecomment-1802435142) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 💪 Opened PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
