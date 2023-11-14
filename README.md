@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/dask-contrib/dask-awkward/pull/416#issuecomment-1811193892) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1810805027) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1810699576) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#1021](https://github.com/scikit-hep/uproot5/pull/1021#issuecomment-1810678333) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🎉 Merged PR [#2816](https://github.com/scikit-hep/awkward/pull/2816) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1021](https://github.com/scikit-hep/uproot5/pull/1021#issuecomment-1811446752) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#416](https://github.com/dask-contrib/dask-awkward/pull/416#issuecomment-1811193892) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1810805027) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1810699576) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1021](https://github.com/scikit-hep/uproot5/pull/1021#issuecomment-1810678333) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
