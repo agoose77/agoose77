@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/agoose77/test-ccache-gha/issues/5) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
-2. 💪 Opened PR [#2819](https://github.com/scikit-hep/awkward/pull/2819) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1021](https://github.com/scikit-hep/uproot5/pull/1021#issuecomment-1811446752) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#416](https://github.com/dask-contrib/dask-awkward/pull/416#issuecomment-1811193892) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#2570](https://github.com/scikit-hep/awkward/pull/2570#issuecomment-1810805027) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗ Opened issue [#7](https://github.com/agoose77/test-ccache-gha/issues/7) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
+2. 🔒 Closed issue [#6](https://github.com/agoose77/test-ccache-gha/issues/6) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
+3. ❗ Opened issue [#6](https://github.com/agoose77/test-ccache-gha/issues/6) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
+4. ❗ Opened issue [#5](https://github.com/agoose77/test-ccache-gha/issues/5) in [agoose77/test-ccache-gha](https://github.com/agoose77/test-ccache-gha)
+5. 💪 Opened PR [#2819](https://github.com/scikit-hep/awkward/pull/2819) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
