@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4297](https://github.com/pyodide/pyodide/pull/4297) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🎉 Merged PR [#2819](https://github.com/scikit-hep/awkward/pull/2819) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2819](https://github.com/scikit-hep/awkward/pull/2819#issuecomment-1812591999) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🔒 Closed issue [#2833](https://github.com/scikit-hep/awkward/issues/2833) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#2833](https://github.com/scikit-hep/awkward/issues/2833) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❌ Reopened PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. ❌ Closed PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 💪 Opened PR [#4298](https://github.com/pyodide/pyodide/pull/4298) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. ❌ Closed PR [#4297](https://github.com/pyodide/pyodide/pull/4297) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+5. 💪 Opened PR [#4297](https://github.com/pyodide/pyodide/pull/4297) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--END_SECTION:activity-->
