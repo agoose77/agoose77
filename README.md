@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4298](https://github.com/pyodide/pyodide/pull/4298#issuecomment-1814733962) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🎉 Merged PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
-3. 💪 Opened PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
-4. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1814126100) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. ❗ Opened issue [#2835](https://github.com/scikit-hep/awkward/issues/2835) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🚀 Published release [Version 2.5.0](https://github.com/scikit-hep/awkward/releases/tag/v2.5.0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#4298](https://github.com/pyodide/pyodide/pull/4298#issuecomment-1814733962) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+3. 🎉 Merged PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
+4. 💪 Opened PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
+5. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1814126100) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
