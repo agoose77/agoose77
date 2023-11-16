@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❌ Closed PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 💪 Opened PR [#4298](https://github.com/pyodide/pyodide/pull/4298) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. ❌ Closed PR [#4297](https://github.com/pyodide/pyodide/pull/4297) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-5. 💪 Opened PR [#4297](https://github.com/pyodide/pyodide/pull/4297) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+1. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1814126100) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. ❗ Opened issue [#2835](https://github.com/scikit-hep/awkward/issues/2835) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗ Opened issue [#2834](https://github.com/scikit-hep/awkward/issues/2834) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Reopened PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. ❌ Closed PR [#407](https://github.com/dask-contrib/dask-awkward/pull/407) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
