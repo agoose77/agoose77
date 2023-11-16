@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.5.0](https://github.com/scikit-hep/awkward/releases/tag/v2.5.0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#4298](https://github.com/pyodide/pyodide/pull/4298#issuecomment-1814733962) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. 🎉 Merged PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
-4. 💪 Opened PR [#1](https://github.com/agoose77/pyodide-pr-bot/pull/1) in [agoose77/pyodide-pr-bot](https://github.com/agoose77/pyodide-pr-bot)
-5. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1814126100) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#407](https://github.com/dask-contrib/dask-awkward/pull/407#issuecomment-1815238216) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#407](https://github.com/dask-contrib/dask-awkward/pull/407#issuecomment-1815235662) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#407](https://github.com/dask-contrib/dask-awkward/pull/407#issuecomment-1815230885) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🚀 Published release [Version 2.5.0](https://github.com/scikit-hep/awkward/releases/tag/v2.5.0) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#4298](https://github.com/pyodide/pyodide/pull/4298#issuecomment-1814733962) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--END_SECTION:activity-->
