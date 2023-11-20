@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/conda-forge/awkward-feedstock/pull/128) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-2. 💪 Opened PR [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
-3. 🗣 Commented on [#46](https://github.com/pradyunsg/sphinx-theme-builder/issues/46#issuecomment-1818960440) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
-4. 🔒 Closed issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🔒 Closed issue [#2840](https://github.com/scikit-hep/awkward/issues/2840) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#42](https://github.com/conda-forge/dask-awkward-feedstock/pull/42#issuecomment-1819289984) in [conda-forge/dask-awkward-feedstock](https://github.com/conda-forge/dask-awkward-feedstock)
+2. 🎉 Merged PR [#128](https://github.com/conda-forge/awkward-feedstock/pull/128) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+3. 💪 Opened PR [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+4. 🗣 Commented on [#46](https://github.com/pradyunsg/sphinx-theme-builder/issues/46#issuecomment-1818960440) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+5. 🔒 Closed issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
