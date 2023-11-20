@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1817992825) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#173](https://github.com/executablebooks/jupyterlab-myst/issues/173#issuecomment-1817992544) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. ❗ Opened issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#305](https://github.com/dask-contrib/dask-awkward/issues/305#issuecomment-1815510294) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#305](https://github.com/dask-contrib/dask-awkward/issues/305#issuecomment-1815412622) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. ❗ Opened issue [#2840](https://github.com/scikit-hep/awkward/issues/2840) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#782](https://github.com/executablebooks/sphinx-book-theme/issues/782#issuecomment-1817992825) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#173](https://github.com/executablebooks/jupyterlab-myst/issues/173#issuecomment-1817992544) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. ❗ Opened issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#305](https://github.com/dask-contrib/dask-awkward/issues/305#issuecomment-1815510294) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
