@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🔒 Closed issue [#2840](https://github.com/scikit-hep/awkward/issues/2840) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🔒 Closed issue [#2835](https://github.com/scikit-hep/awkward/issues/2835) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🔒 Closed issue [#2834](https://github.com/scikit-hep/awkward/issues/2834) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#2840](https://github.com/scikit-hep/awkward/issues/2840) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#46](https://github.com/pradyunsg/sphinx-theme-builder/issues/46#issuecomment-1818960440) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+2. 🔒 Closed issue [#2839](https://github.com/scikit-hep/awkward/issues/2839) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🔒 Closed issue [#2840](https://github.com/scikit-hep/awkward/issues/2840) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🔒 Closed issue [#2835](https://github.com/scikit-hep/awkward/issues/2835) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🔒 Closed issue [#2834](https://github.com/scikit-hep/awkward/issues/2834) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
