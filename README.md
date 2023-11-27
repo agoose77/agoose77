@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1828151450) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-2. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1827959979) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-3. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1827940489) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1827592527) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
-5. ❗ Opened issue [#2849](https://github.com/scikit-hep/awkward/issues/2849) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1828309234) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+2. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1828151450) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+3. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1827959979) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+4. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1827940489) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1827592527) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
 <!--END_SECTION:activity-->
