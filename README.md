@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/dask-contrib/dask-awkward/pull/409#issuecomment-1828699638) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828698792) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-3. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1828309234) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
-4. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1828151450) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1827959979) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+1. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828868158) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+2. 🗣 Commented on [#409](https://github.com/dask-contrib/dask-awkward/pull/409#issuecomment-1828699638) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828698792) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+4. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1828309234) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+5. 🗣 Commented on [#1044](https://github.com/scikit-hep/uproot5/issues/1044#issuecomment-1828151450) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
