@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828926115) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-2. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828868158) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-3. 🗣 Commented on [#409](https://github.com/dask-contrib/dask-awkward/pull/409#issuecomment-1828699638) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828698792) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-5. 🗣 Commented on [#47](https://github.com/pradyunsg/sphinx-theme-builder/pull/47#issuecomment-1828309234) in [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder)
+1. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🔒 Closed issue [#2849](https://github.com/scikit-hep/awkward/issues/2849) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2849](https://github.com/scikit-hep/awkward/issues/2849#issuecomment-1829783832) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828926115) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+5. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828868158) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
 <!--END_SECTION:activity-->
