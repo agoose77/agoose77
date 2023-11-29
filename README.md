@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🔒 Closed issue [#2849](https://github.com/scikit-hep/awkward/issues/2849) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2849](https://github.com/scikit-hep/awkward/issues/2849#issuecomment-1829783832) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828926115) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-5. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828868158) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+1. 🚀 Published release [v1.0.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.0.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🔒 Closed issue [#2849](https://github.com/scikit-hep/awkward/issues/2849) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2849](https://github.com/scikit-hep/awkward/issues/2849#issuecomment-1829783832) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#926](https://github.com/CoffeaTeam/coffea/pull/926#issuecomment-1828926115) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
 <!--END_SECTION:activity-->
