@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2078](https://github.com/executablebooks/jupyter-book/issues/2078#issuecomment-1832846463) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🎉 Merged PR [#43](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/43) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-3. 💪 Opened PR [#43](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/43) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-4. 🗣 Commented on [#409](https://github.com/dask-contrib/dask-awkward/pull/409#issuecomment-1832775869) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#415](https://github.com/dask-contrib/dask-awkward/pull/415#issuecomment-1832774185) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. ❗ Opened issue [#2856](https://github.com/scikit-hep/awkward/issues/2856) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2078](https://github.com/executablebooks/jupyter-book/issues/2078#issuecomment-1832846463) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🎉 Merged PR [#43](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/43) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
+4. 💪 Opened PR [#43](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/43) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
+5. 🗣 Commented on [#409](https://github.com/dask-contrib/dask-awkward/pull/409#issuecomment-1832775869) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
