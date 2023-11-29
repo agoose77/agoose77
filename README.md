@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1831735093) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🔒 Closed issue [#572](https://github.com/executablebooks/MyST-NB/issues/572) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🚀 Published release [v1.0.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.0.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🔒 Closed issue [#2849](https://github.com/scikit-hep/awkward/issues/2849) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1257](https://github.com/jupyterlite/jupyterlite/issues/1257#issuecomment-1831875970) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+2. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1831735093) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🔒 Closed issue [#572](https://github.com/executablebooks/MyST-NB/issues/572) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🚀 Published release [v1.0.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.0.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
