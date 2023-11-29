@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1257](https://github.com/jupyterlite/jupyterlite/issues/1257#issuecomment-1831875970) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-2. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1831735093) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🔒 Closed issue [#572](https://github.com/executablebooks/MyST-NB/issues/572) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🚀 Published release [v1.0.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.0.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1829799221) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#2852](https://github.com/scikit-hep/awkward/pull/2852) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#2851](https://github.com/scikit-hep/awkward/pull/2851) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2851](https://github.com/scikit-hep/awkward/pull/2851#issuecomment-1831926523) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1257](https://github.com/jupyterlite/jupyterlite/issues/1257#issuecomment-1831875970) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+5. 🗣 Commented on [#572](https://github.com/executablebooks/MyST-NB/issues/572#issuecomment-1831735093) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
