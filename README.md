@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#785](https://github.com/executablebooks/sphinx-book-theme/pull/785) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🎉 Merged PR [#787](https://github.com/executablebooks/sphinx-book-theme/pull/787) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🗣 Commented on [#787](https://github.com/executablebooks/sphinx-book-theme/pull/787#issuecomment-1838512964) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 💪 Opened PR [#787](https://github.com/executablebooks/sphinx-book-theme/pull/787) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🎉 Merged PR [#2070](https://github.com/executablebooks/jupyter-book/pull/2070) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#770](https://github.com/executablebooks/sphinx-book-theme/pull/770#issuecomment-1838541353) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🗣 Commented on [#655](https://github.com/executablebooks/sphinx-book-theme/pull/655#issuecomment-1838536369) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 💪 Opened PR [#788](https://github.com/executablebooks/sphinx-book-theme/pull/788) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🎉 Merged PR [#707](https://github.com/executablebooks/sphinx-book-theme/pull/707) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#707](https://github.com/executablebooks/sphinx-book-theme/pull/707#issuecomment-1838530428) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
