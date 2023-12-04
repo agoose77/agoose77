@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2060](https://github.com/executablebooks/jupyter-book/pull/2060) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🗣 Commented on [#2060](https://github.com/executablebooks/jupyter-book/pull/2060#issuecomment-1838692267) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🗣 Commented on [#770](https://github.com/executablebooks/sphinx-book-theme/pull/770#issuecomment-1838541353) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#655](https://github.com/executablebooks/sphinx-book-theme/pull/655#issuecomment-1838536369) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 💪 Opened PR [#788](https://github.com/executablebooks/sphinx-book-theme/pull/788) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 💪 Opened PR [#2080](https://github.com/executablebooks/jupyter-book/pull/2080) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. ❌ Closed PR [#2060](https://github.com/executablebooks/jupyter-book/pull/2060) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🗣 Commented on [#2060](https://github.com/executablebooks/jupyter-book/pull/2060#issuecomment-1838692267) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🗣 Commented on [#770](https://github.com/executablebooks/sphinx-book-theme/pull/770#issuecomment-1838541353) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#655](https://github.com/executablebooks/sphinx-book-theme/pull/655#issuecomment-1838536369) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
