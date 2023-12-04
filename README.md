@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#574](https://github.com/executablebooks/MyST-NB/issues/574) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#543](https://github.com/executablebooks/MyST-NB/issues/543#issuecomment-1838826078) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🔒 Closed issue [#543](https://github.com/executablebooks/MyST-NB/issues/543) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#558](https://github.com/executablebooks/MyST-NB/issues/558#issuecomment-1838824765) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#557](https://github.com/executablebooks/MyST-NB/issues/557#issuecomment-1838821933) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🎉 Merged PR [#2080](https://github.com/executablebooks/jupyter-book/pull/2080) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🎉 Merged PR [#2018](https://github.com/executablebooks/jupyter-book/pull/2018) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. ❌ Reopened PR [#2018](https://github.com/executablebooks/jupyter-book/pull/2018) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. ❌ Closed PR [#2018](https://github.com/executablebooks/jupyter-book/pull/2018) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🗣 Commented on [#2018](https://github.com/executablebooks/jupyter-book/pull/2018#issuecomment-1838931104) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
