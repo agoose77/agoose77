@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/executablebooks/sphinx-tabs/pull/186) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
-2. 🎉 Merged PR [#790](https://github.com/executablebooks/sphinx-book-theme/pull/790) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 💪 Opened PR [#790](https://github.com/executablebooks/sphinx-book-theme/pull/790) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#1956](https://github.com/executablebooks/jupyter-book/pull/1956#issuecomment-1840502946) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. ❌ Closed PR [#1956](https://github.com/executablebooks/jupyter-book/pull/1956) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🎉 Merged PR [#2860](https://github.com/scikit-hep/awkward/pull/2860) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#186](https://github.com/executablebooks/sphinx-tabs/pull/186) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
+3. 🎉 Merged PR [#790](https://github.com/executablebooks/sphinx-book-theme/pull/790) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 💪 Opened PR [#790](https://github.com/executablebooks/sphinx-book-theme/pull/790) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#1956](https://github.com/executablebooks/jupyter-book/pull/1956#issuecomment-1840502946) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
