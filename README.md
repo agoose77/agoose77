@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2881](https://github.com/scikit-hep/awkward/issues/2881#issuecomment-1847398661) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/98) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-3. 🗣 Commented on [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/98#issuecomment-1847203119) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-4. 🗣 Commented on [#2853](https://github.com/scikit-hep/awkward/issues/2853#issuecomment-1847142906) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#432](https://github.com/dask-contrib/dask-awkward/issues/432#issuecomment-1847141730) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🗣 Commented on [#2879](https://github.com/scikit-hep/awkward/pull/2879#issuecomment-1847475265) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2881](https://github.com/scikit-hep/awkward/issues/2881#issuecomment-1847398661) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/98) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+4. 🗣 Commented on [#98](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/98#issuecomment-1847203119) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+5. 🗣 Commented on [#2853](https://github.com/scikit-hep/awkward/issues/2853#issuecomment-1847142906) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
