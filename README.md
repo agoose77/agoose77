@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11795](https://github.com/sphinx-doc/sphinx/issues/11795) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🎉 Merged PR [#2890](https://github.com/scikit-hep/awkward/pull/2890) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2886](https://github.com/scikit-hep/awkward/pull/2886#issuecomment-1850002756) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#2890](https://github.com/scikit-hep/awkward/pull/2890) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#2889](https://github.com/scikit-hep/awkward/pull/2889) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-jupyterbook-latex/releases/tag/v1.0.0) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+2. 🎉 Merged PR [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+3. 💪 Opened PR [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+4. 🗣 Commented on [#2889](https://github.com/scikit-hep/awkward/pull/2889#issuecomment-1850285729) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗ Opened issue [#11795](https://github.com/sphinx-doc/sphinx/issues/11795) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 <!--END_SECTION:activity-->
