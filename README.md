@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2884](https://github.com/scikit-hep/awkward/issues/2884) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#2889](https://github.com/scikit-hep/awkward/pull/2889) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-jupyterbook-latex/releases/tag/v1.0.0) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-4. 🎉 Merged PR [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-5. 💪 Opened PR [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+1. 🔒 Closed issue [#120](https://github.com/executablebooks/sphinx-jupyterbook-latex/issues/120) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+2. 🔒 Closed issue [#2884](https://github.com/scikit-hep/awkward/issues/2884) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#2889](https://github.com/scikit-hep/awkward/pull/2889) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-jupyterbook-latex/releases/tag/v1.0.0) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+5. 🎉 Merged PR [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
 <!--END_SECTION:activity-->
