@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2893](https://github.com/scikit-hep/awkward/pull/2893) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2082](https://github.com/executablebooks/jupyter-book/issues/2082#issuecomment-1851218081) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🗣 Commented on [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121#issuecomment-1851083027) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-4. 🗣 Commented on [#2089](https://github.com/executablebooks/jupyter-book/pull/2089#issuecomment-1851008670) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 💪 Opened PR [#577](https://github.com/executablebooks/MyST-NB/pull/577) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🎉 Merged PR [#105](https://github.com/executablebooks/sphinx-external-toc/pull/105) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+2. 💪 Opened PR [#105](https://github.com/executablebooks/sphinx-external-toc/pull/105) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+3. 🗣 Commented on [#100](https://github.com/executablebooks/sphinx-external-toc/pull/100#issuecomment-1851724640) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+4. 🎉 Merged PR [#100](https://github.com/executablebooks/sphinx-external-toc/pull/100) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+5. 🎉 Merged PR [#104](https://github.com/executablebooks/sphinx-external-toc/pull/104) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
 <!--END_SECTION:activity-->
