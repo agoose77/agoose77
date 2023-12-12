@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/executablebooks/sphinx-external-toc/pull/99) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-2. 🚀 Published release [V1.0.1](https://github.com/executablebooks/sphinx-external-toc/releases/tag/v1.0.1) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-3. 🎉 Merged PR [#106](https://github.com/executablebooks/sphinx-external-toc/pull/106) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-4. 💪 Opened PR [#106](https://github.com/executablebooks/sphinx-external-toc/pull/106) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-5. 🎉 Merged PR [#105](https://github.com/executablebooks/sphinx-external-toc/pull/105) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+1. 💪 Opened PR [#842](https://github.com/executablebooks/MyST-Parser/pull/842) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
+2. 🎉 Merged PR [#99](https://github.com/executablebooks/sphinx-external-toc/pull/99) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+3. 🚀 Published release [V1.0.1](https://github.com/executablebooks/sphinx-external-toc/releases/tag/v1.0.1) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+4. 🎉 Merged PR [#106](https://github.com/executablebooks/sphinx-external-toc/pull/106) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+5. 💪 Opened PR [#106](https://github.com/executablebooks/sphinx-external-toc/pull/106) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
 <!--END_SECTION:activity-->
