@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121#issuecomment-1851083027) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
-2. 🗣 Commented on [#2089](https://github.com/executablebooks/jupyter-book/pull/2089#issuecomment-1851008670) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 💪 Opened PR [#577](https://github.com/executablebooks/MyST-NB/pull/577) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 💪 Opened PR [#2089](https://github.com/executablebooks/jupyter-book/pull/2089) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🔒 Closed issue [#120](https://github.com/executablebooks/sphinx-jupyterbook-latex/issues/120) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+1. 🗣 Commented on [#2082](https://github.com/executablebooks/jupyter-book/issues/2082#issuecomment-1851218081) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🗣 Commented on [#121](https://github.com/executablebooks/sphinx-jupyterbook-latex/pull/121#issuecomment-1851083027) in [executablebooks/sphinx-jupyterbook-latex](https://github.com/executablebooks/sphinx-jupyterbook-latex)
+3. 🗣 Commented on [#2089](https://github.com/executablebooks/jupyter-book/pull/2089#issuecomment-1851008670) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 💪 Opened PR [#577](https://github.com/executablebooks/MyST-NB/pull/577) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 💪 Opened PR [#2089](https://github.com/executablebooks/jupyter-book/pull/2089) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
