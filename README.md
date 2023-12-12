@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2894](https://github.com/scikit-hep/awkward/issues/2894#issuecomment-1852839737) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2894](https://github.com/scikit-hep/awkward/issues/2894#issuecomment-1852738512) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#943](https://github.com/scikit-hep/uproot5/pull/943#issuecomment-1852552374) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 💪 Opened PR [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-5. 🎉 Merged PR [#2891](https://github.com/scikit-hep/awkward/pull/2891) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2894](https://github.com/scikit-hep/awkward/issues/2894#issuecomment-1852851587) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🚀 Published release [Version 2.5.1](https://github.com/scikit-hep/awkward/releases/tag/v2.5.1) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2894](https://github.com/scikit-hep/awkward/issues/2894#issuecomment-1852839737) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2894](https://github.com/scikit-hep/awkward/issues/2894#issuecomment-1852738512) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#943](https://github.com/scikit-hep/uproot5/pull/943#issuecomment-1852552374) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
