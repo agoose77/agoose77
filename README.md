@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#842](https://github.com/executablebooks/MyST-Parser/pull/842#issuecomment-1853893332) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
-2. 🗣 Commented on [#1270](https://github.com/jupyterlite/jupyterlite/pull/1270#issuecomment-1853853689) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-3. 🗣 Commented on [#792](https://github.com/executablebooks/sphinx-book-theme/issues/792#issuecomment-1853657738) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#792](https://github.com/executablebooks/sphinx-book-theme/issues/792#issuecomment-1853645798) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#792](https://github.com/executablebooks/sphinx-book-theme/issues/792#issuecomment-1853632097) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#437](https://github.com/dask-contrib/dask-awkward/pull/437#issuecomment-1853917214) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 💪 Opened PR [#437](https://github.com/dask-contrib/dask-awkward/pull/437) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#842](https://github.com/executablebooks/MyST-Parser/pull/842#issuecomment-1853893332) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
+4. 🗣 Commented on [#1270](https://github.com/jupyterlite/jupyterlite/pull/1270#issuecomment-1853853689) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+5. 🗣 Commented on [#792](https://github.com/executablebooks/sphinx-book-theme/issues/792#issuecomment-1853657738) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
