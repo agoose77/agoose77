@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2896](https://github.com/scikit-hep/awkward/pull/2896#issuecomment-1855715332) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1854487680) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-3. ❗ Opened issue [#2897](https://github.com/scikit-hep/awkward/issues/2897) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#437](https://github.com/dask-contrib/dask-awkward/pull/437#issuecomment-1853944498) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#35](https://github.com/holoviz-dev/blog/pull/35#issuecomment-1853931545) in [holoviz-dev/blog](https://github.com/holoviz-dev/blog)
+1. 🎉 Merged PR [#791](https://github.com/executablebooks/sphinx-book-theme/pull/791) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🗣 Commented on [#2896](https://github.com/scikit-hep/awkward/pull/2896#issuecomment-1855715332) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1854487680) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+4. ❗ Opened issue [#2897](https://github.com/scikit-hep/awkward/issues/2897) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#437](https://github.com/dask-contrib/dask-awkward/pull/437#issuecomment-1853944498) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
