@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2869](https://github.com/scikit-hep/awkward/pull/2869#issuecomment-1856407176) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#795](https://github.com/executablebooks/sphinx-book-theme/issues/795#issuecomment-1856397144) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🚀 Published release [v1.1.0rc3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.0rc3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🎉 Merged PR [#794](https://github.com/executablebooks/sphinx-book-theme/pull/794) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 💪 Opened PR [#794](https://github.com/executablebooks/sphinx-book-theme/pull/794) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#54](https://github.com/conda-forge/dask-awkward-feedstock/pull/54#issuecomment-1856909879) in [conda-forge/dask-awkward-feedstock](https://github.com/conda-forge/dask-awkward-feedstock)
+2. 🗣 Commented on [#1581](https://github.com/pydata/pydata-sphinx-theme/issues/1581#issuecomment-1856907745) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+3. 🗣 Commented on [#2869](https://github.com/scikit-hep/awkward/pull/2869#issuecomment-1856407176) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#795](https://github.com/executablebooks/sphinx-book-theme/issues/795#issuecomment-1856397144) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🚀 Published release [v1.1.0rc3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.0rc3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
