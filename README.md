@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#791](https://github.com/executablebooks/sphinx-book-theme/pull/791) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#2896](https://github.com/scikit-hep/awkward/pull/2896#issuecomment-1855715332) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1854487680) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-4. ❗ Opened issue [#2897](https://github.com/scikit-hep/awkward/issues/2897) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#437](https://github.com/dask-contrib/dask-awkward/pull/437#issuecomment-1853944498) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🚀 Published release [v1.1.0rc2](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.0rc2) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🎉 Merged PR [#793](https://github.com/executablebooks/sphinx-book-theme/pull/793) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 💪 Opened PR [#793](https://github.com/executablebooks/sphinx-book-theme/pull/793) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. ❌ Closed PR [#573](https://github.com/executablebooks/sphinx-book-theme/pull/573) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🎉 Merged PR [#791](https://github.com/executablebooks/sphinx-book-theme/pull/791) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
