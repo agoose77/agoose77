@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1857923741) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-2. 🗣 Commented on [#2901](https://github.com/scikit-hep/awkward/pull/2901#issuecomment-1857905733) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Closed PR [#2901](https://github.com/scikit-hep/awkward/pull/2901) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2900](https://github.com/scikit-hep/awkward/pull/2900#issuecomment-1857905508) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❌ Closed PR [#2900](https://github.com/scikit-hep/awkward/pull/2900) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2905](https://github.com/scikit-hep/awkward/issues/2905#issuecomment-1858545558) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1857923741) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+3. 🗣 Commented on [#2901](https://github.com/scikit-hep/awkward/pull/2901#issuecomment-1857905733) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Closed PR [#2901](https://github.com/scikit-hep/awkward/pull/2901) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2900](https://github.com/scikit-hep/awkward/pull/2900#issuecomment-1857905508) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
