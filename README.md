@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862686842) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862681725) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862595328) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862590753) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-5. 🗣 Commented on [#2869](https://github.com/scikit-hep/awkward/pull/2869#issuecomment-1862563761) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#2869](https://github.com/scikit-hep/awkward/pull/2869) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862686842) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+3. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862681725) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862595328) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+5. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862590753) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--END_SECTION:activity-->
