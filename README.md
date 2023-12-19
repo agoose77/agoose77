@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1862413319) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 💪 Opened PR [#2906](https://github.com/scikit-hep/awkward/pull/2906) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1581](https://github.com/pydata/pydata-sphinx-theme/issues/1581#issuecomment-1858846766) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-4. 🗣 Commented on [#2905](https://github.com/scikit-hep/awkward/issues/2905#issuecomment-1858545558) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1592](https://github.com/pydata/pydata-sphinx-theme/pull/1592#issuecomment-1857923741) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+1. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1862447542) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1862413319) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 💪 Opened PR [#2906](https://github.com/scikit-hep/awkward/pull/2906) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1581](https://github.com/pydata/pydata-sphinx-theme/issues/1581#issuecomment-1858846766) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+5. 🗣 Commented on [#2905](https://github.com/scikit-hep/awkward/issues/2905#issuecomment-1858545558) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
