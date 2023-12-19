@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2896](https://github.com/scikit-hep/awkward/pull/2896#issuecomment-1863537844) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2904](https://github.com/scikit-hep/awkward/pull/2904#issuecomment-1863528632) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2904](https://github.com/scikit-hep/awkward/pull/2904) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❌ Closed PR [#2271](https://github.com/scikit-hep/awkward/pull/2271) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#2271](https://github.com/scikit-hep/awkward/pull/2271#issuecomment-1863512831) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798#issuecomment-1863558890) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🗣 Commented on [#731](https://github.com/pypa/hatch/issues/731#issuecomment-1863558215) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#731](https://github.com/pypa/hatch/issues/731#issuecomment-1863546481) in [pypa/hatch](https://github.com/pypa/hatch)
+4. 💪 Opened PR [#2909](https://github.com/scikit-hep/awkward/pull/2909) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2896](https://github.com/scikit-hep/awkward/pull/2896#issuecomment-1863537844) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
