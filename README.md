@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862595328) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862590753) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. 🗣 Commented on [#2869](https://github.com/scikit-hep/awkward/pull/2869#issuecomment-1862563761) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1862551949) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1862447542) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862686842) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+2. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862681725) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+3. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862595328) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1862590753) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+5. 🗣 Commented on [#2869](https://github.com/scikit-hep/awkward/pull/2869#issuecomment-1862563761) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
