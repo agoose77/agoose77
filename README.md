@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798#issuecomment-1863579724) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🔒 Closed issue [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🗣 Commented on [#2078](https://github.com/executablebooks/jupyter-book/issues/2078#issuecomment-1863573662) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🚀 Published release [v1.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.0) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798#issuecomment-1863558890) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#799](https://github.com/executablebooks/sphinx-book-theme/issues/799#issuecomment-1864347547) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🗣 Commented on [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798#issuecomment-1863579724) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🔒 Closed issue [#798](https://github.com/executablebooks/sphinx-book-theme/issues/798) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🗣 Commented on [#2078](https://github.com/executablebooks/jupyter-book/issues/2078#issuecomment-1863573662) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🚀 Published release [v1.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.0) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
