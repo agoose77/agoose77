@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800#issuecomment-1865326154) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#7](https://github.com/agoose77/GOAP/issues/7#issuecomment-1865004420) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-3. 🔒 Closed issue [#7](https://github.com/agoose77/GOAP/issues/7) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
-4. 💪 Opened PR [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#2081](https://github.com/executablebooks/jupyter-book/issues/2081#issuecomment-1864913456) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 💪 Opened PR [#2912](https://github.com/scikit-hep/awkward/pull/2912) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800#issuecomment-1865326154) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#7](https://github.com/agoose77/GOAP/issues/7#issuecomment-1865004420) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+4. 🔒 Closed issue [#7](https://github.com/agoose77/GOAP/issues/7) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+5. 💪 Opened PR [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
