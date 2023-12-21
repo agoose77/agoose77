@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2913](https://github.com/scikit-hep/awkward/pull/2913) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2911](https://github.com/scikit-hep/awkward/issues/2911#issuecomment-1865440604) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#2912](https://github.com/scikit-hep/awkward/pull/2912) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800#issuecomment-1865326154) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#7](https://github.com/agoose77/GOAP/issues/7#issuecomment-1865004420) in [agoose77/GOAP](https://github.com/agoose77/GOAP)
+1. 🗣 Commented on [#186](https://github.com/executablebooks/sphinx-tabs/pull/186#issuecomment-1866867621) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
+2. 💪 Opened PR [#2913](https://github.com/scikit-hep/awkward/pull/2913) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2911](https://github.com/scikit-hep/awkward/issues/2911#issuecomment-1865440604) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#2912](https://github.com/scikit-hep/awkward/pull/2912) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800#issuecomment-1865326154) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
