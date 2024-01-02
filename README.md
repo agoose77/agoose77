@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3559](https://github.com/2i2c-org/infrastructure/pull/3559) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#2917](https://github.com/scikit-hep/awkward/issues/2917#issuecomment-1872558681) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2917](https://github.com/scikit-hep/awkward/issues/2917#issuecomment-1872530407) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2916](https://github.com/scikit-hep/awkward/issues/2916#issuecomment-1870502175) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🎉 Merged PR [#2914](https://github.com/scikit-hep/awkward/pull/2914) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🔒 Closed issue [#2910](https://github.com/scikit-hep/awkward/issues/2910) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#2912](https://github.com/scikit-hep/awkward/pull/2912) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#197](https://github.com/executablebooks/jupyterlab-myst/issues/197#issuecomment-1873924135) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🎉 Merged PR [#803](https://github.com/executablebooks/sphinx-book-theme/pull/803) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 💪 Opened PR [#3559](https://github.com/2i2c-org/infrastructure/pull/3559) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
