@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2921](https://github.com/scikit-hep/awkward/pull/2921) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❌ Closed PR [#2559](https://github.com/scikit-hep/awkward/pull/2559) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Closed PR [#2545](https://github.com/scikit-hep/awkward/pull/2545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❌ Closed PR [#2413](https://github.com/scikit-hep/awkward/pull/2413) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❌ Closed PR [#1782](https://github.com/scikit-hep/awkward/pull/1782) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🚀 Published release [v0.1.0](https://github.com/agoose77/sphinx-builder-classes/releases/tag/v0.1.0) in [agoose77/sphinx-builder-classes](https://github.com/agoose77/sphinx-builder-classes)
+2. 💪 Opened PR [#2921](https://github.com/scikit-hep/awkward/pull/2921) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❌ Closed PR [#2559](https://github.com/scikit-hep/awkward/pull/2559) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Closed PR [#2545](https://github.com/scikit-hep/awkward/pull/2545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❌ Closed PR [#2413](https://github.com/scikit-hep/awkward/pull/2413) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
