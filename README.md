@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/agoose77/sphinx-builder-classes/releases/tag/v0.1.0) in [agoose77/sphinx-builder-classes](https://github.com/agoose77/sphinx-builder-classes)
+1. 🗣 Commented on [#1968](https://github.com/executablebooks/jupyter-book/issues/1968#issuecomment-1877199022) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 2. 🚀 Published release [v0.1.0](https://github.com/agoose77/sphinx-builder-classes/releases/tag/v0.1.0) in [agoose77/sphinx-builder-classes](https://github.com/agoose77/sphinx-builder-classes)
-3. 💪 Opened PR [#2921](https://github.com/scikit-hep/awkward/pull/2921) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❌ Closed PR [#2559](https://github.com/scikit-hep/awkward/pull/2559) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❌ Closed PR [#2545](https://github.com/scikit-hep/awkward/pull/2545) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🚀 Published release [v0.1.0](https://github.com/agoose77/sphinx-builder-classes/releases/tag/v0.1.0) in [agoose77/sphinx-builder-classes](https://github.com/agoose77/sphinx-builder-classes)
+4. 💪 Opened PR [#2921](https://github.com/scikit-hep/awkward/pull/2921) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❌ Closed PR [#2559](https://github.com/scikit-hep/awkward/pull/2559) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
