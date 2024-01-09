@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#830](https://github.com/executablebooks/mystmd/pull/830#issuecomment-1883144961) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#3593](https://github.com/2i2c-org/infrastructure/pull/3593) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#824](https://github.com/executablebooks/mystmd/issues/824#issuecomment-1883058035) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. ❗ Opened issue [#2925](https://github.com/scikit-hep/awkward/issues/2925) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#2924](https://github.com/scikit-hep/awkward/issues/2924) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2926](https://github.com/scikit-hep/awkward/pull/2926#issuecomment-1883301713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#2](https://github.com/executablebooks/myst-react/issues/2) in [executablebooks/myst-react](https://github.com/executablebooks/myst-react)
+3. 🗣 Commented on [#830](https://github.com/executablebooks/mystmd/pull/830#issuecomment-1883144961) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 💪 Opened PR [#3593](https://github.com/2i2c-org/infrastructure/pull/3593) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#824](https://github.com/executablebooks/mystmd/issues/824#issuecomment-1883058035) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
