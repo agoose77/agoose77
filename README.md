@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2924](https://github.com/scikit-hep/awkward/issues/2924#issuecomment-1883373792) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#3593](https://github.com/2i2c-org/infrastructure/pull/3593) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#2926](https://github.com/scikit-hep/awkward/pull/2926#issuecomment-1883301713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗ Opened issue [#2](https://github.com/executablebooks/myst-react/issues/2) in [executablebooks/myst-react](https://github.com/executablebooks/myst-react)
-5. 🗣 Commented on [#830](https://github.com/executablebooks/mystmd/pull/830#issuecomment-1883144961) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 💪 Opened PR [#309](https://github.com/executablebooks/myst-theme/pull/309) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🗣 Commented on [#2924](https://github.com/scikit-hep/awkward/issues/2924#issuecomment-1883373792) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#3593](https://github.com/2i2c-org/infrastructure/pull/3593) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#2926](https://github.com/scikit-hep/awkward/pull/2926#issuecomment-1883301713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗ Opened issue [#2](https://github.com/executablebooks/myst-react/issues/2) in [executablebooks/myst-react](https://github.com/executablebooks/myst-react)
 <!--END_SECTION:activity-->
