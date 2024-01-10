@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#838](https://github.com/executablebooks/mystmd/issues/838) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#186](https://github.com/executablebooks/sphinx-tabs/pull/186#issuecomment-1884710197) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
-3. 🗣 Commented on [#10](https://github.com/curvenote/doi-utils/pull/10#issuecomment-1884708097) in [curvenote/doi-utils](https://github.com/curvenote/doi-utils)
-4. 🗣 Commented on [#577](https://github.com/executablebooks/mystmd/pull/577#issuecomment-1884652272) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#833](https://github.com/executablebooks/mystmd/issues/833#issuecomment-1883976138) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#2928](https://github.com/scikit-hep/awkward/issues/2928#issuecomment-1884839092) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#838](https://github.com/executablebooks/mystmd/issues/838) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#186](https://github.com/executablebooks/sphinx-tabs/pull/186#issuecomment-1884710197) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
+4. 🗣 Commented on [#10](https://github.com/curvenote/doi-utils/pull/10#issuecomment-1884708097) in [curvenote/doi-utils](https://github.com/curvenote/doi-utils)
+5. 🗣 Commented on [#577](https://github.com/executablebooks/mystmd/pull/577#issuecomment-1884652272) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
