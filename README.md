@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2096](https://github.com/executablebooks/jupyter-book/issues/2096#issuecomment-1887401524) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🔒 Closed issue [#2934](https://github.com/scikit-hep/awkward/issues/2934) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2935](https://github.com/scikit-hep/awkward/pull/2935) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2096](https://github.com/executablebooks/jupyter-book/issues/2096#issuecomment-1887189393) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 💪 Opened PR [#2935](https://github.com/scikit-hep/awkward/pull/2935) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#448](https://github.com/dask-contrib/dask-awkward/pull/448) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#447](https://github.com/dask-contrib/dask-awkward/issues/447#issuecomment-1887932737) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#2096](https://github.com/executablebooks/jupyter-book/issues/2096#issuecomment-1887401524) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🔒 Closed issue [#2934](https://github.com/scikit-hep/awkward/issues/2934) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#2935](https://github.com/scikit-hep/awkward/pull/2935) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
