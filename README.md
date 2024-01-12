@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#851](https://github.com/executablebooks/mystmd/issues/851) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#850](https://github.com/executablebooks/mystmd/pull/850) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#448](https://github.com/dask-contrib/dask-awkward/pull/448#issuecomment-1888027622) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. ❗ Opened issue [#840](https://github.com/executablebooks/mystmd/issues/840) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#839](https://github.com/executablebooks/mystmd/issues/839) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#449](https://github.com/dask-contrib/dask-awkward/pull/449#issuecomment-1889432927) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. ❗ Opened issue [#851](https://github.com/executablebooks/mystmd/issues/851) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 💪 Opened PR [#850](https://github.com/executablebooks/mystmd/pull/850) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#448](https://github.com/dask-contrib/dask-awkward/pull/448#issuecomment-1888027622) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. ❗ Opened issue [#840](https://github.com/executablebooks/mystmd/issues/840) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
