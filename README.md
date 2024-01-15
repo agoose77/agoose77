@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
-2. 💪 Opened PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
-3. 🗣 Commented on [#4376](https://github.com/pyodide/pyodide/pull/4376#issuecomment-1892056491) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. 💪 Opened PR [#212](https://github.com/2i2c-org/2i2c-org.github.io/pull/212) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-5. 🗣 Commented on [#4376](https://github.com/pyodide/pyodide/pull/4376#issuecomment-1890600059) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+1. 🗣 Commented on [#4380](https://github.com/pyodide/pyodide/pull/4380#issuecomment-1892113374) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+2. 🎉 Merged PR [#3](https://github.com/agoose77/pr-integrator/pull/3) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
+3. 💪 Opened PR [#3](https://github.com/agoose77/pr-integrator/pull/3) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
+4. 🎉 Merged PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
+5. 💪 Opened PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
 <!--END_SECTION:activity-->
