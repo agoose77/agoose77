@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4376](https://github.com/pyodide/pyodide/pull/4376#issuecomment-1890600059) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🗣 Commented on [#2940](https://github.com/scikit-hep/awkward/pull/2940#issuecomment-1890594377) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#210](https://github.com/2i2c-org/2i2c-org.github.io/issues/210#issuecomment-1890592898) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. ❗ Opened issue [#2945](https://github.com/scikit-hep/awkward/issues/2945) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#2944](https://github.com/scikit-hep/awkward/issues/2944) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
+2. 💪 Opened PR [#2](https://github.com/agoose77/pr-integrator/pull/2) in [agoose77/pr-integrator](https://github.com/agoose77/pr-integrator)
+3. 🗣 Commented on [#4376](https://github.com/pyodide/pyodide/pull/4376#issuecomment-1892056491) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. 💪 Opened PR [#212](https://github.com/2i2c-org/2i2c-org.github.io/pull/212) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🗣 Commented on [#4376](https://github.com/pyodide/pyodide/pull/4376#issuecomment-1890600059) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--END_SECTION:activity-->
