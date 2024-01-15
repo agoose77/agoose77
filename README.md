@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#576](https://github.com/executablebooks/MyST-NB/pull/576) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🎉 Merged PR [#577](https://github.com/executablebooks/MyST-NB/pull/577) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#2947](https://github.com/scikit-hep/awkward/issues/2947#issuecomment-1892179328) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#2947](https://github.com/scikit-hep/awkward/issues/2947#issuecomment-1892177687) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#4380](https://github.com/pyodide/pyodide/pull/4380#issuecomment-1892113374) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+1. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892230362) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+2. 🗣 Commented on [#197](https://github.com/executablebooks/jupyterlab-myst/issues/197#issuecomment-1892225962) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892219259) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892201263) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+5. 🎉 Merged PR [#576](https://github.com/executablebooks/MyST-NB/pull/576) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
