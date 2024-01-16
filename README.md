@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892268386) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892230362) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. 🗣 Commented on [#197](https://github.com/executablebooks/jupyterlab-myst/issues/197#issuecomment-1892225962) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892219259) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-5. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892201263) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
+1. 🔒 Closed issue [#2943](https://github.com/scikit-hep/awkward/issues/2943) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🔒 Closed issue [#2942](https://github.com/scikit-hep/awkward/issues/2942) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🔒 Closed issue [#2944](https://github.com/scikit-hep/awkward/issues/2944) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🔒 Closed issue [#2945](https://github.com/scikit-hep/awkward/issues/2945) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#4350](https://github.com/pyodide/pyodide/issues/4350#issuecomment-1892268386) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--END_SECTION:activity-->
