@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1896431870) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1896409469) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
-3. 🔒 Closed issue [#2701](https://github.com/scikit-hep/awkward/issues/2701) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗ Opened issue [#2953](https://github.com/scikit-hep/awkward/issues/2953) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1895710489) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#2956](https://github.com/scikit-hep/awkward/pull/2956#issuecomment-1896969124) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1896431870) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1896409469) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
+4. 🔒 Closed issue [#2701](https://github.com/scikit-hep/awkward/issues/2701) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗ Opened issue [#2953](https://github.com/scikit-hep/awkward/issues/2953) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
