@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2701](https://github.com/scikit-hep/awkward/issues/2701) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗ Opened issue [#2953](https://github.com/scikit-hep/awkward/issues/2953) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1895710489) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1895571934) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1895561098) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1896409469) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
+2. 🔒 Closed issue [#2701](https://github.com/scikit-hep/awkward/issues/2701) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗ Opened issue [#2953](https://github.com/scikit-hep/awkward/issues/2953) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1895710489) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1895571934) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
