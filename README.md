@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2956](https://github.com/scikit-hep/awkward/pull/2956#issuecomment-1897895247) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2956](https://github.com/scikit-hep/awkward/pull/2956#issuecomment-1896969124) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1896431870) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1896409469) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
-5. 🔒 Closed issue [#2701](https://github.com/scikit-hep/awkward/issues/2701) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2074](https://github.com/executablebooks/jupyter-book/pull/2074#issuecomment-1898694085) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🗣 Commented on [#426](https://github.com/dask-contrib/dask-awkward/issues/426#issuecomment-1898685142) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#2956](https://github.com/scikit-hep/awkward/pull/2956#issuecomment-1897895247) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#2956](https://github.com/scikit-hep/awkward/pull/2956#issuecomment-1896969124) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1896431870) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
