@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1899088660) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#859](https://github.com/executablebooks/mystmd/issues/859#issuecomment-1899078269) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#859](https://github.com/executablebooks/mystmd/issues/859#issuecomment-1899036181) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#426](https://github.com/dask-contrib/dask-awkward/issues/426#issuecomment-1898849788) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#426](https://github.com/dask-contrib/dask-awkward/issues/426#issuecomment-1898844203) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 💪 Opened PR [#139](https://github.com/jupyterlab/hatch-jupyter-builder/pull/139) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
+2. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1900259261) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🗣 Commented on [#856](https://github.com/executablebooks/mystmd/pull/856#issuecomment-1899088660) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#859](https://github.com/executablebooks/mystmd/issues/859#issuecomment-1899078269) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#859](https://github.com/executablebooks/mystmd/issues/859#issuecomment-1899036181) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
