@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4345](https://github.com/pyodide/pyodide/pull/4345#issuecomment-1900728415) in [pyodide/pyodide](https://github.com/pyodide/pyodide)
-2. 💪 Opened PR [#2967](https://github.com/scikit-hep/awkward/pull/2967) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1900411837) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 💪 Opened PR [#139](https://github.com/jupyterlab/hatch-jupyter-builder/pull/139) in [jupyterlab/hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder)
-5. 🗣 Commented on [#18](https://github.com/agoose77/hatch-nodejs-version/pull/18#issuecomment-1900259261) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+1. 🗣 Commented on [#2969](https://github.com/scikit-hep/awkward/issues/2969#issuecomment-1902052212) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#1361](https://github.com/scikit-hep/awkward/issues/1361#issuecomment-1902052119) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1728](https://github.com/scikit-hep/awkward/issues/1728#issuecomment-1902051963) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🔒 Closed issue [#1728](https://github.com/scikit-hep/awkward/issues/1728) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#1126](https://github.com/scikit-hep/awkward/issues/1126#issuecomment-1902047219) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
