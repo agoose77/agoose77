@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#864](https://github.com/executablebooks/mystmd/pull/864) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#863](https://github.com/executablebooks/mystmd/pull/863) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#2861](https://github.com/scikit-hep/awkward/issues/2861#issuecomment-1903762342) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 💪 Opened PR [#191](https://github.com/executablebooks/sphinx-tabs/pull/191) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
-5. ❗ Opened issue [#2975](https://github.com/scikit-hep/awkward/issues/2975) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#2103](https://github.com/executablebooks/jupyter-book/issues/2103#issuecomment-1904020212) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 💪 Opened PR [#864](https://github.com/executablebooks/mystmd/pull/864) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 💪 Opened PR [#863](https://github.com/executablebooks/mystmd/pull/863) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#2861](https://github.com/scikit-hep/awkward/issues/2861#issuecomment-1903762342) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#191](https://github.com/executablebooks/sphinx-tabs/pull/191) in [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs)
 <!--END_SECTION:activity-->
