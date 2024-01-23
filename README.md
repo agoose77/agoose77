@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1906350615) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❗ Opened issue [#2983](https://github.com/scikit-hep/awkward/issues/2983) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1905725585) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#309](https://github.com/executablebooks/myst-theme/pull/309#issuecomment-1905708880) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-5. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1904899085) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#1005](https://github.com/CoffeaTeam/coffea/pull/1005#issuecomment-1906703776) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+2. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1906350615) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#2983](https://github.com/scikit-hep/awkward/issues/2983) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1905725585) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#309](https://github.com/executablebooks/myst-theme/pull/309#issuecomment-1905708880) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
