@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2983](https://github.com/scikit-hep/awkward/issues/2983#issuecomment-1906842967) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#1005](https://github.com/CoffeaTeam/coffea/pull/1005#issuecomment-1906703776) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
-3. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1906350615) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. ❗ Opened issue [#2983](https://github.com/scikit-hep/awkward/issues/2983) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1905725585) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#1093](https://github.com/scikit-hep/uproot5/issues/1093#issuecomment-1907769396) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+2. 🗣 Commented on [#2983](https://github.com/scikit-hep/awkward/issues/2983#issuecomment-1906842967) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#1005](https://github.com/CoffeaTeam/coffea/pull/1005#issuecomment-1906703776) in [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
+4. 🗣 Commented on [#864](https://github.com/executablebooks/mystmd/pull/864#issuecomment-1906350615) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. ❗ Opened issue [#2983](https://github.com/scikit-hep/awkward/issues/2983) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
