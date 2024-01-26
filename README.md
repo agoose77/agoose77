@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2967](https://github.com/scikit-hep/awkward/pull/2967#issuecomment-1912264919) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2988](https://github.com/scikit-hep/awkward/issues/2988#issuecomment-1912228363) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🚀 Published release [v1.0.0rc1](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.0rc1) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🎉 Merged PR [#2083](https://github.com/executablebooks/jupyter-book/pull/2083) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🎉 Merged PR [#2084](https://github.com/executablebooks/jupyter-book/pull/2084) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#2986](https://github.com/scikit-hep/awkward/pull/2986#issuecomment-1912602137) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2967](https://github.com/scikit-hep/awkward/pull/2967#issuecomment-1912264919) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2988](https://github.com/scikit-hep/awkward/issues/2988#issuecomment-1912228363) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🚀 Published release [v1.0.0rc1](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.0rc1) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🎉 Merged PR [#2083](https://github.com/executablebooks/jupyter-book/pull/2083) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
