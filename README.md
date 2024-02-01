@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2986](https://github.com/scikit-hep/awkward/pull/2986#issuecomment-1919716511) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2106](https://github.com/executablebooks/jupyter-book/issues/2106#issuecomment-1913165073) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1913090843) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
-4. 🗣 Commented on [#2051](https://github.com/recommenders-team/recommenders/pull/2051#issuecomment-1912710544) in [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
-5. 🚀 Published release [v1.0.0](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.0) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#866](https://github.com/executablebooks/mystmd/pull/866#issuecomment-1921664896) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#2986](https://github.com/scikit-hep/awkward/pull/2986#issuecomment-1919716511) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#2106](https://github.com/executablebooks/jupyter-book/issues/2106#issuecomment-1913165073) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🗣 Commented on [#39](https://github.com/ProjectPythia/sphinx-pythia-theme/issues/39#issuecomment-1913090843) in [ProjectPythia/sphinx-pythia-theme](https://github.com/ProjectPythia/sphinx-pythia-theme)
+5. 🗣 Commented on [#2051](https://github.com/recommenders-team/recommenders/pull/2051#issuecomment-1912710544) in [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
 <!--END_SECTION:activity-->
