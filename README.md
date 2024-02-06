@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🗣 Commented on [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212#issuecomment-1930319360) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#154](https://github.com/executablebooks/sphinx-design/issues/154#issuecomment-1930282325) in [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design)
-4. 🗣 Commented on [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212#issuecomment-1930274652) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212#issuecomment-1930032598) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#154](https://github.com/executablebooks/sphinx-design/issues/154#issuecomment-1930680309) in [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design)
+2. 🗣 Commented on [#213](https://github.com/executablebooks/jupyterlab-myst/issues/213#issuecomment-1930678537) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🎉 Merged PR [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#212](https://github.com/executablebooks/jupyterlab-myst/pull/212#issuecomment-1930319360) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#154](https://github.com/executablebooks/sphinx-design/issues/154#issuecomment-1930282325) in [executablebooks/sphinx-design](https://github.com/executablebooks/sphinx-design)
 <!--END_SECTION:activity-->
