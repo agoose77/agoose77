@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2116](https://github.com/executablebooks/jupyter-book/pull/2116) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🚀 Published release [v0.3.1](https://github.com/executablebooks/sphinx-thebe/releases/tag/v0.3.1) in [executablebooks/sphinx-thebe](https://github.com/executablebooks/sphinx-thebe)
-3. 🎉 Merged PR [#70](https://github.com/executablebooks/sphinx-thebe/pull/70) in [executablebooks/sphinx-thebe](https://github.com/executablebooks/sphinx-thebe)
-4. 🗣 Commented on [#2113](https://github.com/executablebooks/jupyter-book/issues/2113#issuecomment-1932046372) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 💪 Opened PR [#70](https://github.com/executablebooks/sphinx-thebe/pull/70) in [executablebooks/sphinx-thebe](https://github.com/executablebooks/sphinx-thebe)
+1. 🔒 Closed issue [#2970](https://github.com/scikit-hep/awkward/issues/2970) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2970](https://github.com/scikit-hep/awkward/issues/2970#issuecomment-1932137970) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#2116](https://github.com/executablebooks/jupyter-book/pull/2116) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🚀 Published release [v0.3.1](https://github.com/executablebooks/sphinx-thebe/releases/tag/v0.3.1) in [executablebooks/sphinx-thebe](https://github.com/executablebooks/sphinx-thebe)
+5. 🎉 Merged PR [#70](https://github.com/executablebooks/sphinx-thebe/pull/70) in [executablebooks/sphinx-thebe](https://github.com/executablebooks/sphinx-thebe)
 <!--END_SECTION:activity-->
