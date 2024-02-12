@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3019](https://github.com/scikit-hep/awkward/pull/3019#issuecomment-1938801569) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#873](https://github.com/executablebooks/mystmd/pull/873#issuecomment-1938550455) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#468](https://github.com/dask-contrib/dask-awkward/issues/468#issuecomment-1938510710) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🗣 Commented on [#10898](https://github.com/dask/dask/pull/10898#issuecomment-1938503345) in [dask/dask](https://github.com/dask/dask)
-5. 🗣 Commented on [#3018](https://github.com/scikit-hep/awkward/issues/3018#issuecomment-1938464388) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#3019](https://github.com/scikit-hep/awkward/pull/3019#issuecomment-1938886899) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#314](https://github.com/executablebooks/myst-theme/pull/314) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+3. 🗣 Commented on [#3019](https://github.com/scikit-hep/awkward/pull/3019#issuecomment-1938801569) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#873](https://github.com/executablebooks/mystmd/pull/873#issuecomment-1938550455) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#468](https://github.com/dask-contrib/dask-awkward/issues/468#issuecomment-1938510710) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
