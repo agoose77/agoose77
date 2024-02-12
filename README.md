@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10898](https://github.com/dask/dask/pull/10898#issuecomment-1938503345) in [dask/dask](https://github.com/dask/dask)
-2. 🗣 Commented on [#3018](https://github.com/scikit-hep/awkward/issues/3018#issuecomment-1938464388) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗ Opened issue [#469](https://github.com/dask-contrib/dask-awkward/issues/469) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🗣 Commented on [#10918](https://github.com/dask/dask/pull/10918#issuecomment-1938453097) in [dask/dask](https://github.com/dask/dask)
-5. 🔒 Closed issue [#380](https://github.com/dask-contrib/dask-awkward/issues/380) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🗣 Commented on [#873](https://github.com/executablebooks/mystmd/pull/873#issuecomment-1938550455) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#468](https://github.com/dask-contrib/dask-awkward/issues/468#issuecomment-1938510710) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. 🗣 Commented on [#10898](https://github.com/dask/dask/pull/10898#issuecomment-1938503345) in [dask/dask](https://github.com/dask/dask)
+4. 🗣 Commented on [#3018](https://github.com/scikit-hep/awkward/issues/3018#issuecomment-1938464388) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗ Opened issue [#469](https://github.com/dask-contrib/dask-awkward/issues/469) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
