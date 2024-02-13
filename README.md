@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#904](https://github.com/executablebooks/mystmd/pull/904) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❗ Opened issue [#23](https://github.com/agoose77/hatch-nodejs-version/issues/23) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-3. 💪 Opened PR [#903](https://github.com/executablebooks/mystmd/pull/903) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🎉 Merged PR [#902](https://github.com/executablebooks/mystmd/pull/902) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 💪 Opened PR [#902](https://github.com/executablebooks/mystmd/pull/902) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🎉 Merged PR [#904](https://github.com/executablebooks/mystmd/pull/904) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 💪 Opened PR [#904](https://github.com/executablebooks/mystmd/pull/904) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#23](https://github.com/agoose77/hatch-nodejs-version/issues/23) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 💪 Opened PR [#903](https://github.com/executablebooks/mystmd/pull/903) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🎉 Merged PR [#902](https://github.com/executablebooks/mystmd/pull/902) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
