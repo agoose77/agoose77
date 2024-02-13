@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2113](https://github.com/executablebooks/jupyter-book/issues/2113#issuecomment-1941580498) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🔒 Closed issue [#2113](https://github.com/executablebooks/jupyter-book/issues/2113) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🚀 Published release [v1.1.1](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.1) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🎉 Merged PR [#815](https://github.com/executablebooks/sphinx-book-theme/pull/815) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 💪 Opened PR [#815](https://github.com/executablebooks/sphinx-book-theme/pull/815) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🔒 Closed issue [#157](https://github.com/executablebooks/jupyterlab-myst/issues/157) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#2113](https://github.com/executablebooks/jupyter-book/issues/2113#issuecomment-1941580498) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🔒 Closed issue [#2113](https://github.com/executablebooks/jupyter-book/issues/2113) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🚀 Published release [v1.1.1](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.1) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🎉 Merged PR [#815](https://github.com/executablebooks/sphinx-book-theme/pull/815) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
