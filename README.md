@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946383432) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946366711) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 💪 Opened PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🚀 Published release [v2.3.0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.3.0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🚀 Published release [v2.3.1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.3.1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🎉 Merged PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946383432) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946366711) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 💪 Opened PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
