@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2120](https://github.com/executablebooks/jupyter-book/issues/2120#issuecomment-1943913761) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🚀 Published release [v1.1.2](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.2) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🎉 Merged PR [#818](https://github.com/executablebooks/sphinx-book-theme/pull/818) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 💪 Opened PR [#818](https://github.com/executablebooks/sphinx-book-theme/pull/818) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#3016](https://github.com/scikit-hep/awkward/pull/3016#issuecomment-1942451087) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#469](https://github.com/dask-contrib/dask-awkward/issues/469#issuecomment-1945655427) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#2120](https://github.com/executablebooks/jupyter-book/issues/2120#issuecomment-1943913761) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🚀 Published release [v1.1.2](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.2) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🎉 Merged PR [#818](https://github.com/executablebooks/sphinx-book-theme/pull/818) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 💪 Opened PR [#818](https://github.com/executablebooks/sphinx-book-theme/pull/818) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
