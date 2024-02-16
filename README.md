@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#218](https://github.com/executablebooks/jupyterlab-myst/issues/218) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🚀 Published release [v2.3.1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.3.1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🎉 Merged PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946383432) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217#issuecomment-1946366711) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 💪 Opened PR [#3026](https://github.com/scikit-hep/awkward/pull/3026) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#472](https://github.com/dask-contrib/dask-awkward/issues/472#issuecomment-1948018751) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. ❗ Opened issue [#218](https://github.com/executablebooks/jupyterlab-myst/issues/218) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🚀 Published release [v2.3.1](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.3.1) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🎉 Merged PR [#217](https://github.com/executablebooks/jupyterlab-myst/pull/217) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
