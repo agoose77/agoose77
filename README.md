@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#916](https://github.com/executablebooks/mystmd/issues/916#issuecomment-1954347069) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#917](https://github.com/executablebooks/mystmd/pull/917) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#258](https://github.com/executablebooks/myst-theme/issues/258#issuecomment-1952355969) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. 🗣 Commented on [#258](https://github.com/executablebooks/myst-theme/issues/258#issuecomment-1952233225) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-5. 🎉 Merged PR [#473](https://github.com/dask-contrib/dask-awkward/pull/473) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+1. 🗣 Commented on [#916](https://github.com/executablebooks/mystmd/issues/916#issuecomment-1954898525) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#916](https://github.com/executablebooks/mystmd/issues/916#issuecomment-1954347069) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 💪 Opened PR [#917](https://github.com/executablebooks/mystmd/pull/917) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#258](https://github.com/executablebooks/myst-theme/issues/258#issuecomment-1952355969) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+5. 🗣 Commented on [#258](https://github.com/executablebooks/myst-theme/issues/258#issuecomment-1952233225) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
