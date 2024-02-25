@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#927](https://github.com/executablebooks/mystmd/issues/927#issuecomment-1959795542) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❌ Closed PR [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🎉 Merged PR [#819](https://github.com/executablebooks/sphinx-book-theme/pull/819) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#819](https://github.com/executablebooks/sphinx-book-theme/pull/819#issuecomment-1959727678) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🎉 Merged PR [#820](https://github.com/executablebooks/sphinx-book-theme/pull/820) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 💪 Opened PR [#3034](https://github.com/scikit-hep/awkward/pull/3034) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#927](https://github.com/executablebooks/mystmd/issues/927#issuecomment-1959795542) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❌ Closed PR [#800](https://github.com/executablebooks/sphinx-book-theme/pull/800) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🎉 Merged PR [#819](https://github.com/executablebooks/sphinx-book-theme/pull/819) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#819](https://github.com/executablebooks/sphinx-book-theme/pull/819#issuecomment-1959727678) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
