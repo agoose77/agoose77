@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#733](https://github.com/executablebooks/thebe/pull/733#issuecomment-1966102032) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-2. ❌ Closed PR [#733](https://github.com/executablebooks/thebe/pull/733) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-3. 🗣 Commented on [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220#issuecomment-1964134021) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 💪 Opened PR [#3034](https://github.com/scikit-hep/awkward/pull/3034) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#927](https://github.com/executablebooks/mystmd/issues/927#issuecomment-1959795542) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🎉 Merged PR [#39](https://github.com/conda-forge/mystmd-feedstock/pull/39) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+2. 🗣 Commented on [#733](https://github.com/executablebooks/thebe/pull/733#issuecomment-1966102032) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+3. ❌ Closed PR [#733](https://github.com/executablebooks/thebe/pull/733) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+4. 🗣 Commented on [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220#issuecomment-1964134021) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 💪 Opened PR [#3034](https://github.com/scikit-hep/awkward/pull/3034) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
