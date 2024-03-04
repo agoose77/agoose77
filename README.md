@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#806](https://github.com/executablebooks/sphinx-book-theme/pull/806#issuecomment-1976335192) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#1822](https://github.com/oilshell/oil/issues/1822#issuecomment-1970684807) in [oilshell/oil](https://github.com/oilshell/oil)
-3. 🗣 Commented on [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220#issuecomment-1970678263) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🔒 Closed issue [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🎉 Merged PR [#223](https://github.com/executablebooks/jupyterlab-myst/pull/223) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. ❗ Opened issue [#950](https://github.com/executablebooks/mystmd/issues/950) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#806](https://github.com/executablebooks/sphinx-book-theme/pull/806#issuecomment-1976335192) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#1822](https://github.com/oilshell/oil/issues/1822#issuecomment-1970684807) in [oilshell/oil](https://github.com/oilshell/oil)
+4. 🗣 Commented on [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220#issuecomment-1970678263) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🔒 Closed issue [#220](https://github.com/executablebooks/jupyterlab-myst/issues/220) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
