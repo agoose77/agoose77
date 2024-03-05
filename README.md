@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#309](https://github.com/executablebooks/myst-theme/pull/309) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-2. 🗣 Commented on [#2129](https://github.com/executablebooks/jupyter-book/pull/2129#issuecomment-1978983409) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 💪 Opened PR [#956](https://github.com/executablebooks/mystmd/pull/956) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#917](https://github.com/executablebooks/mystmd/pull/917#issuecomment-1978910292) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❌ Closed PR [#917](https://github.com/executablebooks/mystmd/pull/917) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 💪 Opened PR [#957](https://github.com/executablebooks/mystmd/pull/957) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🎉 Merged PR [#309](https://github.com/executablebooks/myst-theme/pull/309) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+3. 🗣 Commented on [#2129](https://github.com/executablebooks/jupyter-book/pull/2129#issuecomment-1978983409) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 💪 Opened PR [#956](https://github.com/executablebooks/mystmd/pull/956) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#917](https://github.com/executablebooks/mystmd/pull/917#issuecomment-1978910292) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
