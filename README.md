@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3036](https://github.com/scikit-hep/awkward/issues/3036#issuecomment-1980547105) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#3019](https://github.com/scikit-hep/awkward/pull/3019#issuecomment-1980517329) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1162](https://github.com/scikit-hep/uproot5/pull/1162#issuecomment-1980462100) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 💪 Opened PR [#957](https://github.com/executablebooks/mystmd/pull/957) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🎉 Merged PR [#309](https://github.com/executablebooks/myst-theme/pull/309) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. ❗ Opened issue [#321](https://github.com/executablebooks/myst-theme/issues/321) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🎉 Merged PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+3. ❌ Reopened PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+4. 🗣 Commented on [#65](https://github.com/executablebooks/sphinx-exercise/pull/65#issuecomment-1980691403) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+5. ❌ Closed PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
 <!--END_SECTION:activity-->
