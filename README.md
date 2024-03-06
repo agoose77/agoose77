@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com/dask-contrib/dask-awkward/issues/249#issuecomment-1981179394) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❗ Opened issue [#321](https://github.com/executablebooks/myst-theme/issues/321) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-3. 🎉 Merged PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-4. ❌ Reopened PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-5. 🗣 Commented on [#65](https://github.com/executablebooks/sphinx-exercise/pull/65#issuecomment-1980691403) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+1. ❗ Opened issue [#3041](https://github.com/scikit-hep/awkward/issues/3041) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#3040](https://github.com/scikit-hep/awkward/issues/3040) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#249](https://github.com/dask-contrib/dask-awkward/issues/249#issuecomment-1981179394) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. ❗ Opened issue [#321](https://github.com/executablebooks/myst-theme/issues/321) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+5. 🎉 Merged PR [#65](https://github.com/executablebooks/sphinx-exercise/pull/65) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
 <!--END_SECTION:activity-->
