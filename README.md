@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#109](https://github.com/executablebooks/jupyter-cache/issues/109) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-2. 🗣 Commented on [#964](https://github.com/executablebooks/mystmd/issues/964#issuecomment-1984162926) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❗ Opened issue [#964](https://github.com/executablebooks/mystmd/issues/964) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#963](https://github.com/executablebooks/mystmd/issues/963#issuecomment-1984158472) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#963](https://github.com/executablebooks/mystmd/issues/963) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#325](https://github.com/executablebooks/myst-theme/pull/325#issuecomment-1985608213) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🔒 Closed issue [#109](https://github.com/executablebooks/jupyter-cache/issues/109) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+3. 🗣 Commented on [#964](https://github.com/executablebooks/mystmd/issues/964#issuecomment-1984162926) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❗ Opened issue [#964](https://github.com/executablebooks/mystmd/issues/964) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#963](https://github.com/executablebooks/mystmd/issues/963#issuecomment-1984158472) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
