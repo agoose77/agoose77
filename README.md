@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2936](https://github.com/scikit-hep/awkward/issues/2936#issuecomment-1987925677) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#325](https://github.com/executablebooks/myst-theme/pull/325#issuecomment-1985639224) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-3. 🗣 Commented on [#325](https://github.com/executablebooks/myst-theme/pull/325#issuecomment-1985608213) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. 🔒 Closed issue [#109](https://github.com/executablebooks/jupyter-cache/issues/109) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-5. 🗣 Commented on [#964](https://github.com/executablebooks/mystmd/issues/964#issuecomment-1984162926) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#325](https://github.com/executablebooks/myst-theme/pull/325#issuecomment-1988019049) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🗣 Commented on [#2132](https://github.com/executablebooks/jupyter-book/issues/2132#issuecomment-1987999297) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🗣 Commented on [#2129](https://github.com/executablebooks/jupyter-book/pull/2129#issuecomment-1987989789) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🎉 Merged PR [#2131](https://github.com/executablebooks/jupyter-book/pull/2131) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🗣 Commented on [#2131](https://github.com/executablebooks/jupyter-book/pull/2131#issuecomment-1987987125) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
