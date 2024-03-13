@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/executablebooks/myst-spec/pull/64) in [executablebooks/myst-spec](https://github.com/executablebooks/myst-spec)
-2. 🗣 Commented on [#3016](https://github.com/scikit-hep/awkward/pull/3016#issuecomment-1992068044) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#328](https://github.com/executablebooks/myst-theme/pull/328#issuecomment-1991652638) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. 🗣 Commented on [#328](https://github.com/executablebooks/myst-theme/pull/328#issuecomment-1991514634) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-5. 🗣 Commented on [#961](https://github.com/executablebooks/mystmd/pull/961#issuecomment-1991402324) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#975](https://github.com/executablebooks/mystmd/issues/975#issuecomment-1994302315) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 💪 Opened PR [#64](https://github.com/executablebooks/myst-spec/pull/64) in [executablebooks/myst-spec](https://github.com/executablebooks/myst-spec)
+3. 🗣 Commented on [#3016](https://github.com/scikit-hep/awkward/pull/3016#issuecomment-1992068044) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#328](https://github.com/executablebooks/myst-theme/pull/328#issuecomment-1991652638) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+5. 🗣 Commented on [#328](https://github.com/executablebooks/myst-theme/pull/328#issuecomment-1991514634) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
