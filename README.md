@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/executablebooks/myst-theme/pull/334#issuecomment-2000250892) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-2. 💪 Opened PR [#336](https://github.com/executablebooks/myst-theme/pull/336) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-3. 🗣 Commented on [#987](https://github.com/executablebooks/mystmd/pull/987#issuecomment-2000053996) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#989](https://github.com/executablebooks/mystmd/pull/989#issuecomment-1999782113) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#989](https://github.com/executablebooks/mystmd/pull/989#issuecomment-1999764493) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. ❗ Opened issue [#1335](https://github.com/pypa/hatch/issues/1335) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🗣 Commented on [#334](https://github.com/executablebooks/myst-theme/pull/334#issuecomment-2000250892) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+3. 💪 Opened PR [#336](https://github.com/executablebooks/myst-theme/pull/336) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+4. 🗣 Commented on [#987](https://github.com/executablebooks/mystmd/pull/987#issuecomment-2000053996) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#989](https://github.com/executablebooks/mystmd/pull/989#issuecomment-1999782113) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
