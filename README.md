@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/executablebooks/myst-spec/pull/55#issuecomment-2004578834) in [executablebooks/myst-spec](https://github.com/executablebooks/myst-spec)
-2. 🗣 Commented on [#995](https://github.com/executablebooks/mystmd/issues/995#issuecomment-2004502622) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#577](https://github.com/executablebooks/mystmd/pull/577#issuecomment-2004498381) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 💪 Opened PR [#999](https://github.com/executablebooks/mystmd/pull/999) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#1335](https://github.com/pypa/hatch/issues/1335#issuecomment-2004200598) in [pypa/hatch](https://github.com/pypa/hatch)
+1. 🗣 Commented on [#336](https://github.com/executablebooks/myst-theme/pull/336#issuecomment-2006859364) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🗣 Commented on [#225](https://github.com/executablebooks/jupyterlab-myst/issues/225#issuecomment-2006854297) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#56](https://github.com/mathworks/jupyter-matlab-proxy/issues/56#issuecomment-2006851017) in [mathworks/jupyter-matlab-proxy](https://github.com/mathworks/jupyter-matlab-proxy)
+4. 🗣 Commented on [#222](https://github.com/executablebooks/jupyterlab-myst/issues/222#issuecomment-2006813116) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#170](https://github.com/executablebooks/myst-theme/issues/170#issuecomment-2006811347) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
