@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/executablebooks/myst-theme/pull/336#issuecomment-2006859364) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-2. 🗣 Commented on [#225](https://github.com/executablebooks/jupyterlab-myst/issues/225#issuecomment-2006854297) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#56](https://github.com/mathworks/jupyter-matlab-proxy/issues/56#issuecomment-2006851017) in [mathworks/jupyter-matlab-proxy](https://github.com/mathworks/jupyter-matlab-proxy)
-4. 🗣 Commented on [#222](https://github.com/executablebooks/jupyterlab-myst/issues/222#issuecomment-2006813116) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#170](https://github.com/executablebooks/myst-theme/issues/170#issuecomment-2006811347) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. 🗣 Commented on [#195](https://github.com/executablebooks/jupyterlab-myst/issues/195#issuecomment-2006897157) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🔒 Closed issue [#195](https://github.com/executablebooks/jupyterlab-myst/issues/195) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🔒 Closed issue [#200](https://github.com/executablebooks/jupyterlab-myst/issues/200) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#200](https://github.com/executablebooks/jupyterlab-myst/issues/200#issuecomment-2006895492) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#219](https://github.com/executablebooks/jupyterlab-myst/issues/219#issuecomment-2006881832) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
