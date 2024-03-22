@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/executablebooks/mystmd.org/pull/15) in [executablebooks/mystmd.org](https://github.com/executablebooks/mystmd.org)
-2. 🗣 Commented on [#1015](https://github.com/executablebooks/mystmd/pull/1015#issuecomment-2014864609) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3#issuecomment-2014845018) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
-4. 🔒 Closed issue [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
-5. 🗣 Commented on [#227](https://github.com/executablebooks/jupyterlab-myst/issues/227#issuecomment-2014843832) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 💪 Opened PR [#1022](https://github.com/executablebooks/mystmd/pull/1022) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 💪 Opened PR [#15](https://github.com/executablebooks/mystmd.org/pull/15) in [executablebooks/mystmd.org](https://github.com/executablebooks/mystmd.org)
+3. 🗣 Commented on [#1015](https://github.com/executablebooks/mystmd/pull/1015#issuecomment-2014864609) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3#issuecomment-2014845018) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+5. 🔒 Closed issue [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
 <!--END_SECTION:activity-->
