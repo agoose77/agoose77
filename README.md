@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3#issuecomment-2014845018) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
-2. 🔒 Closed issue [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
-3. 🗣 Commented on [#227](https://github.com/executablebooks/jupyterlab-myst/issues/227#issuecomment-2014843832) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🚀 Published release [v1.0.0.post1](https://github.com/executablebooks/sphinx-remove-toctrees/releases/tag/v1.0.0.post1) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
-5. 🎉 Merged PR [#8](https://github.com/executablebooks/sphinx-remove-toctrees/pull/8) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+1. 🗣 Commented on [#1015](https://github.com/executablebooks/mystmd/pull/1015#issuecomment-2014864609) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3#issuecomment-2014845018) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+3. 🔒 Closed issue [#3](https://github.com/executablebooks/sphinx-remove-toctrees/issues/3) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+4. 🗣 Commented on [#227](https://github.com/executablebooks/jupyterlab-myst/issues/227#issuecomment-2014843832) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🚀 Published release [v1.0.0.post1](https://github.com/executablebooks/sphinx-remove-toctrees/releases/tag/v1.0.0.post1) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
 <!--END_SECTION:activity-->
