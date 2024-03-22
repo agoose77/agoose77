@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#956](https://github.com/executablebooks/mystmd/pull/956#issuecomment-2013125862) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#851](https://github.com/executablebooks/mystmd/issues/851#issuecomment-2011929091) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#997](https://github.com/executablebooks/mystmd/issues/997#issuecomment-2011859167) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#212](https://github.com/2i2c-org/docs/issues/212#issuecomment-2010628550) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-5. 🗣 Commented on [#1011](https://github.com/executablebooks/mystmd/pull/1011#issuecomment-2010220217) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🎉 Merged PR [#4](https://github.com/executablebooks/sphinx-remove-toctrees/pull/4) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+2. 🗣 Commented on [#4](https://github.com/executablebooks/sphinx-remove-toctrees/pull/4#issuecomment-2014795280) in [executablebooks/sphinx-remove-toctrees](https://github.com/executablebooks/sphinx-remove-toctrees)
+3. 🗣 Commented on [#956](https://github.com/executablebooks/mystmd/pull/956#issuecomment-2013125862) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#851](https://github.com/executablebooks/mystmd/issues/851#issuecomment-2011929091) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#997](https://github.com/executablebooks/mystmd/issues/997#issuecomment-2011859167) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
