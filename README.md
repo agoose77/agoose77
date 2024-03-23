@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1023](https://github.com/executablebooks/mystmd/pull/1023#issuecomment-2015534553) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#1023](https://github.com/executablebooks/mystmd/pull/1023) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 💪 Opened PR [#1022](https://github.com/executablebooks/mystmd/pull/1022) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 💪 Opened PR [#15](https://github.com/executablebooks/mystmd.org/pull/15) in [executablebooks/mystmd.org](https://github.com/executablebooks/mystmd.org)
-5. 🗣 Commented on [#1015](https://github.com/executablebooks/mystmd/pull/1015#issuecomment-2014864609) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#84](https://github.com/executablebooks/sphinx-panels/pull/84#issuecomment-2016444561) in [executablebooks/sphinx-panels](https://github.com/executablebooks/sphinx-panels)
+2. 🗣 Commented on [#1023](https://github.com/executablebooks/mystmd/pull/1023#issuecomment-2015534553) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 💪 Opened PR [#1023](https://github.com/executablebooks/mystmd/pull/1023) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 💪 Opened PR [#1022](https://github.com/executablebooks/mystmd/pull/1022) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 💪 Opened PR [#15](https://github.com/executablebooks/mystmd.org/pull/15) in [executablebooks/mystmd.org](https://github.com/executablebooks/mystmd.org)
 <!--END_SECTION:activity-->
