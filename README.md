@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1335](https://github.com/pypa/hatch/issues/1335) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 🗣 Commented on [#3062](https://github.com/scikit-hep/awkward/issues/3062#issuecomment-2017710311) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#84](https://github.com/executablebooks/sphinx-panels/pull/84#issuecomment-2016444561) in [executablebooks/sphinx-panels](https://github.com/executablebooks/sphinx-panels)
-4. 🗣 Commented on [#1023](https://github.com/executablebooks/mystmd/pull/1023#issuecomment-2015534553) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 💪 Opened PR [#1023](https://github.com/executablebooks/mystmd/pull/1023) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 💪 Opened PR [#1030](https://github.com/executablebooks/mystmd/pull/1030) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🔒 Closed issue [#1335](https://github.com/pypa/hatch/issues/1335) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#3062](https://github.com/scikit-hep/awkward/issues/3062#issuecomment-2017710311) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#84](https://github.com/executablebooks/sphinx-panels/pull/84#issuecomment-2016444561) in [executablebooks/sphinx-panels](https://github.com/executablebooks/sphinx-panels)
+5. 🗣 Commented on [#1023](https://github.com/executablebooks/mystmd/pull/1023#issuecomment-2015534553) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
