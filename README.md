@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#457](https://github.com/dask-contrib/dask-awkward/pull/457#issuecomment-2028788509) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. 💪 Opened PR [#1030](https://github.com/executablebooks/mystmd/pull/1030) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🔒 Closed issue [#1335](https://github.com/pypa/hatch/issues/1335) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#3062](https://github.com/scikit-hep/awkward/issues/3062#issuecomment-2017710311) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#84](https://github.com/executablebooks/sphinx-panels/pull/84#issuecomment-2016444561) in [executablebooks/sphinx-panels](https://github.com/executablebooks/sphinx-panels)
+1. 🗣 Commented on [#858](https://github.com/aws-actions/configure-aws-credentials/issues/858#issuecomment-2028793583) in [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
+2. 🚀 Published release [v2.3.2](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.3.2) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#457](https://github.com/dask-contrib/dask-awkward/pull/457#issuecomment-2028788509) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 💪 Opened PR [#1030](https://github.com/executablebooks/mystmd/pull/1030) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🔒 Closed issue [#1335](https://github.com/pypa/hatch/issues/1335) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
