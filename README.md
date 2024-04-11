@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/dask-contrib/dask-awkward/issues/497#issuecomment-2050013392) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❗ Opened issue [#1094](https://github.com/executablebooks/mystmd/issues/1094) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#1092](https://github.com/executablebooks/mystmd/pull/1092#issuecomment-2049698229) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 💪 Opened PR [#1092](https://github.com/executablebooks/mystmd/pull/1092) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 💪 Opened PR [#1091](https://github.com/executablebooks/mystmd/pull/1091) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#3077](https://github.com/scikit-hep/awkward/issues/3077#issuecomment-2050068263) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#497](https://github.com/dask-contrib/dask-awkward/issues/497#issuecomment-2050013392) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+3. ❗ Opened issue [#1094](https://github.com/executablebooks/mystmd/issues/1094) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#1092](https://github.com/executablebooks/mystmd/pull/1092#issuecomment-2049698229) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 💪 Opened PR [#1092](https://github.com/executablebooks/mystmd/pull/1092) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
