@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#592](https://github.com/executablebooks/MyST-NB/pull/592) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🔒 Closed issue [#522](https://github.com/executablebooks/MyST-NB/issues/522) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🎉 Merged PR [#588](https://github.com/executablebooks/MyST-NB/pull/588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 💪 Opened PR [#66](https://github.com/executablebooks/sphinx-exercise/pull/66) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-5. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-exercise/releases/tag/v1.0.0) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+1. 🚀 Published release [v1.1.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🎉 Merged PR [#592](https://github.com/executablebooks/MyST-NB/pull/592) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 💪 Opened PR [#592](https://github.com/executablebooks/MyST-NB/pull/592) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🔒 Closed issue [#522](https://github.com/executablebooks/MyST-NB/issues/522) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#588](https://github.com/executablebooks/MyST-NB/pull/588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
