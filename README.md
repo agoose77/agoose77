@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#585](https://github.com/executablebooks/MyST-NB/pull/585) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#3007](https://github.com/scikit-hep/awkward/pull/3007#issuecomment-2051471829) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#588](https://github.com/executablebooks/MyST-NB/pull/588#issuecomment-2051303970) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#588](https://github.com/executablebooks/MyST-NB/pull/588#issuecomment-2051301675) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#3077](https://github.com/scikit-hep/awkward/issues/3077#issuecomment-2050068263) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-exercise/releases/tag/v1.0.0) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+2. 🗣 Commented on [#588](https://github.com/executablebooks/MyST-NB/pull/588#issuecomment-2051539154) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#585](https://github.com/executablebooks/MyST-NB/pull/585) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🗣 Commented on [#3007](https://github.com/scikit-hep/awkward/pull/3007#issuecomment-2051471829) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#588](https://github.com/executablebooks/MyST-NB/pull/588#issuecomment-2051303970) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
