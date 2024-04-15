@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/executablebooks/sphinx-exercise/pull/67) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-2. 🎉 Merged PR [#66](https://github.com/executablebooks/sphinx-exercise/pull/66) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-3. 🚀 Published release [v1.1.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🎉 Merged PR [#592](https://github.com/executablebooks/MyST-NB/pull/592) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 💪 Opened PR [#592](https://github.com/executablebooks/MyST-NB/pull/592) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#1304](https://github.com/executablebooks/jupyter-book/issues/1304#issuecomment-2056469624) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🔒 Closed issue [#1304](https://github.com/executablebooks/jupyter-book/issues/1304) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🗣 Commented on [#583](https://github.com/executablebooks/thebe/issues/583#issuecomment-2056463964) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+4. 🔒 Closed issue [#583](https://github.com/executablebooks/thebe/issues/583) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+5. 💪 Opened PR [#67](https://github.com/executablebooks/sphinx-exercise/pull/67) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
 <!--END_SECTION:activity-->
