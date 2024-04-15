@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1304](https://github.com/executablebooks/jupyter-book/issues/1304#issuecomment-2056469624) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🔒 Closed issue [#1304](https://github.com/executablebooks/jupyter-book/issues/1304) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🗣 Commented on [#583](https://github.com/executablebooks/thebe/issues/583#issuecomment-2056463964) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-4. 🔒 Closed issue [#583](https://github.com/executablebooks/thebe/issues/583) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-5. 💪 Opened PR [#67](https://github.com/executablebooks/sphinx-exercise/pull/67) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+1. ❗ Opened issue [#1102](https://github.com/executablebooks/mystmd/issues/1102) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. ❗ Opened issue [#1101](https://github.com/executablebooks/mystmd/issues/1101) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#1304](https://github.com/executablebooks/jupyter-book/issues/1304#issuecomment-2056469624) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🔒 Closed issue [#1304](https://github.com/executablebooks/jupyter-book/issues/1304) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🗣 Commented on [#583](https://github.com/executablebooks/thebe/issues/583#issuecomment-2056463964) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
 <!--END_SECTION:activity-->
