@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1102](https://github.com/executablebooks/mystmd/issues/1102#issuecomment-2057717433) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❗ Opened issue [#1102](https://github.com/executablebooks/mystmd/issues/1102) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❗ Opened issue [#1101](https://github.com/executablebooks/mystmd/issues/1101) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1304](https://github.com/executablebooks/jupyter-book/issues/1304#issuecomment-2056469624) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🔒 Closed issue [#1304](https://github.com/executablebooks/jupyter-book/issues/1304) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#1103](https://github.com/executablebooks/mystmd/issues/1103#issuecomment-2058787531) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#1102](https://github.com/executablebooks/mystmd/issues/1102#issuecomment-2057717433) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#1102](https://github.com/executablebooks/mystmd/issues/1102) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❗ Opened issue [#1101](https://github.com/executablebooks/mystmd/issues/1101) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1304](https://github.com/executablebooks/jupyter-book/issues/1304#issuecomment-2056469624) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
