@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#742](https://github.com/IRkernel/IRkernel/pull/742) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
-2. 🗣 Commented on [#1109](https://github.com/executablebooks/mystmd/issues/1109#issuecomment-2060009983) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#1109](https://github.com/executablebooks/mystmd/issues/1109#issuecomment-2059758256) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1030](https://github.com/executablebooks/mystmd/pull/1030#issuecomment-2059355925) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 💪 Opened PR [#11](https://github.com/executablebooks/markdown-it-amsmath/pull/11) in [executablebooks/markdown-it-amsmath](https://github.com/executablebooks/markdown-it-amsmath)
+1. ❗ Opened issue [#1160](https://github.com/executablebooks/meta/issues/1160) in [executablebooks/meta](https://github.com/executablebooks/meta)
+2. 💪 Opened PR [#742](https://github.com/IRkernel/IRkernel/pull/742) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
+3. 🗣 Commented on [#1109](https://github.com/executablebooks/mystmd/issues/1109#issuecomment-2060009983) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#1109](https://github.com/executablebooks/mystmd/issues/1109#issuecomment-2059758256) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1030](https://github.com/executablebooks/mystmd/pull/1030#issuecomment-2059355925) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
