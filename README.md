@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.4.0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.4.0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. 🎉 Merged PR [#233](https://github.com/executablebooks/jupyterlab-myst/pull/233) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#369](https://github.com/executablebooks/myst-theme/pull/369#issuecomment-2075089352) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. 💪 Opened PR [#233](https://github.com/executablebooks/jupyterlab-myst/pull/233) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-5. 🗣 Commented on [#369](https://github.com/executablebooks/myst-theme/pull/369#issuecomment-2074802598) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. 🎉 Merged PR [#18](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/18) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
+2. 🗣 Commented on [#1161](https://github.com/executablebooks/mystmd/issues/1161#issuecomment-2076495427) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🚀 Published release [v2.4.0](https://github.com/executablebooks/jupyterlab-myst/releases/tag/v2.4.0) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🎉 Merged PR [#233](https://github.com/executablebooks/jupyterlab-myst/pull/233) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#369](https://github.com/executablebooks/myst-theme/pull/369#issuecomment-2075089352) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
