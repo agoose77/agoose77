@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237#issuecomment-2078924409) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-2. ❗ Opened issue [#238](https://github.com/executablebooks/jupyterlab-myst/issues/238) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237#issuecomment-2078906859) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-4. 🗣 Commented on [#491](https://github.com/dask-contrib/dask-awkward/pull/491#issuecomment-2077635499) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. ❌ Reopened PR [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237#issuecomment-2079267209) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+2. 🗣 Commented on [#1151](https://github.com/executablebooks/mystmd/pull/1151#issuecomment-2079230833) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237#issuecomment-2078924409) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. ❗ Opened issue [#238](https://github.com/executablebooks/jupyterlab-myst/issues/238) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+5. 🗣 Commented on [#237](https://github.com/executablebooks/jupyterlab-myst/pull/237#issuecomment-2078906859) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
 <!--END_SECTION:activity-->
