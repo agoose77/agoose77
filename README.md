@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1172](https://github.com/executablebooks/mystmd/pull/1172) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#1167](https://github.com/executablebooks/mystmd/pull/1167#issuecomment-2084486173) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🎉 Merged PR [#20](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/20) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
-4. 🗣 Commented on [#2145](https://github.com/executablebooks/jupyter-book/pull/2145#issuecomment-2079623748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. ❗ Opened issue [#239](https://github.com/executablebooks/jupyterlab-myst/issues/239) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 💪 Opened PR [#1177](https://github.com/executablebooks/mystmd/pull/1177) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 💪 Opened PR [#1172](https://github.com/executablebooks/mystmd/pull/1172) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#1167](https://github.com/executablebooks/mystmd/pull/1167#issuecomment-2084486173) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🎉 Merged PR [#20](https://github.com/conda-forge/jupyterlab-myst-feedstock/pull/20) in [conda-forge/jupyterlab-myst-feedstock](https://github.com/conda-forge/jupyterlab-myst-feedstock)
+5. 🗣 Commented on [#2145](https://github.com/executablebooks/jupyter-book/pull/2145#issuecomment-2079623748) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
