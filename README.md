@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/executablebooks/sphinx-exercise/issues/64#issuecomment-2092997501) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-2. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-exercise/releases/tag/v1.0.0) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-3. 🎉 Merged PR [#68](https://github.com/executablebooks/sphinx-exercise/pull/68) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-4. 💪 Opened PR [#68](https://github.com/executablebooks/sphinx-exercise/pull/68) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
-5. ❌ Closed PR [#67](https://github.com/executablebooks/sphinx-exercise/pull/67) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+1. 🗣 Commented on [#1111](https://github.com/executablebooks/mystmd/issues/1111#issuecomment-2093367926) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#64](https://github.com/executablebooks/sphinx-exercise/issues/64#issuecomment-2092997501) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+3. 🚀 Published release [v1.0.0](https://github.com/executablebooks/sphinx-exercise/releases/tag/v1.0.0) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+4. 🎉 Merged PR [#68](https://github.com/executablebooks/sphinx-exercise/pull/68) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
+5. 💪 Opened PR [#68](https://github.com/executablebooks/sphinx-exercise/pull/68) in [executablebooks/sphinx-exercise](https://github.com/executablebooks/sphinx-exercise)
 <!--END_SECTION:activity-->
