@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3109](https://github.com/scikit-hep/awkward/issues/3109#issuecomment-2100072497) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#742](https://github.com/IRkernel/IRkernel/pull/742#issuecomment-2098867640) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
-3. 🔒 Closed issue [#1002](https://github.com/executablebooks/mystmd/issues/1002) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🔓 Reopened issue [#1002](https://github.com/executablebooks/mystmd/issues/1002) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#22](https://github.com/executablebooks/myst-enhancement-proposals/issues/22) in [executablebooks/myst-enhancement-proposals](https://github.com/executablebooks/myst-enhancement-proposals)
+1. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2100481428) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#3109](https://github.com/scikit-hep/awkward/issues/3109#issuecomment-2100072497) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#742](https://github.com/IRkernel/IRkernel/pull/742#issuecomment-2098867640) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
+4. 🔒 Closed issue [#1002](https://github.com/executablebooks/mystmd/issues/1002) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🔓 Reopened issue [#1002](https://github.com/executablebooks/mystmd/issues/1002) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
