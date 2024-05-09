@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2100519954) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2100481428) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#3109](https://github.com/scikit-hep/awkward/issues/3109#issuecomment-2100072497) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#742](https://github.com/IRkernel/IRkernel/pull/742#issuecomment-2098867640) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
-5. 🔒 Closed issue [#1002](https://github.com/executablebooks/mystmd/issues/1002) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2103162700) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2100519954) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#1188](https://github.com/executablebooks/mystmd/pull/1188#issuecomment-2100481428) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#3109](https://github.com/scikit-hep/awkward/issues/3109#issuecomment-2100072497) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#742](https://github.com/IRkernel/IRkernel/pull/742#issuecomment-2098867640) in [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel)
 <!--END_SECTION:activity-->
