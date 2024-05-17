@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1213](https://github.com/executablebooks/mystmd/pull/1213) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#1213](https://github.com/executablebooks/mystmd/pull/1213#issuecomment-2117564624) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 💪 Opened PR [#1213](https://github.com/executablebooks/mystmd/pull/1213) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#3122](https://github.com/scikit-hep/awkward/issues/3122#issuecomment-2115474485) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#3122](https://github.com/scikit-hep/awkward/issues/3122#issuecomment-2115471956) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ❗ Opened issue [#1214](https://github.com/executablebooks/mystmd/issues/1214) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🎉 Merged PR [#1213](https://github.com/executablebooks/mystmd/pull/1213) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🗣 Commented on [#1213](https://github.com/executablebooks/mystmd/pull/1213#issuecomment-2117564624) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 💪 Opened PR [#1213](https://github.com/executablebooks/mystmd/pull/1213) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#3122](https://github.com/scikit-hep/awkward/issues/3122#issuecomment-2115474485) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
