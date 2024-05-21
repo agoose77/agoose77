@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/dask-contrib/dask-awkward/pull/491#issuecomment-2123420687) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-2. ❗ Opened issue [#393](https://github.com/executablebooks/myst-theme/issues/393) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-3. 🗣 Commented on [#1178](https://github.com/executablebooks/mystmd/issues/1178#issuecomment-2123164811) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🔒 Closed issue [#1178](https://github.com/executablebooks/mystmd/issues/1178) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#369](https://github.com/executablebooks/myst-theme/pull/369#issuecomment-2122075172) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. ❗ Opened issue [#2152](https://github.com/executablebooks/jupyter-book/issues/2152) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🗣 Commented on [#1430](https://github.com/executablebooks/jupyter-book/issues/1430#issuecomment-2123467607) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🔒 Closed issue [#1430](https://github.com/executablebooks/jupyter-book/issues/1430) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 💪 Opened PR [#2151](https://github.com/executablebooks/jupyter-book/pull/2151) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🔒 Closed issue [#1300](https://github.com/executablebooks/jupyter-book/issues/1300) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
