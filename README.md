@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3510](https://github.com/colinhacks/zod/issues/3510) in [colinhacks/zod](https://github.com/colinhacks/zod)
-2. 🗣 Commented on [#242](https://github.com/executablebooks/jupyterlab-myst/issues/242#issuecomment-2124560717) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#602](https://github.com/executablebooks/MyST-NB/issues/602#issuecomment-2124557568) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. ❗ Opened issue [#2152](https://github.com/executablebooks/jupyter-book/issues/2152) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🗣 Commented on [#1430](https://github.com/executablebooks/jupyter-book/issues/1430#issuecomment-2123467607) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 💪 Opened PR [#1223](https://github.com/executablebooks/mystmd/pull/1223) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. ❗ Opened issue [#3510](https://github.com/colinhacks/zod/issues/3510) in [colinhacks/zod](https://github.com/colinhacks/zod)
+3. 🗣 Commented on [#242](https://github.com/executablebooks/jupyterlab-myst/issues/242#issuecomment-2124560717) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#602](https://github.com/executablebooks/MyST-NB/issues/602#issuecomment-2124557568) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. ❗ Opened issue [#2152](https://github.com/executablebooks/jupyter-book/issues/2152) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
