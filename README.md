@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3127](https://github.com/scikit-hep/awkward/pull/3127#issuecomment-2126685858) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#242](https://github.com/executablebooks/jupyterlab-myst/issues/242#issuecomment-2126676115) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
-3. 🗣 Commented on [#1224](https://github.com/executablebooks/mystmd/issues/1224#issuecomment-2125594089) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1224](https://github.com/executablebooks/mystmd/issues/1224#issuecomment-2125592293) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2125302271) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 💪 Opened PR [#1180](https://github.com/executablebooks/meta/pull/1180) in [executablebooks/meta](https://github.com/executablebooks/meta)
+2. 🗣 Commented on [#3127](https://github.com/scikit-hep/awkward/pull/3127#issuecomment-2126685858) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#242](https://github.com/executablebooks/jupyterlab-myst/issues/242#issuecomment-2126676115) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+4. 🗣 Commented on [#1224](https://github.com/executablebooks/mystmd/issues/1224#issuecomment-2125594089) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1224](https://github.com/executablebooks/mystmd/issues/1224#issuecomment-2125592293) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
