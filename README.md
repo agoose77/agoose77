@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.1) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🎉 Merged PR [#2156](https://github.com/executablebooks/jupyter-book/pull/2156) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 💪 Opened PR [#2156](https://github.com/executablebooks/jupyter-book/pull/2156) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🔒 Closed issue [#602](https://github.com/executablebooks/MyST-NB/issues/602) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🎉 Merged PR [#603](https://github.com/executablebooks/MyST-NB/pull/603) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. ❗ Opened issue [#1243](https://github.com/executablebooks/mystmd/issues/1243) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#1245](https://github.com/executablebooks/mystmd/issues/1245#issuecomment-2135531597) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.1) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🎉 Merged PR [#2156](https://github.com/executablebooks/jupyter-book/pull/2156) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 💪 Opened PR [#2156](https://github.com/executablebooks/jupyter-book/pull/2156) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
