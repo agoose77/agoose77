@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1262](https://github.com/executablebooks/mystmd/pull/1262) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❌ Closed PR [#1262](https://github.com/executablebooks/mystmd/pull/1262) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#395](https://github.com/executablebooks/myst-theme/pull/395#issuecomment-2142678817) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. 🗣 Commented on [#395](https://github.com/executablebooks/myst-theme/pull/395#issuecomment-2142551637) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-5. 💪 Opened PR [#395](https://github.com/executablebooks/myst-theme/pull/395) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. 🗣 Commented on [#395](https://github.com/executablebooks/myst-theme/pull/395#issuecomment-2143001282) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🗣 Commented on [#395](https://github.com/executablebooks/myst-theme/pull/395#issuecomment-2143000551) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+3. ❌ Reopened PR [#1262](https://github.com/executablebooks/mystmd/pull/1262) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❌ Closed PR [#1262](https://github.com/executablebooks/mystmd/pull/1262) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#395](https://github.com/executablebooks/myst-theme/pull/395#issuecomment-2142678817) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
 <!--END_SECTION:activity-->
