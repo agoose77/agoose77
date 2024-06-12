@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🎉 Merged PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 💪 Opened PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🎉 Merged PR [#842](https://github.com/executablebooks/sphinx-book-theme/pull/842) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. ❌ Closed PR [#813](https://github.com/executablebooks/sphinx-book-theme/pull/813) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#2160](https://github.com/executablebooks/jupyter-book/issues/2160#issuecomment-2163179768) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🚀 Published release [v1.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🎉 Merged PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 💪 Opened PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🎉 Merged PR [#842](https://github.com/executablebooks/sphinx-book-theme/pull/842) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
