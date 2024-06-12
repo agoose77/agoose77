@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/executablebooks/sphinx-book-theme/pull/844#issuecomment-2163340339) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#2160](https://github.com/executablebooks/jupyter-book/issues/2160#issuecomment-2163179768) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-3. 🚀 Published release [v1.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🎉 Merged PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 💪 Opened PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. ❗ Opened issue [#60](https://github.com/conda-forge/mystmd-feedstock/issues/60) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+2. 🗣 Commented on [#844](https://github.com/executablebooks/sphinx-book-theme/pull/844#issuecomment-2163340339) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#2160](https://github.com/executablebooks/jupyter-book/issues/2160#issuecomment-2163179768) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 🚀 Published release [v1.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.3) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🎉 Merged PR [#843](https://github.com/executablebooks/sphinx-book-theme/pull/843) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
