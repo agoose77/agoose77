@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1312](https://github.com/executablebooks/mystmd/issues/1312) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#1309](https://github.com/executablebooks/mystmd/pull/1309#issuecomment-2166659357) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 🗣 Commented on [#1310](https://github.com/executablebooks/mystmd/issues/1310#issuecomment-2166655325) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. ❗ Opened issue [#1310](https://github.com/executablebooks/mystmd/issues/1310) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#402](https://github.com/executablebooks/myst-theme/issues/402) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. 💪 Opened PR [#1314](https://github.com/executablebooks/mystmd/pull/1314) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. ❗ Opened issue [#1313](https://github.com/executablebooks/mystmd/issues/1313) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#754](https://github.com/executablebooks/thebe/issues/754) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+4. ❗ Opened issue [#1312](https://github.com/executablebooks/mystmd/issues/1312) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1309](https://github.com/executablebooks/mystmd/pull/1309#issuecomment-2166659357) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
