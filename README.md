@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1303](https://github.com/executablebooks/mystmd/issues/1303#issuecomment-2165199791) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🔒 Closed issue [#1303](https://github.com/executablebooks/mystmd/issues/1303) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❗ Opened issue [#60](https://github.com/conda-forge/mystmd-feedstock/issues/60) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-4. 🗣 Commented on [#844](https://github.com/executablebooks/sphinx-book-theme/pull/844#issuecomment-2163340339) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#2160](https://github.com/executablebooks/jupyter-book/issues/2160#issuecomment-2163179768) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. ❗ Opened issue [#402](https://github.com/executablebooks/myst-theme/issues/402) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+2. 🗣 Commented on [#1303](https://github.com/executablebooks/mystmd/issues/1303#issuecomment-2165199791) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🔒 Closed issue [#1303](https://github.com/executablebooks/mystmd/issues/1303) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❗ Opened issue [#60](https://github.com/conda-forge/mystmd-feedstock/issues/60) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+5. 🗣 Commented on [#844](https://github.com/executablebooks/sphinx-book-theme/pull/844#issuecomment-2163340339) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
