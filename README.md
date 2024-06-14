@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#754](https://github.com/executablebooks/thebe/issues/754#issuecomment-2167830429) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
-2. 🗣 Commented on [#1312](https://github.com/executablebooks/mystmd/issues/1312#issuecomment-2166895712) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. 💪 Opened PR [#1314](https://github.com/executablebooks/mystmd/pull/1314) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. ❗ Opened issue [#1313](https://github.com/executablebooks/mystmd/issues/1313) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#754](https://github.com/executablebooks/thebe/issues/754) in [executablebooks/thebe](https://github.com/executablebooks/thebe)
+1. 🗣 Commented on [#1286](https://github.com/executablebooks/mystmd/pull/1286#issuecomment-2167871544) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#1298](https://github.com/executablebooks/mystmd/issues/1298#issuecomment-2167870760) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 🔒 Closed issue [#1310](https://github.com/executablebooks/mystmd/issues/1310) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🎉 Merged PR [#1311](https://github.com/executablebooks/mystmd/pull/1311) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1311](https://github.com/executablebooks/mystmd/pull/1311#issuecomment-2167869131) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
