@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1330](https://github.com/executablebooks/mystmd/pull/1330) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 💪 Opened PR [#1329](https://github.com/executablebooks/mystmd/pull/1329) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❗ Opened issue [#1327](https://github.com/executablebooks/mystmd/issues/1327) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1325](https://github.com/executablebooks/mystmd/pull/1325#issuecomment-2174512493) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 💪 Opened PR [#1325](https://github.com/executablebooks/mystmd/pull/1325) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🔒 Closed issue [#1327](https://github.com/executablebooks/mystmd/issues/1327) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🎉 Merged PR [#1330](https://github.com/executablebooks/mystmd/pull/1330) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. 💪 Opened PR [#1330](https://github.com/executablebooks/mystmd/pull/1330) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 💪 Opened PR [#1329](https://github.com/executablebooks/mystmd/pull/1329) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. ❗ Opened issue [#1327](https://github.com/executablebooks/mystmd/issues/1327) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
