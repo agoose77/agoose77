@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1360](https://github.com/executablebooks/mystmd/issues/1360#issuecomment-2191709308) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. ❗ Opened issue [#1360](https://github.com/executablebooks/mystmd/issues/1360) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❗ Opened issue [#413](https://github.com/executablebooks/myst-theme/issues/413) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-4. ❗ Opened issue [#1359](https://github.com/executablebooks/mystmd/issues/1359) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🔒 Closed issue [#1241](https://github.com/executablebooks/mystmd/issues/1241) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2191734300) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. 🗣 Commented on [#1360](https://github.com/executablebooks/mystmd/issues/1360#issuecomment-2191709308) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#1360](https://github.com/executablebooks/mystmd/issues/1360) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❗ Opened issue [#413](https://github.com/executablebooks/myst-theme/issues/413) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+5. ❗ Opened issue [#1359](https://github.com/executablebooks/mystmd/issues/1359) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
