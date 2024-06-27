@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2165](https://github.com/executablebooks/jupyter-book/pull/2165) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-2. 🗣 Commented on [#3170](https://github.com/scikit-hep/awkward/issues/3170#issuecomment-2195160154) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#2167](https://github.com/executablebooks/jupyter-book/pull/2167) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 💪 Opened PR [#2167](https://github.com/executablebooks/jupyter-book/pull/2167) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-5. 🎉 Merged PR [#2166](https://github.com/executablebooks/jupyter-book/pull/2166) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🗣 Commented on [#2157](https://github.com/executablebooks/jupyter-book/issues/2157#issuecomment-2195186233) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🚀 Published release [v1.0.2](https://github.com/executablebooks/jupyter-book/releases/tag/v1.0.2) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+3. 🎉 Merged PR [#2168](https://github.com/executablebooks/jupyter-book/pull/2168) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+4. 💪 Opened PR [#2168](https://github.com/executablebooks/jupyter-book/pull/2168) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+5. 🎉 Merged PR [#2165](https://github.com/executablebooks/jupyter-book/pull/2165) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
