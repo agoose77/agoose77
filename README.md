@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.1) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🎉 Merged PR [#614](https://github.com/executablebooks/MyST-NB/pull/614) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 💪 Opened PR [#614](https://github.com/executablebooks/MyST-NB/pull/614) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#600](https://github.com/executablebooks/MyST-NB/pull/600#issuecomment-2194980168) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🗣 Commented on [#597](https://github.com/executablebooks/MyST-NB/pull/597#issuecomment-2194978018) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#2165](https://github.com/executablebooks/jupyter-book/pull/2165) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+2. 🚀 Published release [v1.1.1](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.1) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#614](https://github.com/executablebooks/MyST-NB/pull/614) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 💪 Opened PR [#614](https://github.com/executablebooks/MyST-NB/pull/614) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#600](https://github.com/executablebooks/MyST-NB/pull/600#issuecomment-2194980168) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
