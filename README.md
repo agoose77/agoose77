@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/executablebooks/myst-theme/pull/417#issuecomment-2203554434) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-2. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2203484429) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-3. ❗ Opened issue [#942](https://github.com/executablebooks/MyST-Parser/issues/942) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
-4. 💪 Opened PR [#1369](https://github.com/executablebooks/mystmd/pull/1369) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#417](https://github.com/executablebooks/myst-theme/pull/417#issuecomment-2200551084) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+1. 💪 Opened PR [#448](https://github.com/ProjectPythia/projectpythia.github.io/pull/448) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+2. 🗣 Commented on [#417](https://github.com/executablebooks/myst-theme/pull/417#issuecomment-2203554434) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+3. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2203484429) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+4. ❗ Opened issue [#942](https://github.com/executablebooks/MyST-Parser/issues/942) in [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser)
+5. 💪 Opened PR [#1369](https://github.com/executablebooks/mystmd/pull/1369) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
