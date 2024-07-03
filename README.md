@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/executablebooks/sphinx-proof/pull/106#issuecomment-2205486006) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-2. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2205466357) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-3. 💪 Opened PR [#2](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/2) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-4. 🗣 Commented on [#448](https://github.com/ProjectPythia/projectpythia.github.io/pull/448#issuecomment-2203710491) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
-5. ❌ Closed PR [#448](https://github.com/ProjectPythia/projectpythia.github.io/pull/448) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+1. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2206004891) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+2. 🗣 Commented on [#106](https://github.com/executablebooks/sphinx-proof/pull/106#issuecomment-2205486006) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+3. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2205466357) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+4. 💪 Opened PR [#2](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/2) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+5. 🗣 Commented on [#448](https://github.com/ProjectPythia/projectpythia.github.io/pull/448#issuecomment-2203710491) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
 <!--END_SECTION:activity-->
