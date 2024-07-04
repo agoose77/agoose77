@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/executablebooks/myst-theme/pull/417#issuecomment-2206499533) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-2. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2206004891) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-3. 🗣 Commented on [#106](https://github.com/executablebooks/sphinx-proof/pull/106#issuecomment-2205486006) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-4. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2205466357) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
-5. 💪 Opened PR [#2](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/2) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+1. ❗ Opened issue [#1372](https://github.com/executablebooks/mystmd/issues/1372) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. ❗ Opened issue [#244](https://github.com/executablebooks/jupyterlab-myst/issues/244) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+3. 🗣 Commented on [#417](https://github.com/executablebooks/myst-theme/pull/417#issuecomment-2206499533) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+4. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2206004891) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+5. 🗣 Commented on [#106](https://github.com/executablebooks/sphinx-proof/pull/106#issuecomment-2205486006) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
 <!--END_SECTION:activity-->
