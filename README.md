@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1373](https://github.com/executablebooks/mystmd/issues/1373) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-2. 🗣 Commented on [#408](https://github.com/executablebooks/myst-theme/pull/408#issuecomment-2210902442) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
-3. ❗ Opened issue [#4](https://github.com/executablebooks/jupyter-book-myst/issues/4) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
-4. ❗ Opened issue [#1372](https://github.com/executablebooks/mystmd/issues/1372) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. ❗ Opened issue [#244](https://github.com/executablebooks/jupyterlab-myst/issues/244) in [executablebooks/jupyterlab-myst](https://github.com/executablebooks/jupyterlab-myst)
+1. 🗣 Commented on [#1373](https://github.com/executablebooks/mystmd/issues/1373#issuecomment-2211045212) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+2. ❗ Opened issue [#1374](https://github.com/executablebooks/mystmd/issues/1374) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+3. ❗ Opened issue [#1373](https://github.com/executablebooks/mystmd/issues/1373) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. 🗣 Commented on [#408](https://github.com/executablebooks/myst-theme/pull/408#issuecomment-2210902442) in [executablebooks/myst-theme](https://github.com/executablebooks/myst-theme)
+5. ❗ Opened issue [#4](https://github.com/executablebooks/jupyter-book-myst/issues/4) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
 <!--END_SECTION:activity-->
