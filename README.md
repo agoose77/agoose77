@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4366](https://github.com/2i2c-org/infrastructure/issues/4366#issuecomment-2211630591) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#1325](https://github.com/executablebooks/mystmd/pull/1325#issuecomment-2211078460) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-3. ❌ Closed PR [#1325](https://github.com/executablebooks/mystmd/pull/1325) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2211068826) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2211068495) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+1. 💪 Opened PR [#3782](https://github.com/the-turing-way/the-turing-way/pull/3782) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🗣 Commented on [#4366](https://github.com/2i2c-org/infrastructure/issues/4366#issuecomment-2211630591) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#1325](https://github.com/executablebooks/mystmd/pull/1325#issuecomment-2211078460) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+4. ❌ Closed PR [#1325](https://github.com/executablebooks/mystmd/pull/1325) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
+5. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2211068826) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
