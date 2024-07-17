@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/manzt/anymyst/issues/1) in [manzt/anymyst](https://github.com/manzt/anymyst)
-2. 🗣 Commented on [#1389](https://github.com/jupyter-book/mystmd/pull/1389#issuecomment-2227498899) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1256](https://github.com/executablebooks/mystmd/issues/1256) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-4. 🗣 Commented on [#1223](https://github.com/executablebooks/mystmd/pull/1223#issuecomment-2223445145) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
-5. 🗣 Commented on [#105](https://github.com/executablebooks/sphinx-proof/pull/105#issuecomment-2222262321) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+1. 🗣 Commented on [#1223](https://github.com/jupyter-book/mystmd/pull/1223#issuecomment-2233745028) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1223](https://github.com/jupyter-book/mystmd/pull/1223#issuecomment-2233742198) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❗ Opened issue [#1](https://github.com/manzt/anymyst/issues/1) in [manzt/anymyst](https://github.com/manzt/anymyst)
+4. 🗣 Commented on [#1389](https://github.com/jupyter-book/mystmd/pull/1389#issuecomment-2227498899) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#1256](https://github.com/executablebooks/mystmd/issues/1256) in [executablebooks/mystmd](https://github.com/executablebooks/mystmd)
 <!--END_SECTION:activity-->
