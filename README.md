@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#431](https://github.com/jupyter-book/myst-theme/pull/431) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#1398](https://github.com/jupyter-book/mystmd/pull/1398) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1178](https://github.com/InsightSoftwareConsortium/ITK-Wasm/pull/1178#issuecomment-2239527077) in [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm)
-4. 💪 Opened PR [#5](https://github.com/projectpythia-mystmd/cookbook-gallery/pull/5) in [projectpythia-mystmd/cookbook-gallery](https://github.com/projectpythia-mystmd/cookbook-gallery)
-5. 💪 Opened PR [#2](https://github.com/projectpythia-mystmd/pythia-config/pull/2) in [projectpythia-mystmd/pythia-config](https://github.com/projectpythia-mystmd/pythia-config)
+1. 🗣 Commented on [#1178](https://github.com/InsightSoftwareConsortium/ITK-Wasm/pull/1178#issuecomment-2241176257) in [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm)
+2. 💪 Opened PR [#1399](https://github.com/jupyter-book/mystmd/pull/1399) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#431](https://github.com/jupyter-book/myst-theme/pull/431) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#1398](https://github.com/jupyter-book/mystmd/pull/1398) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1178](https://github.com/InsightSoftwareConsortium/ITK-Wasm/pull/1178#issuecomment-2239527077) in [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm)
 <!--END_SECTION:activity-->
