@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1398](https://github.com/jupyter-book/mystmd/pull/1398#issuecomment-2243685083) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1329](https://github.com/jupyter-book/mystmd/pull/1329#issuecomment-2243677144) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1398](https://github.com/jupyter-book/mystmd/pull/1398#issuecomment-2242845652) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1178](https://github.com/InsightSoftwareConsortium/ITK-Wasm/pull/1178#issuecomment-2241495402) in [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm)
-5. 🗣 Commented on [#1178](https://github.com/InsightSoftwareConsortium/ITK-Wasm/pull/1178#issuecomment-2241176257) in [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm)
+1. 🗣 Commented on [#1379](https://github.com/jupyter-book/mystmd/issues/1379#issuecomment-2243708022) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#1379](https://github.com/jupyter-book/mystmd/issues/1379) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1398](https://github.com/jupyter-book/mystmd/pull/1398#issuecomment-2243685083) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1329](https://github.com/jupyter-book/mystmd/pull/1329#issuecomment-2243677144) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1398](https://github.com/jupyter-book/mystmd/pull/1398#issuecomment-2242845652) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
