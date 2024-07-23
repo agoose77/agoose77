@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1404](https://github.com/jupyter-book/mystmd/pull/1404) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🎉 Merged PR [#1403](https://github.com/jupyter-book/mystmd/pull/1403) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#1403](https://github.com/jupyter-book/mystmd/pull/1403) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1379](https://github.com/jupyter-book/mystmd/issues/1379#issuecomment-2243708022) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#1379](https://github.com/jupyter-book/mystmd/issues/1379) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1404](https://github.com/jupyter-book/mystmd/pull/1404#issuecomment-2245773752) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1405](https://github.com/jupyter-book/mystmd/pull/1405#issuecomment-2245772306) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#1405](https://github.com/jupyter-book/mystmd/pull/1405) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#1404](https://github.com/jupyter-book/mystmd/pull/1404) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🎉 Merged PR [#1403](https://github.com/jupyter-book/mystmd/pull/1403) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
