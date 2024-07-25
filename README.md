@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1399](https://github.com/jupyter-book/mystmd/pull/1399) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#2178](https://github.com/jupyter-book/jupyter-book/issues/2178#issuecomment-2248395314) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 💪 Opened PR [#2179](https://github.com/jupyter-book/jupyter-book/pull/2179) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🗣 Commented on [#1409](https://github.com/jupyter-book/mystmd/issues/1409#issuecomment-2246247657) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#1406](https://github.com/jupyter-book/mystmd/pull/1406) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1262](https://github.com/jupyter-book/mystmd/pull/1262#issuecomment-2250107283) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1245](https://github.com/jupyter-book/mystmd/issues/1245#issuecomment-2250104687) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔒 Closed issue [#1245](https://github.com/jupyter-book/mystmd/issues/1245) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🎉 Merged PR [#6](https://github.com/projectpythia-mystmd/cookbook-gallery/pull/6) in [projectpythia-mystmd/cookbook-gallery](https://github.com/projectpythia-mystmd/cookbook-gallery)
+5. 💪 Opened PR [#6](https://github.com/projectpythia-mystmd/cookbook-gallery/pull/6) in [projectpythia-mystmd/cookbook-gallery](https://github.com/projectpythia-mystmd/cookbook-gallery)
 <!--END_SECTION:activity-->
