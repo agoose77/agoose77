@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1415](https://github.com/jupyter-book/mystmd/issues/1415#issuecomment-2255517071) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#175](https://github.com/jupyter-book/jupyterlab-myst/issues/175#issuecomment-2254628751) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 🗣 Commented on [#1324](https://github.com/jupyter-book/mystmd/issues/1324#issuecomment-2254593623) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#435](https://github.com/jupyter-book/myst-theme/pull/435#issuecomment-2250464024) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 💪 Opened PR [#435](https://github.com/jupyter-book/myst-theme/pull/435) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🎉 Merged PR [#164](https://github.com/jupyter-book/jupyterlab-myst/pull/164) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. 🗣 Commented on [#164](https://github.com/jupyter-book/jupyterlab-myst/pull/164#issuecomment-2255727333) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+3. 🗣 Commented on [#1415](https://github.com/jupyter-book/mystmd/issues/1415#issuecomment-2255517071) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#175](https://github.com/jupyter-book/jupyterlab-myst/issues/175#issuecomment-2254628751) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 🗣 Commented on [#1324](https://github.com/jupyter-book/mystmd/issues/1324#issuecomment-2254593623) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
