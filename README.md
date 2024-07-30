@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/jupyter-book/jupyterlab-myst/issues/175#issuecomment-2258128231) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-2. 🎉 Merged PR [#245](https://github.com/jupyter-book/jupyterlab-myst/pull/245) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 💪 Opened PR [#245](https://github.com/jupyter-book/jupyterlab-myst/pull/245) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. 🗣 Commented on [#531](https://github.com/dask-contrib/dask-awkward/issues/531#issuecomment-2258065097) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#133](https://github.com/jupyter-book/jupyterlab-myst/issues/133#issuecomment-2256404890) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+1. 🔒 Closed issue [#1415](https://github.com/jupyter-book/mystmd/issues/1415) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#1416](https://github.com/jupyter-book/mystmd/pull/1416) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1416](https://github.com/jupyter-book/mystmd/pull/1416#issuecomment-2258186120) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#175](https://github.com/jupyter-book/jupyterlab-myst/issues/175#issuecomment-2258128231) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 🎉 Merged PR [#245](https://github.com/jupyter-book/jupyterlab-myst/pull/245) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
