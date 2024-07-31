@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#888](https://github.com/2i2c-org/team-compass/issues/888) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-2. 🔒 Closed issue [#1419](https://github.com/jupyter-book/mystmd/issues/1419) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🎉 Merged PR [#1420](https://github.com/jupyter-book/mystmd/pull/1420) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#1420](https://github.com/jupyter-book/mystmd/pull/1420) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1419](https://github.com/jupyter-book/mystmd/issues/1419#issuecomment-2259992037) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#3191](https://github.com/scikit-hep/awkward/pull/3191#issuecomment-2260396974) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#888](https://github.com/2i2c-org/team-compass/issues/888) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+3. 🔒 Closed issue [#1419](https://github.com/jupyter-book/mystmd/issues/1419) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🎉 Merged PR [#1420](https://github.com/jupyter-book/mystmd/pull/1420) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#1420](https://github.com/jupyter-book/mystmd/pull/1420) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
