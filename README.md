@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#440](https://github.com/jupyter-book/myst-theme/issues/440) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#3191](https://github.com/scikit-hep/awkward/pull/3191#issuecomment-2260396974) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗ Opened issue [#888](https://github.com/2i2c-org/team-compass/issues/888) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-4. 🔒 Closed issue [#1419](https://github.com/jupyter-book/mystmd/issues/1419) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#1420](https://github.com/jupyter-book/mystmd/pull/1420) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#3189](https://github.com/scikit-hep/awkward/pull/3189#issuecomment-2260829386) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🔒 Closed issue [#2947](https://github.com/scikit-hep/awkward/issues/2947) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#3191](https://github.com/scikit-hep/awkward/pull/3191) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#3191](https://github.com/scikit-hep/awkward/pull/3191#issuecomment-2260827617) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#3191](https://github.com/scikit-hep/awkward/pull/3191#issuecomment-2260827243) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
