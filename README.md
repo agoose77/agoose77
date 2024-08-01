@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#438](https://github.com/jupyter-book/myst-theme/pull/438) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#441](https://github.com/jupyter-book/myst-theme/pull/441#issuecomment-2261461881) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 💪 Opened PR [#442](https://github.com/jupyter-book/myst-theme/pull/442) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#3189](https://github.com/scikit-hep/awkward/pull/3189#issuecomment-2260829386) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🔒 Closed issue [#2947](https://github.com/scikit-hep/awkward/issues/2947) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#443](https://github.com/jupyter-book/myst-theme/pull/443#issuecomment-2263047054) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#431](https://github.com/jupyter-book/myst-theme/pull/431#issuecomment-2263041250) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. ❌ Closed PR [#431](https://github.com/jupyter-book/myst-theme/pull/431) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#443](https://github.com/jupyter-book/myst-theme/pull/443) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#438](https://github.com/jupyter-book/myst-theme/pull/438) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
