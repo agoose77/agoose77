@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#143](https://github.com/conda-forge/awkward-feedstock/pull/143) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-2. 🗣 Commented on [#145](https://github.com/conda-forge/awkward-feedstock/pull/145#issuecomment-2267583468) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-3. 🗣 Commented on [#145](https://github.com/conda-forge/awkward-feedstock/pull/145#issuecomment-2267582788) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-4. 🎉 Merged PR [#144](https://github.com/conda-forge/awkward-feedstock/pull/144) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
-5. 🗣 Commented on [#144](https://github.com/conda-forge/awkward-feedstock/pull/144#issuecomment-2267575881) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+1. 💪 Opened PR [#444](https://github.com/jupyter-book/myst-theme/pull/444) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❌ Closed PR [#143](https://github.com/conda-forge/awkward-feedstock/pull/143) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+3. 🗣 Commented on [#145](https://github.com/conda-forge/awkward-feedstock/pull/145#issuecomment-2267583468) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+4. 🗣 Commented on [#145](https://github.com/conda-forge/awkward-feedstock/pull/145#issuecomment-2267582788) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
+5. 🎉 Merged PR [#144](https://github.com/conda-forge/awkward-feedstock/pull/144) in [conda-forge/awkward-feedstock](https://github.com/conda-forge/awkward-feedstock)
 <!--END_SECTION:activity-->
