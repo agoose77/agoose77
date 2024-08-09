@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1433](https://github.com/jupyter-book/mystmd/pull/1433) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1433](https://github.com/jupyter-book/mystmd/pull/1433#issuecomment-2277831540) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#39](https://github.com/nix-community/flake-firefox-nightly/issues/39#issuecomment-2277821594) in [nix-community/flake-firefox-nightly](https://github.com/nix-community/flake-firefox-nightly)
-4. 🔒 Closed issue [#2178](https://github.com/jupyter-book/jupyter-book/issues/2178) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2179](https://github.com/jupyter-book/jupyter-book/pull/2179) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#1361](https://github.com/jupyter-book/mystmd/issues/1361#issuecomment-2278186513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#1441](https://github.com/jupyter-book/mystmd/pull/1441) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#1441](https://github.com/jupyter-book/mystmd/pull/1441) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🎉 Merged PR [#1433](https://github.com/jupyter-book/mystmd/pull/1433) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1433](https://github.com/jupyter-book/mystmd/pull/1433#issuecomment-2277831540) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
