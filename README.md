@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/executablebooks/sphinx-ext-mystmd/issues/1) in [executablebooks/sphinx-ext-mystmd](https://github.com/executablebooks/sphinx-ext-mystmd)
-2. 🗣 Commented on [#1454](https://github.com/jupyter-book/mystmd/pull/1454#issuecomment-2284082838) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#834](https://github.com/jupyter-book/mystmd/issues/834#issuecomment-2284057580) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1454](https://github.com/jupyter-book/mystmd/pull/1454#issuecomment-2283997113) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#1455](https://github.com/jupyter-book/mystmd/issues/1455) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❗ Opened issue [#1456](https://github.com/jupyter-book/mystmd/issues/1456) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#1](https://github.com/executablebooks/sphinx-ext-mystmd/issues/1) in [executablebooks/sphinx-ext-mystmd](https://github.com/executablebooks/sphinx-ext-mystmd)
+3. 🗣 Commented on [#1454](https://github.com/jupyter-book/mystmd/pull/1454#issuecomment-2284082838) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#834](https://github.com/jupyter-book/mystmd/issues/834#issuecomment-2284057580) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1454](https://github.com/jupyter-book/mystmd/pull/1454#issuecomment-2283997113) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
