@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1462](https://github.com/jupyter-book/mystmd/issues/1462#issuecomment-2286788353) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❗ Opened issue [#1462](https://github.com/jupyter-book/mystmd/issues/1462) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#2712](https://github.com/DeepLabCut/DeepLabCut/pull/2712) in [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
-4. ❗ Opened issue [#1456](https://github.com/jupyter-book/mystmd/issues/1456) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#1](https://github.com/executablebooks/sphinx-ext-mystmd/issues/1) in [executablebooks/sphinx-ext-mystmd](https://github.com/executablebooks/sphinx-ext-mystmd)
+1. 🗣 Commented on [#1462](https://github.com/jupyter-book/mystmd/issues/1462#issuecomment-2286805635) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1462](https://github.com/jupyter-book/mystmd/issues/1462#issuecomment-2286788353) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❗ Opened issue [#1462](https://github.com/jupyter-book/mystmd/issues/1462) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#2712](https://github.com/DeepLabCut/DeepLabCut/pull/2712) in [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+5. ❗ Opened issue [#1456](https://github.com/jupyter-book/mystmd/issues/1456) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
