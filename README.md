@@ -4,7 +4,7 @@ I'm a software developer 💻 with a background in experimental nuclear physics 
 
 I have experience in many aspects of software engineering, including game design, full-stack web development, and high-performance numeric computing. 
 
-At 2i2c I am working on MyST community building, tooling, and wider ecosystem. 
+At 2i2c I am working on [MyST](https://github.com/jupyter-book/mystmd) community building, tooling, and wider ecosystem. 
 
 My main focus at Princeton was on the [Awkward Array project](awkward-array.org/), which describes itself as a library that can 
 > manipulate JSON-like data with NumPy-like idioms. I remain an active maintainer of the project. 
