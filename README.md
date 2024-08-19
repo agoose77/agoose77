@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/curvenote/scienceicons/issues/4) in [curvenote/scienceicons](https://github.com/curvenote/scienceicons)
-2. 🎉 Merged PR [#1468](https://github.com/jupyter-book/mystmd/pull/1468) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#1468](https://github.com/jupyter-book/mystmd/pull/1468) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#1465](https://github.com/jupyter-book/mystmd/pull/1465) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1462](https://github.com/jupyter-book/mystmd/issues/1462#issuecomment-2286805635) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1426](https://github.com/jupyter-book/mystmd/pull/1426#issuecomment-2297019001) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1426](https://github.com/jupyter-book/mystmd/pull/1426#issuecomment-2297002179) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#447](https://github.com/jupyter-book/myst-theme/pull/447#issuecomment-2297000718) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. ❗ Opened issue [#4](https://github.com/curvenote/scienceicons/issues/4) in [curvenote/scienceicons](https://github.com/curvenote/scienceicons)
+5. 🎉 Merged PR [#1468](https://github.com/jupyter-book/mystmd/pull/1468) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
