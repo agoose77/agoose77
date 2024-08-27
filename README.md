@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1494](https://github.com/jupyter-book/mystmd/issues/1494#issuecomment-2312612500) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#441](https://github.com/jupyter-book/myst-theme/pull/441#issuecomment-2312200702) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#445](https://github.com/jupyter-book/myst-theme/pull/445#issuecomment-2312168105) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#445](https://github.com/jupyter-book/myst-theme/pull/445#issuecomment-2312133453) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🎉 Merged PR [#1489](https://github.com/jupyter-book/mystmd/pull/1489) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#24](https://github.com/agoose77/hatch-nodejs-version/pull/24) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+2. 💪 Opened PR [#24](https://github.com/agoose77/hatch-nodejs-version/pull/24) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🗣 Commented on [#1494](https://github.com/jupyter-book/mystmd/issues/1494#issuecomment-2312612500) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#441](https://github.com/jupyter-book/myst-theme/pull/441#issuecomment-2312200702) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#445](https://github.com/jupyter-book/myst-theme/pull/445#issuecomment-2312168105) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
