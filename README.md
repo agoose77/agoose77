@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1498](https://github.com/jupyter-book/mystmd/issues/1498) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1214](https://github.com/jupyter-book/mystmd/issues/1214#issuecomment-2315157666) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1214](https://github.com/jupyter-book/mystmd/issues/1214) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#2196](https://github.com/jupyter-book/jupyter-book/pull/2196) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 💪 Opened PR [#2196](https://github.com/jupyter-book/jupyter-book/pull/2196) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🚀 Published release [v0.1.0](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.0) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+2. 🎉 Merged PR [#2](https://github.com/jupyter-book/hatch-deps-selector/pull/2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+3. 💪 Opened PR [#2](https://github.com/jupyter-book/hatch-deps-selector/pull/2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+4. 🚀 Published release [v0.0.2](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.0.2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+5. 🎉 Merged PR [#1](https://github.com/jupyter-book/hatch-deps-selector/pull/1) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
 <!--END_SECTION:activity-->
