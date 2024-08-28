@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/pyOpenSci/peer-review-metrics/pull/44#issuecomment-2314777781) in [pyOpenSci/peer-review-metrics](https://github.com/pyOpenSci/peer-review-metrics)
-2. 🗣 Commented on [#1494](https://github.com/jupyter-book/mystmd/issues/1494#issuecomment-2314308427) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#2193](https://github.com/jupyter-book/jupyter-book/issues/2193) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🚀 Published release [v0.0.1](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.0.1) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
-5. 🗣 Commented on [#458](https://github.com/jupyter-book/myst-theme/issues/458#issuecomment-2312899643) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#1497](https://github.com/jupyter-book/mystmd/issues/1497) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#459](https://github.com/jupyter-book/myst-theme/issues/459) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#44](https://github.com/pyOpenSci/peer-review-metrics/pull/44#issuecomment-2314777781) in [pyOpenSci/peer-review-metrics](https://github.com/pyOpenSci/peer-review-metrics)
+4. 🗣 Commented on [#1494](https://github.com/jupyter-book/mystmd/issues/1494#issuecomment-2314308427) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#2193](https://github.com/jupyter-book/jupyter-book/issues/2193) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
