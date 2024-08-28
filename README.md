@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/jupyter-book/myst-theme/pull/297#issuecomment-2315622813) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. ❌ Closed PR [#297](https://github.com/jupyter-book/myst-theme/pull/297) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#170](https://github.com/jupyter-book/myst-theme/issues/170#issuecomment-2315615929) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#1432](https://github.com/jupyter-book/mystmd/pull/1432#issuecomment-2315579644) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#27417](https://github.com/conda-forge/staged-recipes/pull/27417#issuecomment-2315468552) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+1. 🎉 Merged PR [#620](https://github.com/executablebooks/MyST-NB/pull/620) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🔒 Closed issue [#619](https://github.com/executablebooks/MyST-NB/issues/619) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#297](https://github.com/jupyter-book/myst-theme/pull/297#issuecomment-2315622813) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. ❌ Closed PR [#297](https://github.com/jupyter-book/myst-theme/pull/297) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#170](https://github.com/jupyter-book/myst-theme/issues/170#issuecomment-2315615929) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
