@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2198](https://github.com/jupyter-book/jupyter-book/pull/2198) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2315409419) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🚀 Published release [v0.1.1](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.1) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
-4. 🎉 Merged PR [#4](https://github.com/jupyter-book/hatch-deps-selector/pull/4) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
-5. 💪 Opened PR [#4](https://github.com/jupyter-book/hatch-deps-selector/pull/4) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+1. 🗣 Commented on [#27417](https://github.com/conda-forge/staged-recipes/pull/27417#issuecomment-2315468552) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+2. 🗣 Commented on [#30](https://github.com/executablebooks/mdformat-myst/issues/30#issuecomment-2315467357) in [executablebooks/mdformat-myst](https://github.com/executablebooks/mdformat-myst)
+3. 💪 Opened PR [#2198](https://github.com/jupyter-book/jupyter-book/pull/2198) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2315409419) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🚀 Published release [v0.1.1](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.1) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
 <!--END_SECTION:activity-->
