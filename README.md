@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#620](https://github.com/executablebooks/MyST-NB/pull/620) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🔒 Closed issue [#619](https://github.com/executablebooks/MyST-NB/issues/619) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#297](https://github.com/jupyter-book/myst-theme/pull/297#issuecomment-2315622813) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ❌ Closed PR [#297](https://github.com/jupyter-book/myst-theme/pull/297) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#170](https://github.com/jupyter-book/myst-theme/issues/170#issuecomment-2315615929) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#1499](https://github.com/jupyter-book/mystmd/pull/1499#issuecomment-2317169999) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2317165170) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#536](https://github.com/dask-contrib/dask-awkward/issues/536#issuecomment-2317157462) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🎉 Merged PR [#620](https://github.com/executablebooks/MyST-NB/pull/620) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🔒 Closed issue [#619](https://github.com/executablebooks/MyST-NB/issues/619) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
