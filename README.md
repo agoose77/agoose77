@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328847904) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-2. 🎉 Merged PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-3. 💪 Opened PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-4. 🚀 Published release [v0.1.2](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
-5. 🗣 Commented on [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1#issuecomment-2328595280) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+1. 🎉 Merged PR [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+2. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328889482) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+3. ❌ Closed PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+4. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328847904) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+5. 🎉 Merged PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
 <!--END_SECTION:activity-->
