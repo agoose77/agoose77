@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/executablebooks/mdformat-myst/issues/30#issuecomment-2328994849) in [executablebooks/mdformat-myst](https://github.com/executablebooks/mdformat-myst)
-2. 🎉 Merged PR [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-3. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328889482) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-4. ❌ Closed PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-5. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328847904) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+1. 💪 Opened PR [#1513](https://github.com/jupyter-book/mystmd/pull/1513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#30](https://github.com/executablebooks/mdformat-myst/issues/30#issuecomment-2328994849) in [executablebooks/mdformat-myst](https://github.com/executablebooks/mdformat-myst)
+3. 🎉 Merged PR [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+4. 🗣 Commented on [#72](https://github.com/conda-forge/mystmd-feedstock/pull/72#issuecomment-2328889482) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+5. ❌ Closed PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
 <!--END_SECTION:activity-->
