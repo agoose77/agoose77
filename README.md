@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-2. 🚀 Published release [v0.1.2](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
-3. 🗣 Commented on [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1#issuecomment-2328595280) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-4. 💪 Opened PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
-5. 🗣 Commented on [#1508](https://github.com/jupyter-book/mystmd/pull/1508#issuecomment-2327029494) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+2. 💪 Opened PR [#2](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/2) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+3. 🚀 Published release [v0.1.2](https://github.com/jupyter-book/hatch-deps-selector/releases/tag/v0.1.2) in [jupyter-book/hatch-deps-selector](https://github.com/jupyter-book/hatch-deps-selector)
+4. 🗣 Commented on [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1#issuecomment-2328595280) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+5. 💪 Opened PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
 <!--END_SECTION:activity-->
