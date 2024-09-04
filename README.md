@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1508](https://github.com/jupyter-book/mystmd/pull/1508#issuecomment-2327029494) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1498](https://github.com/jupyter-book/mystmd/issues/1498#issuecomment-2326837097) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2326266839) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2326159850) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#1509](https://github.com/jupyter-book/mystmd/pull/1509) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1#issuecomment-2328595280) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+2. 💪 Opened PR [#1](https://github.com/conda-forge/hatch-deps-selector-feedstock/pull/1) in [conda-forge/hatch-deps-selector-feedstock](https://github.com/conda-forge/hatch-deps-selector-feedstock)
+3. 🗣 Commented on [#1508](https://github.com/jupyter-book/mystmd/pull/1508#issuecomment-2327029494) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1498](https://github.com/jupyter-book/mystmd/issues/1498#issuecomment-2326837097) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1487](https://github.com/jupyter-book/mystmd/pull/1487#issuecomment-2326266839) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
