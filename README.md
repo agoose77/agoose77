@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1508](https://github.com/jupyter-book/mystmd/pull/1508) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#2202](https://github.com/jupyter-book/jupyter-book/issues/2202) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#858](https://github.com/executablebooks/sphinx-book-theme/issues/858#issuecomment-2330828886) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 💪 Opened PR [#1513](https://github.com/jupyter-book/mystmd/pull/1513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#30](https://github.com/executablebooks/mdformat-myst/issues/30#issuecomment-2328994849) in [executablebooks/mdformat-myst](https://github.com/executablebooks/mdformat-myst)
+1. 🗣 Commented on [#462](https://github.com/jupyter-book/myst-theme/issues/462#issuecomment-2332553786) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❌ Closed PR [#1508](https://github.com/jupyter-book/mystmd/pull/1508) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔒 Closed issue [#2202](https://github.com/jupyter-book/jupyter-book/issues/2202) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#858](https://github.com/executablebooks/sphinx-book-theme/issues/858#issuecomment-2330828886) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 💪 Opened PR [#1513](https://github.com/jupyter-book/mystmd/pull/1513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
