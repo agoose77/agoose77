@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2334041481) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
-2. ❗ Opened issue [#1](https://github.com/agoose77/myst-search-experiments/issues/1) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
-3. 🗣 Commented on [#462](https://github.com/jupyter-book/myst-theme/issues/462#issuecomment-2332553786) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ❌ Closed PR [#1508](https://github.com/jupyter-book/mystmd/pull/1508) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#2202](https://github.com/jupyter-book/jupyter-book/issues/2202) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. ❌ Closed PR [#450](https://github.com/jupyter-book/myst-theme/pull/450) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#1516](https://github.com/jupyter-book/mystmd/pull/1516#issuecomment-2334791330) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2334041481) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
+4. ❗ Opened issue [#1](https://github.com/agoose77/myst-search-experiments/issues/1) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
+5. 🗣 Commented on [#462](https://github.com/jupyter-book/myst-theme/issues/462#issuecomment-2332553786) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
