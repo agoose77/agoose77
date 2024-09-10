@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/conda-forge/mystmd-feedstock/pull/73) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-2. 🎉 Merged PR [#46](https://github.com/conda-forge/awkward-cpp-feedstock/pull/46) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-3. ❌ Closed PR [#450](https://github.com/jupyter-book/myst-theme/pull/450) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#1516](https://github.com/jupyter-book/mystmd/pull/1516#issuecomment-2334791330) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2334041481) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
+1. 🗣 Commented on [#373](https://github.com/jupyter-book/myst-theme/pull/373#issuecomment-2340287681) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❗ Opened issue [#465](https://github.com/jupyter-book/myst-theme/issues/465) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#116](https://github.com/executablebooks/sphinx-proof/pull/116#issuecomment-2340277093) in [executablebooks/sphinx-proof](https://github.com/executablebooks/sphinx-proof)
+4. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2340271003) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
+5. 🎉 Merged PR [#73](https://github.com/conda-forge/mystmd-feedstock/pull/73) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
 <!--END_SECTION:activity-->
