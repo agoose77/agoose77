@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/conda-forge/awkward-cpp-feedstock/pull/46) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-2. ❌ Closed PR [#450](https://github.com/jupyter-book/myst-theme/pull/450) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#1516](https://github.com/jupyter-book/mystmd/pull/1516#issuecomment-2334791330) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2334041481) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
-5. ❗ Opened issue [#1](https://github.com/agoose77/myst-search-experiments/issues/1) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
+1. 🎉 Merged PR [#73](https://github.com/conda-forge/mystmd-feedstock/pull/73) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+2. 🎉 Merged PR [#46](https://github.com/conda-forge/awkward-cpp-feedstock/pull/46) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
+3. ❌ Closed PR [#450](https://github.com/jupyter-book/myst-theme/pull/450) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#1516](https://github.com/jupyter-book/mystmd/pull/1516#issuecomment-2334791330) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1](https://github.com/agoose77/myst-search-experiments/issues/1#issuecomment-2334041481) in [agoose77/myst-search-experiments](https://github.com/agoose77/myst-search-experiments)
 <!--END_SECTION:activity-->
