@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. ❌ Closed PR [#114](https://github.com/executablebooks/jupyter-cache/pull/114) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-3. 🗣 Commented on [#114](https://github.com/executablebooks/jupyter-cache/pull/114#issuecomment-2352316001) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-4. 🎉 Merged PR [#119](https://github.com/executablebooks/jupyter-cache/pull/119) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-5. 🎉 Merged PR [#115](https://github.com/executablebooks/jupyter-cache/pull/115) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+1. 💪 Opened PR [#1537](https://github.com/jupyter-book/mystmd/pull/1537) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. ❌ Closed PR [#114](https://github.com/executablebooks/jupyter-cache/pull/114) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+4. 🗣 Commented on [#114](https://github.com/executablebooks/jupyter-cache/pull/114#issuecomment-2352316001) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+5. 🎉 Merged PR [#119](https://github.com/executablebooks/jupyter-cache/pull/119) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
 <!--END_SECTION:activity-->
