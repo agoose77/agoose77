@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/executablebooks/jupyter-cache/pull/126) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-2. 🗣 Commented on [#236](https://github.com/jupyter/governance/pull/236#issuecomment-2353546827) in [jupyter/governance](https://github.com/jupyter/governance)
-3. 💪 Opened PR [#1537](https://github.com/jupyter-book/mystmd/pull/1537) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🔒 Closed issue [#418](https://github.com/executablebooks/MyST-NB/issues/418) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. ❌ Closed PR [#114](https://github.com/executablebooks/jupyter-cache/pull/114) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+1. 🎉 Merged PR [#627](https://github.com/executablebooks/MyST-NB/pull/627) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🎉 Merged PR [#625](https://github.com/executablebooks/MyST-NB/pull/625) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#626](https://github.com/executablebooks/MyST-NB/pull/626#issuecomment-2360332415) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🎉 Merged PR [#626](https://github.com/executablebooks/MyST-NB/pull/626) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#126](https://github.com/executablebooks/jupyter-cache/pull/126) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
 <!--END_SECTION:activity-->
