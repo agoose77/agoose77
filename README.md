@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#629](https://github.com/executablebooks/MyST-NB/pull/629#issuecomment-2367592466) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🎉 Merged PR [#627](https://github.com/executablebooks/MyST-NB/pull/627) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🎉 Merged PR [#625](https://github.com/executablebooks/MyST-NB/pull/625) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#626](https://github.com/executablebooks/MyST-NB/pull/626#issuecomment-2360332415) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🎉 Merged PR [#626](https://github.com/executablebooks/MyST-NB/pull/626) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🔒 Closed issue [#348](https://github.com/executablebooks/MyST-NB/issues/348) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. ❌ Closed PR [#533](https://github.com/executablebooks/MyST-NB/pull/533) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. ❌ Closed PR [#573](https://github.com/executablebooks/MyST-NB/pull/573) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. ❌ Closed PR [#631](https://github.com/executablebooks/MyST-NB/pull/631) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. ❌ Closed PR [#632](https://github.com/executablebooks/MyST-NB/pull/632) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
