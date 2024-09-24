@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/jupyter-book/myst-theme/pull/467#issuecomment-2371749256) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. ❌ Closed PR [#467](https://github.com/jupyter-book/myst-theme/pull/467) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🎉 Merged PR [#2198](https://github.com/jupyter-book/jupyter-book/pull/2198) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🚀 Published release [v1.2](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.2) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🚀 Published release [v1.1.2](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.2) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#7](https://github.com/2i2c-org/report-czi-2021/pull/7) in [2i2c-org/report-czi-2021](https://github.com/2i2c-org/report-czi-2021)
+2. 🗣 Commented on [#467](https://github.com/jupyter-book/myst-theme/pull/467#issuecomment-2371749256) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. ❌ Closed PR [#467](https://github.com/jupyter-book/myst-theme/pull/467) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🎉 Merged PR [#2198](https://github.com/jupyter-book/jupyter-book/pull/2198) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🚀 Published release [v1.2](https://github.com/executablebooks/MyST-NB/releases/tag/v1.1.2) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
