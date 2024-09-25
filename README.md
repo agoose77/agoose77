@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#670](https://github.com/jupyter-book/mystmd/issues/670#issuecomment-2372261888) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#670](https://github.com/jupyter-book/mystmd/issues/670#issuecomment-2372239524) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#477](https://github.com/jupyter-book/myst-theme/pull/477) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🎉 Merged PR [#7](https://github.com/2i2c-org/report-czi-2021/pull/7) in [2i2c-org/report-czi-2021](https://github.com/2i2c-org/report-czi-2021)
-5. 🗣 Commented on [#7](https://github.com/2i2c-org/report-czi-2021/pull/7#issuecomment-2371994556) in [2i2c-org/report-czi-2021](https://github.com/2i2c-org/report-czi-2021)
+1. 🗣 Commented on [#670](https://github.com/jupyter-book/mystmd/issues/670#issuecomment-2372345905) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#670](https://github.com/jupyter-book/mystmd/issues/670#issuecomment-2372261888) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#670](https://github.com/jupyter-book/mystmd/issues/670#issuecomment-2372239524) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#477](https://github.com/jupyter-book/myst-theme/pull/477) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#7](https://github.com/2i2c-org/report-czi-2021/pull/7) in [2i2c-org/report-czi-2021](https://github.com/2i2c-org/report-czi-2021)
 <!--END_SECTION:activity-->
