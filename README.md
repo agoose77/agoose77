@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3258](https://github.com/scikit-hep/awkward/issues/3258#issuecomment-2378506662) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. ❗ Opened issue [#1548](https://github.com/jupyter-book/mystmd/issues/1548) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#100](https://github.com/jupyter-book/mystmd/issues/100#issuecomment-2377327919) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🔒 Closed issue [#100](https://github.com/jupyter-book/mystmd/issues/100) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#480](https://github.com/jupyter-book/myst-theme/pull/480) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#1556](https://github.com/jupyter-book/mystmd/issues/1556) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#3258](https://github.com/scikit-hep/awkward/issues/3258#issuecomment-2378506662) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. ❗ Opened issue [#1548](https://github.com/jupyter-book/mystmd/issues/1548) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#100](https://github.com/jupyter-book/mystmd/issues/100#issuecomment-2377327919) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#100](https://github.com/jupyter-book/mystmd/issues/100) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
