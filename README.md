@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2212](https://github.com/jupyter-book/jupyter-book/pull/2212) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🗣 Commented on [#2212](https://github.com/jupyter-book/jupyter-book/pull/2212#issuecomment-2388405524) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#480](https://github.com/jupyter-book/myst-theme/pull/480#issuecomment-2386099308) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#477](https://github.com/jupyter-book/myst-theme/pull/477#issuecomment-2383183008) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. ❗ Opened issue [#1556](https://github.com/jupyter-book/mystmd/issues/1556) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 💪 Opened PR [#2216](https://github.com/jupyter-book/jupyter-book/pull/2216) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 🎉 Merged PR [#635](https://github.com/executablebooks/MyST-NB/pull/635) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#637](https://github.com/executablebooks/MyST-NB/pull/637) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🎉 Merged PR [#638](https://github.com/executablebooks/MyST-NB/pull/638) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#2212](https://github.com/jupyter-book/jupyter-book/pull/2212) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
