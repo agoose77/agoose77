@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397292622) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🚀 Published release [v1.0.3](https://github.com/jupyter-book/jupyter-book/releases/tag/v1.0.3) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🎉 Merged PR [#2230](https://github.com/jupyter-book/jupyter-book/pull/2230) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🎉 Merged PR [#2231](https://github.com/jupyter-book/jupyter-book/pull/2231) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 💪 Opened PR [#2231](https://github.com/jupyter-book/jupyter-book/pull/2231) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397402252) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#321](https://github.com/2i2c-org/2i2c-org.github.io/pull/321) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397292622) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🚀 Published release [v1.0.3](https://github.com/jupyter-book/jupyter-book/releases/tag/v1.0.3) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🎉 Merged PR [#2230](https://github.com/jupyter-book/jupyter-book/pull/2230) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
