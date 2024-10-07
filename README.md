@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397402252) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#321](https://github.com/2i2c-org/2i2c-org.github.io/pull/321) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-3. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397292622) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🚀 Published release [v1.0.3](https://github.com/jupyter-book/jupyter-book/releases/tag/v1.0.3) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2230](https://github.com/jupyter-book/jupyter-book/pull/2230) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🎉 Merged PR [#808](https://github.com/executablebooks/sphinx-book-theme/pull/808) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🎉 Merged PR [#569](https://github.com/executablebooks/MyST-NB/pull/569) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397402252) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#321](https://github.com/2i2c-org/2i2c-org.github.io/pull/321) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🗣 Commented on [#3238](https://github.com/scikit-hep/awkward/pull/3238#issuecomment-2397292622) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
