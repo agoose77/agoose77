@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2217](https://github.com/jupyter-book/jupyter-book/issues/2217) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🎉 Merged PR [#642](https://github.com/executablebooks/MyST-NB/pull/642) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 💪 Opened PR [#642](https://github.com/executablebooks/MyST-NB/pull/642) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🎉 Merged PR [#3275](https://github.com/scikit-hep/awkward/pull/3275) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#569](https://github.com/executablebooks/MyST-NB/pull/569#issuecomment-2397606950) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#1576](https://github.com/jupyter-book/mystmd/pull/1576#issuecomment-2404986251) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#2217](https://github.com/jupyter-book/jupyter-book/issues/2217) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🎉 Merged PR [#642](https://github.com/executablebooks/MyST-NB/pull/642) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 💪 Opened PR [#642](https://github.com/executablebooks/MyST-NB/pull/642) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🎉 Merged PR [#3275](https://github.com/scikit-hep/awkward/pull/3275) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
