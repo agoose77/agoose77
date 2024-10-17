@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/jupyter-book/jupyterlab-myst/issues/243#issuecomment-2417775802) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-2. 🗣 Commented on [#64](https://github.com/jupyter-book/jupyterlab-myst/issues/64#issuecomment-2417767260) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 🗣 Commented on [#9](https://github.com/agoose77/markdown-it-mermaid/issues/9#issuecomment-2416166673) in [agoose77/markdown-it-mermaid](https://github.com/agoose77/markdown-it-mermaid)
-4. 🗣 Commented on [#1581](https://github.com/jupyter-book/mystmd/issues/1581#issuecomment-2411426247) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#851](https://github.com/executablebooks/sphinx-book-theme/pull/851#issuecomment-2410778882) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#65](https://github.com/jupyter-book/myst-spec/pull/65#issuecomment-2418949791) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+2. 🗣 Commented on [#1582](https://github.com/jupyter-book/mystmd/pull/1582#issuecomment-2418938894) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1587](https://github.com/jupyter-book/mystmd/issues/1587#issuecomment-2418937174) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. ❗ Opened issue [#1588](https://github.com/jupyter-book/mystmd/issues/1588) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#243](https://github.com/jupyter-book/jupyterlab-myst/issues/243#issuecomment-2417775802) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
