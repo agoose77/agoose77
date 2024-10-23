@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/jupyter-book/myst-spec/pull/67) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
-2. 🗣 Commented on [#3279](https://github.com/scikit-hep/awkward/pull/3279#issuecomment-2422992164) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗ Opened issue [#1590](https://github.com/jupyter-book/mystmd/issues/1590) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#66](https://github.com/jupyter-book/myst-spec/pull/66) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
-5. 🎉 Merged PR [#65](https://github.com/jupyter-book/myst-spec/pull/65) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+1. 🔒 Closed issue [#2](https://github.com/executablebooks/jupyter-book-myst/issues/2) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
+2. 💪 Opened PR [#67](https://github.com/jupyter-book/myst-spec/pull/67) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+3. 🗣 Commented on [#3279](https://github.com/scikit-hep/awkward/pull/3279#issuecomment-2422992164) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗ Opened issue [#1590](https://github.com/jupyter-book/mystmd/issues/1590) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#66](https://github.com/jupyter-book/myst-spec/pull/66) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
 <!--END_SECTION:activity-->
