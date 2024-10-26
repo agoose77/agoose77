@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#861](https://github.com/executablebooks/sphinx-book-theme/pull/861) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 💪 Opened PR [#265](https://github.com/QuantEcon/quantecon-book-theme/pull/265) in [QuantEcon/quantecon-book-theme](https://github.com/QuantEcon/quantecon-book-theme)
-3. 🔒 Closed issue [#2](https://github.com/executablebooks/jupyter-book-myst/issues/2) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
-4. 💪 Opened PR [#67](https://github.com/jupyter-book/myst-spec/pull/67) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
-5. 🗣 Commented on [#3279](https://github.com/scikit-hep/awkward/pull/3279#issuecomment-2422992164) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1603](https://github.com/jupyter-book/mystmd/pull/1603) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#861](https://github.com/executablebooks/sphinx-book-theme/pull/861) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 💪 Opened PR [#265](https://github.com/QuantEcon/quantecon-book-theme/pull/265) in [QuantEcon/quantecon-book-theme](https://github.com/QuantEcon/quantecon-book-theme)
+4. 🔒 Closed issue [#2](https://github.com/executablebooks/jupyter-book-myst/issues/2) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
+5. 💪 Opened PR [#67](https://github.com/jupyter-book/myst-spec/pull/67) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
 <!--END_SECTION:activity-->
