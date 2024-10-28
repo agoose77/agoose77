@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/QuantEcon/lecture-python-programming.myst/pull/326#issuecomment-2441338767) in [QuantEcon/lecture-python-programming.myst](https://github.com/QuantEcon/lecture-python-programming.myst)
-2. 💪 Opened PR [#1603](https://github.com/jupyter-book/mystmd/pull/1603) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#861](https://github.com/executablebooks/sphinx-book-theme/pull/861) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 💪 Opened PR [#265](https://github.com/QuantEcon/quantecon-book-theme/pull/265) in [QuantEcon/quantecon-book-theme](https://github.com/QuantEcon/quantecon-book-theme)
-5. 🔒 Closed issue [#2](https://github.com/executablebooks/jupyter-book-myst/issues/2) in [executablebooks/jupyter-book-myst](https://github.com/executablebooks/jupyter-book-myst)
+1. 🗣 Commented on [#67](https://github.com/jupyter-book/myst-spec/pull/67#issuecomment-2441988910) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+2. 🗣 Commented on [#326](https://github.com/QuantEcon/lecture-python-programming.myst/pull/326#issuecomment-2441338767) in [QuantEcon/lecture-python-programming.myst](https://github.com/QuantEcon/lecture-python-programming.myst)
+3. 💪 Opened PR [#1603](https://github.com/jupyter-book/mystmd/pull/1603) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#861](https://github.com/executablebooks/sphinx-book-theme/pull/861) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 💪 Opened PR [#265](https://github.com/QuantEcon/quantecon-book-theme/pull/265) in [QuantEcon/quantecon-book-theme](https://github.com/QuantEcon/quantecon-book-theme)
 <!--END_SECTION:activity-->
