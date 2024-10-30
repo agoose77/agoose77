@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1607](https://github.com/jupyter-book/mystmd/issues/1607#issuecomment-2443726102) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#67](https://github.com/jupyter-book/myst-spec/pull/67#issuecomment-2441988910) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
-3. 🗣 Commented on [#326](https://github.com/QuantEcon/lecture-python-programming.myst/pull/326#issuecomment-2441338767) in [QuantEcon/lecture-python-programming.myst](https://github.com/QuantEcon/lecture-python-programming.myst)
-4. 💪 Opened PR [#1603](https://github.com/jupyter-book/mystmd/pull/1603) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#861](https://github.com/executablebooks/sphinx-book-theme/pull/861) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. ❗ Opened issue [#6](https://github.com/syntax-tree/mdast-util-find-and-replace/issues/6) in [syntax-tree/mdast-util-find-and-replace](https://github.com/syntax-tree/mdast-util-find-and-replace)
+2. 🗣 Commented on [#1607](https://github.com/jupyter-book/mystmd/issues/1607#issuecomment-2443726102) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#67](https://github.com/jupyter-book/myst-spec/pull/67#issuecomment-2441988910) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
+4. 🗣 Commented on [#326](https://github.com/QuantEcon/lecture-python-programming.myst/pull/326#issuecomment-2441338767) in [QuantEcon/lecture-python-programming.myst](https://github.com/QuantEcon/lecture-python-programming.myst)
+5. 💪 Opened PR [#1603](https://github.com/jupyter-book/mystmd/pull/1603) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
