@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/syntax-tree/mdast-util-find-and-replace/issues/6#issuecomment-2444539681) in [syntax-tree/mdast-util-find-and-replace](https://github.com/syntax-tree/mdast-util-find-and-replace)
-2. ❗ Opened issue [#6](https://github.com/syntax-tree/mdast-util-find-and-replace/issues/6) in [syntax-tree/mdast-util-find-and-replace](https://github.com/syntax-tree/mdast-util-find-and-replace)
-3. 🗣 Commented on [#1607](https://github.com/jupyter-book/mystmd/issues/1607#issuecomment-2443726102) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#67](https://github.com/jupyter-book/myst-spec/pull/67#issuecomment-2441988910) in [jupyter-book/myst-spec](https://github.com/jupyter-book/myst-spec)
-5. 🗣 Commented on [#326](https://github.com/QuantEcon/lecture-python-programming.myst/pull/326#issuecomment-2441338767) in [QuantEcon/lecture-python-programming.myst](https://github.com/QuantEcon/lecture-python-programming.myst)
+1. 🎉 Merged PR [#14](https://github.com/jupyter-book/team-compass/pull/14) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+2. 💪 Opened PR [#14](https://github.com/jupyter-book/team-compass/pull/14) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+3. 🎉 Merged PR [#2241](https://github.com/jupyter-book/jupyter-book/pull/2241) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2241](https://github.com/jupyter-book/jupyter-book/pull/2241) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🎉 Merged PR [#2240](https://github.com/jupyter-book/jupyter-book/pull/2240) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
