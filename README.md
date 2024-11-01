@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/jupyter-book/team-compass/pull/14) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-2. 💪 Opened PR [#14](https://github.com/jupyter-book/team-compass/pull/14) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-3. 🎉 Merged PR [#2241](https://github.com/jupyter-book/jupyter-book/pull/2241) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 💪 Opened PR [#2241](https://github.com/jupyter-book/jupyter-book/pull/2241) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2240](https://github.com/jupyter-book/jupyter-book/pull/2240) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🎉 Merged PR [#2245](https://github.com/jupyter-book/jupyter-book/pull/2245) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 💪 Opened PR [#2245](https://github.com/jupyter-book/jupyter-book/pull/2245) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 💪 Opened PR [#2244](https://github.com/jupyter-book/jupyter-book/pull/2244) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🎉 Merged PR [#2243](https://github.com/jupyter-book/jupyter-book/pull/2243) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 💪 Opened PR [#2243](https://github.com/jupyter-book/jupyter-book/pull/2243) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
