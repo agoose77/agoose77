@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/jupyter-book/blog/pull/8) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-2. 💪 Opened PR [#8](https://github.com/jupyter-book/blog/pull/8) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-3. 🎉 Merged PR [#7](https://github.com/jupyter-book/blog/pull/7) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-4. 💪 Opened PR [#7](https://github.com/jupyter-book/blog/pull/7) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 🎉 Merged PR [#6](https://github.com/jupyter-book/blog/pull/6) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+1. 🎉 Merged PR [#9](https://github.com/jupyter-book/blog/pull/9) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+2. 💪 Opened PR [#9](https://github.com/jupyter-book/blog/pull/9) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+3. 🎉 Merged PR [#8](https://github.com/jupyter-book/blog/pull/8) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+4. 💪 Opened PR [#8](https://github.com/jupyter-book/blog/pull/8) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+5. 🎉 Merged PR [#7](https://github.com/jupyter-book/blog/pull/7) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
 <!--END_SECTION:activity-->
