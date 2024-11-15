@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2259](https://github.com/jupyter-book/jupyter-book/pull/2259) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 💪 Opened PR [#2259](https://github.com/jupyter-book/jupyter-book/pull/2259) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#2256](https://github.com/jupyter-book/jupyter-book/pull/2256#issuecomment-2476421251) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🎉 Merged PR [#2255](https://github.com/jupyter-book/jupyter-book/pull/2255) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2258](https://github.com/jupyter-book/jupyter-book/pull/2258) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🎉 Merged PR [#2260](https://github.com/jupyter-book/jupyter-book/pull/2260) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 💪 Opened PR [#2260](https://github.com/jupyter-book/jupyter-book/pull/2260) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🎉 Merged PR [#2259](https://github.com/jupyter-book/jupyter-book/pull/2259) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2259](https://github.com/jupyter-book/jupyter-book/pull/2259) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🗣 Commented on [#2256](https://github.com/jupyter-book/jupyter-book/pull/2256#issuecomment-2476421251) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
