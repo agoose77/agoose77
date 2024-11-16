@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2238](https://github.com/jupyter-book/jupyter-book/issues/2238) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🔒 Closed issue [#1630](https://github.com/jupyter-book/mystmd/issues/1630) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🎉 Merged PR [#10](https://github.com/jupyter-book/blog/pull/10) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-4. 💪 Opened PR [#10](https://github.com/jupyter-book/blog/pull/10) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 🎉 Merged PR [#2](https://github.com/jupyter-book/blog/pull/2) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+1. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-cache/releases/tag/v1.0.1) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+2. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-cache/releases/tag/v1.0.1) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+3. 🎉 Merged PR [#131](https://github.com/executablebooks/jupyter-cache/pull/131) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+4. 💪 Opened PR [#131](https://github.com/executablebooks/jupyter-cache/pull/131) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+5. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-cache/releases/tag/v1.0.1) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
 <!--END_SECTION:activity-->
