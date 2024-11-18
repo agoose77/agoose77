@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/conda-forge/awkward-cpp-feedstock/pull/54#issuecomment-2482546160) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-2. 🗣 Commented on [#1642](https://github.com/jupyter-book/mystmd/issues/1642#issuecomment-2479606369) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#131](https://github.com/executablebooks/jupyter-cache/pull/131#issuecomment-2479308956) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
-4. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-cache/releases/tag/v1.0.1) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+1. 🗣 Commented on [#437](https://github.com/jupyter-book/myst-theme/issues/437#issuecomment-2482705461) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#54](https://github.com/conda-forge/awkward-cpp-feedstock/pull/54#issuecomment-2482546160) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
+3. 🗣 Commented on [#1642](https://github.com/jupyter-book/mystmd/issues/1642#issuecomment-2479606369) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#131](https://github.com/executablebooks/jupyter-cache/pull/131#issuecomment-2479308956) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
 5. 🚀 Published release [v1.0.1](https://github.com/executablebooks/jupyter-cache/releases/tag/v1.0.1) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
 <!--END_SECTION:activity-->
