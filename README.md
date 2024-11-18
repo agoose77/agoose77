@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2265](https://github.com/jupyter-book/jupyter-book/issues/2265) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🗣 Commented on [#437](https://github.com/jupyter-book/myst-theme/issues/437#issuecomment-2482705461) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#54](https://github.com/conda-forge/awkward-cpp-feedstock/pull/54#issuecomment-2482546160) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
-4. 🗣 Commented on [#1642](https://github.com/jupyter-book/mystmd/issues/1642#issuecomment-2479606369) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#131](https://github.com/executablebooks/jupyter-cache/pull/131#issuecomment-2479308956) in [executablebooks/jupyter-cache](https://github.com/executablebooks/jupyter-cache)
+1. 🗣 Commented on [#1649](https://github.com/jupyter-book/mystmd/issues/1649#issuecomment-2482876424) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#2265](https://github.com/jupyter-book/jupyter-book/issues/2265) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🗣 Commented on [#437](https://github.com/jupyter-book/myst-theme/issues/437#issuecomment-2482705461) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#54](https://github.com/conda-forge/awkward-cpp-feedstock/pull/54#issuecomment-2482546160) in [conda-forge/awkward-cpp-feedstock](https://github.com/conda-forge/awkward-cpp-feedstock)
+5. 🗣 Commented on [#1642](https://github.com/jupyter-book/mystmd/issues/1642#issuecomment-2479606369) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
