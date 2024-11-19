@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1655](https://github.com/jupyter-book/mystmd/issues/1655#issuecomment-2485456253) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#841](https://github.com/executablebooks/meta/issues/841#issuecomment-2485153803) in [executablebooks/meta](https://github.com/executablebooks/meta)
-3. 🎉 Merged PR [#1628](https://github.com/jupyter-book/mystmd/pull/1628) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#11](https://github.com/jupyter-book/blog/pull/11) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 🗣 Commented on [#1649](https://github.com/jupyter-book/mystmd/issues/1649#issuecomment-2483638115) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❗ Opened issue [#1657](https://github.com/jupyter-book/mystmd/issues/1657) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1655](https://github.com/jupyter-book/mystmd/issues/1655#issuecomment-2485456253) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#841](https://github.com/executablebooks/meta/issues/841#issuecomment-2485153803) in [executablebooks/meta](https://github.com/executablebooks/meta)
+4. 🎉 Merged PR [#1628](https://github.com/jupyter-book/mystmd/pull/1628) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🎉 Merged PR [#11](https://github.com/jupyter-book/blog/pull/11) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
 <!--END_SECTION:activity-->
