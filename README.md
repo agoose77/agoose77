@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1650](https://github.com/jupyter-book/mystmd/pull/1650#issuecomment-2488223367) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#97](https://github.com/oceanhackweek/jupyter-image/pull/97#issuecomment-2488154751) in [oceanhackweek/jupyter-image](https://github.com/oceanhackweek/jupyter-image)
-3. 🗣 Commented on [#97](https://github.com/oceanhackweek/jupyter-image/pull/97#issuecomment-2488105625) in [oceanhackweek/jupyter-image](https://github.com/oceanhackweek/jupyter-image)
-4. 🗣 Commented on [#1650](https://github.com/jupyter-book/mystmd/pull/1650#issuecomment-2486857898) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#500](https://github.com/jupyter-book/myst-theme/pull/500) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#1658](https://github.com/jupyter-book/mystmd/pull/1658#issuecomment-2488333439) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1658](https://github.com/jupyter-book/mystmd/pull/1658#issuecomment-2488328363) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#1660](https://github.com/jupyter-book/mystmd/pull/1660) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1650](https://github.com/jupyter-book/mystmd/pull/1650#issuecomment-2488223367) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#97](https://github.com/oceanhackweek/jupyter-image/pull/97#issuecomment-2488154751) in [oceanhackweek/jupyter-image](https://github.com/oceanhackweek/jupyter-image)
 <!--END_SECTION:activity-->
