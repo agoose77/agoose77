@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/2i2c-org/demo-gallery/issues/7#issuecomment-2489032674) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. 🗣 Commented on [#2267](https://github.com/jupyter-book/jupyter-book/issues/2267#issuecomment-2488750826) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🔒 Closed issue [#2267](https://github.com/jupyter-book/jupyter-book/issues/2267) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🎉 Merged PR [#2266](https://github.com/jupyter-book/jupyter-book/pull/2266) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🗣 Commented on [#1658](https://github.com/jupyter-book/mystmd/pull/1658#issuecomment-2488333439) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 💪 Opened PR [#1661](https://github.com/jupyter-book/mystmd/pull/1661) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#7](https://github.com/2i2c-org/demo-gallery/issues/7#issuecomment-2489032674) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+3. 🗣 Commented on [#2267](https://github.com/jupyter-book/jupyter-book/issues/2267#issuecomment-2488750826) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🔒 Closed issue [#2267](https://github.com/jupyter-book/jupyter-book/issues/2267) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🎉 Merged PR [#2266](https://github.com/jupyter-book/jupyter-book/pull/2266) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
