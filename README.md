@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3958](https://github.com/the-turing-way/the-turing-way/pull/3958#issuecomment-2489646656) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-2. 🗣 Commented on [#1650](https://github.com/jupyter-book/mystmd/pull/1650#issuecomment-2489493949) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1336](https://github.com/jupyter-book/mystmd/issues/1336#issuecomment-2489321612) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#1661](https://github.com/jupyter-book/mystmd/pull/1661) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#7](https://github.com/2i2c-org/demo-gallery/issues/7#issuecomment-2489032674) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+1. 🗣 Commented on [#1655](https://github.com/jupyter-book/mystmd/issues/1655#issuecomment-2490650189) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#1655](https://github.com/jupyter-book/mystmd/issues/1655) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❗ Opened issue [#1666](https://github.com/jupyter-book/mystmd/issues/1666) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#3958](https://github.com/the-turing-way/the-turing-way/pull/3958#issuecomment-2489646656) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. 🗣 Commented on [#1650](https://github.com/jupyter-book/mystmd/pull/1650#issuecomment-2489493949) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
