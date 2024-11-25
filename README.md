@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#502](https://github.com/jupyter-book/myst-theme/pull/502#issuecomment-2497519230) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#3958](https://github.com/the-turing-way/the-turing-way/pull/3958#issuecomment-2495518680) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🗣 Commented on [#1026](https://github.com/jupyter-book/mystmd/issues/1026#issuecomment-2493998070) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#1671](https://github.com/jupyter-book/mystmd/pull/1671) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#1670](https://github.com/jupyter-book/mystmd/issues/1670) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#871](https://github.com/executablebooks/sphinx-book-theme/pull/871) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🎉 Merged PR [#806](https://github.com/executablebooks/sphinx-book-theme/pull/806) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. ❌ Closed PR [#846](https://github.com/executablebooks/sphinx-book-theme/pull/846) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. ❌ Closed PR [#856](https://github.com/executablebooks/sphinx-book-theme/pull/856) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. ❌ Closed PR [#848](https://github.com/executablebooks/sphinx-book-theme/pull/848) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
