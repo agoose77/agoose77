@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2507987834) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-3. 🔒 Closed issue [#13](https://github.com/2i2c-org/demo-gallery/issues/13) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-4. 🗣 Commented on [#13](https://github.com/2i2c-org/demo-gallery/issues/13#issuecomment-2507975280) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-5. 🗣 Commented on [#17](https://github.com/2i2c-org/demo-gallery/issues/17#issuecomment-2507475472) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+1. 🗣 Commented on [#17](https://github.com/2i2c-org/demo-gallery/issues/17#issuecomment-2508203271) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+2. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2508200055) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. ❗ Opened issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+4. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2507987834) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+5. 🔒 Closed issue [#13](https://github.com/2i2c-org/demo-gallery/issues/13) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
 <!--END_SECTION:activity-->
