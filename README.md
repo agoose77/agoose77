@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/2i2c-org/demo-gallery/issues/17#issuecomment-2508203271) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2508200055) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ❗ Opened issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-4. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2507987834) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-5. 🔒 Closed issue [#13](https://github.com/2i2c-org/demo-gallery/issues/13) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+1. 🗣 Commented on [#1687](https://github.com/jupyter-book/mystmd/issues/1687#issuecomment-2508910243) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#1687](https://github.com/jupyter-book/mystmd/issues/1687) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#17](https://github.com/2i2c-org/demo-gallery/issues/17#issuecomment-2508203271) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+4. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2508200055) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. ❗ Opened issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
 <!--END_SECTION:activity-->
