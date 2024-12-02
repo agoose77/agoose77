@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512164626) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512147101) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ❗ Opened issue [#1](https://github.com/2i2c-org/demo-icepyx/issues/1) in [2i2c-org/demo-icepyx](https://github.com/2i2c-org/demo-icepyx)
-4. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2511597570) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🎉 Merged PR [#2270](https://github.com/jupyter-book/jupyter-book/pull/2270) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🔓 Reopened issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512164626) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512147101) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. ❗ Opened issue [#1](https://github.com/2i2c-org/demo-icepyx/issues/1) in [2i2c-org/demo-icepyx](https://github.com/2i2c-org/demo-icepyx)
 <!--END_SECTION:activity-->
