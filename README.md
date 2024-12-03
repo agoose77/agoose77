@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3322](https://github.com/scikit-hep/awkward/pull/3322#issuecomment-2513101104) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🔓 Reopened issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512164626) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2512147101) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#1383](https://github.com/jupyterhub/repo2docker/issues/1383) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+2. 🗣 Commented on [#1376](https://github.com/jupyterhub/repo2docker/pull/1376#issuecomment-2514224929) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+3. 🗣 Commented on [#3322](https://github.com/scikit-hep/awkward/pull/3322#issuecomment-2513101104) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🔓 Reopened issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
