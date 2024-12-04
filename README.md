@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/2i2c-org/demo-gallery/issues/24) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. ❗ Opened issue [#1383](https://github.com/jupyterhub/repo2docker/issues/1383) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-3. 🗣 Commented on [#1376](https://github.com/jupyterhub/repo2docker/pull/1376#issuecomment-2514224929) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-4. 🗣 Commented on [#3322](https://github.com/scikit-hep/awkward/pull/3322#issuecomment-2513101104) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🔓 Reopened issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1367](https://github.com/jupyter-book/mystmd/issues/1367#issuecomment-2515548584) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#24](https://github.com/2i2c-org/demo-gallery/issues/24) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+3. ❗ Opened issue [#1383](https://github.com/jupyterhub/repo2docker/issues/1383) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+4. 🗣 Commented on [#1376](https://github.com/jupyterhub/repo2docker/pull/1376#issuecomment-2514224929) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
+5. 🗣 Commented on [#3322](https://github.com/scikit-hep/awkward/pull/3322#issuecomment-2513101104) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
