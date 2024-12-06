@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2520959905) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-2. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🎉 Merged PR [#647](https://github.com/executablebooks/MyST-NB/pull/647) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2520780816) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-5. 🔒 Closed issue [#14](https://github.com/2i2c-org/demo-gallery/issues/14) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+1. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2521252994) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+2. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2520959905) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+3. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🎉 Merged PR [#647](https://github.com/executablebooks/MyST-NB/pull/647) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2520780816) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
