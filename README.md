@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🎉 Merged PR [#647](https://github.com/executablebooks/MyST-NB/pull/647) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2520780816) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🔒 Closed issue [#14](https://github.com/2i2c-org/demo-gallery/issues/14) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-5. 💪 Opened PR [#505](https://github.com/jupyter-book/myst-theme/pull/505) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2520959905) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
+2. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🎉 Merged PR [#647](https://github.com/executablebooks/MyST-NB/pull/647) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2520780816) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🔒 Closed issue [#14](https://github.com/2i2c-org/demo-gallery/issues/14) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
 <!--END_SECTION:activity-->
