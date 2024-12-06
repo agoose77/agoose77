@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/2i2c-org/demo-gallery/issues/14) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. 💪 Opened PR [#505](https://github.com/jupyter-book/myst-theme/pull/505) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🔒 Closed issue [#1643](https://github.com/jupyter-book/mystmd/issues/1643) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#503](https://github.com/jupyter-book/myst-theme/pull/503) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#503](https://github.com/jupyter-book/myst-theme/pull/503#issuecomment-2515703642) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🎉 Merged PR [#647](https://github.com/executablebooks/MyST-NB/pull/647) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2520780816) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+4. 🔒 Closed issue [#14](https://github.com/2i2c-org/demo-gallery/issues/14) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+5. 💪 Opened PR [#505](https://github.com/jupyter-book/myst-theme/pull/505) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
