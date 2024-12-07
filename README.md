@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/2i2c-org/demo-gallery/issues/23#issuecomment-2523197028) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-2. 🔒 Closed issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-3. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2523196005) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-4. 🔒 Closed issue [#11](https://github.com/2i2c-org/demo-gallery/issues/11) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
-5. 🗣 Commented on [#4](https://github.com/2i2c-org/demo-gallery/issues/4#issuecomment-2523195256) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+1. 🗣 Commented on [#3332](https://github.com/scikit-hep/awkward/pull/3332#issuecomment-2524146729) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 💪 Opened PR [#506](https://github.com/jupyter-book/myst-theme/pull/506) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#23](https://github.com/2i2c-org/demo-gallery/issues/23#issuecomment-2523197028) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+4. 🔒 Closed issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+5. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2523196005) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
 <!--END_SECTION:activity-->
