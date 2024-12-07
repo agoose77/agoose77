@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3329](https://github.com/scikit-hep/awkward/issues/3329#issuecomment-2522866251) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#597](https://github.com/executablebooks/MyST-NB/pull/597#issuecomment-2521264446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2521252994) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-4. 🗣 Commented on [#2067](https://github.com/pydata/pydata-sphinx-theme/issues/2067#issuecomment-2520959905) in [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
-5. 🔒 Closed issue [#645](https://github.com/executablebooks/MyST-NB/issues/645) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🗣 Commented on [#23](https://github.com/2i2c-org/demo-gallery/issues/23#issuecomment-2523197028) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+2. 🔒 Closed issue [#23](https://github.com/2i2c-org/demo-gallery/issues/23) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+3. 🗣 Commented on [#11](https://github.com/2i2c-org/demo-gallery/issues/11#issuecomment-2523196005) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+4. 🔒 Closed issue [#11](https://github.com/2i2c-org/demo-gallery/issues/11) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
+5. 🗣 Commented on [#4](https://github.com/2i2c-org/demo-gallery/issues/4#issuecomment-2523195256) in [2i2c-org/demo-gallery](https://github.com/2i2c-org/demo-gallery)
 <!--END_SECTION:activity-->
