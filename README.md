@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1678](https://github.com/jupyter-book/mystmd/issues/1678#issuecomment-2543881730) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#3341](https://github.com/scikit-hep/awkward/pull/3341#issuecomment-2542540287) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#1349](https://github.com/scikit-hep/uproot5/issues/1349#issuecomment-2542434259) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-4. 🗣 Commented on [#1349](https://github.com/scikit-hep/uproot5/issues/1349#issuecomment-2542344653) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
-5. 💪 Opened PR [#1699](https://github.com/jupyter-book/mystmd/pull/1699) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2046](https://github.com/the-turing-way/the-turing-way/issues/2046#issuecomment-2545193304) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🗣 Commented on [#1678](https://github.com/jupyter-book/mystmd/issues/1678#issuecomment-2543881730) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#3341](https://github.com/scikit-hep/awkward/pull/3341#issuecomment-2542540287) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#1349](https://github.com/scikit-hep/uproot5/issues/1349#issuecomment-2542434259) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
+5. 🗣 Commented on [#1349](https://github.com/scikit-hep/uproot5/issues/1349#issuecomment-2542344653) in [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5)
 <!--END_SECTION:activity-->
