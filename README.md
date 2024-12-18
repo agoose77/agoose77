@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548801751) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-3. 🗣 Commented on [#508](https://github.com/jupyter-book/myst-theme/pull/508#issuecomment-2548628409) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548248226) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#3348](https://github.com/scikit-hep/awkward/pull/3348#issuecomment-2548225168) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548977290) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2548968911) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548801751) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+5. 🗣 Commented on [#508](https://github.com/jupyter-book/myst-theme/pull/508#issuecomment-2548628409) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
