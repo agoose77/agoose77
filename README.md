@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548248226) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#3348](https://github.com/scikit-hep/awkward/pull/3348#issuecomment-2548225168) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❗ Opened issue [#507](https://github.com/jupyter-book/myst-theme/issues/507) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#3883](https://github.com/the-turing-way/the-turing-way/issues/3883#issuecomment-2545338198) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🗣 Commented on [#2046](https://github.com/the-turing-way/the-turing-way/issues/2046#issuecomment-2545193304) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🗣 Commented on [#508](https://github.com/jupyter-book/myst-theme/pull/508#issuecomment-2548628409) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548248226) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#3348](https://github.com/scikit-hep/awkward/pull/3348#issuecomment-2548225168) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❗ Opened issue [#507](https://github.com/jupyter-book/myst-theme/issues/507) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#3883](https://github.com/the-turing-way/the-turing-way/issues/3883#issuecomment-2545338198) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 <!--END_SECTION:activity-->
