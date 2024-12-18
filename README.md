@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/2i2c-org/team-compass/pull/924#issuecomment-2549033522) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-2. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549028702) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548977290) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2548968911) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-5. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2548801751) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#1699](https://github.com/jupyter-book/mystmd/pull/1699#issuecomment-2549082936) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549074571) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549072840) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#924](https://github.com/2i2c-org/team-compass/pull/924#issuecomment-2549033522) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+5. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549028702) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
