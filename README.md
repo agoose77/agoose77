@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2549120033) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-2. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549098999) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#1699](https://github.com/jupyter-book/mystmd/pull/1699#issuecomment-2549082936) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549074571) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549072840) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#564](https://github.com/dask-contrib/dask-awkward/pull/564) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+2. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2549120033) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549098999) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#1699](https://github.com/jupyter-book/mystmd/pull/1699#issuecomment-2549082936) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549074571) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
