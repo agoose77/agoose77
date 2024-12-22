@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3354](https://github.com/scikit-hep/awkward/pull/3354#issuecomment-2555640672) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🎉 Merged PR [#564](https://github.com/dask-contrib/dask-awkward/pull/564) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 💪 Opened PR [#564](https://github.com/dask-contrib/dask-awkward/pull/564) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-4. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2549120033) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-5. 🗣 Commented on [#507](https://github.com/jupyter-book/myst-theme/issues/507#issuecomment-2549098999) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#349](https://github.com/2i2c-org/2i2c-org.github.io/pull/349) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🗣 Commented on [#3354](https://github.com/scikit-hep/awkward/pull/3354#issuecomment-2555640672) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🎉 Merged PR [#564](https://github.com/dask-contrib/dask-awkward/pull/564) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 💪 Opened PR [#564](https://github.com/dask-contrib/dask-awkward/pull/564) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+5. 🗣 Commented on [#4966](https://github.com/jupyterhub/jupyterhub/pull/4966#issuecomment-2549120033) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
 <!--END_SECTION:activity-->
