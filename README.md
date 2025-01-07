@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5341](https://github.com/2i2c-org/infrastructure/issues/5341) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#513](https://github.com/jupyter-book/myst-theme/issues/513) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#3361](https://github.com/scikit-hep/awkward/pull/3361#issuecomment-2575494591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗ Opened issue [#5338](https://github.com/2i2c-org/infrastructure/issues/5338) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#5339](https://github.com/2i2c-org/infrastructure/issues/5339#issuecomment-2575443394) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#5342](https://github.com/2i2c-org/infrastructure/issues/5342) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#5341](https://github.com/2i2c-org/infrastructure/issues/5341) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#513](https://github.com/jupyter-book/myst-theme/issues/513) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#3361](https://github.com/scikit-hep/awkward/pull/3361#issuecomment-2575494591) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗ Opened issue [#5338](https://github.com/2i2c-org/infrastructure/issues/5338) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
