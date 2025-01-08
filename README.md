@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#516](https://github.com/jupyter-book/myst-theme/pull/516) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#513](https://github.com/jupyter-book/myst-theme/issues/513#issuecomment-2577207246) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ❗ Opened issue [#5342](https://github.com/2i2c-org/infrastructure/issues/5342) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#5341](https://github.com/2i2c-org/infrastructure/issues/5341) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#513](https://github.com/jupyter-book/myst-theme/issues/513) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#926](https://github.com/2i2c-org/team-compass/pull/926) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+2. 🎉 Merged PR [#922](https://github.com/2i2c-org/team-compass/pull/922) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+3. 🗣 Commented on [#922](https://github.com/2i2c-org/team-compass/pull/922#issuecomment-2577550912) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+4. 💪 Opened PR [#516](https://github.com/jupyter-book/myst-theme/pull/516) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#513](https://github.com/jupyter-book/myst-theme/issues/513#issuecomment-2577207246) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
