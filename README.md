@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1908](https://github.com/jupyterhub/binderhub/pull/1908) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
-2. 🗣 Commented on [#1735](https://github.com/jupyter-book/mystmd/issues/1735#issuecomment-2580790046) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#1906](https://github.com/jupyterhub/binderhub/pull/1906) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
-4. 🗣 Commented on [#5339](https://github.com/2i2c-org/infrastructure/issues/5339#issuecomment-2580310069) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#1157](https://github.com/jupyter-book/mystmd/issues/1157#issuecomment-2580015766) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1716](https://github.com/jupyter-book/mystmd/issues/1716#issuecomment-2581427602) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#2265](https://github.com/jupyter-book/jupyter-book/issues/2265#issuecomment-2581426236) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 💪 Opened PR [#1908](https://github.com/jupyterhub/binderhub/pull/1908) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
+4. 🗣 Commented on [#1735](https://github.com/jupyter-book/mystmd/issues/1735#issuecomment-2580790046) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#1906](https://github.com/jupyterhub/binderhub/pull/1906) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
 <!--END_SECTION:activity-->
