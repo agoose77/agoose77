@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1654](https://github.com/jupyter-book/mystmd/issues/1654) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🎉 Merged PR [#1773](https://github.com/jupyter-book/mystmd/pull/1773) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2616097827) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2616074557) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#2](https://github.com/atharvaaalok/neural_injective_geometry/pull/2) in [atharvaaalok/neural_injective_geometry](https://github.com/atharvaaalok/neural_injective_geometry)
+1. 🗣 Commented on [#1799](https://github.com/jupyter-book/mystmd/pull/1799#issuecomment-2616127614) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#521](https://github.com/jupyter-book/myst-theme/pull/521#issuecomment-2616106034) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#1819](https://github.com/jupyter-book/mystmd/pull/1819) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#1654](https://github.com/jupyter-book/mystmd/issues/1654) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🎉 Merged PR [#1773](https://github.com/jupyter-book/mystmd/pull/1773) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
