@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2615491842) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#2307](https://github.com/jupyter-book/jupyter-book/issues/2307#issuecomment-2615482090) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#25](https://github.com/agoose77/hatch-nodejs-version/issues/25#issuecomment-2615462804) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 🗣 Commented on [#2308](https://github.com/jupyter-book/jupyter-book/issues/2308#issuecomment-2615452670) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 💪 Opened PR [#1](https://github.com/atharvaaalok/neural_injective_geometry/pull/1) in [atharvaaalok/neural_injective_geometry](https://github.com/atharvaaalok/neural_injective_geometry)
+1. 🗣 Commented on [#5339](https://github.com/2i2c-org/infrastructure/issues/5339#issuecomment-2615873264) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2615491842) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#2307](https://github.com/jupyter-book/jupyter-book/issues/2307#issuecomment-2615482090) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#25](https://github.com/agoose77/hatch-nodejs-version/issues/25#issuecomment-2615462804) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🗣 Commented on [#2308](https://github.com/jupyter-book/jupyter-book/issues/2308#issuecomment-2615452670) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
