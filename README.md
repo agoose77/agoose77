@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/atharvaaalok/neural_injective_geometry/pull/2) in [atharvaaalok/neural_injective_geometry](https://github.com/atharvaaalok/neural_injective_geometry)
-2. ❗ Opened issue [#1818](https://github.com/jupyter-book/mystmd/issues/1818) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1814](https://github.com/jupyter-book/mystmd/pull/1814#issuecomment-2616026505) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#526](https://github.com/jupyter-book/myst-theme/issues/526) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#5339](https://github.com/2i2c-org/infrastructure/issues/5339#issuecomment-2615873264) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#1654](https://github.com/jupyter-book/mystmd/issues/1654) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#1773](https://github.com/jupyter-book/mystmd/pull/1773) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2616097827) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2616074557) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#2](https://github.com/atharvaaalok/neural_injective_geometry/pull/2) in [atharvaaalok/neural_injective_geometry](https://github.com/atharvaaalok/neural_injective_geometry)
 <!--END_SECTION:activity-->
