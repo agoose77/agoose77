@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1819](https://github.com/jupyter-book/mystmd/pull/1819) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🎉 Merged PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ❌ Reopened PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ❌ Closed PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#521](https://github.com/jupyter-book/myst-theme/pull/521#issuecomment-2616172138) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2621234946) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#1819](https://github.com/jupyter-book/mystmd/pull/1819) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🎉 Merged PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. ❌ Reopened PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. ❌ Closed PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
