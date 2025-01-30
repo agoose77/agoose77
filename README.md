@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2622216542) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-3. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2621234946) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#1819](https://github.com/jupyter-book/mystmd/pull/1819) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2622276007) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+2. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2622216542) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 💪 Opened PR [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+4. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2621234946) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#1819](https://github.com/jupyter-book/mystmd/pull/1819) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
