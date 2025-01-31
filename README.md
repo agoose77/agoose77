@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2313](https://github.com/jupyter-book/jupyter-book/pull/2313) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. ❗ Opened issue [#5449](https://github.com/2i2c-org/infrastructure/issues/5449) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2622276007) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-4. 🗣 Commented on [#3390](https://github.com/scikit-hep/awkward/pull/3390#issuecomment-2622216542) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+1. 🎉 Merged PR [#2313](https://github.com/jupyter-book/jupyter-book/pull/2313) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 🗣 Commented on [#1831](https://github.com/jupyter-book/mystmd/issues/1831#issuecomment-2626970638) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#857](https://github.com/jupyter-book/mystmd/issues/857#issuecomment-2626964933) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#2313](https://github.com/jupyter-book/jupyter-book/pull/2313) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. ❗ Opened issue [#5449](https://github.com/2i2c-org/infrastructure/issues/5449) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
