@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/continuous-foundation/scienceicons/pull/6) in [continuous-foundation/scienceicons](https://github.com/continuous-foundation/scienceicons)
-2. 🗣 Commented on [#1838](https://github.com/jupyter-book/mystmd/issues/1838#issuecomment-2636257028) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#528](https://github.com/jupyter-book/myst-theme/pull/528) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#1833](https://github.com/jupyter-book/mystmd/issues/1833#issuecomment-2633470966) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔓 Reopened issue [#1245](https://github.com/jupyter-book/mystmd/issues/1245) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#1839](https://github.com/jupyter-book/mystmd/pull/1839) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#1839](https://github.com/jupyter-book/mystmd/pull/1839) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#7](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/7) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+4. 🗣 Commented on [#491](https://github.com/ProjectPythia/projectpythia.github.io/pull/491#issuecomment-2636459224) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+5. ❌ Closed PR [#491](https://github.com/ProjectPythia/projectpythia.github.io/pull/491) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
 <!--END_SECTION:activity-->
