@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5404](https://github.com/2i2c-org/infrastructure/issues/5404#issuecomment-2640524378) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#5404](https://github.com/2i2c-org/infrastructure/issues/5404) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#5511](https://github.com/2i2c-org/infrastructure/issues/5511) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#6](https://github.com/continuous-foundation/scienceicons/pull/6#issuecomment-2640511726) in [continuous-foundation/scienceicons](https://github.com/continuous-foundation/scienceicons)
-5. 🗣 Commented on [#5504](https://github.com/2i2c-org/infrastructure/issues/5504#issuecomment-2640505867) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#5511](https://github.com/2i2c-org/infrastructure/issues/5511#issuecomment-2642636813) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#5404](https://github.com/2i2c-org/infrastructure/issues/5404#issuecomment-2640524378) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#5404](https://github.com/2i2c-org/infrastructure/issues/5404) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#5511](https://github.com/2i2c-org/infrastructure/issues/5511) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#6](https://github.com/continuous-foundation/scienceicons/pull/6#issuecomment-2640511726) in [continuous-foundation/scienceicons](https://github.com/continuous-foundation/scienceicons)
 <!--END_SECTION:activity-->
