@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/executablebooks/MyST-NB/issues/666#issuecomment-2650582242) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#3397](https://github.com/scikit-hep/awkward/pull/3397#issuecomment-2648335432) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#666](https://github.com/executablebooks/MyST-NB/issues/666#issuecomment-2648186987) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-4. 🗣 Commented on [#3397](https://github.com/scikit-hep/awkward/pull/3397#issuecomment-2648180991) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 🗣 Commented on [#1850](https://github.com/jupyter-book/mystmd/issues/1850#issuecomment-2646626562) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#840](https://github.com/jupyter-book/mystmd/issues/840#issuecomment-2651015052) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#666](https://github.com/executablebooks/MyST-NB/issues/666#issuecomment-2650582242) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#3397](https://github.com/scikit-hep/awkward/pull/3397#issuecomment-2648335432) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#666](https://github.com/executablebooks/MyST-NB/issues/666#issuecomment-2648186987) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#3397](https://github.com/scikit-hep/awkward/pull/3397#issuecomment-2648180991) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
