@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#535](https://github.com/jupyter-book/myst-theme/pull/535) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2651758995) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-3. 🗣 Commented on [#5058](https://github.com/2i2c-org/infrastructure/issues/5058#issuecomment-2651326355) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#83](https://github.com/jupyterhub/jupyterhub-idle-culler/pull/83#issuecomment-2651304813) in [jupyterhub/jupyterhub-idle-culler](https://github.com/jupyterhub/jupyterhub-idle-culler)
-5. 🗣 Commented on [#840](https://github.com/jupyter-book/mystmd/issues/840#issuecomment-2651015052) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#535](https://github.com/jupyter-book/myst-theme/pull/535#issuecomment-2654538938) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 💪 Opened PR [#535](https://github.com/jupyter-book/myst-theme/pull/535) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2651758995) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+4. 🗣 Commented on [#5058](https://github.com/2i2c-org/infrastructure/issues/5058#issuecomment-2651326355) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#83](https://github.com/jupyterhub/jupyterhub-idle-culler/pull/83#issuecomment-2651304813) in [jupyterhub/jupyterhub-idle-culler](https://github.com/jupyterhub/jupyterhub-idle-culler)
 <!--END_SECTION:activity-->
