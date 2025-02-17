@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2660940873) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-2. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2660836884) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2660836723) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#3356](https://github.com/scikit-hep/awkward/issues/3356#issuecomment-2656893261) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#536](https://github.com/jupyter-book/myst-theme/pull/536) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#1327](https://github.com/mwouts/jupytext/pull/1327#issuecomment-2662701809) in [mwouts/jupytext](https://github.com/mwouts/jupytext)
+2. 🗣 Commented on [#28](https://github.com/jupyter-book/myst-enhancement-proposals/pull/28#issuecomment-2660940873) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+3. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2660836884) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2660836723) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#3356](https://github.com/scikit-hep/awkward/issues/3356#issuecomment-2656893261) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
