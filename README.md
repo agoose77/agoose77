@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5557](https://github.com/2i2c-org/infrastructure/issues/5557) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#571](https://github.com/dask-contrib/dask-awkward/issues/571#issuecomment-2668938018) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-3. 🗣 Commented on [#5556](https://github.com/2i2c-org/infrastructure/issues/5556#issuecomment-2668735952) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#5556](https://github.com/2i2c-org/infrastructure/issues/5556) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#538](https://github.com/jupyter-book/myst-theme/pull/538) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#540](https://github.com/jupyter-book/myst-theme/pull/540) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❗ Opened issue [#5557](https://github.com/2i2c-org/infrastructure/issues/5557) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#571](https://github.com/dask-contrib/dask-awkward/issues/571#issuecomment-2668938018) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
+4. 🗣 Commented on [#5556](https://github.com/2i2c-org/infrastructure/issues/5556#issuecomment-2668735952) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#5556](https://github.com/2i2c-org/infrastructure/issues/5556) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
