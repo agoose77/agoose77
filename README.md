@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.4](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.4) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🔒 Closed issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🎉 Merged PR [#898](https://github.com/executablebooks/sphinx-book-theme/pull/898) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🎉 Merged PR [#897](https://github.com/executablebooks/sphinx-book-theme/pull/897) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2671871588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 💪 Opened PR [#2327](https://github.com/jupyter-book/jupyter-book/pull/2327) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 🗣 Commented on [#1869](https://github.com/jupyter-book/mystmd/issues/1869#issuecomment-2672103236) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔒 Closed issue [#1869](https://github.com/jupyter-book/mystmd/issues/1869) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🚀 Published release [v1.1.4](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.4) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🔒 Closed issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
