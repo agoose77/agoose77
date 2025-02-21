@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#897](https://github.com/executablebooks/sphinx-book-theme/pull/897) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2671871588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🗣 Commented on [#5556](https://github.com/2i2c-org/infrastructure/issues/5556#issuecomment-2671869421) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#898](https://github.com/executablebooks/sphinx-book-theme/pull/898) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🚀 Published release [v1.2.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.2.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+1. 🚀 Published release [v1.1.4](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.4) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🔒 Closed issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🎉 Merged PR [#898](https://github.com/executablebooks/sphinx-book-theme/pull/898) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🎉 Merged PR [#897](https://github.com/executablebooks/sphinx-book-theme/pull/897) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2671871588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
