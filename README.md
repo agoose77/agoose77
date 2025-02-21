@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#540](https://github.com/jupyter-book/myst-theme/pull/540#issuecomment-2671607341) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#4055](https://github.com/the-turing-way/the-turing-way/issues/4055#issuecomment-2671412263) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🗣 Commented on [#1869](https://github.com/jupyter-book/mystmd/issues/1869#issuecomment-2671409746) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#2326](https://github.com/jupyter-book/jupyter-book/pull/2326) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2325](https://github.com/jupyter-book/jupyter-book/pull/2325) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#647](https://github.com/executablebooks/MyST-NB/pull/647#issuecomment-2671871588) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🗣 Commented on [#5556](https://github.com/2i2c-org/infrastructure/issues/5556#issuecomment-2671869421) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#898](https://github.com/executablebooks/sphinx-book-theme/pull/898) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+4. 🚀 Published release [v1.2.0](https://github.com/executablebooks/MyST-NB/releases/tag/v1.2.0) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#540](https://github.com/jupyter-book/myst-theme/pull/540#issuecomment-2671607341) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
