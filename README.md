@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2327](https://github.com/jupyter-book/jupyter-book/pull/2327) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🗣 Commented on [#1869](https://github.com/jupyter-book/mystmd/issues/1869#issuecomment-2672103236) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1869](https://github.com/jupyter-book/mystmd/issues/1869) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🚀 Published release [v1.1.4](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.4) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🔒 Closed issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+1. 🗣 Commented on [#243](https://github.com/jupyter-book/jupyterlab-myst/issues/243#issuecomment-2676856781) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. 💪 Opened PR [#2327](https://github.com/jupyter-book/jupyter-book/pull/2327) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🗣 Commented on [#1869](https://github.com/jupyter-book/mystmd/issues/1869#issuecomment-2672103236) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#1869](https://github.com/jupyter-book/mystmd/issues/1869) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🚀 Published release [v1.1.4](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v1.1.4) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
