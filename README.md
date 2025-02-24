@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5576](https://github.com/2i2c-org/infrastructure/issues/5576) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#2326](https://github.com/jupyter-book/jupyter-book/pull/2326) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#2326](https://github.com/jupyter-book/jupyter-book/pull/2326#issuecomment-2678176455) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🗣 Commented on [#1872](https://github.com/jupyter-book/mystmd/pull/1872#issuecomment-2678017349) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#243](https://github.com/jupyter-book/jupyterlab-myst/issues/243#issuecomment-2676856781) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+1. 🗣 Commented on [#3403](https://github.com/scikit-hep/awkward/issues/3403#issuecomment-2678529184) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗ Opened issue [#5576](https://github.com/2i2c-org/infrastructure/issues/5576) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#2326](https://github.com/jupyter-book/jupyter-book/pull/2326) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#2326](https://github.com/jupyter-book/jupyter-book/pull/2326#issuecomment-2678176455) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🗣 Commented on [#1872](https://github.com/jupyter-book/mystmd/pull/1872#issuecomment-2678017349) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
