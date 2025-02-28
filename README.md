@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/jupyter-book/myst-theme/pull/536#issuecomment-2687901669) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#1876](https://github.com/jupyter-book/mystmd/issues/1876#issuecomment-2687400186) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2687394699) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#1875](https://github.com/jupyter-book/mystmd/issues/1875#issuecomment-2685740896) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#813](https://github.com/jupyter-book/mystmd/issues/813) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#541](https://github.com/jupyter-book/myst-theme/pull/541#issuecomment-2688382090) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 💪 Opened PR [#541](https://github.com/jupyter-book/myst-theme/pull/541) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#536](https://github.com/jupyter-book/myst-theme/pull/536#issuecomment-2687901669) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#1876](https://github.com/jupyter-book/mystmd/issues/1876#issuecomment-2687400186) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#531](https://github.com/jupyter-book/myst-theme/pull/531#issuecomment-2687394699) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
