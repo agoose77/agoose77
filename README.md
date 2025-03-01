@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/51) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-2. 🗣 Commented on [#51](https://github.com/executablebooks/cookiecutter-jupyter-book/pull/51#issuecomment-2690761335) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
-3. 🗣 Commented on [#5556](https://github.com/2i2c-org/infrastructure/issues/5556#issuecomment-2690255817) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#5556](https://github.com/2i2c-org/infrastructure/issues/5556) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❌ Closed PR [#542](https://github.com/jupyter-book/myst-theme/pull/542) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#2331](https://github.com/jupyter-book/jupyter-book/pull/2331#issuecomment-2690791233) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. ❌ Closed PR [#2331](https://github.com/jupyter-book/jupyter-book/pull/2331) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🗣 Commented on [#2311](https://github.com/jupyter-book/jupyter-book/issues/2311#issuecomment-2690787641) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🔒 Closed issue [#2311](https://github.com/jupyter-book/jupyter-book/issues/2311) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🔒 Closed issue [#47](https://github.com/executablebooks/cookiecutter-jupyter-book/issues/47) in [executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book)
 <!--END_SECTION:activity-->
