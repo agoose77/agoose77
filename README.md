@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319#issuecomment-2690979347) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. ❌ Closed PR [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🎉 Merged PR [#2332](https://github.com/jupyter-book/jupyter-book/pull/2332) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🗣 Commented on [#2331](https://github.com/jupyter-book/jupyter-book/pull/2331#issuecomment-2690791233) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. ❌ Closed PR [#2331](https://github.com/jupyter-book/jupyter-book/pull/2331) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2691688201) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319#issuecomment-2690979347) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. ❌ Closed PR [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🎉 Merged PR [#2332](https://github.com/jupyter-book/jupyter-book/pull/2332) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🗣 Commented on [#2331](https://github.com/jupyter-book/jupyter-book/pull/2331#issuecomment-2690791233) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
