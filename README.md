@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1884](https://github.com/jupyter-book/mystmd/issues/1884#issuecomment-2692417710) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2691688201) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319#issuecomment-2690979347) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. ❌ Closed PR [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#2332](https://github.com/jupyter-book/jupyter-book/pull/2332) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865#issuecomment-2692697195) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🔓 Reopened issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#1884](https://github.com/jupyter-book/mystmd/issues/1884#issuecomment-2692417710) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2691688201) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🗣 Commented on [#2319](https://github.com/jupyter-book/jupyter-book/pull/2319#issuecomment-2690979347) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
