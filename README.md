@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2694596866) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865#issuecomment-2692697195) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🔓 Reopened issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-4. 🗣 Commented on [#1884](https://github.com/jupyter-book/mystmd/issues/1884#issuecomment-2692417710) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2691688201) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694679041) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694668842) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2694596866) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865#issuecomment-2692697195) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🔓 Reopened issue [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
