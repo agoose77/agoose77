@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/jupyter-book/team-compass/issues/20#issuecomment-2696954260) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-2. 🗣 Commented on [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865#issuecomment-2696903222) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-3. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694785513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694679041) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694668842) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 💪 Opened PR [#547](https://github.com/jupyter-book/myst-theme/pull/547) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 💪 Opened PR [#546](https://github.com/jupyter-book/myst-theme/pull/546) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#20](https://github.com/jupyter-book/team-compass/issues/20#issuecomment-2696954260) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+4. 🗣 Commented on [#865](https://github.com/executablebooks/sphinx-book-theme/issues/865#issuecomment-2696903222) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+5. 🗣 Commented on [#1886](https://github.com/jupyter-book/mystmd/issues/1886#issuecomment-2694785513) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
