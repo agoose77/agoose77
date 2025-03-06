@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#554](https://github.com/jupyter-book/myst-theme/pull/554) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#554](https://github.com/jupyter-book/myst-theme/pull/554) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🎉 Merged PR [#1894](https://github.com/jupyter-book/mystmd/pull/1894) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#1894](https://github.com/jupyter-book/mystmd/pull/1894) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#5349](https://github.com/2i2c-org/infrastructure/issues/5349#issuecomment-2701580785) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6](https://github.com/Contemporary-Physicslab/TN2985/pull/6) in [Contemporary-Physicslab/TN2985](https://github.com/Contemporary-Physicslab/TN2985)
+2. 🎉 Merged PR [#554](https://github.com/jupyter-book/myst-theme/pull/554) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#554](https://github.com/jupyter-book/myst-theme/pull/554) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🎉 Merged PR [#1894](https://github.com/jupyter-book/mystmd/pull/1894) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#1894](https://github.com/jupyter-book/mystmd/pull/1894) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
