@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/7#issuecomment-2703529083) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-2. 🎉 Merged PR [#7](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/7) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-3. ❗ Opened issue [#5676](https://github.com/2i2c-org/infrastructure/issues/5676) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#5549](https://github.com/2i2c-org/infrastructure/issues/5549) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#527](https://github.com/jupyter-book/myst-theme/issues/527#issuecomment-2703470063) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#5676](https://github.com/2i2c-org/infrastructure/issues/5676#issuecomment-2703551476) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/8) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+3. 🗣 Commented on [#497](https://github.com/ProjectPythia/projectpythia.github.io/pull/497#issuecomment-2703538261) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+4. ❌ Closed PR [#497](https://github.com/ProjectPythia/projectpythia.github.io/pull/497) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+5. 💪 Opened PR [#497](https://github.com/ProjectPythia/projectpythia.github.io/pull/497) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
 <!--END_SECTION:activity-->
