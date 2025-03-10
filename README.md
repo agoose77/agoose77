@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1905](https://github.com/jupyter-book/mystmd/issues/1905) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❗ Opened issue [#1904](https://github.com/jupyter-book/mystmd/issues/1904) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1902](https://github.com/jupyter-book/mystmd/issues/1902#issuecomment-2706929425) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#3413](https://github.com/scikit-hep/awkward/issues/3413) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#1903](https://github.com/jupyter-book/mystmd/pull/1903) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❗ Opened issue [#5687](https://github.com/2i2c-org/infrastructure/issues/5687) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#1905](https://github.com/jupyter-book/mystmd/issues/1905) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❗ Opened issue [#1904](https://github.com/jupyter-book/mystmd/issues/1904) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1902](https://github.com/jupyter-book/mystmd/issues/1902#issuecomment-2706929425) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#3413](https://github.com/scikit-hep/awkward/issues/3413) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
