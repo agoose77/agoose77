@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1910](https://github.com/jupyter-book/mystmd/issues/1910#issuecomment-2713951946) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🎉 Merged PR [#8](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/8) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-3. 🗣 Commented on [#8](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/8#issuecomment-2710733815) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-4. ❗ Opened issue [#5687](https://github.com/2i2c-org/infrastructure/issues/5687) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#1905](https://github.com/jupyter-book/mystmd/issues/1905) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#1910](https://github.com/jupyter-book/mystmd/issues/1910#issuecomment-2714078929) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1910](https://github.com/jupyter-book/mystmd/issues/1910#issuecomment-2713951946) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🎉 Merged PR [#8](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/8) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+4. 🗣 Commented on [#8](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/8#issuecomment-2710733815) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+5. ❗ Opened issue [#5687](https://github.com/2i2c-org/infrastructure/issues/5687) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
