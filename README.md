@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/pyodide/pr-integrator/pull/5#issuecomment-2727274258) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
-2. 🗣 Commented on [#4](https://github.com/pyodide/pr-integrator/issues/4#issuecomment-2727274146) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
-3. 🗣 Commented on [#5672](https://github.com/2i2c-org/infrastructure/issues/5672#issuecomment-2724792373) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#1920](https://github.com/jupyter-book/mystmd/issues/1920) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1906](https://github.com/jupyter-book/mystmd/pull/1906#issuecomment-2724142276) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#4](https://github.com/pyodide/pr-integrator/issues/4#issuecomment-2727289626) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
+2. 🗣 Commented on [#4](https://github.com/pyodide/pr-integrator/issues/4#issuecomment-2727288729) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
+3. 🔒 Closed issue [#4](https://github.com/pyodide/pr-integrator/issues/4) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
+4. 🎉 Merged PR [#5](https://github.com/pyodide/pr-integrator/pull/5) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
+5. 🗣 Commented on [#5](https://github.com/pyodide/pr-integrator/pull/5#issuecomment-2727274258) in [pyodide/pr-integrator](https://github.com/pyodide/pr-integrator)
 <!--END_SECTION:activity-->
