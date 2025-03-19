@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2730389282) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#63](https://github.com/2i2c-org/utoronto-image/pull/63#issuecomment-2729979340) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-3. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2729202219) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#1648](https://github.com/jupyter-book/mystmd/issues/1648#issuecomment-2728483579) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1922](https://github.com/jupyter-book/mystmd/pull/1922#issuecomment-2728472821) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#3364](https://github.com/scikit-hep/awkward/pull/3364#issuecomment-2733575498) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2730389282) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#63](https://github.com/2i2c-org/utoronto-image/pull/63#issuecomment-2729979340) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2729202219) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#1648](https://github.com/jupyter-book/mystmd/issues/1648#issuecomment-2728483579) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
