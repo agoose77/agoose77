@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5769](https://github.com/2i2c-org/infrastructure/issues/5769) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#5676](https://github.com/2i2c-org/infrastructure/issues/5676#issuecomment-2740037779) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#5676](https://github.com/2i2c-org/infrastructure/issues/5676) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#5768](https://github.com/2i2c-org/infrastructure/issues/5768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#5768](https://github.com/2i2c-org/infrastructure/issues/5768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#567](https://github.com/jupyter-book/myst-theme/issues/567) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❗ Opened issue [#566](https://github.com/jupyter-book/myst-theme/issues/566) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. ❗ Opened issue [#5769](https://github.com/2i2c-org/infrastructure/issues/5769) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5676](https://github.com/2i2c-org/infrastructure/issues/5676#issuecomment-2740037779) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#5676](https://github.com/2i2c-org/infrastructure/issues/5676) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
