@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5793](https://github.com/2i2c-org/infrastructure/issues/5793) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#5341](https://github.com/2i2c-org/infrastructure/issues/5341) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2748327428) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#5595](https://github.com/2i2c-org/infrastructure/issues/5595#issuecomment-2748176688) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#1913](https://github.com/jupyter-book/mystmd/issues/1913#issuecomment-2748143144) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🔒 Closed issue [#5793](https://github.com/2i2c-org/infrastructure/issues/5793) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#5793](https://github.com/2i2c-org/infrastructure/issues/5793) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#5341](https://github.com/2i2c-org/infrastructure/issues/5341) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5341](https://github.com/2i2c-org/infrastructure/issues/5341#issuecomment-2748327428) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#5595](https://github.com/2i2c-org/infrastructure/issues/5595#issuecomment-2748176688) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
