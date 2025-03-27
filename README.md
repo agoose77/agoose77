@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#522](https://github.com/jupyter-book/myst-theme/pull/522#issuecomment-2757551178) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#1930](https://github.com/jupyter-book/mystmd/pull/1930#issuecomment-2754695289) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1921](https://github.com/jupyter-book/mystmd/issues/1921#issuecomment-2753700260) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1930](https://github.com/jupyter-book/mystmd/pull/1930#issuecomment-2753664368) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#570](https://github.com/jupyter-book/myst-theme/pull/570#issuecomment-2753657167) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#141056](https://github.com/home-assistant/core/issues/141056#issuecomment-2757734114) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#522](https://github.com/jupyter-book/myst-theme/pull/522#issuecomment-2757551178) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#1930](https://github.com/jupyter-book/mystmd/pull/1930#issuecomment-2754695289) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1921](https://github.com/jupyter-book/mystmd/issues/1921#issuecomment-2753700260) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1930](https://github.com/jupyter-book/mystmd/pull/1930#issuecomment-2753664368) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
