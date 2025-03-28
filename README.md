@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11#issuecomment-2758423526) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-2. 🗣 Commented on [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11#issuecomment-2758214392) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-3. 💪 Opened PR [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
-4. 🗣 Commented on [#141056](https://github.com/home-assistant/core/issues/141056#issuecomment-2757734114) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#522](https://github.com/jupyter-book/myst-theme/pull/522#issuecomment-2757551178) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#12](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/issues/12) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+2. 🗣 Commented on [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11#issuecomment-2758423526) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+3. 🗣 Commented on [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11#issuecomment-2758214392) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+4. 💪 Opened PR [#11](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io/pull/11) in [projectpythia-mystmd/projectpythia-mystmd.github.io](https://github.com/projectpythia-mystmd/projectpythia-mystmd.github.io)
+5. 🗣 Commented on [#141056](https://github.com/home-assistant/core/issues/141056#issuecomment-2757734114) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
