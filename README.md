@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3446](https://github.com/scikit-hep/awkward/pull/3446#issuecomment-2784745713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#5868](https://github.com/2i2c-org/infrastructure/issues/5868#issuecomment-2784743736) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#1950](https://github.com/jupyter-book/mystmd/pull/1950#issuecomment-2784561624) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#5868](https://github.com/2i2c-org/infrastructure/issues/5868) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#1950](https://github.com/jupyter-book/mystmd/pull/1950#issuecomment-2783224126) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#909](https://github.com/executablebooks/sphinx-book-theme/pull/909#issuecomment-2785782531) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+2. 🗣 Commented on [#3446](https://github.com/scikit-hep/awkward/pull/3446#issuecomment-2784745713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#5868](https://github.com/2i2c-org/infrastructure/issues/5868#issuecomment-2784743736) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#1950](https://github.com/jupyter-book/mystmd/pull/1950#issuecomment-2784561624) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#5868](https://github.com/2i2c-org/infrastructure/issues/5868) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
