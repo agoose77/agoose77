@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1942](https://github.com/jupyter-book/mystmd/pull/1942) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1942](https://github.com/jupyter-book/mystmd/pull/1942#issuecomment-2787051395) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#22](https://github.com/jupyter-book/team-compass/pull/22) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-4. 🗣 Commented on [#909](https://github.com/executablebooks/sphinx-book-theme/pull/909#issuecomment-2785782531) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#3446](https://github.com/scikit-hep/awkward/pull/3446#issuecomment-2784745713) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#1950](https://github.com/jupyter-book/mystmd/pull/1950#issuecomment-2787412572) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#1942](https://github.com/jupyter-book/mystmd/pull/1942) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1942](https://github.com/jupyter-book/mystmd/pull/1942#issuecomment-2787051395) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#22](https://github.com/jupyter-book/team-compass/pull/22) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+5. 🗣 Commented on [#909](https://github.com/executablebooks/sphinx-book-theme/pull/909#issuecomment-2785782531) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
 <!--END_SECTION:activity-->
