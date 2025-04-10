@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1961](https://github.com/jupyter-book/mystmd/pull/1961) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1960](https://github.com/jupyter-book/mystmd/issues/1960#issuecomment-2793494805) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1960](https://github.com/jupyter-book/mystmd/issues/1960) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#1960](https://github.com/jupyter-book/mystmd/issues/1960) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#5897](https://github.com/2i2c-org/infrastructure/pull/5897) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#1](https://github.com/myst-examples/outputs/pull/1) in [myst-examples/outputs](https://github.com/myst-examples/outputs)
+2. 💪 Opened PR [#1961](https://github.com/jupyter-book/mystmd/pull/1961) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1960](https://github.com/jupyter-book/mystmd/issues/1960#issuecomment-2793494805) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#1960](https://github.com/jupyter-book/mystmd/issues/1960) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#1960](https://github.com/jupyter-book/mystmd/issues/1960) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
