@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/jupyter-book/blog/pull/17) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-2. 💪 Opened PR [#1](https://github.com/myst-examples/outputs/pull/1) in [myst-examples/outputs](https://github.com/myst-examples/outputs)
-3. 💪 Opened PR [#1961](https://github.com/jupyter-book/mystmd/pull/1961) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1960](https://github.com/jupyter-book/mystmd/issues/1960#issuecomment-2793494805) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#1960](https://github.com/jupyter-book/mystmd/issues/1960) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#3447](https://github.com/scikit-hep/awkward/pull/3447#issuecomment-2796419612) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🎉 Merged PR [#17](https://github.com/jupyter-book/blog/pull/17) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+3. 💪 Opened PR [#1](https://github.com/myst-examples/outputs/pull/1) in [myst-examples/outputs](https://github.com/myst-examples/outputs)
+4. 💪 Opened PR [#1961](https://github.com/jupyter-book/mystmd/pull/1961) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1960](https://github.com/jupyter-book/mystmd/issues/1960#issuecomment-2793494805) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
