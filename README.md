@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-2. 💪 Opened PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-3. 🗣 Commented on [#3447](https://github.com/scikit-hep/awkward/pull/3447#issuecomment-2796419612) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#17](https://github.com/jupyter-book/blog/pull/17) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 💪 Opened PR [#1](https://github.com/myst-examples/outputs/pull/1) in [myst-examples/outputs](https://github.com/myst-examples/outputs)
+1. 🔒 Closed issue [#5335](https://github.com/2i2c-org/infrastructure/issues/5335) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#5904](https://github.com/2i2c-org/infrastructure/issues/5904) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+4. 💪 Opened PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+5. 🗣 Commented on [#3447](https://github.com/scikit-hep/awkward/pull/3447#issuecomment-2796419612) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
