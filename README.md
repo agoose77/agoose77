@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5335](https://github.com/2i2c-org/infrastructure/issues/5335) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#5904](https://github.com/2i2c-org/infrastructure/issues/5904) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-4. 💪 Opened PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-5. 🗣 Commented on [#3447](https://github.com/scikit-hep/awkward/pull/3447#issuecomment-2796419612) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#5](https://github.com/geojupyter/geojupyter.org/issues/5#issuecomment-2799867195) in [geojupyter/geojupyter.org](https://github.com/geojupyter/geojupyter.org)
+2. 🔒 Closed issue [#5335](https://github.com/2i2c-org/infrastructure/issues/5335) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#5904](https://github.com/2i2c-org/infrastructure/issues/5904) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+5. 💪 Opened PR [#23](https://github.com/jupyter-book/team-compass/pull/23) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
 <!--END_SECTION:activity-->
