@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1964](https://github.com/jupyter-book/mystmd/issues/1964) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#5](https://github.com/geojupyter/geojupyter.org/issues/5#issuecomment-2800059034) in [geojupyter/geojupyter.org](https://github.com/geojupyter/geojupyter.org)
-3. 🗣 Commented on [#5](https://github.com/geojupyter/geojupyter.org/issues/5#issuecomment-2799867195) in [geojupyter/geojupyter.org](https://github.com/geojupyter/geojupyter.org)
-4. 🔒 Closed issue [#5335](https://github.com/2i2c-org/infrastructure/issues/5335) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#5904](https://github.com/2i2c-org/infrastructure/issues/5904) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#1965](https://github.com/jupyter-book/mystmd/issues/1965) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#1](https://github.com/fperez/geojupyter.org/pull/1) in [fperez/geojupyter.org](https://github.com/fperez/geojupyter.org)
+3. ❗ Opened issue [#1964](https://github.com/jupyter-book/mystmd/issues/1964) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#5](https://github.com/geojupyter/geojupyter.org/issues/5#issuecomment-2800059034) in [geojupyter/geojupyter.org](https://github.com/geojupyter/geojupyter.org)
+5. 🗣 Commented on [#5](https://github.com/geojupyter/geojupyter.org/issues/5#issuecomment-2799867195) in [geojupyter/geojupyter.org](https://github.com/geojupyter/geojupyter.org)
 <!--END_SECTION:activity-->
