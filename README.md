@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1964](https://github.com/jupyter-book/mystmd/issues/1964#issuecomment-2801721400) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#1966](https://github.com/jupyter-book/mystmd/pull/1966) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#24](https://github.com/jupyter-book/team-compass/issues/24#issuecomment-2801158992) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-4. ❗ Opened issue [#1965](https://github.com/jupyter-book/mystmd/issues/1965) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#1](https://github.com/fperez/geojupyter.org/pull/1) in [fperez/geojupyter.org](https://github.com/fperez/geojupyter.org)
+1. 🎉 Merged PR [#1949](https://github.com/jupyter-book/mystmd/pull/1949) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1949](https://github.com/jupyter-book/mystmd/pull/1949#issuecomment-2804550692) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1964](https://github.com/jupyter-book/mystmd/issues/1964#issuecomment-2801721400) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#1966](https://github.com/jupyter-book/mystmd/pull/1966) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#24](https://github.com/jupyter-book/team-compass/issues/24#issuecomment-2801158992) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
 <!--END_SECTION:activity-->
