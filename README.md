@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/CryoInTheCloud/CryoCloudWebsite/pull/122) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
-2. 🔒 Closed issue [#5911](https://github.com/2i2c-org/infrastructure/issues/5911) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#575](https://github.com/jupyter-book/myst-theme/issues/575) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🎉 Merged PR [#576](https://github.com/jupyter-book/myst-theme/pull/576) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#576](https://github.com/jupyter-book/myst-theme/pull/576#issuecomment-2806449884) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#115](https://github.com/CryoInTheCloud/CryoCloudWebsite/pull/115#issuecomment-2810852673) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
+2. 💪 Opened PR [#122](https://github.com/CryoInTheCloud/CryoCloudWebsite/pull/122) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
+3. 🔒 Closed issue [#5911](https://github.com/2i2c-org/infrastructure/issues/5911) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#575](https://github.com/jupyter-book/myst-theme/issues/575) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#576](https://github.com/jupyter-book/myst-theme/pull/576) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
