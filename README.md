@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1967](https://github.com/jupyter-book/mystmd/issues/1967#issuecomment-2815181012) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1](https://github.com/tsnow03/co-creation-article/issues/1#issuecomment-2814747506) in [tsnow03/co-creation-article](https://github.com/tsnow03/co-creation-article)
-3. 🗣 Commented on [#115](https://github.com/CryoInTheCloud/CryoCloudWebsite/pull/115#issuecomment-2813762800) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
-4. 🎉 Merged PR [#1969](https://github.com/jupyter-book/mystmd/pull/1969) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#1969](https://github.com/jupyter-book/mystmd/pull/1969#issuecomment-2813760191) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#129](https://github.com/CryoInTheCloud/CryoCloudWebsite/issues/129#issuecomment-2818885231) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
+2. 🗣 Commented on [#1967](https://github.com/jupyter-book/mystmd/issues/1967#issuecomment-2815181012) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1](https://github.com/tsnow03/co-creation-article/issues/1#issuecomment-2814747506) in [tsnow03/co-creation-article](https://github.com/tsnow03/co-creation-article)
+4. 🗣 Commented on [#115](https://github.com/CryoInTheCloud/CryoCloudWebsite/pull/115#issuecomment-2813762800) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
+5. 🎉 Merged PR [#1969](https://github.com/jupyter-book/mystmd/pull/1969) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
