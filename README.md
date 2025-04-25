@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#617](https://github.com/executablebooks/sphinx-book-theme/issues/617) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-2. 🗣 Commented on [#9](https://github.com/cogneato/ha-decrypt-backup-tool/pull/9#issuecomment-2821979997) in [cogneato/ha-decrypt-backup-tool](https://github.com/cogneato/ha-decrypt-backup-tool)
-3. 🗣 Commented on [#1978](https://github.com/jupyter-book/mystmd/issues/1978#issuecomment-2821581598) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#576](https://github.com/dask-contrib/dask-awkward/issues/576#issuecomment-2819154479) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
-5. 🗣 Commented on [#129](https://github.com/CryoInTheCloud/CryoCloudWebsite/issues/129#issuecomment-2818885231) in [CryoInTheCloud/CryoCloudWebsite](https://github.com/CryoInTheCloud/CryoCloudWebsite)
+1. ❗ Opened issue [#1985](https://github.com/jupyter-book/mystmd/issues/1985) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#617](https://github.com/executablebooks/sphinx-book-theme/issues/617) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
+3. 🗣 Commented on [#9](https://github.com/cogneato/ha-decrypt-backup-tool/pull/9#issuecomment-2821979997) in [cogneato/ha-decrypt-backup-tool](https://github.com/cogneato/ha-decrypt-backup-tool)
+4. 🗣 Commented on [#1978](https://github.com/jupyter-book/mystmd/issues/1978#issuecomment-2821581598) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#576](https://github.com/dask-contrib/dask-awkward/issues/576#issuecomment-2819154479) in [dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward)
 <!--END_SECTION:activity-->
