@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1986](https://github.com/jupyter-book/mystmd/issues/1986#issuecomment-2834478780) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#1986](https://github.com/jupyter-book/mystmd/issues/1986) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. ❗ Opened issue [#1985](https://github.com/jupyter-book/mystmd/issues/1985) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🔒 Closed issue [#617](https://github.com/executablebooks/sphinx-book-theme/issues/617) in [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme)
-5. 🗣 Commented on [#9](https://github.com/cogneato/ha-decrypt-backup-tool/pull/9#issuecomment-2821979997) in [cogneato/ha-decrypt-backup-tool](https://github.com/cogneato/ha-decrypt-backup-tool)
+1. 🎉 Merged PR [#5897](https://github.com/2i2c-org/infrastructure/pull/5897) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#5897](https://github.com/2i2c-org/infrastructure/pull/5897#issuecomment-2835138397) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#1986](https://github.com/jupyter-book/mystmd/issues/1986#issuecomment-2834478780) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#1986](https://github.com/jupyter-book/mystmd/issues/1986) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#1985](https://github.com/jupyter-book/mystmd/issues/1985) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
