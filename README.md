@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3494](https://github.com/scikit-hep/awkward/issues/3494#issuecomment-2848489098) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#5893](https://github.com/2i2c-org/infrastructure/issues/5893#issuecomment-2836397087) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#5894](https://github.com/2i2c-org/infrastructure/issues/5894#issuecomment-2836394116) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#5894](https://github.com/2i2c-org/infrastructure/issues/5894) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#5979](https://github.com/2i2c-org/infrastructure/issues/5979) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#3494](https://github.com/scikit-hep/awkward/issues/3494#issuecomment-2849250102) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#3494](https://github.com/scikit-hep/awkward/issues/3494#issuecomment-2848489098) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#5893](https://github.com/2i2c-org/infrastructure/issues/5893#issuecomment-2836397087) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5894](https://github.com/2i2c-org/infrastructure/issues/5894#issuecomment-2836394116) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#5894](https://github.com/2i2c-org/infrastructure/issues/5894) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
