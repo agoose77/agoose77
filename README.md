@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/agoose77/nixos-config/issues/1) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
-2. ❗ Opened issue [#1](https://github.com/agoose77/nixos-config/issues/1) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
-3. 🗣 Commented on [#2031](https://github.com/jupyter-book/mystmd/issues/2031#issuecomment-2890628671) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#2034](https://github.com/jupyter-book/mystmd/pull/2034#issuecomment-2890458570) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#2034](https://github.com/jupyter-book/mystmd/pull/2034) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#408](https://github.com/2i2c-org/2i2c-org.github.io/pull/408#issuecomment-2890859935) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🗣 Commented on [#408](https://github.com/2i2c-org/2i2c-org.github.io/pull/408#issuecomment-2890852941) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🔒 Closed issue [#1](https://github.com/agoose77/nixos-config/issues/1) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+4. ❗ Opened issue [#1](https://github.com/agoose77/nixos-config/issues/1) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+5. 🗣 Commented on [#2031](https://github.com/jupyter-book/mystmd/issues/2031#issuecomment-2890628671) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
