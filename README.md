@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891643173) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891609016) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891605692) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#1](https://github.com/stefanv/landing-pages/pull/1#issuecomment-2891408361) in [stefanv/landing-pages](https://github.com/stefanv/landing-pages)
-5. 💪 Opened PR [#1](https://github.com/stefanv/landing-pages/pull/1) in [stefanv/landing-pages](https://github.com/stefanv/landing-pages)
+1. 🗣 Commented on [#2034](https://github.com/jupyter-book/mystmd/pull/2034#issuecomment-2891735753) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891643173) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891609016) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#565](https://github.com/jupyter-book/myst-theme/pull/565#issuecomment-2891605692) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#1](https://github.com/stefanv/landing-pages/pull/1#issuecomment-2891408361) in [stefanv/landing-pages](https://github.com/stefanv/landing-pages)
 <!--END_SECTION:activity-->
