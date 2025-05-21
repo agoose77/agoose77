@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6079](https://github.com/2i2c-org/infrastructure/issues/6079#issuecomment-2895386257) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#20](https://github.com/jupyter-book/team-compass/issues/20#issuecomment-2895054885) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-3. 🎉 Merged PR [#583](https://github.com/jupyter-book/myst-theme/pull/583) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#583](https://github.com/jupyter-book/myst-theme/pull/583#issuecomment-2894673676) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. ❗ Opened issue [#584](https://github.com/jupyter-book/myst-theme/issues/584) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
+2. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
+3. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
+4. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
+5. 🗣 Commented on [#6079](https://github.com/2i2c-org/infrastructure/issues/6079#issuecomment-2895386257) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
