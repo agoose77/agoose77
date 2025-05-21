@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#587](https://github.com/jupyter-book/myst-theme/pull/587) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#587](https://github.com/jupyter-book/myst-theme/pull/587#issuecomment-2898680965) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
-4. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
+1. 🎉 Merged PR [#588](https://github.com/jupyter-book/myst-theme/pull/588) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#588](https://github.com/jupyter-book/myst-theme/pull/588#issuecomment-2898710556) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🎉 Merged PR [#587](https://github.com/jupyter-book/myst-theme/pull/587) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#587](https://github.com/jupyter-book/myst-theme/pull/587#issuecomment-2898680965) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 5. 🚀 Published release [v1](https://github.com/jupyter-book/blog-plugin/releases/tag/v1) in [jupyter-book/blog-plugin](https://github.com/jupyter-book/blog-plugin)
 <!--END_SECTION:activity-->
