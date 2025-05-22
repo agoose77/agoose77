@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2046](https://github.com/the-turing-way/the-turing-way/issues/2046#issuecomment-2900333197) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-2. 🎉 Merged PR [#2038](https://github.com/jupyter-book/mystmd/pull/2038) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#256](https://github.com/2i2c-org/docs/pull/256#issuecomment-2898896801) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-4. 🎉 Merged PR [#588](https://github.com/jupyter-book/myst-theme/pull/588) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#588](https://github.com/jupyter-book/myst-theme/pull/588#issuecomment-2898710556) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#1920](https://github.com/jupyter-book/mystmd/issues/1920#issuecomment-2900584175) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#4224](https://github.com/the-turing-way/the-turing-way/pull/4224#issuecomment-2900538934) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🗣 Commented on [#2046](https://github.com/the-turing-way/the-turing-way/issues/2046#issuecomment-2900333197) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🎉 Merged PR [#2038](https://github.com/jupyter-book/mystmd/pull/2038) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#256](https://github.com/2i2c-org/docs/pull/256#issuecomment-2898896801) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
 <!--END_SECTION:activity-->
