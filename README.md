@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2051](https://github.com/jupyter-book/mystmd/issues/2051#issuecomment-2904783257) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#590](https://github.com/jupyter-book/myst-theme/pull/590) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ❌ Closed PR [#2059](https://github.com/jupyter-book/mystmd/pull/2059) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#2059](https://github.com/jupyter-book/mystmd/pull/2059) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❌ Closed PR [#2058](https://github.com/jupyter-book/mystmd/pull/2058) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2024](https://github.com/jupyter-book/mystmd/issues/2024#issuecomment-2904855703) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#2024](https://github.com/jupyter-book/mystmd/issues/2024) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#413](https://github.com/2i2c-org/2i2c-org.github.io/pull/413) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+4. 🎉 Merged PR [#18](https://github.com/jupyter-book/blog/pull/18) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+5. 💪 Opened PR [#18](https://github.com/jupyter-book/blog/pull/18) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
 <!--END_SECTION:activity-->
