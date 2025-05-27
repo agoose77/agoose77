@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3520](https://github.com/scikit-hep/awkward/issues/3520#issuecomment-2913098470) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#595](https://github.com/jupyter-book/myst-theme/pull/595) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#410](https://github.com/jupyter-book/myst-theme/pull/410#issuecomment-2912331139) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ❌ Closed PR [#410](https://github.com/jupyter-book/myst-theme/pull/410) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#409](https://github.com/jupyter-book/myst-theme/pull/409#issuecomment-2912330682) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#3520](https://github.com/scikit-hep/awkward/issues/3520#issuecomment-2913198631) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. 🗣 Commented on [#3520](https://github.com/scikit-hep/awkward/issues/3520#issuecomment-2913175262) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#3520](https://github.com/scikit-hep/awkward/issues/3520#issuecomment-2913098470) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#595](https://github.com/jupyter-book/myst-theme/pull/595) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#410](https://github.com/jupyter-book/myst-theme/pull/410#issuecomment-2912331139) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
