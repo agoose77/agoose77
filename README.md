@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#970](https://github.com/2i2c-org/team-compass/pull/970) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-2. 🎉 Merged PR [#971](https://github.com/2i2c-org/team-compass/pull/971) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-3. 💪 Opened PR [#971](https://github.com/2i2c-org/team-compass/pull/971) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-4. 🗣 Commented on [#30](https://github.com/2i2c-org/sphinx-2i2c-theme/pull/30#issuecomment-2917079105) in [2i2c-org/sphinx-2i2c-theme](https://github.com/2i2c-org/sphinx-2i2c-theme)
-5. 🗣 Commented on [#6135](https://github.com/2i2c-org/infrastructure/pull/6135#issuecomment-2917030218) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6141](https://github.com/2i2c-org/infrastructure/pull/6141) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#6140](https://github.com/2i2c-org/infrastructure/issues/6140) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#970](https://github.com/2i2c-org/team-compass/pull/970) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+4. 🎉 Merged PR [#971](https://github.com/2i2c-org/team-compass/pull/971) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+5. 💪 Opened PR [#971](https://github.com/2i2c-org/team-compass/pull/971) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
 <!--END_SECTION:activity-->
