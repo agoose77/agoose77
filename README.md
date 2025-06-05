@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/curvenote-themes/quantecon/issues/1#issuecomment-2943722909) in [curvenote-themes/quantecon](https://github.com/curvenote-themes/quantecon)
-2. 🎉 Merged PR [#2083](https://github.com/jupyter-book/mystmd/pull/2083) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2083](https://github.com/jupyter-book/mystmd/pull/2083#issuecomment-2943718210) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1](https://github.com/curvenote-themes/quantecon/issues/1#issuecomment-2943677560) in [curvenote-themes/quantecon](https://github.com/curvenote-themes/quantecon)
-5. 🗣 Commented on [#602](https://github.com/jupyter-book/myst-theme/pull/602#issuecomment-2943623742) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#2](https://github.com/agoose77/nixos-config/issues/2) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+2. 🗣 Commented on [#1](https://github.com/curvenote-themes/quantecon/issues/1#issuecomment-2943722909) in [curvenote-themes/quantecon](https://github.com/curvenote-themes/quantecon)
+3. 🎉 Merged PR [#2083](https://github.com/jupyter-book/mystmd/pull/2083) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2083](https://github.com/jupyter-book/mystmd/pull/2083#issuecomment-2943718210) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#1](https://github.com/curvenote-themes/quantecon/issues/1#issuecomment-2943677560) in [curvenote-themes/quantecon](https://github.com/curvenote-themes/quantecon)
 <!--END_SECTION:activity-->
