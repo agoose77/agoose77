@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414512](https://github.com/NixOS/nixpkgs/issues/414512#issuecomment-2949791150) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2949561058) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#414512](https://github.com/NixOS/nixpkgs/issues/414512) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#2085](https://github.com/jupyter-book/mystmd/issues/2085#issuecomment-2948540493) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#2](https://github.com/agoose77/nixos-config/issues/2) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+1. 🗣 Commented on [#2086](https://github.com/jupyter-book/mystmd/issues/2086#issuecomment-2949848344) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#414512](https://github.com/NixOS/nixpkgs/issues/414512#issuecomment-2949791150) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2949561058) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#414512](https://github.com/NixOS/nixpkgs/issues/414512) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#2085](https://github.com/jupyter-book/mystmd/issues/2085#issuecomment-2948540493) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
