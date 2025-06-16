@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2976077858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-2976077719) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#2103](https://github.com/jupyter-book/mystmd/issues/2103#issuecomment-2972836290) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#2101](https://github.com/jupyter-book/mystmd/issues/2101#issuecomment-2972759136) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#2101](https://github.com/jupyter-book/mystmd/issues/2101) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🔓 Reopened issue [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
+2. 🗣 Commented on [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1#issuecomment-2976120150) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
+3. 🔒 Closed issue [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
+4. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2976077858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-2976077719) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
