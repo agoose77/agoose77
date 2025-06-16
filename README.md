@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
-2. 🗣 Commented on [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1#issuecomment-2976120150) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
-3. 🔒 Closed issue [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
-4. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2976077858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-2976077719) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#2106](https://github.com/jupyter-book/mystmd/pull/2106#issuecomment-2976758083) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#2105](https://github.com/jupyter-book/mystmd/pull/2105) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#2105](https://github.com/jupyter-book/mystmd/pull/2105) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔓 Reopened issue [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
+5. 🗣 Commented on [#1](https://github.com/jupyter-book/book-theme-tailwind-quickstart/issues/1#issuecomment-2976120150) in [jupyter-book/book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart)
 <!--END_SECTION:activity-->
