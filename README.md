@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2114](https://github.com/jupyter-book/mystmd/issues/2114) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#522](https://github.com/ProjectPythia/pythia-foundations/issues/522#issuecomment-2985577663) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
-3. 🗣 Commented on [#2094](https://github.com/jupyter-book/mystmd/pull/2094#issuecomment-2981553430) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#6239](https://github.com/2i2c-org/infrastructure/pull/6239) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6239](https://github.com/2i2c-org/infrastructure/pull/6239) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#526](https://github.com/ProjectPythia/projectpythia.github.io/pull/526) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+2. 💪 Opened PR [#12](https://github.com/ProjectPythia/pythia-config/pull/12) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
+3. ❌ Closed PR [#525](https://github.com/ProjectPythia/projectpythia.github.io/pull/525) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+4. 💪 Opened PR [#525](https://github.com/ProjectPythia/projectpythia.github.io/pull/525) in [ProjectPythia/projectpythia.github.io](https://github.com/ProjectPythia/projectpythia.github.io)
+5. ❗ Opened issue [#2114](https://github.com/jupyter-book/mystmd/issues/2114) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
