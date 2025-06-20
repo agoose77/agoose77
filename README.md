@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2117](https://github.com/jupyter-book/mystmd/issues/2117) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#613](https://github.com/jupyter-book/myst-theme/pull/613#issuecomment-2991816608) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🔒 Closed issue [#600](https://github.com/jupyter-book/myst-theme/issues/600) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🔒 Closed issue [#598](https://github.com/jupyter-book/myst-theme/issues/598) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🔒 Closed issue [#566](https://github.com/jupyter-book/myst-theme/issues/566) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🔒 Closed issue [#20](https://github.com/jupyter-book/team-compass/issues/20) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+2. 🎉 Merged PR [#41](https://github.com/jupyter-book/team-compass/pull/41) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+3. 🗣 Commented on [#41](https://github.com/jupyter-book/team-compass/pull/41#issuecomment-2991856729) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+4. ❗ Opened issue [#2117](https://github.com/jupyter-book/mystmd/issues/2117) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#613](https://github.com/jupyter-book/myst-theme/pull/613#issuecomment-2991816608) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
