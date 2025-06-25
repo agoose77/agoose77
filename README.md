@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-3001942366) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6252](https://github.com/2i2c-org/infrastructure/issues/6252#issuecomment-3001886853) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6167](https://github.com/2i2c-org/infrastructure/issues/6167#issuecomment-3001852019) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#20](https://github.com/jupyter-book/team-compass/issues/20) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-5. 🎉 Merged PR [#41](https://github.com/jupyter-book/team-compass/pull/41) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+1. 🗣 Commented on [#6157](https://github.com/2i2c-org/infrastructure/issues/6157#issuecomment-3003818585) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-3001942366) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#6252](https://github.com/2i2c-org/infrastructure/issues/6252#issuecomment-3001886853) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6167](https://github.com/2i2c-org/infrastructure/issues/6167#issuecomment-3001852019) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#20](https://github.com/jupyter-book/team-compass/issues/20) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
 <!--END_SECTION:activity-->
