@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6148](https://github.com/2i2c-org/infrastructure/issues/6148#issuecomment-3008813180) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3008487112) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-3008456174) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#6151](https://github.com/2i2c-org/infrastructure/issues/6151) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6157](https://github.com/2i2c-org/infrastructure/issues/6157#issuecomment-3003818585) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#2131](https://github.com/jupyter-book/mystmd/issues/2131#issuecomment-3012216898) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#6148](https://github.com/2i2c-org/infrastructure/issues/6148#issuecomment-3008813180) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3008487112) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-3008456174) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#6151](https://github.com/2i2c-org/infrastructure/issues/6151) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
