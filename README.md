@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3020556567) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6292](https://github.com/2i2c-org/infrastructure/issues/6292#issuecomment-3020223524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#6292](https://github.com/2i2c-org/infrastructure/issues/6292) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#6302](https://github.com/2i2c-org/infrastructure/pull/6302) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6302](https://github.com/2i2c-org/infrastructure/pull/6302) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537825) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+2. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537532) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+3. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3020556567) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6292](https://github.com/2i2c-org/infrastructure/issues/6292#issuecomment-3020223524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#6292](https://github.com/2i2c-org/infrastructure/issues/6292) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
