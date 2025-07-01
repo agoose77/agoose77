@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/agoose77/packaging-pyopp-2025/issues/1) in [agoose77/packaging-pyopp-2025](https://github.com/agoose77/packaging-pyopp-2025)
-2. 🗣 Commented on [#2138](https://github.com/jupyter-book/mystmd/pull/2138#issuecomment-3022641524) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537825) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-4. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537532) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-5. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3020556567) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#2](https://github.com/agoose77/packaging-pyopp-2025/issues/2) in [agoose77/packaging-pyopp-2025](https://github.com/agoose77/packaging-pyopp-2025)
+2. ❗ Opened issue [#1](https://github.com/agoose77/packaging-pyopp-2025/issues/1) in [agoose77/packaging-pyopp-2025](https://github.com/agoose77/packaging-pyopp-2025)
+3. 🗣 Commented on [#2138](https://github.com/jupyter-book/mystmd/pull/2138#issuecomment-3022641524) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537825) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+5. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537532) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
