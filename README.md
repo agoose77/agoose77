@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/agoose77/packaging-pyopp-2025/issues/2) in [agoose77/packaging-pyopp-2025](https://github.com/agoose77/packaging-pyopp-2025)
-2. ❗ Opened issue [#1](https://github.com/agoose77/packaging-pyopp-2025/issues/1) in [agoose77/packaging-pyopp-2025](https://github.com/agoose77/packaging-pyopp-2025)
-3. 🗣 Commented on [#2138](https://github.com/jupyter-book/mystmd/pull/2138#issuecomment-3022641524) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537825) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-5. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3022537532) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+1. 🎉 Merged PR [#2368](https://github.com/jupyter-book/jupyter-book/pull/2368) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 💪 Opened PR [#2368](https://github.com/jupyter-book/jupyter-book/pull/2368) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 🎉 Merged PR [#433](https://github.com/2i2c-org/2i2c-org.github.io/pull/433) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+4. 🗣 Commented on [#991](https://github.com/2i2c-org/team-compass/pull/991#issuecomment-3023392994) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+5. 💪 Opened PR [#433](https://github.com/2i2c-org/2i2c-org.github.io/pull/433) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
