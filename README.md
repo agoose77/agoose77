@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6300](https://github.com/2i2c-org/infrastructure/pull/6300) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6292](https://github.com/2i2c-org/infrastructure/issues/6292#issuecomment-3020114764) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#6300](https://github.com/2i2c-org/infrastructure/pull/6300) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#6299](https://github.com/2i2c-org/infrastructure/pull/6299) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6299](https://github.com/2i2c-org/infrastructure/pull/6299) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6292](https://github.com/2i2c-org/infrastructure/issues/6292#issuecomment-3020223524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#6292](https://github.com/2i2c-org/infrastructure/issues/6292) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#6302](https://github.com/2i2c-org/infrastructure/pull/6302) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#6302](https://github.com/2i2c-org/infrastructure/pull/6302) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#6300](https://github.com/2i2c-org/infrastructure/pull/6300) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
