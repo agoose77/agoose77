@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2142](https://github.com/jupyter-book/mystmd/issues/2142) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#212](https://github.com/jupyter-book/mystmd/issues/212) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#439](https://github.com/jupyter-book/mystmd/issues/439#issuecomment-3023691663) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🔒 Closed issue [#439](https://github.com/jupyter-book/mystmd/issues/439) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#2368](https://github.com/jupyter-book/jupyter-book/pull/2368) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🎉 Merged PR [#3](https://github.com/jupyter-book/example-landing-pages/pull/3) in [jupyter-book/example-landing-pages](https://github.com/jupyter-book/example-landing-pages)
+2. 🗣 Commented on [#3](https://github.com/jupyter-book/example-landing-pages/pull/3#issuecomment-3024042440) in [jupyter-book/example-landing-pages](https://github.com/jupyter-book/example-landing-pages)
+3. ❗ Opened issue [#2142](https://github.com/jupyter-book/mystmd/issues/2142) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#212](https://github.com/jupyter-book/mystmd/issues/212) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#439](https://github.com/jupyter-book/mystmd/issues/439#issuecomment-3023691663) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
