@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2146](https://github.com/jupyter-book/mystmd/pull/2146) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#2146](https://github.com/jupyter-book/mystmd/pull/2146) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2138](https://github.com/jupyter-book/mystmd/pull/2138#issuecomment-3025476739) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#2144](https://github.com/jupyter-book/mystmd/pull/2144) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#3](https://github.com/jupyter-book/example-landing-pages/pull/3) in [jupyter-book/example-landing-pages](https://github.com/jupyter-book/example-landing-pages)
+1. 🎉 Merged PR [#439](https://github.com/2i2c-org/2i2c-org.github.io/pull/439) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 💪 Opened PR [#439](https://github.com/2i2c-org/2i2c-org.github.io/pull/439) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 💪 Opened PR [#4285](https://github.com/the-turing-way/the-turing-way/pull/4285) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🎉 Merged PR [#2146](https://github.com/jupyter-book/mystmd/pull/2146) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#2146](https://github.com/jupyter-book/mystmd/pull/2146) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
