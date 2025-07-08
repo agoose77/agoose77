@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2378](https://github.com/jupyter-book/jupyter-book/pull/2378) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 💪 Opened PR [#2378](https://github.com/jupyter-book/jupyter-book/pull/2378) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#6149](https://github.com/2i2c-org/infrastructure/issues/6149#issuecomment-3046280349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#6149](https://github.com/2i2c-org/infrastructure/issues/6149) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#2374](https://github.com/jupyter-book/jupyter-book/pull/2374) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🎉 Merged PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+2. 💪 Opened PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+3. 🎉 Merged PR [#2380](https://github.com/jupyter-book/jupyter-book/pull/2380) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2380](https://github.com/jupyter-book/jupyter-book/pull/2380) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🎉 Merged PR [#2379](https://github.com/jupyter-book/jupyter-book/pull/2379) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
