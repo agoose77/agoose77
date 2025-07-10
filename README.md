@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/jupyter-book/team-compass/pull/44) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-2. 💪 Opened PR [#44](https://github.com/jupyter-book/team-compass/pull/44) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-3. 🎉 Merged PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-4. 💪 Opened PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 🎉 Merged PR [#2380](https://github.com/jupyter-book/jupyter-book/pull/2380) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#2381](https://github.com/jupyter-book/jupyter-book/pull/2381#issuecomment-3053294805) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 🎉 Merged PR [#44](https://github.com/jupyter-book/team-compass/pull/44) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+3. 💪 Opened PR [#44](https://github.com/jupyter-book/team-compass/pull/44) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+4. 🎉 Merged PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
+5. 💪 Opened PR [#20](https://github.com/jupyter-book/blog/pull/20) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
 <!--END_SECTION:activity-->
