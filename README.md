@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#784](https://github.com/2i2c-org/team-compass/issues/784#issuecomment-3108800174) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-2. 🔒 Closed issue [#784](https://github.com/2i2c-org/team-compass/issues/784) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-3. 💪 Opened PR [#5109](https://github.com/jupyterhub/jupyterhub/pull/5109) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-4. 🎉 Merged PR [#6432](https://github.com/2i2c-org/infrastructure/pull/6432) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6432](https://github.com/2i2c-org/infrastructure/pull/6432) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#5109](https://github.com/jupyterhub/jupyterhub/pull/5109#issuecomment-3109251289) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+2. 🗣 Commented on [#784](https://github.com/2i2c-org/team-compass/issues/784#issuecomment-3108800174) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+3. 🔒 Closed issue [#784](https://github.com/2i2c-org/team-compass/issues/784) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+4. 💪 Opened PR [#5109](https://github.com/jupyterhub/jupyterhub/pull/5109) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+5. 🎉 Merged PR [#6432](https://github.com/2i2c-org/infrastructure/pull/6432) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
