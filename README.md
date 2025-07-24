@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/agoose77/hatch-nodejs-version/pull/26#issuecomment-3112689915) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-2. 🎉 Merged PR [#30](https://github.com/agoose77/hatch-nodejs-version/pull/30) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-3. 💪 Opened PR [#30](https://github.com/agoose77/hatch-nodejs-version/pull/30) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-4. 🎉 Merged PR [#29](https://github.com/agoose77/hatch-nodejs-version/pull/29) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 💪 Opened PR [#29](https://github.com/agoose77/hatch-nodejs-version/pull/29) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+1. 🎉 Merged PR [#31](https://github.com/agoose77/hatch-nodejs-version/pull/31) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+2. 💪 Opened PR [#31](https://github.com/agoose77/hatch-nodejs-version/pull/31) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+3. 🎉 Merged PR [#26](https://github.com/agoose77/hatch-nodejs-version/pull/26) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+4. 🗣 Commented on [#26](https://github.com/agoose77/hatch-nodejs-version/pull/26#issuecomment-3112689915) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+5. 🎉 Merged PR [#30](https://github.com/agoose77/hatch-nodejs-version/pull/30) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
 <!--END_SECTION:activity-->
