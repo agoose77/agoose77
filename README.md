@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6447](https://github.com/2i2c-org/infrastructure/pull/6447) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#6445](https://github.com/2i2c-org/infrastructure/pull/6445) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#6445](https://github.com/2i2c-org/infrastructure/pull/6445) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#31](https://github.com/agoose77/hatch-nodejs-version/pull/31) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
-5. 💪 Opened PR [#31](https://github.com/agoose77/hatch-nodejs-version/pull/31) in [agoose77/hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version)
+1. 🔒 Closed issue [#6372](https://github.com/2i2c-org/infrastructure/issues/6372) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#6448](https://github.com/2i2c-org/infrastructure/pull/6448) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#6448](https://github.com/2i2c-org/infrastructure/pull/6448) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#6447](https://github.com/2i2c-org/infrastructure/pull/6447) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#6447](https://github.com/2i2c-org/infrastructure/pull/6447) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
