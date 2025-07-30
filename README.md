@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1903](https://github.com/jupyter-book/mystmd/pull/1903#issuecomment-3135535756) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❌ Reopened PR [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
-3. 🗣 Commented on [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27#issuecomment-3135464345) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
-4. ❌ Closed PR [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
-5. 🔒 Closed issue [#6375](https://github.com/2i2c-org/infrastructure/issues/6375) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#571](https://github.com/jupyter-book/myst-theme/pull/571#issuecomment-3135553650) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#1903](https://github.com/jupyter-book/mystmd/pull/1903#issuecomment-3135535756) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❌ Reopened PR [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+4. 🗣 Commented on [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27#issuecomment-3135464345) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+5. ❌ Closed PR [#27](https://github.com/2i2c-org/utoronto-r-image/pull/27) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
 <!--END_SECTION:activity-->
