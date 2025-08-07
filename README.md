@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3163379088) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
-2. 🗣 Commented on [#6529](https://github.com/2i2c-org/infrastructure/pull/6529#issuecomment-3163373304) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#3721](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3721#issuecomment-3161383439) in [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
-4. ❗ Opened issue [#6522](https://github.com/2i2c-org/infrastructure/issues/6522) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#6521](https://github.com/2i2c-org/infrastructure/pull/6521) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3163483600) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
+2. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3163476209) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
+3. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3163379088) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
+4. 🗣 Commented on [#6529](https://github.com/2i2c-org/infrastructure/pull/6529#issuecomment-3163373304) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#3721](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3721#issuecomment-3161383439) in [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 <!--END_SECTION:activity-->
