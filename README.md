@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6542](https://github.com/2i2c-org/infrastructure/pull/6542) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#6543](https://github.com/2i2c-org/infrastructure/pull/6543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#6543](https://github.com/2i2c-org/infrastructure/pull/6543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#6541](https://github.com/2i2c-org/infrastructure/pull/6541#issuecomment-3168284915) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❌ Closed PR [#6541](https://github.com/2i2c-org/infrastructure/pull/6541) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#11](https://github.com/sergei-mironov/litrepl/issues/11) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+2. ❗ Opened issue [#10](https://github.com/sergei-mironov/litrepl/issues/10) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+3. ❗ Opened issue [#9](https://github.com/sergei-mironov/litrepl/issues/9) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+4. 🎉 Merged PR [#6542](https://github.com/2i2c-org/infrastructure/pull/6542) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#6543](https://github.com/2i2c-org/infrastructure/pull/6543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
