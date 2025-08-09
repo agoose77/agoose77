@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/sergei-mironov/litrepl/issues/15) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-2. ❗ Opened issue [#14](https://github.com/sergei-mironov/litrepl/issues/14) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-3. ❗ Opened issue [#13](https://github.com/sergei-mironov/litrepl/issues/13) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-4. ❗ Opened issue [#12](https://github.com/sergei-mironov/litrepl/issues/12) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-5. ❗ Opened issue [#11](https://github.com/sergei-mironov/litrepl/issues/11) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+1. ❗ Opened issue [#19](https://github.com/sergei-mironov/litrepl/issues/19) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+2. ❗ Opened issue [#18](https://github.com/sergei-mironov/litrepl/issues/18) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+3. ❗ Opened issue [#17](https://github.com/sergei-mironov/litrepl/issues/17) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+4. ❗ Opened issue [#16](https://github.com/sergei-mironov/litrepl/issues/16) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+5. ❗ Opened issue [#15](https://github.com/sergei-mironov/litrepl/issues/15) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
 <!--END_SECTION:activity-->
