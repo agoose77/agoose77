@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2238](https://github.com/jupyter-book/mystmd/pull/2238#issuecomment-3172038625) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3172031205) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
-3. 🔒 Closed issue [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
-4. ❗ Opened issue [#19](https://github.com/sergei-mironov/litrepl/issues/19) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-5. ❗ Opened issue [#18](https://github.com/sergei-mironov/litrepl/issues/18) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+1. 🗣 Commented on [#2239](https://github.com/jupyter-book/mystmd/issues/2239#issuecomment-3174021807) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#2238](https://github.com/jupyter-book/mystmd/pull/2238#issuecomment-3172038625) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255#issuecomment-3172031205) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
+4. 🔒 Closed issue [#255](https://github.com/jupyterlab/frontends-team-compass/issues/255) in [jupyterlab/frontends-team-compass](https://github.com/jupyterlab/frontends-team-compass)
+5. ❗ Opened issue [#19](https://github.com/sergei-mironov/litrepl/issues/19) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
 <!--END_SECTION:activity-->
