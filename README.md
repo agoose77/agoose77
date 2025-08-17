@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
+1. ❗ Opened issue [#47](https://github.com/agoose77/literary/issues/47) in [agoose77/literary](https://github.com/agoose77/literary)
 2. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🎉 Merged PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 💪 Opened PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
-5. 🗣 Commented on [#3621](https://github.com/scikit-hep/awkward/pull/3621#issuecomment-3191911393) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
