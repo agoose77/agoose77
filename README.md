@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🎉 Merged PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 💪 Opened PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 🗣 Commented on [#3621](https://github.com/scikit-hep/awkward/pull/3621#issuecomment-3191911393) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗ Opened issue [#6571](https://github.com/2i2c-org/infrastructure/issues/6571) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 🎉 Merged PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 💪 Opened PR [#46](https://github.com/agoose77/literary/pull/46) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 🗣 Commented on [#3621](https://github.com/scikit-hep/awkward/pull/3621#issuecomment-3191911393) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
