@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6522](https://github.com/2i2c-org/infrastructure/issues/6522#issuecomment-3196154041) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#47](https://github.com/agoose77/literary/issues/47) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
+1. 🗣 Commented on [#6526](https://github.com/2i2c-org/infrastructure/issues/6526#issuecomment-3196199880) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6522](https://github.com/2i2c-org/infrastructure/issues/6522#issuecomment-3196154041) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#47](https://github.com/agoose77/literary/issues/47) in [agoose77/literary](https://github.com/agoose77/literary)
 4. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
 5. 🚀 Published release [v4.0.2](https://github.com/agoose77/literary/releases/tag/v4.0.2) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
