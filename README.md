@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.1.2](https://github.com/agoose77/literary/releases/tag/v4.1.2) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 🎉 Merged PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
-3. 💪 Opened PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
-4. 💪 Opened PR [#6579](https://github.com/2i2c-org/infrastructure/pull/6579) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6522](https://github.com/2i2c-org/infrastructure/issues/6522#issuecomment-3197856940) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#3690](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3690#issuecomment-3200822643) in [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+2. 🗣 Commented on [#3625](https://github.com/scikit-hep/awkward/pull/3625#issuecomment-3200806868) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🚀 Published release [v4.1.2](https://github.com/agoose77/literary/releases/tag/v4.1.2) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 🎉 Merged PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
+5. 💪 Opened PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
 <!--END_SECTION:activity-->
