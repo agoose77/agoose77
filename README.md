@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/agoose77/github-action-playground/pull/2) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
-2. 🗣 Commented on [#2234](https://github.com/jupyter-book/mystmd/issues/2234#issuecomment-3196354182) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#1](https://github.com/agoose77/circle-ci-playground/pull/1) in [agoose77/circle-ci-playground](https://github.com/agoose77/circle-ci-playground)
-4. 💪 Opened PR [#1](https://github.com/agoose77/github-action-playground/pull/1) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
-5. 🗣 Commented on [#2236](https://github.com/jupyter-book/mystmd/issues/2236#issuecomment-3196269781) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#6575](https://github.com/2i2c-org/infrastructure/pull/6575) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#6575](https://github.com/2i2c-org/infrastructure/pull/6575) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#2](https://github.com/agoose77/github-action-playground/pull/2) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
+4. 🗣 Commented on [#2234](https://github.com/jupyter-book/mystmd/issues/2234#issuecomment-3196354182) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#1](https://github.com/agoose77/circle-ci-playground/pull/1) in [agoose77/circle-ci-playground](https://github.com/agoose77/circle-ci-playground)
 <!--END_SECTION:activity-->
