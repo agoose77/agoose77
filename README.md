@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
-2. 💪 Opened PR [#6579](https://github.com/2i2c-org/infrastructure/pull/6579) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6522](https://github.com/2i2c-org/infrastructure/issues/6522#issuecomment-3197856940) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#6578](https://github.com/2i2c-org/infrastructure/pull/6578) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6578](https://github.com/2i2c-org/infrastructure/pull/6578) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🚀 Published release [v4.1.2](https://github.com/agoose77/literary/releases/tag/v4.1.2) in [agoose77/literary](https://github.com/agoose77/literary)
+2. 🎉 Merged PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
+3. 💪 Opened PR [#48](https://github.com/agoose77/literary/pull/48) in [agoose77/literary](https://github.com/agoose77/literary)
+4. 💪 Opened PR [#6579](https://github.com/2i2c-org/infrastructure/pull/6579) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#6522](https://github.com/2i2c-org/infrastructure/issues/6522#issuecomment-3197856940) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
