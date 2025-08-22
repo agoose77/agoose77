@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213695144) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213680037) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213659882) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🎉 Merged PR [#6610](https://github.com/2i2c-org/infrastructure/pull/6610) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6610](https://github.com/2i2c-org/infrastructure/pull/6610) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6621](https://github.com/2i2c-org/infrastructure/issues/6621#issuecomment-3213871082) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213695144) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+3. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213680037) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🗣 Commented on [#3629](https://github.com/scikit-hep/awkward/pull/3629#issuecomment-3213659882) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 🎉 Merged PR [#6610](https://github.com/2i2c-org/infrastructure/pull/6610) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
