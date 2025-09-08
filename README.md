@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.6](https://github.com/agoose77/throttlestop/releases/tag/v0.0.6) in [agoose77/throttlestop](https://github.com/agoose77/throttlestop)
-2. 🎉 Merged PR [#6724](https://github.com/2i2c-org/infrastructure/pull/6724) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#6724](https://github.com/2i2c-org/infrastructure/pull/6724) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#49](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/49#issuecomment-3259382436) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-5. 💪 Opened PR [#49](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/49) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+1. ❗ Opened issue [#6735](https://github.com/2i2c-org/infrastructure/issues/6735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6585](https://github.com/2i2c-org/infrastructure/issues/6585#issuecomment-3267046340) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#6585](https://github.com/2i2c-org/infrastructure/issues/6585) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#6732](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#6731](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
