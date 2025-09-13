@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6604](https://github.com/2i2c-org/infrastructure/issues/6604#issuecomment-3285378306) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6645](https://github.com/2i2c-org/infrastructure/issues/6645#issuecomment-3285376223) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#6753](https://github.com/2i2c-org/infrastructure/issues/6753) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#6645](https://github.com/2i2c-org/infrastructure/issues/6645#issuecomment-3285308869) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#6751](https://github.com/2i2c-org/infrastructure/pull/6751) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#28](https://github.com/2i2c-org/utoronto-r-image/pull/28) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+2. 💪 Opened PR [#28](https://github.com/2i2c-org/utoronto-r-image/pull/28) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+3. 🗣 Commented on [#6604](https://github.com/2i2c-org/infrastructure/issues/6604#issuecomment-3285378306) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6645](https://github.com/2i2c-org/infrastructure/issues/6645#issuecomment-3285376223) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#6753](https://github.com/2i2c-org/infrastructure/issues/6753) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
