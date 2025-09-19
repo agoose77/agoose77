@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6797](https://github.com/2i2c-org/infrastructure/pull/6797) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6604](https://github.com/2i2c-org/infrastructure/issues/6604#issuecomment-3304531813) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#6772](https://github.com/2i2c-org/infrastructure/pull/6772) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6759](https://github.com/2i2c-org/infrastructure/pull/6759#issuecomment-3299738860) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6604](https://github.com/2i2c-org/infrastructure/issues/6604#issuecomment-3312245408) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#597](https://github.com/jupyterhub/configurable-http-proxy/pull/597) in [jupyterhub/configurable-http-proxy](https://github.com/jupyterhub/configurable-http-proxy)
+3. 💪 Opened PR [#6797](https://github.com/2i2c-org/infrastructure/pull/6797) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#6604](https://github.com/2i2c-org/infrastructure/issues/6604#issuecomment-3304531813) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
