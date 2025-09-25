@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/2i2c-org/jupyterhub-fancy-profiles/issues/114#issuecomment-3329859500) in [2i2c-org/jupyterhub-fancy-profiles](https://github.com/2i2c-org/jupyterhub-fancy-profiles)
-2. 🎉 Merged PR [#53](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/53) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-3. 💪 Opened PR [#53](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/53) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-4. 🎉 Merged PR [#6816](https://github.com/2i2c-org/infrastructure/pull/6816) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6816](https://github.com/2i2c-org/infrastructure/pull/6816) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-3330289795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#114](https://github.com/2i2c-org/jupyterhub-fancy-profiles/issues/114#issuecomment-3329859500) in [2i2c-org/jupyterhub-fancy-profiles](https://github.com/2i2c-org/jupyterhub-fancy-profiles)
+3. 🎉 Merged PR [#53](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/53) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+4. 💪 Opened PR [#53](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/53) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+5. 🎉 Merged PR [#6816](https://github.com/2i2c-org/infrastructure/pull/6816) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
