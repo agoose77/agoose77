@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6809](https://github.com/2i2c-org/infrastructure/issues/6809#issuecomment-3334850926) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#6822](https://github.com/2i2c-org/infrastructure/issues/6822) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#6822](https://github.com/2i2c-org/infrastructure/issues/6822) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🚀 Published release [1.1.0](https://github.com/2i2c-org/jupyterhub-home-nfs/releases/tag/1.1.0) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-5. 🎉 Merged PR [#54](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/54) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+1. 💪 Opened PR [#6825](https://github.com/2i2c-org/infrastructure/pull/6825) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6809](https://github.com/2i2c-org/infrastructure/issues/6809#issuecomment-3334850926) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#6822](https://github.com/2i2c-org/infrastructure/issues/6822) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#6822](https://github.com/2i2c-org/infrastructure/issues/6822) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🚀 Published release [1.1.0](https://github.com/2i2c-org/jupyterhub-home-nfs/releases/tag/1.1.0) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
 <!--END_SECTION:activity-->
