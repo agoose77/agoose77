@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6735](https://github.com/2i2c-org/infrastructure/issues/6735#issuecomment-3352464705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6617](https://github.com/2i2c-org/infrastructure/issues/6617#issuecomment-3352433717) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6740](https://github.com/2i2c-org/infrastructure/issues/6740#issuecomment-3347835681) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❌ Closed PR [#20](https://github.com/2i2c-org/utoronto-r-image/pull/20) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
-5. 🗣 Commented on [#5146](https://github.com/jupyterhub/jupyterhub/pull/5146#issuecomment-3347632861) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+1. 🗣 Commented on [#6273](https://github.com/2i2c-org/infrastructure/issues/6273#issuecomment-3352560989) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6841](https://github.com/2i2c-org/infrastructure/issues/6841#issuecomment-3352550902) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#6841](https://github.com/2i2c-org/infrastructure/issues/6841) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6835](https://github.com/2i2c-org/infrastructure/issues/6835#issuecomment-3352547346) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#6735](https://github.com/2i2c-org/infrastructure/issues/6735#issuecomment-3352464705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
