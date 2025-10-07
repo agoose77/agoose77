@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5146](https://github.com/jupyterhub/jupyterhub/pull/5146#issuecomment-3365480089) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-2. 🗣 Commented on [#5020](https://github.com/jupyterhub/jupyterhub/pull/5020#issuecomment-3364767768) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-3. 🎉 Merged PR [#6883](https://github.com/2i2c-org/infrastructure/pull/6883) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#6883](https://github.com/2i2c-org/infrastructure/pull/6883) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6871](https://github.com/2i2c-org/infrastructure/pull/6871#issuecomment-3363531065) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#6895](https://github.com/2i2c-org/infrastructure/pull/6895) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#5146](https://github.com/jupyterhub/jupyterhub/pull/5146#issuecomment-3365480089) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. 🗣 Commented on [#5020](https://github.com/jupyterhub/jupyterhub/pull/5020#issuecomment-3364767768) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+4. 🎉 Merged PR [#6883](https://github.com/2i2c-org/infrastructure/pull/6883) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#6883](https://github.com/2i2c-org/infrastructure/pull/6883) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
