@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3381183780) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3381180109) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🎉 Merged PR [#6899](https://github.com/2i2c-org/infrastructure/pull/6899) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3380876993) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2322](https://github.com/jupyter-book/mystmd/issues/2322#issuecomment-3380856902) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3381274640) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#508](https://github.com/2i2c-org/2i2c-org.github.io/pull/508#issuecomment-3381271647) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3381183780) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2321](https://github.com/jupyter-book/mystmd/issues/2321#issuecomment-3381180109) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🎉 Merged PR [#6899](https://github.com/2i2c-org/infrastructure/pull/6899) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
