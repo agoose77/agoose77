@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6617](https://github.com/2i2c-org/infrastructure/issues/6617#issuecomment-3405835215) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#17](undefined) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-3. 🗣 Commented on [#6913](https://github.com/2i2c-org/infrastructure/pull/6913#issuecomment-3402396886) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4.  Labeled issue [#6923](https://github.com/2i2c-org/infrastructure/issues/6923) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#6923](https://github.com/2i2c-org/infrastructure/issues/6923) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#6617](https://github.com/2i2c-org/infrastructure/issues/6617) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6617](https://github.com/2i2c-org/infrastructure/issues/6617#issuecomment-3405835215) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#17](undefined) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+4. 🗣 Commented on [#6913](https://github.com/2i2c-org/infrastructure/pull/6913#issuecomment-3402396886) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5.  Labeled issue [#6923](https://github.com/2i2c-org/infrastructure/issues/6923) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
