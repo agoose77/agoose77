@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64](https://github.com/2i2c-org/jupyterhub-home-nfs/issues/64) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-2. 💪 Opened PR [#16](undefined) in [2i2c-org/incident-reports](https://github.com/2i2c-org/incident-reports)
-3. ❗ Opened issue [#63](https://github.com/2i2c-org/jupyterhub-home-nfs/issues/63) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-4. 💪 Opened PR [#6957](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#6956](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6958](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#64](https://github.com/2i2c-org/jupyterhub-home-nfs/issues/64) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+3. 💪 Opened PR [#16](undefined) in [2i2c-org/incident-reports](https://github.com/2i2c-org/incident-reports)
+4. ❗ Opened issue [#63](https://github.com/2i2c-org/jupyterhub-home-nfs/issues/63) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+5. 💪 Opened PR [#6957](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
