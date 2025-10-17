@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-2. 🗣 Commented on [#68](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/68#issuecomment-3415922201) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-3. 💪 Opened PR [#68](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-4. ❌ Assigned PR [#67](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-5. 💪 Opened PR [#6973](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6974](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#69](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/69#issuecomment-3415968318) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+3. 💪 Opened PR [#69](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+4. ❌ Closed PR [#68](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+5. 🗣 Commented on [#68](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/68#issuecomment-3415922201) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
 <!--END_SECTION:activity-->
