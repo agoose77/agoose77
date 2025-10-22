@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433221812) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433210406) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#69](https://github.com/unifiedjs/unified-language-server/issues/69#issuecomment-3433187108) in [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server)
-4. 💪 Opened PR [#7003](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#7000](https://github.com/2i2c-org/infrastructure/issues/7000) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433441270) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433221812) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433210406) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#69](https://github.com/unifiedjs/unified-language-server/issues/69#issuecomment-3433187108) in [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server)
+5. 💪 Opened PR [#7003](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
