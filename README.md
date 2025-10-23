@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
-2. ❗ Opened issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
-3. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433912878) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433441270) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433221812) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#7008](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2.  Labeled issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
+3. ❗ Opened issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
+4. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433912878) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7003](https://github.com/2i2c-org/infrastructure/pull/7003#issuecomment-3433441270) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
