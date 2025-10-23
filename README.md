@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7009](https://github.com/2i2c-org/infrastructure/issues/7009#issuecomment-3437128319) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#7010](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7008](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4.  Labeled issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
-5. ❗ Opened issue [#8550](https://github.com/eksctl-io/eksctl/issues/8550) in [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl)
+1. 💪 Opened PR [#7011](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#6930](https://github.com/2i2c-org/infrastructure/issues/6930) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7009](https://github.com/2i2c-org/infrastructure/issues/7009#issuecomment-3437128319) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#7010](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7008](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
