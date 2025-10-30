@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 🗣 Commented on [#2346](https://github.com/jupyter-book/mystmd/pull/2346#issuecomment-3466956917) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#6923](https://github.com/2i2c-org/infrastructure/issues/6923#issuecomment-3464572870) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#162](https://github.com/2i2c-org/binderhub-service/pull/162#issuecomment-3464480217) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-5. 💪 Opened PR [#162](undefined) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
+1. 🗣 Commented on [#654](https://github.com/jupyter-book/myst-theme/pull/654#issuecomment-3468088649) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#656](https://github.com/jupyter-book/myst-theme/pull/656#issuecomment-3468078880) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#8](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 🗣 Commented on [#2346](https://github.com/jupyter-book/mystmd/pull/2346#issuecomment-3466956917) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#6923](https://github.com/2i2c-org/infrastructure/issues/6923#issuecomment-3464572870) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
