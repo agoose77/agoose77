@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6933](https://github.com/2i2c-org/infrastructure/issues/6933#issuecomment-3469077689) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#6993](https://github.com/2i2c-org/infrastructure/issues/6993) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7056](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❌ Unlabeled PR [#6774](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#6128](https://github.com/2i2c-org/infrastructure/pull/6128#issuecomment-3468762120) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#3](undefined) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
+2. 🗣 Commented on [#6933](https://github.com/2i2c-org/infrastructure/issues/6933#issuecomment-3469077689) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#6993](https://github.com/2i2c-org/infrastructure/issues/6993) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#7056](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❌ Unlabeled PR [#6774](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
