@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way/pull/3#issuecomment-3472269712) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
-2. 🗣 Commented on [#3](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way/pull/3#issuecomment-3472266741) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
-3. 💪 Opened PR [#7057](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#3](undefined) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
-5. 🗣 Commented on [#6933](https://github.com/2i2c-org/infrastructure/issues/6933#issuecomment-3469077689) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#2382](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#3](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way/pull/3#issuecomment-3472269712) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
+3. 🗣 Commented on [#3](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way/pull/3#issuecomment-3472266741) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
+4. 💪 Opened PR [#7057](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#3](undefined) in [the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way](https://github.com/the-turing-way/Build-a-Jupyter-Book-with-The-Turing-Way)
 <!--END_SECTION:activity-->
