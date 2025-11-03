@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#2432](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 💪 Opened PR [#2440](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 2. ❌ Labeled PR [#2432](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 💪 Opened PR [#2432](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. ❌ Closed PR [#2346](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🗣 Commented on [#2382](https://github.com/jupyter-book/mystmd/pull/2382#issuecomment-3478464520) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❌ Labeled PR [#2432](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2432](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. ❌ Closed PR [#2346](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
