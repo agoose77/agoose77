@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/jupyter-book/workshop-template/issues/41) in [jupyter-book/workshop-template](https://github.com/jupyter-book/workshop-template)
-2. ❌ Labeled PR [#2448](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 💪 Opened PR [#2448](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🔒 Closed issue [#1909](https://github.com/jupyter-book/mystmd/issues/1909) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2389](https://github.com/jupyter-book/mystmd/pull/2389#issuecomment-3481349375) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2442](https://github.com/jupyter-book/jupyter-book/issues/2442#issuecomment-3481858770) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. ❗ Opened issue [#41](https://github.com/jupyter-book/workshop-template/issues/41) in [jupyter-book/workshop-template](https://github.com/jupyter-book/workshop-template)
+3. ❌ Labeled PR [#2448](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2448](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 🔒 Closed issue [#1909](https://github.com/jupyter-book/mystmd/issues/1909) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
