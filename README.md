@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2392](https://github.com/jupyter-book/mystmd/issues/2392#issuecomment-3508089621) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#2460](https://github.com/jupyter-book/jupyter-book/issues/2460) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. ❌ Labeled PR [#2418](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1312](https://github.com/jupyter-book/mystmd/issues/1312#issuecomment-3508077366) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2413](https://github.com/jupyter-book/mystmd/pull/2413#issuecomment-3508053479) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2410](https://github.com/jupyter-book/mystmd/pull/2410#issuecomment-3508248442) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❌ Unlabeled PR [#2413](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#673](https://github.com/jupyter-book/myst-theme/pull/673#issuecomment-3508121748) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#2392](https://github.com/jupyter-book/mystmd/issues/2392#issuecomment-3508089621) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#2460](https://github.com/jupyter-book/jupyter-book/issues/2460) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
