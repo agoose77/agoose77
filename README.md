@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#675](https://github.com/jupyter-book/myst-theme/pull/675#issuecomment-3513322826) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#2426](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1971](https://github.com/jupyter-book/mystmd/issues/1971) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#2387](https://github.com/jupyter-book/mystmd/pull/2387#issuecomment-3512424733) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#4224](https://github.com/the-turing-way/the-turing-way/pull/4224#issuecomment-3511416578) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🗣 Commented on [#2406](https://github.com/jupyter-book/mystmd/issues/2406#issuecomment-3514250386) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#2413](https://github.com/jupyter-book/mystmd/pull/2413#issuecomment-3514243991) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#2095](https://github.com/jupyter-book/mystmd/issues/2095#issuecomment-3514227408) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#675](https://github.com/jupyter-book/myst-theme/pull/675#issuecomment-3513322826) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 💪 Opened PR [#2426](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
