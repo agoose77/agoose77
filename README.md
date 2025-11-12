@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7102](https://github.com/2i2c-org/infrastructure/issues/7102) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2.  Assigned issue [#7102](https://github.com/2i2c-org/infrastructure/issues/7102) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6894](https://github.com/2i2c-org/infrastructure/issues/6894#issuecomment-3522600641) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#6894](https://github.com/2i2c-org/infrastructure/issues/6894) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#6939](https://github.com/2i2c-org/infrastructure/issues/6939) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#613](https://github.com/jupyter-book/myst-theme/pull/613#issuecomment-3522993403) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❗ Opened issue [#7102](https://github.com/2i2c-org/infrastructure/issues/7102) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3.  Assigned issue [#7102](https://github.com/2i2c-org/infrastructure/issues/7102) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6894](https://github.com/2i2c-org/infrastructure/issues/6894#issuecomment-3522600641) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#6894](https://github.com/2i2c-org/infrastructure/issues/6894) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
