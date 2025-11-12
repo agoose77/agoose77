@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#2428](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#37](https://github.com/jupyter-book/team-compass/issues/37#issuecomment-3521880459) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-3. 🔒 Closed issue [#37](https://github.com/jupyter-book/team-compass/issues/37) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-4. 🔒 Closed issue [#2434](https://github.com/jupyter-book/mystmd/issues/2434) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔓 Reopened issue [#2434](https://github.com/jupyter-book/mystmd/issues/2434) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2428](https://github.com/jupyter-book/mystmd/pull/2428#issuecomment-3522275843) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❌ Labeled PR [#2428](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#37](https://github.com/jupyter-book/team-compass/issues/37#issuecomment-3521880459) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+4. 🔒 Closed issue [#37](https://github.com/jupyter-book/team-compass/issues/37) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+5. 🔒 Closed issue [#2434](https://github.com/jupyter-book/mystmd/issues/2434) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
