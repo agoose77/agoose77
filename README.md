@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#685](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-3. 💪 Opened PR [#1](undefined) in [orgmycology/vojhreport](https://github.com/orgmycology/vojhreport)
-4. ❗ Opened issue [#684](https://github.com/jupyter-book/myst-theme/issues/684) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#7106](https://github.com/2i2c-org/infrastructure/issues/7106#issuecomment-3524485768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❌ Unlabeled PR [#2346](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#685](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
+4. 💪 Opened PR [#1](undefined) in [orgmycology/vojhreport](https://github.com/orgmycology/vojhreport)
+5. ❗ Opened issue [#684](https://github.com/jupyter-book/myst-theme/issues/684) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
