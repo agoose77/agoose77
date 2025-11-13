@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#514](undefined) in [jupyterlab/jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration)
-2. 💪 Opened PR [#514](undefined) in [jupyterlab/jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration)
-3. 💪 Opened PR [#7116](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7115](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#683](https://github.com/jupyter-book/myst-theme/pull/683#issuecomment-3528770482) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#685](https://github.com/jupyter-book/myst-theme/pull/685#issuecomment-3529573584) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. ❌ Labeled PR [#514](undefined) in [jupyterlab/jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration)
+3. 💪 Opened PR [#514](undefined) in [jupyterlab/jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration)
+4. 💪 Opened PR [#7116](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7115](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
