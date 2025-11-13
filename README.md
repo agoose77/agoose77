@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Unlabeled PR [#2346](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#685](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 💪 Opened PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-4. 💪 Opened PR [#1](undefined) in [orgmycology/vojhreport](https://github.com/orgmycology/vojhreport)
-5. ❗ Opened issue [#684](https://github.com/jupyter-book/myst-theme/issues/684) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#7113](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#2338](https://github.com/jupyter-book/mystmd/issues/2338) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❌ Unlabeled PR [#2346](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 💪 Opened PR [#685](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 💪 Opened PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
 <!--END_SECTION:activity-->
