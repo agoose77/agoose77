@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7114](https://github.com/2i2c-org/infrastructure/pull/7114#issuecomment-3569897901) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❌ Closed PR [#7114](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7156](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#9](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 💪 Opened PR [#7155](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#74](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/74#issuecomment-3571305156) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+2. 💪 Opened PR [#74](undefined) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+3. 🗣 Commented on [#7114](https://github.com/2i2c-org/infrastructure/pull/7114#issuecomment-3569897901) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❌ Closed PR [#7114](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7156](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
