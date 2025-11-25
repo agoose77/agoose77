@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#104](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/104) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-2. 🗣 Commented on [#7156](https://github.com/2i2c-org/infrastructure/pull/7156#issuecomment-3575836188) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6866](https://github.com/2i2c-org/infrastructure/issues/6866#issuecomment-3575693554) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#103](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/103) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-5.  Labeled issue [#2485](https://github.com/jupyter-book/mystmd/issues/2485) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1.  Labeled issue [#7184](https://github.com/2i2c-org/infrastructure/issues/7184) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#7184](https://github.com/2i2c-org/infrastructure/issues/7184) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7056](https://github.com/2i2c-org/infrastructure/pull/7056#issuecomment-3576495262) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#104](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/104) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+5. 🗣 Commented on [#7156](https://github.com/2i2c-org/infrastructure/pull/7156#issuecomment-3575836188) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
