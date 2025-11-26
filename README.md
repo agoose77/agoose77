@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/jupyter-book/myst-theme/pull/714#issuecomment-3577799069) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🔒 Closed issue [#2485](https://github.com/jupyter-book/mystmd/issues/2485) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2485](https://github.com/jupyter-book/mystmd/issues/2485#issuecomment-3577738429) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#2487](https://github.com/jupyter-book/mystmd/pull/2487#issuecomment-3577726951) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5.  Labeled issue [#2493](https://github.com/jupyter-book/mystmd/issues/2493) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#2495](https://github.com/jupyter-book/mystmd/issues/2495#issuecomment-3579831128) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#6066](https://github.com/home-assistant/android/issues/6066#issuecomment-3579775156) in [home-assistant/android](https://github.com/home-assistant/android)
+3. 🗣 Commented on [#714](https://github.com/jupyter-book/myst-theme/pull/714#issuecomment-3577799069) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🔒 Closed issue [#2485](https://github.com/jupyter-book/mystmd/issues/2485) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#2485](https://github.com/jupyter-book/mystmd/issues/2485#issuecomment-3577738429) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
