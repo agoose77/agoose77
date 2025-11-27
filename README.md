@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2512](https://github.com/jupyter-book/mystmd/issues/2512) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❗ Opened issue [#2512](https://github.com/jupyter-book/mystmd/issues/2512) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#7040](https://github.com/2i2c-org/infrastructure/issues/7040#issuecomment-3583306817) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#1312](https://github.com/jupyter-book/mystmd/issues/1312#issuecomment-3583262778) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#7193](https://github.com/2i2c-org/infrastructure/issues/7193#issuecomment-3583058824) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#2513](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#2508](https://github.com/jupyter-book/mystmd/pull/2508#issuecomment-3585194956) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❌ Labeled PR [#2508](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2509](https://github.com/jupyter-book/mystmd/issues/2509#issuecomment-3585177117) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5.  Labeled issue [#2512](https://github.com/jupyter-book/mystmd/issues/2512) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
