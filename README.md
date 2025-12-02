@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2498](https://github.com/jupyter-book/jupyter-book/issues/2498#issuecomment-3603549045) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. ❌ Merged PR [#7222](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7222](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#2196](https://github.com/jupyter-book/mystmd/issues/2196#issuecomment-3602896944) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❌ Merged PR [#2497](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. ❌ Merged PR [#7224](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7224](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#2498](https://github.com/jupyter-book/jupyter-book/issues/2498#issuecomment-3603549045) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. ❌ Merged PR [#7222](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7222](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
