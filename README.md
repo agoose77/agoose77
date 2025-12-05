@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7241](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❌ Merged PR [#7240](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7240](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#2563](https://github.com/jupyter-book/mystmd/issues/2563) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❌ Merged PR [#2513](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. ❌ Merged PR [#7241](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7241](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Merged PR [#7240](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#7240](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#2563](https://github.com/jupyter-book/mystmd/issues/2563) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
