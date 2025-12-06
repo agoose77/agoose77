@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/jupyter-book/myst-enhancement-proposals/issues/34#issuecomment-3619995262) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-2. 💪 Opened PR [#7243](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❌ Merged PR [#7241](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7241](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❌ Merged PR [#7240](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#2518](https://github.com/jupyter-book/jupyter-book/pull/2518#issuecomment-3621337509) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. ❌ Unlabeled PR [#2518](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. ❌ Labeled PR [#2518](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#34](https://github.com/jupyter-book/myst-enhancement-proposals/issues/34#issuecomment-3619995262) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+5. 💪 Opened PR [#7243](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
