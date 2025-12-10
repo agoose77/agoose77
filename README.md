@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#414](https://github.com/fusion-energy/neutronics-workshop/pull/414#issuecomment-3636436696) in [fusion-energy/neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop)
-4. ❌ Merged PR [#28](undefined) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-5. 🗣 Commented on [#7129](https://github.com/2i2c-org/infrastructure/issues/7129#issuecomment-3632889752) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. ❌ Merged PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#414](https://github.com/fusion-energy/neutronics-workshop/pull/414#issuecomment-3636436696) in [fusion-energy/neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop)
+5. ❌ Merged PR [#28](undefined) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
 <!--END_SECTION:activity-->
