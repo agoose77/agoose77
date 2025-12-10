@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-2. 🚀 Published release [Clinder Action v1](https://github.com/2i2c-org/clinder/releases/tag/action-v1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-3. ❌ Merged PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-4. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-5. ❌ Merged PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1.  Assigned issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+3. 🚀 Published release [Clinder Action v1](https://github.com/2i2c-org/clinder/releases/tag/action-v1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+4. ❌ Merged PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+5. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
 <!--END_SECTION:activity-->
