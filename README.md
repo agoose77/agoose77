@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2579](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2.  Assigned issue [#7090](https://github.com/2i2c-org/infrastructure/issues/7090) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3.  Assigned issue [#6595](https://github.com/2i2c-org/infrastructure/issues/6595) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4.  Assigned issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+1. ❗ Opened issue [#2581](https://github.com/jupyter-book/mystmd/issues/2581) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2.  Labeled issue [#2563](https://github.com/jupyter-book/mystmd/issues/2563) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#2579](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4.  Assigned issue [#7090](https://github.com/2i2c-org/infrastructure/issues/7090) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5.  Assigned issue [#6595](https://github.com/2i2c-org/infrastructure/issues/6595) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
