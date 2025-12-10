@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-3. 🚀 Published release [Clinder Action v1](https://github.com/2i2c-org/clinder/releases/tag/action-v1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-4. ❌ Merged PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-5. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+1.  Assigned issue [#7090](https://github.com/2i2c-org/infrastructure/issues/7090) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2.  Assigned issue [#6595](https://github.com/2i2c-org/infrastructure/issues/6595) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3.  Assigned issue [#6795](https://github.com/2i2c-org/infrastructure/issues/6795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+5. 🚀 Published release [Clinder Action v1](https://github.com/2i2c-org/clinder/releases/tag/action-v1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
 <!--END_SECTION:activity-->
