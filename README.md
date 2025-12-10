@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-2. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-3. ❌ Merged PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#414](https://github.com/fusion-energy/neutronics-workshop/pull/414#issuecomment-3636436696) in [fusion-energy/neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop)
+1. 🚀 Published release [Clinder CLI v0.1.1](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+2. 🚀 Published release [Clinder Action v1](https://github.com/2i2c-org/clinder/releases/tag/action-v1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+3. ❌ Merged PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. 💪 Opened PR [#76](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+5. ❌ Merged PR [#7274](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
