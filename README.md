@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#28](undefined) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
-2. 🗣 Commented on [#7129](https://github.com/2i2c-org/infrastructure/issues/7129#issuecomment-3632889752) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❌ Labeled PR [#273](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. 💪 Opened PR [#732](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5.  Assigned issue [#7257](https://github.com/2i2c-org/infrastructure/issues/7257) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#414](https://github.com/fusion-energy/neutronics-workshop/pull/414#issuecomment-3636436696) in [fusion-energy/neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop)
+2. ❌ Merged PR [#28](undefined) in [jupyter-book/myst-enhancement-proposals](https://github.com/jupyter-book/myst-enhancement-proposals)
+3. 🗣 Commented on [#7129](https://github.com/2i2c-org/infrastructure/issues/7129#issuecomment-3632889752) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❌ Labeled PR [#273](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 💪 Opened PR [#732](undefined) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
