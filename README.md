@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-2.  Labeled issue [#2583](https://github.com/jupyter-book/mystmd/issues/2583) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. ❗ Opened issue [#2583](https://github.com/jupyter-book/mystmd/issues/2583) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#2563](https://github.com/jupyter-book/mystmd/issues/2563#issuecomment-3638966772) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#2582](https://github.com/jupyter-book/mystmd/issues/2582) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❌ Merged PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. ❌ Labeled PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. ❌ Merged PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 💪 Opened PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 💪 Opened PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
 <!--END_SECTION:activity-->
