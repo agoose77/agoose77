@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-2. ❌ Labeled PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. ❌ Merged PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 💪 Opened PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 💪 Opened PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+1. 🗣 Commented on [#7284](https://github.com/2i2c-org/infrastructure/issues/7284#issuecomment-3641983217) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7286](https://github.com/2i2c-org/infrastructure/issues/7286#issuecomment-3641976388) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Merged PR [#77](undefined) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. ❌ Labeled PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. ❌ Merged PR [#2521](undefined) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
