@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5211](https://github.com/jupyterhub/jupyterhub/issues/5211#issuecomment-3643884383) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-2. 🗣 Commented on [#1040](https://github.com/jupyter-book/mystmd/issues/1040#issuecomment-3643644740) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. ❌ Merged PR [#10](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. 💪 Opened PR [#10](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 🔒 Closed issue [#7175](https://github.com/2i2c-org/infrastructure/issues/7175) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#279](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. ❌ Merged PR [#273](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+3. 🗣 Commented on [#273](https://github.com/jupyter-book/jupyterlab-myst/pull/273#issuecomment-3647388294) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. 🗣 Commented on [#273](https://github.com/jupyter-book/jupyterlab-myst/pull/273#issuecomment-3647342891) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 🗣 Commented on [#276](https://github.com/jupyter-book/jupyterlab-myst/issues/276#issuecomment-3647340289) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
