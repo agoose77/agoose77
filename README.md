@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#278](https://github.com/jupyter-book/jupyterlab-myst/issues/278#issuecomment-3647483629) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-2. 🔒 Closed issue [#278](https://github.com/jupyter-book/jupyterlab-myst/issues/278) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. ❌ Labeled PR [#245](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. ❌ Labeled PR [#253](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-5. ❌ Labeled PR [#280](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+1. 🗣 Commented on [#7284](https://github.com/2i2c-org/infrastructure/issues/7284#issuecomment-3649396812) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#278](https://github.com/jupyter-book/jupyterlab-myst/issues/278#issuecomment-3647483629) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+3. 🔒 Closed issue [#278](https://github.com/jupyter-book/jupyterlab-myst/issues/278) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. ❌ Labeled PR [#245](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. ❌ Labeled PR [#253](undefined) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
