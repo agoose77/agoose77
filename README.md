@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3661246926) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#37](https://github.com/jupyterlab-contrib/jupyterlab-favorites/pull/37#issuecomment-3661110955) in [jupyterlab-contrib/jupyterlab-favorites](https://github.com/jupyterlab-contrib/jupyterlab-favorites)
-3. 🚀 Published release [ Clinder Action v1.0.1](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-4. 🚀 Published release [Clinder CLI v0.1.2](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-5. ❌ Closed PR [#3](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
+1. 🗣 Commented on [#719](https://github.com/jupyter-book/myst-theme/pull/719#issuecomment-3661537174) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3661246926) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#37](https://github.com/jupyterlab-contrib/jupyterlab-favorites/pull/37#issuecomment-3661110955) in [jupyterlab-contrib/jupyterlab-favorites](https://github.com/jupyterlab-contrib/jupyterlab-favorites)
+4. 🚀 Published release [ Clinder Action v1.0.1](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+5. 🚀 Published release [Clinder CLI v0.1.2](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
 <!--END_SECTION:activity-->
