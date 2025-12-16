@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ Clinder Action v1.0.1](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-2. 🚀 Published release [Clinder CLI v0.1.2](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-3. ❌ Closed PR [#3](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
-4. ❌ Closed PR [#4](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
-5. ❌ Closed PR [#1](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
+1. 🗣 Commented on [#37](https://github.com/jupyterlab-contrib/jupyterlab-favorites/pull/37#issuecomment-3661110955) in [jupyterlab-contrib/jupyterlab-favorites](https://github.com/jupyterlab-contrib/jupyterlab-favorites)
+2. 🚀 Published release [ Clinder Action v1.0.1](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.1) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+3. 🚀 Published release [Clinder CLI v0.1.2](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+4. ❌ Closed PR [#3](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
+5. ❌ Closed PR [#4](undefined) in [agoose77/test-pythia-cookbook](https://github.com/agoose77/test-pythia-cookbook)
 <!--END_SECTION:activity-->
