@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675116978) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. 💪 Opened PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-3. ❌ Merged PR [#1](undefined) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-4. 💪 Opened PR [#1](undefined) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-5. 🗣 Commented on [#2518](https://github.com/jupyter-book/jupyter-book/pull/2518#issuecomment-3670415892) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#2601](https://github.com/jupyter-book/mystmd/issues/2601#issuecomment-3675148737) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675116978) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. 💪 Opened PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. ❌ Merged PR [#1](undefined) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
+5. 💪 Opened PR [#1](undefined) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
 <!--END_SECTION:activity-->
