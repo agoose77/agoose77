@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675394052) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675352427) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-3. 🗣 Commented on [#2601](https://github.com/jupyter-book/mystmd/issues/2601#issuecomment-3675148737) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675116978) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-5. 💪 Opened PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+1. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675426902) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+2. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675394052) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675352427) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. 🗣 Commented on [#2601](https://github.com/jupyter-book/mystmd/issues/2601#issuecomment-3675148737) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675116978) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
 <!--END_SECTION:activity-->
