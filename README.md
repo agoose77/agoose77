@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0.post1](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0.post1) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-2. 🚀 Published release [v1.0.0](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-3. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675426902) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-4. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675394052) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-5. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675352427) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+1. 🗣 Commented on [#302](https://github.com/jupyter-book/mystmd/issues/302#issuecomment-3678091936) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🚀 Published release [v1.0.0.post1](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0.post1) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
+3. 🚀 Published release [v1.0.0](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
+4. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675426902) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+5. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3675394052) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
 <!--END_SECTION:activity-->
