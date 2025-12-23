@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 💪 Opened PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. ❌ Merged PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. 💪 Opened PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5.  Labeled issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+1. ❌ Merged PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+2. 🔒 Closed issue [#127](https://github.com/jupyterlab-contrib/search-replace/issues/127) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3687125384) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. ❌ Merged PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. 💪 Opened PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
