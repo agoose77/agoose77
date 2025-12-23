@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 💪 Opened PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3.  Labeled issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-4. ❗ Opened issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-5. ❌ Closed PR [#75](undefined) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+1. ❌ Merged PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#14](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. ❌ Merged PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 💪 Opened PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5.  Labeled issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
 <!--END_SECTION:activity-->
