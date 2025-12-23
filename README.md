@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. 💪 Opened PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-3. ❌ Merged PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-4. 🔒 Closed issue [#127](https://github.com/jupyterlab-contrib/search-replace/issues/127) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-5. 🗣 Commented on [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135#issuecomment-3687125384) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+1. ❌ Merged PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
+2. ❌ Labeled PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. 💪 Opened PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. ❌ Merged PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+5. 🔒 Closed issue [#127](https://github.com/jupyterlab-contrib/search-replace/issues/127) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
 <!--END_SECTION:activity-->
