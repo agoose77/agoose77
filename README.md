@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](undefined) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
-2. 🚀 Published release [v1.0.0.post2](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0.post2) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-3. 🗣 Commented on [#302](https://github.com/jupyter-book/mystmd/issues/302#issuecomment-3678091936) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🚀 Published release [v1.0.0.post1](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0.post1) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-5. 🚀 Published release [v1.0.0](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.0) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
+1. ❌ Merged PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#13](undefined) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3.  Labeled issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+4. ❗ Opened issue [#160](https://github.com/executablebooks/github-activity/issues/160) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
+5. ❌ Closed PR [#75](undefined) in [executablebooks/github-activity](https://github.com/executablebooks/github-activity)
 <!--END_SECTION:activity-->
