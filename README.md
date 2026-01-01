@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2602](https://github.com/jupyter-book/mystmd/pull/2602#issuecomment-3691560284) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❌ Merged PR [#1177](undefined) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-3. ❌ Labeled PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-4. 💪 Opened PR [#136](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-5. ❌ Merged PR [#135](undefined) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+2. 🎉 Merged PR [#1177](https://github.com/scipy-conference/scipy_proceedings/pull/1177) in [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
+3. ℹ️ Labeled PR [#136](https://github.com/jupyterlab-contrib/search-replace/pull/136) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. 💪 Opened PR [#136](https://github.com/jupyterlab-contrib/search-replace/pull/136) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+5. 🎉 Merged PR [#135](https://github.com/jupyterlab-contrib/search-replace/pull/135) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
 <!--END_SECTION:activity-->
