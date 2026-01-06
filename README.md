@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. ℹ️ Labeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ℹ️ Unlabeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2554](https://github.com/jupyter-book/mystmd/pull/2554#issuecomment-3714165839) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#474](https://github.com/scikit-hep/hist/pull/474#issuecomment-3715214508) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+2. 🎉 Merged PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. ℹ️ Labeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ℹ️ Unlabeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
