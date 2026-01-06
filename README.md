@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/scikit-hep/hist/pull/474#issuecomment-3715214508) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
-2. 🎉 Merged PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 💪 Opened PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ℹ️ Labeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ℹ️ Unlabeled PR [#2554](https://github.com/jupyter-book/mystmd/pull/2554) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🔒 Closed issue [#7195](https://github.com/2i2c-org/infrastructure/issues/7195) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#7333](https://github.com/2i2c-org/infrastructure/pull/7333) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#7333](https://github.com/2i2c-org/infrastructure/pull/7333) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#474](https://github.com/scikit-hep/hist/pull/474#issuecomment-3715214508) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+5. 🎉 Merged PR [#750](https://github.com/jupyter-book/myst-theme/pull/750) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
