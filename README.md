@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/jupyterlab-contrib/search-replace/pull/136) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. ℹ️ Assigned issue [#5876](https://github.com/2i2c-org/infrastructure/issues/5876) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3718232915) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🔒 Closed issue [#22](https://github.com/jupyter-book/blog/issues/22) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
-5. 🗣 Commented on [#2603](https://github.com/jupyter-book/mystmd/issues/2603#issuecomment-3716338698) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 💪 Opened PR [#7336](https://github.com/2i2c-org/infrastructure/pull/7336) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#136](https://github.com/jupyterlab-contrib/search-replace/pull/136) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. ℹ️ Assigned issue [#5876](https://github.com/2i2c-org/infrastructure/issues/5876) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3718232915) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#22](https://github.com/jupyter-book/blog/issues/22) in [jupyter-book/blog](https://github.com/jupyter-book/blog)
 <!--END_SECTION:activity-->
