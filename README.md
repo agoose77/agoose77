@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.1) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
-2. ❗ Opened issue [#7353](https://github.com/2i2c-org/infrastructure/issues/7353) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Unassigned PR [#7349](https://github.com/2i2c-org/infrastructure/pull/7349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned PR [#7349](https://github.com/2i2c-org/infrastructure/pull/7349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned PR [#7345](https://github.com/2i2c-org/infrastructure/pull/7345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#747](https://github.com/jupyter-book/myst-theme/pull/747#issuecomment-3730195470) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#747](https://github.com/jupyter-book/myst-theme/pull/747#issuecomment-3730170527) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🚀 Published release [v1.0.1](https://github.com/agoose77/jupyter-retext-language-server/releases/tag/v1.0.1) in [agoose77/jupyter-retext-language-server](https://github.com/agoose77/jupyter-retext-language-server)
+4. ❗ Opened issue [#7353](https://github.com/2i2c-org/infrastructure/issues/7353) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Unassigned PR [#7349](https://github.com/2i2c-org/infrastructure/pull/7349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
