@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/agoose77/gennaker-tools/pull/15) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 💪 Opened PR [#15](https://github.com/agoose77/gennaker-tools/pull/15) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 🎉 Merged PR [#732](https://github.com/jupyter-book/myst-theme/pull/732) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🔒 Closed issue [#746](https://github.com/jupyter-book/myst-theme/issues/746) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#754](https://github.com/jupyter-book/myst-theme/pull/754#issuecomment-3732997919) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🎉 Merged PR [#16](https://github.com/agoose77/gennaker-tools/pull/16) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#16](https://github.com/agoose77/gennaker-tools/pull/16) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 🎉 Merged PR [#15](https://github.com/agoose77/gennaker-tools/pull/15) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 💪 Opened PR [#15](https://github.com/agoose77/gennaker-tools/pull/15) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. 🎉 Merged PR [#732](https://github.com/jupyter-book/myst-theme/pull/732) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
