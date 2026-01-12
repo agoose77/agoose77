@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7349](https://github.com/2i2c-org/infrastructure/pull/7349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#17](https://github.com/agoose77/gennaker-tools/pull/17) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. ℹ️ Labeled PR [#17](https://github.com/agoose77/gennaker-tools/pull/17) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Unlabeled PR [#17](https://github.com/agoose77/gennaker-tools/pull/17) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. ℹ️ Labeled PR [#17](https://github.com/agoose77/gennaker-tools/pull/17) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. ℹ️ Unassigned issue [#7356](https://github.com/2i2c-org/infrastructure/issues/7356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#7356](https://github.com/2i2c-org/infrastructure/issues/7356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#7356](https://github.com/2i2c-org/infrastructure/issues/7356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5876](https://github.com/2i2c-org/infrastructure/issues/5876#issuecomment-3737879391) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#5876](https://github.com/2i2c-org/infrastructure/issues/5876) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
