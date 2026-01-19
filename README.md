@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3763381188) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3763373914) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2646](https://github.com/jupyter-book/mystmd/issues/2646#issuecomment-3763007878) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#689](https://github.com/jupyter-book/myst-theme/issues/689#issuecomment-3763000694) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🎉 Merged PR [#7432](https://github.com/2i2c-org/infrastructure/pull/7432) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#133](https://github.com/jupyterhub/repo2docker-action/pull/133#issuecomment-3767482034) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
+2. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3763381188) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3763373914) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2646](https://github.com/jupyter-book/mystmd/issues/2646#issuecomment-3763007878) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#689](https://github.com/jupyter-book/myst-theme/issues/689#issuecomment-3763000694) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
