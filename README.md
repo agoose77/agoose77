@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7313](https://github.com/2i2c-org/infrastructure/issues/7313#issuecomment-3772593702) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#592](https://github.com/ProjectPythia/pythia-foundations/pull/592) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
-3. 🗣 Commented on [#7443](https://github.com/2i2c-org/infrastructure/issues/7443#issuecomment-3772495261) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#7443](https://github.com/2i2c-org/infrastructure/issues/7443) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#745](https://github.com/jupyter-book/myst-theme/issues/745) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 💪 Opened PR [#165](https://github.com/ProjectPythia/cookbook-actions/pull/165) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+2. 🗣 Commented on [#7313](https://github.com/2i2c-org/infrastructure/issues/7313#issuecomment-3772593702) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#592](https://github.com/ProjectPythia/pythia-foundations/pull/592) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
+4. 🗣 Commented on [#7443](https://github.com/2i2c-org/infrastructure/issues/7443#issuecomment-3772495261) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#7443](https://github.com/2i2c-org/infrastructure/issues/7443) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
