@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7481](https://github.com/2i2c-org/infrastructure/pull/7481) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Unlabeled PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. ℹ️ Labeled PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 💪 Opened PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#294](https://github.com/2i2c-org/docs/pull/294) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+1. 🎉 Merged PR [#7481](https://github.com/2i2c-org/infrastructure/pull/7481) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7481](https://github.com/2i2c-org/infrastructure/pull/7481) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Unlabeled PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. ℹ️ Labeled PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. 💪 Opened PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
