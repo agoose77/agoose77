@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7498](https://github.com/2i2c-org/infrastructure/pull/7498) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#7499](https://github.com/2i2c-org/infrastructure/pull/7499) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7498](https://github.com/2i2c-org/infrastructure/pull/7498) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#2568](https://github.com/jupyter-book/jupyter-book/pull/2568) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-5. 🎉 Merged PR [#7481](https://github.com/2i2c-org/infrastructure/pull/7481) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#7500](https://github.com/2i2c-org/infrastructure/pull/7500) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7500](https://github.com/2i2c-org/infrastructure/pull/7500) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#7498](https://github.com/2i2c-org/infrastructure/pull/7498) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#7499](https://github.com/2i2c-org/infrastructure/pull/7499) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7498](https://github.com/2i2c-org/infrastructure/pull/7498) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
