@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. 🎉 Merged PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7330](https://github.com/2i2c-org/infrastructure/issues/7330#issuecomment-3806163717) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#7500](https://github.com/2i2c-org/infrastructure/pull/7500) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+2. ℹ️ Labeled PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+3. 💪 Opened PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
+4. 🎉 Merged PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
