@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-2. ℹ️ Labeled PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-3. 💪 Opened PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
-4. 🎉 Merged PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7505](https://github.com/2i2c-org/infrastructure/pull/7505) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#22](https://github.com/agoose77/gennaker-tools/pull/22) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#22](https://github.com/agoose77/gennaker-tools/pull/22) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 🎉 Merged PR [#21](https://github.com/agoose77/gennaker-tools/pull/21) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 💪 Opened PR [#21](https://github.com/agoose77/gennaker-tools/pull/21) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. 🎉 Merged PR [#143](https://github.com/jupyterlab-contrib/search-replace/pull/143) in [jupyterlab-contrib/search-replace](https://github.com/jupyterlab-contrib/search-replace)
 <!--END_SECTION:activity-->
