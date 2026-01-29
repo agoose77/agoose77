@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7524](https://github.com/2i2c-org/infrastructure/issues/7524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Assigned issue [#7524](https://github.com/2i2c-org/infrastructure/issues/7524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#7524](https://github.com/2i2c-org/infrastructure/issues/7524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7411](https://github.com/2i2c-org/infrastructure/issues/7411#issuecomment-3817991121) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#7523](https://github.com/2i2c-org/infrastructure/pull/7523#issuecomment-3817962823) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7227](https://github.com/2i2c-org/infrastructure/issues/7227#issuecomment-3818239644) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7525](https://github.com/2i2c-org/infrastructure/issues/7525#issuecomment-3818168782) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Labeled issue [#7525](https://github.com/2i2c-org/infrastructure/issues/7525) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7525](https://github.com/2i2c-org/infrastructure/issues/7525) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#7524](https://github.com/2i2c-org/infrastructure/issues/7524) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
