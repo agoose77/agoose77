@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. ❗ Opened issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. ℹ️ Labeled issue [#388](https://github.com/jupyterhub/nbgitpuller/issues/388) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-4. ❗ Opened issue [#388](https://github.com/jupyterhub/nbgitpuller/issues/388) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-5. 🎉 Merged PR [#7535](https://github.com/2i2c-org/infrastructure/pull/7535) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3825625163) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ℹ️ Labeled issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+3. ❗ Opened issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. ℹ️ Labeled issue [#388](https://github.com/jupyterhub/nbgitpuller/issues/388) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. ❗ Opened issue [#388](https://github.com/jupyterhub/nbgitpuller/issues/388) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
