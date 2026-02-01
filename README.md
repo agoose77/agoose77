@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3831302866) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3828933977) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3825625163) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ℹ️ Labeled issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-5. ❗ Opened issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+1. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3832127465) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3831302866) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3828933977) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3825625163) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ℹ️ Labeled issue [#389](https://github.com/jupyterhub/nbgitpuller/issues/389) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
