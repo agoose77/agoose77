@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7574](https://github.com/2i2c-org/infrastructure/pull/7574) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#7574](https://github.com/2i2c-org/infrastructure/pull/7574) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#7573](https://github.com/2i2c-org/infrastructure/pull/7573) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7573](https://github.com/2i2c-org/infrastructure/pull/7573) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#7568](https://github.com/2i2c-org/infrastructure/issues/7568) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#2683](https://github.com/jupyter-book/mystmd/issues/2683#issuecomment-3843160230) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#787](https://github.com/jupyter-book/myst-theme/pull/787#issuecomment-3843142135) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#2681](https://github.com/jupyter-book/mystmd/issues/2681#issuecomment-3843126621) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2687](https://github.com/jupyter-book/mystmd/pull/2687#issuecomment-3843117337) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#3831](https://github.com/scikit-hep/awkward/pull/3831#issuecomment-3843098615) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
