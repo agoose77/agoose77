@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#2691](https://github.com/jupyter-book/mystmd/issues/2691) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 2. ❗ Opened issue [#2691](https://github.com/jupyter-book/mystmd/issues/2691) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2690](https://github.com/jupyter-book/mystmd/pull/2690#issuecomment-3846267122) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3844451972) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2689](https://github.com/jupyter-book/mystmd/issues/2689#issuecomment-3844421541) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#1961](https://github.com/jupyter-book/mystmd/pull/1961#issuecomment-3844451972) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2689](https://github.com/jupyter-book/mystmd/issues/2689#issuecomment-3844421541) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ℹ️ Labeled issue [#2688](https://github.com/jupyter-book/mystmd/issues/2688) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
