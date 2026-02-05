@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/jupyter-book/myst-plugins/pull/30) in [jupyter-book/myst-plugins](https://github.com/jupyter-book/myst-plugins)
-2. 🎉 Merged PR [#23](https://github.com/agoose77/gennaker-tools/pull/23) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 💪 Opened PR [#23](https://github.com/agoose77/gennaker-tools/pull/23) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. 🎉 Merged PR [#7586](https://github.com/2i2c-org/infrastructure/pull/7586) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7586](https://github.com/2i2c-org/infrastructure/pull/7586) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#7589](https://github.com/2i2c-org/infrastructure/pull/7589) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3853763120) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#7589](https://github.com/2i2c-org/infrastructure/pull/7589) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#30](https://github.com/jupyter-book/myst-plugins/pull/30) in [jupyter-book/myst-plugins](https://github.com/jupyter-book/myst-plugins)
+5. 🎉 Merged PR [#23](https://github.com/agoose77/gennaker-tools/pull/23) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
