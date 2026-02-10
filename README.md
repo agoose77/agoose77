@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/agoose77/gennaker-tools/pull/25) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 💪 Opened PR [#25](https://github.com/agoose77/gennaker-tools/pull/25) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 💪 Opened PR [#7633](https://github.com/2i2c-org/infrastructure/pull/7633) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#7632](https://github.com/2i2c-org/infrastructure/pull/7632) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7632](https://github.com/2i2c-org/infrastructure/pull/7632) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#7633](https://github.com/2i2c-org/infrastructure/pull/7633) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#2697](https://github.com/jupyter-book/mystmd/issues/2697#issuecomment-3880388742) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🎉 Merged PR [#25](https://github.com/agoose77/gennaker-tools/pull/25) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 💪 Opened PR [#25](https://github.com/agoose77/gennaker-tools/pull/25) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. 💪 Opened PR [#7633](https://github.com/2i2c-org/infrastructure/pull/7633) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
