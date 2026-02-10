@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2584](https://github.com/jupyter-book/jupyter-book/issues/2584#issuecomment-3877269388) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-2. 🗣 Commented on [#2603](https://github.com/jupyter-book/mystmd/issues/2603#issuecomment-3874016260) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🚀 Published release [v1.0.0](https://github.com/jupyter-book/example-js-plugin/releases/tag/v1.0.0) in [jupyter-book/example-js-plugin](https://github.com/jupyter-book/example-js-plugin)
-4. 🚀 Published release [v1.0.0](https://github.com/jupyter-book/example-js-anywidget/releases/tag/v1.0.0) in [jupyter-book/example-js-anywidget](https://github.com/jupyter-book/example-js-anywidget)
-5. 🎉 Merged PR [#7608](https://github.com/2i2c-org/infrastructure/pull/7608) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7565](https://github.com/2i2c-org/infrastructure/issues/7565) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7565](https://github.com/2i2c-org/infrastructure/issues/7565#issuecomment-3878288973) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#2584](https://github.com/jupyter-book/jupyter-book/issues/2584#issuecomment-3877269388) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#2603](https://github.com/jupyter-book/mystmd/issues/2603#issuecomment-3874016260) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🚀 Published release [v1.0.0](https://github.com/jupyter-book/example-js-plugin/releases/tag/v1.0.0) in [jupyter-book/example-js-plugin](https://github.com/jupyter-book/example-js-plugin)
 <!--END_SECTION:activity-->
