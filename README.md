@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#804](https://github.com/jupyter-book/myst-theme/issues/804#issuecomment-3892427349) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🔒 Closed issue [#804](https://github.com/jupyter-book/myst-theme/issues/804) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🚀 Published release [Table Plugin 1.0.0](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.0) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
+2. 🎉 Merged PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Labeled PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#804](https://github.com/jupyter-book/myst-theme/issues/804#issuecomment-3892427349) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
