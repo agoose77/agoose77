@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Table Plugin 1.0.1](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.1) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
-2. 🎉 Merged PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#804](https://github.com/jupyter-book/myst-theme/issues/804#issuecomment-3892427349) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#165](https://github.com/ProjectPythia/cookbook-actions/pull/165#issuecomment-3898091705) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+2. ❌ Closed PR [#165](https://github.com/ProjectPythia/cookbook-actions/pull/165) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+3. 💪 Opened PR [#167](https://github.com/ProjectPythia/cookbook-actions/pull/167) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+4. 🚀 Published release [Table Plugin 1.0.1](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.1) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
+5. 🎉 Merged PR [#7650](https://github.com/2i2c-org/infrastructure/pull/7650) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
