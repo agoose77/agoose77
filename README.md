@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Table Plugin 1.0.2](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.2) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
-2. ℹ️ Labeled issue [#2707](https://github.com/jupyter-book/mystmd/issues/2707) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. ❗ Opened issue [#2707](https://github.com/jupyter-book/mystmd/issues/2707) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#4533](https://github.com/the-turing-way/the-turing-way/issues/4533#issuecomment-3904966537) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🚀 Published release [v0.1.0](https://github.com/agoose77/jupyter-tombi-language-server/releases/tag/v0.1.0) in [agoose77/jupyter-tombi-language-server](https://github.com/agoose77/jupyter-tombi-language-server)
+1. 🎉 Merged PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🚀 Published release [Table Plugin 1.0.2](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.2) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
+4. ℹ️ Labeled issue [#2707](https://github.com/jupyter-book/mystmd/issues/2707) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#2707](https://github.com/jupyter-book/mystmd/issues/2707) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
