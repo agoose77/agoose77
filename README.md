@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3913070924) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#592](https://github.com/ProjectPythia/pythia-foundations/pull/592) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
-3. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3909092982) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#7679](https://github.com/2i2c-org/infrastructure/issues/7679) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7676](https://github.com/2i2c-org/infrastructure/issues/7676#issuecomment-3913228852) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7676](https://github.com/2i2c-org/infrastructure/issues/7676) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7678](https://github.com/2i2c-org/infrastructure/issues/7678) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#7676](https://github.com/2i2c-org/infrastructure/issues/7676) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
