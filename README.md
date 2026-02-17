@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#592](https://github.com/ProjectPythia/pythia-foundations/pull/592) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
-2. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3909092982) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🚀 Published release [Table Plugin 1.0.2](https://github.com/2i2c-org/statements-of-work/releases/tag/table-plugin-1.0.2) in [2i2c-org/statements-of-work](https://github.com/2i2c-org/statements-of-work)
+1. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3913070924) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#592](https://github.com/ProjectPythia/pythia-foundations/pull/592) in [ProjectPythia/pythia-foundations](https://github.com/ProjectPythia/pythia-foundations)
+3. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3909092982) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7669](https://github.com/2i2c-org/infrastructure/pull/7669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
