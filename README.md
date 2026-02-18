@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7414](https://github.com/2i2c-org/infrastructure/issues/7414#issuecomment-3921764699) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#7697](https://github.com/2i2c-org/infrastructure/issues/7697) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#215](https://github.com/ProjectPythia/pythia-datasets/pull/215) in [ProjectPythia/pythia-datasets](https://github.com/ProjectPythia/pythia-datasets)
-4. 🔒 Closed issue [#2711](https://github.com/jupyter-book/mystmd/issues/2711) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#2655](https://github.com/jupyter-book/mystmd/issues/2655) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ℹ️ Labeled issue [#7697](https://github.com/2i2c-org/infrastructure/issues/7697) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7653](https://github.com/2i2c-org/infrastructure/issues/7653#issuecomment-3921801882) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7653](https://github.com/2i2c-org/infrastructure/issues/7653) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7414](https://github.com/2i2c-org/infrastructure/issues/7414#issuecomment-3921764699) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#7697](https://github.com/2i2c-org/infrastructure/issues/7697) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
