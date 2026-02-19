@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7705](https://github.com/2i2c-org/infrastructure/issues/7705#issuecomment-3927687880) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Assigned issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#2655](https://github.com/jupyter-book/mystmd/issues/2655#issuecomment-3926355614) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2591](https://github.com/jupyter-book/jupyter-book/issues/2591#issuecomment-3922948508) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🚀 Published release [v0.1.1](https://github.com/agoose77/jupyter-tombi-language-server/releases/tag/v0.1.1) in [agoose77/jupyter-tombi-language-server](https://github.com/agoose77/jupyter-tombi-language-server)
+2. 🗣 Commented on [#2602](https://github.com/jupyter-book/mystmd/pull/2602#issuecomment-3928186173) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#7705](https://github.com/2i2c-org/infrastructure/issues/7705#issuecomment-3927687880) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
