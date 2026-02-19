@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2655](https://github.com/jupyter-book/mystmd/issues/2655#issuecomment-3926355614) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#2591](https://github.com/jupyter-book/jupyter-book/issues/2591#issuecomment-3922948508) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. 🗣 Commented on [#2591](https://github.com/jupyter-book/jupyter-book/issues/2591#issuecomment-3922924972) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. ❗ Opened issue [#7699](https://github.com/2i2c-org/infrastructure/issues/7699) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Labeled issue [#7697](https://github.com/2i2c-org/infrastructure/issues/7697) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7705](https://github.com/2i2c-org/infrastructure/issues/7705#issuecomment-3927687880) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#7705](https://github.com/2i2c-org/infrastructure/issues/7705) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#2655](https://github.com/jupyter-book/mystmd/issues/2655#issuecomment-3926355614) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#2591](https://github.com/jupyter-book/jupyter-book/issues/2591#issuecomment-3922948508) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
