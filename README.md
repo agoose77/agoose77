@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/ProjectPythia/pythia-datasets/pull/215) in [ProjectPythia/pythia-datasets](https://github.com/ProjectPythia/pythia-datasets)
-2. ❗ Opened issue [#2714](https://github.com/jupyter-book/mystmd/issues/2714) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#7687](https://github.com/2i2c-org/infrastructure/pull/7687#issuecomment-3930212794) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7687](https://github.com/2i2c-org/infrastructure/pull/7687#issuecomment-3929538762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7706](https://github.com/2i2c-org/infrastructure/pull/7706) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7687](https://github.com/2i2c-org/infrastructure/pull/7687#issuecomment-3932942175) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#215](https://github.com/ProjectPythia/pythia-datasets/pull/215) in [ProjectPythia/pythia-datasets](https://github.com/ProjectPythia/pythia-datasets)
+3. ❗ Opened issue [#2714](https://github.com/jupyter-book/mystmd/issues/2714) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#7687](https://github.com/2i2c-org/infrastructure/pull/7687#issuecomment-3930212794) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7687](https://github.com/2i2c-org/infrastructure/pull/7687#issuecomment-3929538762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
