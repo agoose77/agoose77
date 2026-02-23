@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7636](https://github.com/2i2c-org/infrastructure/issues/7636) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#135](https://github.com/jupyterhub/repo2docker-action/issues/135) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
-3. 🗣 Commented on [#217](https://github.com/ProjectPythia/pythia-datasets/pull/217#issuecomment-3940983650) in [ProjectPythia/pythia-datasets](https://github.com/ProjectPythia/pythia-datasets)
-4. 🗣 Commented on [#7437](https://github.com/2i2c-org/infrastructure/pull/7437#issuecomment-3936234718) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#7721](https://github.com/2i2c-org/infrastructure/pull/7721) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7728](https://github.com/2i2c-org/infrastructure/pull/7728#issuecomment-3945153143) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7636](https://github.com/2i2c-org/infrastructure/issues/7636) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#135](https://github.com/jupyterhub/repo2docker-action/issues/135) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
+4. 🗣 Commented on [#217](https://github.com/ProjectPythia/pythia-datasets/pull/217#issuecomment-3940983650) in [ProjectPythia/pythia-datasets](https://github.com/ProjectPythia/pythia-datasets)
+5. 🗣 Commented on [#7437](https://github.com/2i2c-org/infrastructure/pull/7437#issuecomment-3936234718) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
