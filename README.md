@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/jupyterhub/repo2docker-action/issues/135#issuecomment-3950476979) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
-2. 🗣 Commented on [#3737](https://github.com/scikit-hep/awkward/issues/3737#issuecomment-3950399078) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 🎉 Merged PR [#7437](https://github.com/2i2c-org/infrastructure/pull/7437) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#7313](https://github.com/2i2c-org/infrastructure/issues/7313) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#7691](https://github.com/2i2c-org/infrastructure/pull/7691#issuecomment-3945778356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#78](https://github.com/2i2c-org/utoronto-image/pull/78) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. 🗣 Commented on [#135](https://github.com/jupyterhub/repo2docker-action/issues/135#issuecomment-3950476979) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
+3. 🗣 Commented on [#3737](https://github.com/scikit-hep/awkward/issues/3737#issuecomment-3950399078) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 🎉 Merged PR [#7437](https://github.com/2i2c-org/infrastructure/pull/7437) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#7313](https://github.com/2i2c-org/infrastructure/issues/7313) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
