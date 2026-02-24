@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7739](https://github.com/2i2c-org/infrastructure/pull/7739) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#78](https://github.com/2i2c-org/utoronto-image/pull/78) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-3. 💪 Opened PR [#78](https://github.com/2i2c-org/utoronto-image/pull/78) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-4. 🗣 Commented on [#135](https://github.com/jupyterhub/repo2docker-action/issues/135#issuecomment-3950476979) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
-5. 🗣 Commented on [#3737](https://github.com/scikit-hep/awkward/issues/3737#issuecomment-3950399078) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#7739](https://github.com/2i2c-org/infrastructure/pull/7739) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#7739](https://github.com/2i2c-org/infrastructure/pull/7739) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#78](https://github.com/2i2c-org/utoronto-image/pull/78) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. 💪 Opened PR [#78](https://github.com/2i2c-org/utoronto-image/pull/78) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+5. 🗣 Commented on [#135](https://github.com/jupyterhub/repo2docker-action/issues/135#issuecomment-3950476979) in [jupyterhub/repo2docker-action](https://github.com/jupyterhub/repo2docker-action)
 <!--END_SECTION:activity-->
