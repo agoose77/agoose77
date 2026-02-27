@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7777](https://github.com/2i2c-org/infrastructure/issues/7777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#7660](https://github.com/2i2c-org/infrastructure/issues/7660) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7660](https://github.com/2i2c-org/infrastructure/issues/7660#issuecomment-3973145888) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#2](https://github.com/QuantEcon/mystmd/issues/2#issuecomment-3973121826) in [QuantEcon/mystmd](https://github.com/QuantEcon/mystmd)
-5. ❗ Opened issue [#7776](https://github.com/2i2c-org/infrastructure/issues/7776) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#7783](https://github.com/2i2c-org/infrastructure/issues/7783) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#7782](https://github.com/2i2c-org/infrastructure/issues/7782) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#7781](https://github.com/2i2c-org/infrastructure/issues/7781) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7780](https://github.com/2i2c-org/infrastructure/issues/7780) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#7779](https://github.com/2i2c-org/infrastructure/issues/7779) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
