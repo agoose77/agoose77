@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/agoose77/gennaker-tools/pull/29) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. ℹ️ Labeled PR [#29](https://github.com/agoose77/gennaker-tools/pull/29) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 💪 Opened PR [#29](https://github.com/agoose77/gennaker-tools/pull/29) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Assigned issue [#2727](https://github.com/jupyter-book/mystmd/issues/2727) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#2727](https://github.com/jupyter-book/mystmd/issues/2727) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ℹ️ Labeled PR [#31](https://github.com/agoose77/gennaker-tools/pull/31) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#31](https://github.com/agoose77/gennaker-tools/pull/31) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 🎉 Merged PR [#30](https://github.com/agoose77/gennaker-tools/pull/30) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. ℹ️ Labeled PR [#30](https://github.com/agoose77/gennaker-tools/pull/30) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. 💪 Opened PR [#30](https://github.com/agoose77/gennaker-tools/pull/30) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
