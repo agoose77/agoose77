@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔓 Reopened issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#313](https://github.com/jupyter-book/mystmd/issues/313#issuecomment-3983836550) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🎉 Merged PR [#31](https://github.com/agoose77/gennaker-tools/pull/31) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. 🗣 Commented on [#816](https://github.com/jupyter-book/myst-theme/pull/816#issuecomment-3983873762) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🔒 Closed issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔓 Reopened issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🔒 Closed issue [#313](https://github.com/jupyter-book/mystmd/issues/313) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#313](https://github.com/jupyter-book/mystmd/issues/313#issuecomment-3983836550) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
