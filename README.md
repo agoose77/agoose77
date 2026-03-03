@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7718](https://github.com/2i2c-org/infrastructure/issues/7718#issuecomment-3991116466) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#910](https://github.com/jupyterhub/kubespawner/pull/910) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-3. 🎉 Merged PR [#32](https://github.com/agoose77/gennaker-tools/pull/32) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Labeled PR [#32](https://github.com/agoose77/gennaker-tools/pull/32) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 💪 Opened PR [#32](https://github.com/agoose77/gennaker-tools/pull/32) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. 🔒 Closed issue [#2719](https://github.com/jupyter-book/mystmd/issues/2719) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#7718](https://github.com/2i2c-org/infrastructure/issues/7718#issuecomment-3991116466) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#910](https://github.com/jupyterhub/kubespawner/pull/910) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+4. 🎉 Merged PR [#32](https://github.com/agoose77/gennaker-tools/pull/32) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. ℹ️ Labeled PR [#32](https://github.com/agoose77/gennaker-tools/pull/32) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
