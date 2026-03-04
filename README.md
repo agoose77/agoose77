@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#821](https://github.com/jupyter-book/myst-theme/pull/821#issuecomment-3998121335) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#822](https://github.com/jupyter-book/myst-theme/pull/822) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🎉 Merged PR [#7836](https://github.com/2i2c-org/infrastructure/pull/7836) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#7836](https://github.com/2i2c-org/infrastructure/pull/7836) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+1. 🗣 Commented on [#7446](https://github.com/2i2c-org/infrastructure/issues/7446#issuecomment-3998544625) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7356](https://github.com/2i2c-org/infrastructure/issues/7356#issuecomment-3998513866) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#821](https://github.com/jupyter-book/myst-theme/pull/821#issuecomment-3998121335) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#822](https://github.com/jupyter-book/myst-theme/pull/822) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#7836](https://github.com/2i2c-org/infrastructure/pull/7836) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
