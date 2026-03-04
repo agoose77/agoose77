@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2044](https://github.com/jupyterhub/binderhub/pull/2044#issuecomment-3997482622) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
-2. 🎉 Merged PR [#7835](https://github.com/2i2c-org/infrastructure/pull/7835) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7835](https://github.com/2i2c-org/infrastructure/pull/7835) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3996432033) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-5. ❗ Opened issue [#20](https://github.com/sergei-mironov/litrepl/issues/20) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+1. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+2. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+3. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+4. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+5. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
 <!--END_SECTION:activity-->
