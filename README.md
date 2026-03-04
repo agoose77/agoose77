@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3996432033) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. ❗ Opened issue [#20](https://github.com/sergei-mironov/litrepl/issues/20) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
-3. 🎉 Merged PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Labeled PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 💪 Opened PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. 💪 Opened PR [#7835](https://github.com/2i2c-org/infrastructure/pull/7835) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#8384](https://github.com/openjournals/joss-reviews/issues/8384#issuecomment-3996432033) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+3. ❗ Opened issue [#20](https://github.com/sergei-mironov/litrepl/issues/20) in [sergei-mironov/litrepl](https://github.com/sergei-mironov/litrepl)
+4. 🎉 Merged PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. ℹ️ Labeled PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
