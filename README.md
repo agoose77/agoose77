@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. ℹ️ Unlabeled PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. ℹ️ Labeled PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Labeled PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 💪 Opened PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. 🎉 Merged PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. ℹ️ Labeled PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 💪 Opened PR [#35](https://github.com/agoose77/gennaker-tools/pull/35) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 🎉 Merged PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+5. ℹ️ Unlabeled PR [#34](https://github.com/agoose77/gennaker-tools/pull/34) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
