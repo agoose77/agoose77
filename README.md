@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#824](https://github.com/jupyter-book/myst-theme/pull/824) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#4534](https://github.com/the-turing-way/the-turing-way/issues/4534#issuecomment-3999549299) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. ❗ Opened issue [#823](https://github.com/jupyter-book/myst-theme/issues/823) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ℹ️ Unassigned issue [#7762](https://github.com/2i2c-org/infrastructure/issues/7762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#4534](https://github.com/the-turing-way/the-turing-way/issues/4534#issuecomment-3998801929) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🎉 Merged PR [#826](https://github.com/jupyter-book/myst-theme/pull/826) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#826](https://github.com/jupyter-book/myst-theme/pull/826#issuecomment-4000432183) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#826](https://github.com/jupyter-book/myst-theme/pull/826) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🎉 Merged PR [#824](https://github.com/jupyter-book/myst-theme/pull/824) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 💪 Opened PR [#824](https://github.com/jupyter-book/myst-theme/pull/824) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
