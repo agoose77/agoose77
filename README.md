@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#7762](https://github.com/2i2c-org/infrastructure/issues/7762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#4534](https://github.com/the-turing-way/the-turing-way/issues/4534#issuecomment-3998801929) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. ℹ️ Assigned issue [#7843](https://github.com/2i2c-org/infrastructure/issues/7843) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#7843](https://github.com/2i2c-org/infrastructure/issues/7843) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#7842](https://github.com/2i2c-org/infrastructure/issues/7842) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#4534](https://github.com/the-turing-way/the-turing-way/issues/4534#issuecomment-3999549299) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. ❗ Opened issue [#823](https://github.com/jupyter-book/myst-theme/issues/823) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. ℹ️ Unassigned issue [#7762](https://github.com/2i2c-org/infrastructure/issues/7762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#4534](https://github.com/the-turing-way/the-turing-way/issues/4534#issuecomment-3998801929) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. ℹ️ Assigned issue [#7843](https://github.com/2i2c-org/infrastructure/issues/7843) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
