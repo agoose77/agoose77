@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-2. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-3. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-4. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
-5. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+1. 💪 Opened PR [#7836](https://github.com/2i2c-org/infrastructure/pull/7836) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+3. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+4. 🚀 Published release [ Clinder CLI v0.1.3](https://github.com/2i2c-org/clinder/releases/tag/cli-v0.1.3) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
+5. 🚀 Published release [Clinder Action v1.0.2](https://github.com/2i2c-org/clinder/releases/tag/action-v1.0.2) in [2i2c-org/clinder](https://github.com/2i2c-org/clinder)
 <!--END_SECTION:activity-->
