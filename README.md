@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7851](https://github.com/2i2c-org/infrastructure/pull/7851#issuecomment-4007477412) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7851](https://github.com/2i2c-org/infrastructure/pull/7851#issuecomment-4007379383) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7851](https://github.com/2i2c-org/infrastructure/pull/7851) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#4533](https://github.com/the-turing-way/the-turing-way/issues/4533#issuecomment-4005778666) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 💪 Opened PR [#832](https://github.com/jupyter-book/myst-theme/pull/832) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🎉 Merged PR [#7851](https://github.com/2i2c-org/infrastructure/pull/7851) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7843](https://github.com/2i2c-org/infrastructure/issues/7843) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7851](https://github.com/2i2c-org/infrastructure/pull/7851#issuecomment-4007477412) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7851](https://github.com/2i2c-org/infrastructure/pull/7851#issuecomment-4007379383) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#7851](https://github.com/2i2c-org/infrastructure/pull/7851) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
