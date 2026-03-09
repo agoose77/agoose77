@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/2i2c-org/binderhub-service/pull/165) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-2. 🎉 Merged PR [#7881](https://github.com/2i2c-org/infrastructure/pull/7881) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7881](https://github.com/2i2c-org/infrastructure/pull/7881#issuecomment-4026711823) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Labeled issue [#7882](https://github.com/2i2c-org/infrastructure/issues/7882) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#7882](https://github.com/2i2c-org/infrastructure/issues/7882) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#7883](https://github.com/2i2c-org/infrastructure/pull/7883) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#165](https://github.com/2i2c-org/binderhub-service/pull/165) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
+3. 🎉 Merged PR [#7881](https://github.com/2i2c-org/infrastructure/pull/7881) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7881](https://github.com/2i2c-org/infrastructure/pull/7881#issuecomment-4026711823) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#7882](https://github.com/2i2c-org/infrastructure/issues/7882) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
