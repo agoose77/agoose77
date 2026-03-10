@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7885](https://github.com/2i2c-org/infrastructure/pull/7885) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#165](https://github.com/2i2c-org/binderhub-service/pull/165) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-3. 🗣 Commented on [#165](https://github.com/2i2c-org/binderhub-service/pull/165#issuecomment-4027506850) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-4. ℹ️ Assigned issue [#7884](https://github.com/2i2c-org/infrastructure/issues/7884) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Labeled issue [#7884](https://github.com/2i2c-org/infrastructure/issues/7884) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7886](https://github.com/2i2c-org/infrastructure/pull/7886#issuecomment-4031310423) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7356](https://github.com/2i2c-org/infrastructure/issues/7356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7878](https://github.com/2i2c-org/infrastructure/issues/7878) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#7876](https://github.com/2i2c-org/infrastructure/issues/7876) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#7875](https://github.com/2i2c-org/infrastructure/issues/7875) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
