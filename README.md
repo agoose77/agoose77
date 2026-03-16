@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/ProjectPythia/cookbook-gallery/pull/31) in [ProjectPythia/cookbook-gallery](https://github.com/ProjectPythia/cookbook-gallery)
-2. ❌ Closed PR [#27](https://github.com/ProjectPythia/pythia-config/pull/27) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
-3. 🗣 Commented on [#27](https://github.com/ProjectPythia/pythia-config/pull/27#issuecomment-4067570884) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
-4. 💪 Opened PR [#27](https://github.com/ProjectPythia/pythia-config/pull/27) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
-5. 🔒 Closed issue [#7756](https://github.com/2i2c-org/infrastructure/issues/7756) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7679](https://github.com/2i2c-org/infrastructure/issues/7679#issuecomment-4068873432) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#31](https://github.com/ProjectPythia/cookbook-gallery/pull/31) in [ProjectPythia/cookbook-gallery](https://github.com/ProjectPythia/cookbook-gallery)
+3. ❌ Closed PR [#27](https://github.com/ProjectPythia/pythia-config/pull/27) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
+4. 🗣 Commented on [#27](https://github.com/ProjectPythia/pythia-config/pull/27#issuecomment-4067570884) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
+5. 💪 Opened PR [#27](https://github.com/ProjectPythia/pythia-config/pull/27) in [ProjectPythia/pythia-config](https://github.com/ProjectPythia/pythia-config)
 <!--END_SECTION:activity-->
