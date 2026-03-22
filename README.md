@@ -9,7 +9,8 @@ At 2i2c I wok as an Open Source Applications Engineer on [MyST](https://github.c
 My main focus at Princeton was on the [Awkward Array project](awkward-array.org/), a library that makes it possible to 
 > manipulate JSON-like data with NumPy-like idioms.
 
-> I remain an active maintainer of the project. 
+I remain an active maintainer of the project. 
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=agoose77&show_icons=true&hide_rank=true&hide_title=true&bg_color=30,e76445,904e95&text_color=efe3ec&icon_color=efe3ec)
 <!--
