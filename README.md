@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 2. 🔒 Closed issue [#7958](https://github.com/2i2c-org/infrastructure/issues/7958) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 3. 🗣 Commented on [#2767](https://github.com/jupyter-book/mystmd/issues/2767#issuecomment-4111496590) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 4. 💪 Opened PR [#842](https://github.com/jupyter-book/myst-theme/pull/842) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 💪 Opened PR [#1](https://github.com/agoose77/example-anywidget-table/pull/1) in [agoose77/example-anywidget-table](https://github.com/agoose77/example-anywidget-table)
+5. 💪 Opened PR [#1](https://github.com/agoose77/example-anywidget-ast-renderer/pull/1) in [agoose77/example-anywidget-ast-renderer](https://github.com/agoose77/example-anywidget-ast-renderer)
 <!--END_SECTION:activity-->
