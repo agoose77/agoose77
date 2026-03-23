@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#842](https://github.com/jupyter-book/myst-theme/pull/842) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#1](https://github.com/agoose77/example-anywidget-table/pull/1) in [agoose77/example-anywidget-table](https://github.com/agoose77/example-anywidget-table)
-3. ❗ Opened issue [#2601](https://github.com/jupyter-book/jupyter-book/issues/2601) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🎉 Merged PR [#3926](https://github.com/scikit-hep/awkward/pull/3926) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. 💪 Opened PR [#7965](https://github.com/2i2c-org/infrastructure/pull/7965) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7958](https://github.com/2i2c-org/infrastructure/issues/7958) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#2767](https://github.com/jupyter-book/mystmd/issues/2767#issuecomment-4111496590) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 💪 Opened PR [#842](https://github.com/jupyter-book/myst-theme/pull/842) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#1](https://github.com/agoose77/example-anywidget-table/pull/1) in [agoose77/example-anywidget-table](https://github.com/agoose77/example-anywidget-table)
+5. ❗ Opened issue [#2601](https://github.com/jupyter-book/jupyter-book/issues/2601) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
