@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7969](https://github.com/2i2c-org/infrastructure/pull/7969) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled PR [#7969](https://github.com/2i2c-org/infrastructure/pull/7969) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#910](https://github.com/jupyterhub/kubespawner/pull/910#issuecomment-4119578348) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-4. 🎉 Merged PR [#2783](https://github.com/jupyter-book/mystmd/pull/2783) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#7969](https://github.com/2i2c-org/infrastructure/pull/7969) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7968](https://github.com/2i2c-org/infrastructure/issues/7968) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#2786](https://github.com/jupyter-book/mystmd/pull/2786) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#2767](https://github.com/jupyter-book/mystmd/issues/2767#issuecomment-4126357672) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#140](https://github.com/jupyter-xeus/xeus-octave/issues/140#issuecomment-4126354936) in [jupyter-xeus/xeus-octave](https://github.com/jupyter-xeus/xeus-octave)
+5. 🎉 Merged PR [#7969](https://github.com/2i2c-org/infrastructure/pull/7969) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
