@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#7925](https://github.com/2i2c-org/infrastructure/issues/7925) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Unassigned issue [#7925](https://github.com/2i2c-org/infrastructure/issues/7925) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#8032](https://github.com/2i2c-org/infrastructure/issues/8032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8030](https://github.com/2i2c-org/infrastructure/issues/8030) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#8030](https://github.com/2i2c-org/infrastructure/issues/8030) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#2605](https://github.com/jupyter-book/jupyter-book/pull/2605) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. ℹ️ Labeled PR [#2605](https://github.com/jupyter-book/jupyter-book/pull/2605) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. 💪 Opened PR [#2605](https://github.com/jupyter-book/jupyter-book/pull/2605) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. ℹ️ Assigned issue [#7925](https://github.com/2i2c-org/infrastructure/issues/7925) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Unassigned issue [#7925](https://github.com/2i2c-org/infrastructure/issues/7925) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
