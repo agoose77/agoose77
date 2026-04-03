@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/yuvipanda/jupyterbook.pub/pull/5) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🎉 Merged PR [#8018](https://github.com/2i2c-org/infrastructure/pull/8018) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#8016](https://github.com/2i2c-org/infrastructure/issues/8016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8017](https://github.com/2i2c-org/infrastructure/pull/8017) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#8029](https://github.com/2i2c-org/infrastructure/pull/8029) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+2. 💪 Opened PR [#5](https://github.com/yuvipanda/jupyterbook.pub/pull/5) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🎉 Merged PR [#8018](https://github.com/2i2c-org/infrastructure/pull/8018) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#8016](https://github.com/2i2c-org/infrastructure/issues/8016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#8017](https://github.com/2i2c-org/infrastructure/pull/8017) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
