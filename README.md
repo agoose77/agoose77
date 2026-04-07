@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8](https://github.com/yuvipanda/jupyterbook.pub/issues/8) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. ❗ Opened issue [#8](https://github.com/yuvipanda/jupyterbook.pub/issues/8) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-3. 🗣 Commented on [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6#issuecomment-4198059199) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-4. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4197734627) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-5. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4194861388) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+1. 🗣 Commented on [#8056](https://github.com/2i2c-org/infrastructure/issues/8056#issuecomment-4198750721) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#8056](https://github.com/2i2c-org/infrastructure/issues/8056) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#8056](https://github.com/2i2c-org/infrastructure/issues/8056) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#8056](https://github.com/2i2c-org/infrastructure/issues/8056) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#8](https://github.com/yuvipanda/jupyterbook.pub/issues/8) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
 <!--END_SECTION:activity-->
