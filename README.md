@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6#issuecomment-4198059199) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4197734627) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-3. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4194861388) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-4. 🗣 Commented on [#2801](https://github.com/jupyter-book/mystmd/issues/2801#issuecomment-4192655183) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+1. ℹ️ Labeled issue [#8](https://github.com/yuvipanda/jupyterbook.pub/issues/8) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+2. ❗ Opened issue [#8](https://github.com/yuvipanda/jupyterbook.pub/issues/8) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🗣 Commented on [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6#issuecomment-4198059199) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+4. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4197734627) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+5. 🗣 Commented on [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7#issuecomment-4194861388) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
 <!--END_SECTION:activity-->
