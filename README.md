@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4216279844) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4215811779) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. ℹ️ Unassigned issue [#8070](https://github.com/2i2c-org/infrastructure/issues/8070) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#8070](https://github.com/2i2c-org/infrastructure/issues/8070) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4222239171) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🎉 Merged PR [#7](https://github.com/yuvipanda/jupyterbook.pub/pull/7) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4216279844) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4215811779) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. ℹ️ Unassigned issue [#8070](https://github.com/2i2c-org/infrastructure/issues/8070) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
