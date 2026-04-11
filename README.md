@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#854](https://github.com/jupyter-book/myst-theme/pull/854#issuecomment-4229337223) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4226535817) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🔒 Closed issue [#8057](https://github.com/2i2c-org/infrastructure/issues/8057) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#848](https://github.com/jupyter-book/myst-theme/pull/848#issuecomment-4225087761) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. ℹ️ Reopened PR [#848](https://github.com/jupyter-book/myst-theme/pull/848) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🔒 Closed issue [#8015](https://github.com/2i2c-org/infrastructure/issues/8015) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#25](https://github.com/2i2c-org/incident-reports/pull/25) in [2i2c-org/incident-reports](https://github.com/2i2c-org/incident-reports)
+3. 💪 Opened PR [#25](https://github.com/2i2c-org/incident-reports/pull/25) in [2i2c-org/incident-reports](https://github.com/2i2c-org/incident-reports)
+4. 🗣 Commented on [#3278](https://github.com/2i2c-org/infrastructure/issues/3278#issuecomment-4229475197) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#3278](https://github.com/2i2c-org/infrastructure/issues/3278) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
