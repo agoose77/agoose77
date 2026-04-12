@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#823](https://github.com/jupyter-book/myst-theme/issues/823) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#8084](https://github.com/2i2c-org/infrastructure/pull/8084) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🚀 Published release [v0.0.1](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.1) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-4. 🔒 Closed issue [#8015](https://github.com/2i2c-org/infrastructure/issues/8015) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#25](https://github.com/2i2c-org/incident-reports/pull/25) in [2i2c-org/incident-reports](https://github.com/2i2c-org/incident-reports)
+1. 🗣 Commented on [#4533](https://github.com/the-turing-way/the-turing-way/issues/4533#issuecomment-4232607589) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🔒 Closed issue [#823](https://github.com/jupyter-book/myst-theme/issues/823) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 💪 Opened PR [#8084](https://github.com/2i2c-org/infrastructure/pull/8084) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🚀 Published release [v0.0.1](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.1) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+5. 🔒 Closed issue [#8015](https://github.com/2i2c-org/infrastructure/issues/8015) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
