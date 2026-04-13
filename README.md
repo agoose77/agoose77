@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.4) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-2. 🚀 Published release [v0.0.3](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.3) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-3. 🚀 Published release [v0.0.2](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.2) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-4. 🗣 Commented on [#4533](https://github.com/the-turing-way/the-turing-way/issues/4533#issuecomment-4232607589) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🔒 Closed issue [#823](https://github.com/jupyter-book/myst-theme/issues/823) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#7988](https://github.com/2i2c-org/infrastructure/issues/7988#issuecomment-4237878028) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7988](https://github.com/2i2c-org/infrastructure/issues/7988) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🚀 Published release [v0.0.5](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.5) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+4. 🚀 Published release [v0.0.4](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.4) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+5. 🚀 Published release [v0.0.3](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.3) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
 <!--END_SECTION:activity-->
