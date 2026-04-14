@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7988](https://github.com/2i2c-org/infrastructure/issues/7988#issuecomment-4237878028) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#7988](https://github.com/2i2c-org/infrastructure/issues/7988) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🚀 Published release [v0.0.5](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.5) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-4. 🚀 Published release [v0.0.4](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.4) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-5. 🚀 Published release [v0.0.3](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.3) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+1. 🗣 Commented on [#7990](https://github.com/2i2c-org/infrastructure/issues/7990#issuecomment-4242226731) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7990](https://github.com/2i2c-org/infrastructure/issues/7990) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7997](https://github.com/2i2c-org/infrastructure/issues/7997#issuecomment-4242213595) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#8084](https://github.com/2i2c-org/infrastructure/pull/8084) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7988](https://github.com/2i2c-org/infrastructure/issues/7988#issuecomment-4237878028) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
