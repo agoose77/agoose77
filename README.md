@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8131](https://github.com/2i2c-org/infrastructure/issues/8131) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#8131](https://github.com/2i2c-org/infrastructure/issues/8131) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#8130](https://github.com/2i2c-org/infrastructure/issues/8130) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#8130](https://github.com/2i2c-org/infrastructure/issues/8130) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Labeled issue [#8129](https://github.com/2i2c-org/infrastructure/issues/8129) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Unassigned issue [#8117](https://github.com/2i2c-org/infrastructure/issues/8117) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#8133](https://github.com/2i2c-org/infrastructure/issues/8133) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#8133](https://github.com/2i2c-org/infrastructure/issues/8133) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled issue [#6249](https://github.com/2i2c-org/infrastructure/issues/6249) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#8132](https://github.com/2i2c-org/infrastructure/issues/8132) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
