@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#8085](https://github.com/2i2c-org/infrastructure/issues/8085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Unassigned issue [#8085](https://github.com/2i2c-org/infrastructure/issues/8085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8085](https://github.com/2i2c-org/infrastructure/issues/8085#issuecomment-4315077718) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8106](https://github.com/2i2c-org/infrastructure/issues/8106#issuecomment-4315058792) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Unassigned issue [#8106](https://github.com/2i2c-org/infrastructure/issues/8106) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8158](https://github.com/2i2c-org/infrastructure/pull/8158) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8158](https://github.com/2i2c-org/infrastructure/pull/8158) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Unassigned issue [#8085](https://github.com/2i2c-org/infrastructure/issues/8085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Unassigned issue [#8085](https://github.com/2i2c-org/infrastructure/issues/8085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8085](https://github.com/2i2c-org/infrastructure/issues/8085#issuecomment-4315077718) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
