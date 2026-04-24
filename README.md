@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8155](https://github.com/2i2c-org/infrastructure/pull/8155) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#2812](https://github.com/jupyter-book/mystmd/issues/2812#issuecomment-4307950308) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#2812](https://github.com/jupyter-book/mystmd/issues/2812) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#910](https://github.com/jupyterhub/kubespawner/pull/910#issuecomment-4306202260) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-5. 🗣 Commented on [#8140](https://github.com/2i2c-org/infrastructure/pull/8140#issuecomment-4305436422) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#3](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/pull/3) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+2. 💪 Opened PR [#3](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/pull/3) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+3. 🎉 Merged PR [#8155](https://github.com/2i2c-org/infrastructure/pull/8155) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#2818](https://github.com/jupyter-book/mystmd/issues/2818) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#2122](https://github.com/jupyter-book/mystmd/issues/2122) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
