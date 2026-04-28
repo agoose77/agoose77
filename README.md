@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8060](https://github.com/2i2c-org/infrastructure/issues/8060#issuecomment-4336602518) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7840](https://github.com/2i2c-org/infrastructure/issues/7840#issuecomment-4336179744) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#8183](https://github.com/2i2c-org/infrastructure/pull/8183) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8028](https://github.com/2i2c-org/infrastructure/issues/8028#issuecomment-4335673515) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8183](https://github.com/2i2c-org/infrastructure/pull/8183) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#20](https://github.com/volcanocyber/VICTOR-notebook/pull/20) in [volcanocyber/VICTOR-notebook](https://github.com/volcanocyber/VICTOR-notebook)
+2. ℹ️ Assigned issue [#8190](https://github.com/2i2c-org/infrastructure/issues/8190) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#8190](https://github.com/2i2c-org/infrastructure/issues/8190) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8060](https://github.com/2i2c-org/infrastructure/issues/8060#issuecomment-4336602518) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7840](https://github.com/2i2c-org/infrastructure/issues/7840#issuecomment-4336179744) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
