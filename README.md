@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8175](https://github.com/2i2c-org/infrastructure/pull/8175) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8175](https://github.com/2i2c-org/infrastructure/pull/8175) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#2614](https://github.com/jupyter-book/jupyter-book/issues/2614) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. 💪 Opened PR [#20](https://github.com/volcanocyber/VICTOR-notebook/pull/20) in [volcanocyber/VICTOR-notebook](https://github.com/volcanocyber/VICTOR-notebook)
+3. 🎉 Merged PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#8176](https://github.com/2i2c-org/infrastructure/pull/8176) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
