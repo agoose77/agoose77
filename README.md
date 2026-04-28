@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.1) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
-2. 🎉 Merged PR [#20](https://github.com/volcanocyber/VICTOR-notebook/pull/20) in [volcanocyber/VICTOR-notebook](https://github.com/volcanocyber/VICTOR-notebook)
-3. ℹ️ Assigned issue [#8190](https://github.com/2i2c-org/infrastructure/issues/8190) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#8190](https://github.com/2i2c-org/infrastructure/issues/8190) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8060](https://github.com/2i2c-org/infrastructure/issues/8060#issuecomment-4336602518) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#11](https://github.com/yuvipanda/jupyterbook.pub/pull/11) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+2. 💪 Opened PR [#11](https://github.com/yuvipanda/jupyterbook.pub/pull/11) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🚀 Published release [v0.0.2](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.2) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
+4. 🚀 Published release [v0.0.1](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.1) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
+5. 🎉 Merged PR [#20](https://github.com/volcanocyber/VICTOR-notebook/pull/20) in [volcanocyber/VICTOR-notebook](https://github.com/volcanocyber/VICTOR-notebook)
 <!--END_SECTION:activity-->
