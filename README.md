@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/yuvipanda/jupyterbook.pub/issues/9) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🎉 Merged PR [#10](https://github.com/yuvipanda/jupyterbook.pub/pull/10) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-3. 🗣 Commented on [#10](https://github.com/yuvipanda/jupyterbook.pub/pull/10#issuecomment-4338918522) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-4. 🎉 Merged PR [#11](https://github.com/yuvipanda/jupyterbook.pub/pull/11) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-5. 💪 Opened PR [#11](https://github.com/yuvipanda/jupyterbook.pub/pull/11) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+1. 🎉 Merged PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+2. 💪 Opened PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🔒 Closed issue [#9](https://github.com/yuvipanda/jupyterbook.pub/issues/9) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+4. 🎉 Merged PR [#10](https://github.com/yuvipanda/jupyterbook.pub/pull/10) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+5. 🗣 Commented on [#10](https://github.com/yuvipanda/jupyterbook.pub/pull/10#issuecomment-4338918522) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
 <!--END_SECTION:activity-->
