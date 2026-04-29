@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🎉 Merged PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-3. 💪 Opened PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-4. 🔒 Closed issue [#9](https://github.com/yuvipanda/jupyterbook.pub/issues/9) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-5. 🎉 Merged PR [#10](https://github.com/yuvipanda/jupyterbook.pub/pull/10) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+1. 🎉 Merged PR [#8201](https://github.com/2i2c-org/infrastructure/pull/8201) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8201](https://github.com/2i2c-org/infrastructure/pull/8201) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+4. 🎉 Merged PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+5. 💪 Opened PR [#12](https://github.com/yuvipanda/jupyterbook.pub/pull/12) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
 <!--END_SECTION:activity-->
