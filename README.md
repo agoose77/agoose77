@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-2. 🗣 Commented on [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13#issuecomment-4347348024) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-3. ℹ️ Labeled issue [#2836](https://github.com/jupyter-book/mystmd/issues/2836) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#2836](https://github.com/jupyter-book/mystmd/issues/2836) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🔒 Closed issue [#8190](https://github.com/2i2c-org/infrastructure/issues/8190) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#337](https://github.com/jupyter/governance/issues/337#issuecomment-4351410946) in [jupyter/governance](https://github.com/jupyter/governance)
+2. 🎉 Merged PR [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🗣 Commented on [#13](https://github.com/yuvipanda/jupyterbook.pub/pull/13#issuecomment-4347348024) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+4. ℹ️ Labeled issue [#2836](https://github.com/jupyter-book/mystmd/issues/2836) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#2836](https://github.com/jupyter-book/mystmd/issues/2836) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
