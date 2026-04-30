@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/agoose77/gennaker-tools/pull/39) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 💪 Opened PR [#39](https://github.com/agoose77/gennaker-tools/pull/39) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 🚀 Published release [v0.0.3](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.3) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
-4. ❌ Closed PR [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
-5. 🗣 Commented on [#337](https://github.com/jupyter/governance/issues/337#issuecomment-4351410946) in [jupyter/governance](https://github.com/jupyter/governance)
+1. ℹ️ Labeled PR [#39](https://github.com/agoose77/gennaker-tools/pull/39) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 🎉 Merged PR [#39](https://github.com/agoose77/gennaker-tools/pull/39) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 💪 Opened PR [#39](https://github.com/agoose77/gennaker-tools/pull/39) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 🚀 Published release [v0.0.3](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.3) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
+5. ❌ Closed PR [#6](https://github.com/yuvipanda/jupyterbook.pub/pull/6) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
 <!--END_SECTION:activity-->
