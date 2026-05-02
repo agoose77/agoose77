@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/berkeley-cdss/myst-a11y/issues/3) in [berkeley-cdss/myst-a11y](https://github.com/berkeley-cdss/myst-a11y)
-2. 🗣 Commented on [#2770](https://github.com/jupyter-book/mystmd/pull/2770#issuecomment-4364436299) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#8130](https://github.com/2i2c-org/infrastructure/issues/8130) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8130](https://github.com/2i2c-org/infrastructure/issues/8130#issuecomment-4363820670) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#8215](https://github.com/2i2c-org/infrastructure/pull/8215) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#10](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/10) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
+2. 🚀 Published release [v0.0.4](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.4) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
+3. ❗ Opened issue [#3](https://github.com/berkeley-cdss/myst-a11y/issues/3) in [berkeley-cdss/myst-a11y](https://github.com/berkeley-cdss/myst-a11y)
+4. 🗣 Commented on [#2770](https://github.com/jupyter-book/mystmd/pull/2770#issuecomment-4364436299) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#8130](https://github.com/2i2c-org/infrastructure/issues/8130) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
