@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/10) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
-2. 💪 Opened PR [#1](https://github.com/agoose77/ptype-ml-cookbook/pull/1) in [agoose77/ptype-ml-cookbook](https://github.com/agoose77/ptype-ml-cookbook)
-3. 💪 Opened PR [#10](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/10) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
-4. 🚀 Published release [v0.0.4](https://github.com/agoose77/jupyter-book-site-renderer/releases/tag/v0.0.4) in [agoose77/jupyter-book-site-renderer](https://github.com/agoose77/jupyter-book-site-renderer)
-5. ❗ Opened issue [#3](https://github.com/berkeley-cdss/myst-a11y/issues/3) in [berkeley-cdss/myst-a11y](https://github.com/berkeley-cdss/myst-a11y)
+1. 🗣 Commented on [#8206](https://github.com/2i2c-org/infrastructure/issues/8206#issuecomment-4365060358) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8225](https://github.com/2i2c-org/infrastructure/pull/8225) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Closed PR [#10](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/10) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
+4. 💪 Opened PR [#1](https://github.com/agoose77/ptype-ml-cookbook/pull/1) in [agoose77/ptype-ml-cookbook](https://github.com/agoose77/ptype-ml-cookbook)
+5. 💪 Opened PR [#10](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/10) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
 <!--END_SECTION:activity-->
