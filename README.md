@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/batpad/anywidget-experiments/issues/5) in [batpad/anywidget-experiments](https://github.com/batpad/anywidget-experiments)
-2. 🎉 Merged PR [#8231](https://github.com/2i2c-org/infrastructure/pull/8231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#8231](https://github.com/2i2c-org/infrastructure/pull/8231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8228](https://github.com/2i2c-org/infrastructure/issues/8228#issuecomment-4378263954) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8206](https://github.com/2i2c-org/infrastructure/issues/8206#issuecomment-4365060358) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Unlabeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ℹ️ Labeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❗ Opened issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. ❗ Opened issue [#2846](https://github.com/jupyter-book/mystmd/issues/2846) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#5](https://github.com/batpad/anywidget-experiments/issues/5) in [batpad/anywidget-experiments](https://github.com/batpad/anywidget-experiments)
 <!--END_SECTION:activity-->
