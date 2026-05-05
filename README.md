@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ℹ️ Labeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. ❗ Opened issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ❗ Opened issue [#2846](https://github.com/jupyter-book/mystmd/issues/2846) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ❗ Opened issue [#5](https://github.com/batpad/anywidget-experiments/issues/5) in [batpad/anywidget-experiments](https://github.com/batpad/anywidget-experiments)
+1. 🗣 Commented on [#2847](https://github.com/jupyter-book/mystmd/issues/2847#issuecomment-4382015318) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ℹ️ Unlabeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ℹ️ Labeled issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. ❗ Opened issue [#2847](https://github.com/jupyter-book/mystmd/issues/2847) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❗ Opened issue [#2846](https://github.com/jupyter-book/mystmd/issues/2846) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
