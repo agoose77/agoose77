@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/agoose77/jupyterbook-pub-service/pull/1) in [agoose77/jupyterbook-pub-service](https://github.com/agoose77/jupyterbook-pub-service)
-2. 💪 Opened PR [#1](https://github.com/agoose77/jupyterbook-pub-service/pull/1) in [agoose77/jupyterbook-pub-service](https://github.com/agoose77/jupyterbook-pub-service)
-3. 🎉 Merged PR [#8246](https://github.com/2i2c-org/infrastructure/pull/8246) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8246](https://github.com/2i2c-org/infrastructure/pull/8246) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#8243](https://github.com/2i2c-org/infrastructure/pull/8243) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8248](https://github.com/2i2c-org/infrastructure/pull/8248) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8248](https://github.com/2i2c-org/infrastructure/pull/8248) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#1](https://github.com/agoose77/jupyterbook-pub-service/pull/1) in [agoose77/jupyterbook-pub-service](https://github.com/agoose77/jupyterbook-pub-service)
+4. 💪 Opened PR [#1](https://github.com/agoose77/jupyterbook-pub-service/pull/1) in [agoose77/jupyterbook-pub-service](https://github.com/agoose77/jupyterbook-pub-service)
+5. 🎉 Merged PR [#8246](https://github.com/2i2c-org/infrastructure/pull/8246) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
