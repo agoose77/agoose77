@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8271](https://github.com/2i2c-org/infrastructure/issues/8271) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled issue [#40](https://github.com/yuvipanda/repoproviders/issues/40) in [yuvipanda/repoproviders](https://github.com/yuvipanda/repoproviders)
-3. ❗ Opened issue [#40](https://github.com/yuvipanda/repoproviders/issues/40) in [yuvipanda/repoproviders](https://github.com/yuvipanda/repoproviders)
-4. ℹ️ Assigned issue [#8270](https://github.com/2i2c-org/infrastructure/issues/8270) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8270](https://github.com/2i2c-org/infrastructure/issues/8270) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8272](https://github.com/2i2c-org/infrastructure/pull/8272) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8272](https://github.com/2i2c-org/infrastructure/pull/8272) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#5](https://github.com/batpad/anywidget-experiments/issues/5#issuecomment-4408093426) in [batpad/anywidget-experiments](https://github.com/batpad/anywidget-experiments)
+4. ❗ Opened issue [#8271](https://github.com/2i2c-org/infrastructure/issues/8271) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#40](https://github.com/yuvipanda/repoproviders/issues/40) in [yuvipanda/repoproviders](https://github.com/yuvipanda/repoproviders)
 <!--END_SECTION:activity-->
