@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8206](https://github.com/2i2c-org/infrastructure/issues/8206#issuecomment-4404810455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled issue [#59](https://github.com/2i2c-org/initiatives/issues/59) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-3. ℹ️ Labeled issue [#59](https://github.com/2i2c-org/initiatives/issues/59) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-4. ❗ Opened issue [#59](https://github.com/2i2c-org/initiatives/issues/59) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-5. 🎉 Merged PR [#8258](https://github.com/2i2c-org/infrastructure/pull/8258) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#22](https://github.com/yuvipanda/jupyterbook.pub/pull/22) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+2. 💪 Opened PR [#22](https://github.com/yuvipanda/jupyterbook.pub/pull/22) in [yuvipanda/jupyterbook.pub](https://github.com/yuvipanda/jupyterbook.pub)
+3. 🗣 Commented on [#8206](https://github.com/2i2c-org/infrastructure/issues/8206#issuecomment-4404810455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled issue [#59](https://github.com/2i2c-org/initiatives/issues/59) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+5. ℹ️ Labeled issue [#59](https://github.com/2i2c-org/initiatives/issues/59) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
 <!--END_SECTION:activity-->
