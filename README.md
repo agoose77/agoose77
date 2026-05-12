@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8299](https://github.com/2i2c-org/infrastructure/issues/8299) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8298](https://github.com/2i2c-org/infrastructure/issues/8298) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#8297](https://github.com/2i2c-org/infrastructure/issues/8297) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#605](https://github.com/2i2c-org/2i2c-org.github.io/pull/605) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-5. 🗣 Commented on [#108](https://github.com/CIROH-UA/awi-ciroh-image/issues/108#issuecomment-4430103140) in [CIROH-UA/awi-ciroh-image](https://github.com/CIROH-UA/awi-ciroh-image)
+1. ℹ️ Labeled issue [#7743](https://github.com/2i2c-org/infrastructure/issues/7743) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#7163](https://github.com/2i2c-org/infrastructure/issues/7163) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Labeled issue [#7544](https://github.com/2i2c-org/infrastructure/issues/7544) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled issue [#6934](https://github.com/2i2c-org/infrastructure/issues/6934) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#6929](https://github.com/2i2c-org/infrastructure/issues/6929) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
