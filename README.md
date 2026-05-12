@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8291](https://github.com/2i2c-org/infrastructure/pull/8291) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#8291](https://github.com/2i2c-org/infrastructure/pull/8291) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8289](https://github.com/2i2c-org/infrastructure/pull/8289#issuecomment-4428854858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8289](https://github.com/2i2c-org/infrastructure/pull/8289) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8289](https://github.com/2i2c-org/infrastructure/pull/8289) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#108](https://github.com/CIROH-UA/awi-ciroh-image/issues/108#issuecomment-4430103140) in [CIROH-UA/awi-ciroh-image](https://github.com/CIROH-UA/awi-ciroh-image)
+2. 🎉 Merged PR [#8291](https://github.com/2i2c-org/infrastructure/pull/8291) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8291](https://github.com/2i2c-org/infrastructure/pull/8291) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8289](https://github.com/2i2c-org/infrastructure/pull/8289#issuecomment-4428854858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#8289](https://github.com/2i2c-org/infrastructure/pull/8289) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
