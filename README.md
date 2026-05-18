@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2855](https://github.com/jupyter-book/mystmd/pull/2855) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#2852](https://github.com/jupyter-book/mystmd/issues/2852) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2853](https://github.com/jupyter-book/mystmd/pull/2853#issuecomment-4466777943) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#577](https://github.com/jupyterhub/jupyter-server-proxy/pull/577) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
-5. 💪 Opened PR [#8338](https://github.com/2i2c-org/infrastructure/pull/8338) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❌ Closed PR [#3](https://github.com/agoose77/github-action-playground/pull/3) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
+2. 💪 Opened PR [#3](https://github.com/agoose77/github-action-playground/pull/3) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
+3. ❌ Closed PR [#2](https://github.com/agoose77/github-action-playground/pull/2) in [agoose77/github-action-playground](https://github.com/agoose77/github-action-playground)
+4. ❌ Closed PR [#11](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/11) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
+5. ❌ Closed PR [#8225](https://github.com/2i2c-org/infrastructure/pull/8225) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
