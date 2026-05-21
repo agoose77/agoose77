@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/CIROH-UA/NGIAB-CloudInfra/issues/388#issuecomment-4499336162) in [CIROH-UA/NGIAB-CloudInfra](https://github.com/CIROH-UA/NGIAB-CloudInfra)
-2. 🔒 Closed issue [#7840](https://github.com/2i2c-org/infrastructure/issues/7840) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8361](https://github.com/2i2c-org/infrastructure/issues/8361#issuecomment-4498983342) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8361](https://github.com/2i2c-org/infrastructure/issues/8361) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#8361](https://github.com/2i2c-org/infrastructure/issues/8361) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#53](https://github.com/2i2c-org/initiatives/issues/53#issuecomment-4512923336) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+2. 🗣 Commented on [#388](https://github.com/CIROH-UA/NGIAB-CloudInfra/issues/388#issuecomment-4499336162) in [CIROH-UA/NGIAB-CloudInfra](https://github.com/CIROH-UA/NGIAB-CloudInfra)
+3. 🔒 Closed issue [#7840](https://github.com/2i2c-org/infrastructure/issues/7840) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8361](https://github.com/2i2c-org/infrastructure/issues/8361#issuecomment-4498983342) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8361](https://github.com/2i2c-org/infrastructure/issues/8361) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
