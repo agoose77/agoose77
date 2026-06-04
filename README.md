@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/2i2c-org/initiatives/issues/24#issuecomment-4622597859) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. ℹ️ Labeled issue [#67](https://github.com/2i2c-org/initiatives/issues/67) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+1. 💪 Opened PR [#8487](https://github.com/2i2c-org/infrastructure/pull/8487) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#24](https://github.com/2i2c-org/initiatives/issues/24#issuecomment-4622597859) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
 3. ℹ️ Labeled issue [#67](https://github.com/2i2c-org/initiatives/issues/67) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
 4. ℹ️ Labeled issue [#67](https://github.com/2i2c-org/initiatives/issues/67) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
 5. ℹ️ Labeled issue [#67](https://github.com/2i2c-org/initiatives/issues/67) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
