@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#8500](https://github.com/2i2c-org/infrastructure/issues/8500) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#1](https://github.com/HigherEdData/dubois-jupyterlite/pull/1) in [HigherEdData/dubois-jupyterlite](https://github.com/HigherEdData/dubois-jupyterlite)
-3. ❗ Opened issue [#8500](https://github.com/2i2c-org/infrastructure/issues/8500) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#1](https://github.com/HigherEdData/dubois-jupyterlite/pull/1) in [HigherEdData/dubois-jupyterlite](https://github.com/HigherEdData/dubois-jupyterlite)
-5. 🗣 Commented on [#2901](https://github.com/jupyter-book/mystmd/issues/2901#issuecomment-4632728726) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🔒 Closed issue [#24](https://github.com/2i2c-org/initiatives/issues/24) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+2. 🗣 Commented on [#24](https://github.com/2i2c-org/initiatives/issues/24#issuecomment-4658534086) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+3. 💪 Opened PR [#2908](https://github.com/jupyter-book/mystmd/pull/2908) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2579](https://github.com/jupyter-book/mystmd/pull/2579#issuecomment-4658408351) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ❌ Closed PR [#2579](https://github.com/jupyter-book/mystmd/pull/2579) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
