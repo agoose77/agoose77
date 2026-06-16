@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#606](https://github.com/2i2c-org/2i2c-org.github.io/pull/606) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-2. ℹ️ Labeled PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 💪 Opened PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. 🎉 Merged PR [#8539](https://github.com/2i2c-org/infrastructure/pull/8539) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Labeled PR [#8539](https://github.com/2i2c-org/infrastructure/pull/8539) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#605](https://github.com/2i2c-org/2i2c-org.github.io/pull/605) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🎉 Merged PR [#606](https://github.com/2i2c-org/2i2c-org.github.io/pull/606) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. ℹ️ Labeled PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. 💪 Opened PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 🎉 Merged PR [#8539](https://github.com/2i2c-org/infrastructure/pull/8539) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
