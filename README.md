@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#605](https://github.com/2i2c-org/2i2c-org.github.io/pull/605) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-2. 🎉 Merged PR [#606](https://github.com/2i2c-org/2i2c-org.github.io/pull/606) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-3. ℹ️ Labeled PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. 💪 Opened PR [#293](https://github.com/jupyter-book/jupyterlab-myst/pull/293) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-5. 🎉 Merged PR [#8539](https://github.com/2i2c-org/infrastructure/pull/8539) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#8071](https://github.com/2i2c-org/infrastructure/issues/8071) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#8072](https://github.com/2i2c-org/infrastructure/issues/8072) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#154](https://github.com/2i2c-org/jupyterhub-fancy-profiles/issues/154#issuecomment-4723390685) in [2i2c-org/jupyterhub-fancy-profiles](https://github.com/2i2c-org/jupyterhub-fancy-profiles)
+4. 🎉 Merged PR [#605](https://github.com/2i2c-org/2i2c-org.github.io/pull/605) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🎉 Merged PR [#606](https://github.com/2i2c-org/2i2c-org.github.io/pull/606) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
