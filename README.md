@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.7.0](https://github.com/jupyter-book/jupyterlab-myst/releases/tag/v2.7.0) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-2. 🎉 Merged PR [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 🗣 Commented on [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294#issuecomment-4735243928) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-4. ℹ️ Labeled PR [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-5. 🗣 Commented on [#2967](https://github.com/jupyter-book/mystmd/issues/2967#issuecomment-4730871754) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 💪 Opened PR [#2970](https://github.com/jupyter-book/mystmd/pull/2970) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🚀 Published release [v2.7.0](https://github.com/jupyter-book/jupyterlab-myst/releases/tag/v2.7.0) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+3. 🎉 Merged PR [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. 🗣 Commented on [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294#issuecomment-4735243928) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. ℹ️ Labeled PR [#294](https://github.com/jupyter-book/jupyterlab-myst/pull/294) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
