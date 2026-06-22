@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/agoose77/gennaker-tools/pull/47) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-2. 🔒 Closed issue [#2963](https://github.com/jupyter-book/mystmd/issues/2963) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#2970](https://github.com/jupyter-book/mystmd/pull/2970#issuecomment-4759354598) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 💪 Opened PR [#295](https://github.com/jupyter-book/jupyterlab-myst/pull/295) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-5. 🗣 Commented on [#2972](https://github.com/jupyter-book/mystmd/pull/2972#issuecomment-4752877552) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❌ Closed PR [#47](https://github.com/agoose77/gennaker-tools/pull/47) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#47](https://github.com/agoose77/gennaker-tools/pull/47) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 🔒 Closed issue [#2963](https://github.com/jupyter-book/mystmd/issues/2963) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2970](https://github.com/jupyter-book/mystmd/pull/2970#issuecomment-4759354598) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#295](https://github.com/jupyter-book/jupyterlab-myst/pull/295) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
