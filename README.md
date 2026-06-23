@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8241](https://github.com/2i2c-org/infrastructure/issues/8241) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled PR [#49](https://github.com/agoose77/gennaker-tools/pull/49) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 💪 Opened PR [#49](https://github.com/agoose77/gennaker-tools/pull/49) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. 🔒 Closed issue [#2765](https://github.com/jupyter-book/mystmd/issues/2765) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. ℹ️ Labeled issue [#2974](https://github.com/jupyter-book/mystmd/issues/2974) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#8573](https://github.com/2i2c-org/infrastructure/pull/8573) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8573](https://github.com/2i2c-org/infrastructure/pull/8573) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#8560](https://github.com/2i2c-org/infrastructure/issues/8560) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#8241](https://github.com/2i2c-org/infrastructure/issues/8241) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled PR [#49](https://github.com/agoose77/gennaker-tools/pull/49) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
 <!--END_SECTION:activity-->
