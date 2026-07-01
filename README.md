@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#8655](https://github.com/2i2c-org/infrastructure/issues/8655) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8655](https://github.com/2i2c-org/infrastructure/issues/8655) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#8655](https://github.com/2i2c-org/infrastructure/issues/8655) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8652](https://github.com/2i2c-org/infrastructure/pull/8652) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8651](https://github.com/2i2c-org/infrastructure/issues/8651#issuecomment-4844862944) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Labeled PR [#8662](https://github.com/2i2c-org/infrastructure/pull/8662) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#8665](https://github.com/2i2c-org/infrastructure/pull/8665#issuecomment-4853073348) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Closed PR [#8665](https://github.com/2i2c-org/infrastructure/pull/8665) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled PR [#8665](https://github.com/2i2c-org/infrastructure/pull/8665) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8664](https://github.com/2i2c-org/infrastructure/pull/8664#issuecomment-4853055517) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
