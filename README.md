@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8669](https://github.com/2i2c-org/infrastructure/pull/8669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#918](https://github.com/jupyterhub/kubespawner/pull/918#issuecomment-4857262476) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-3. ❗ Opened issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8568](https://github.com/2i2c-org/infrastructure/issues/8568) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8610](https://github.com/2i2c-org/infrastructure/issues/8610) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#920](https://github.com/jupyter-book/myst-theme/pull/920) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 💪 Opened PR [#8669](https://github.com/2i2c-org/infrastructure/pull/8669) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#918](https://github.com/jupyterhub/kubespawner/pull/918#issuecomment-4857262476) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+4. ❗ Opened issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8568](https://github.com/2i2c-org/infrastructure/issues/8568) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
