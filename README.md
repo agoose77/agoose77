@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8694](https://github.com/2i2c-org/infrastructure/issues/8694) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#51](https://github.com/agoose77/gennaker-tools/pull/51) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-3. 🎉 Merged PR [#8693](https://github.com/2i2c-org/infrastructure/pull/8693) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8693](https://github.com/2i2c-org/infrastructure/pull/8693) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#920](https://github.com/jupyter-book/myst-theme/pull/920#issuecomment-4893937757) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#8523](https://github.com/2i2c-org/infrastructure/pull/8523#issuecomment-4912861988) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#8694](https://github.com/2i2c-org/infrastructure/issues/8694) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#51](https://github.com/agoose77/gennaker-tools/pull/51) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. 🎉 Merged PR [#8693](https://github.com/2i2c-org/infrastructure/pull/8693) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#8693](https://github.com/2i2c-org/infrastructure/pull/8693) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
