@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4937359350) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#828](https://github.com/jupyter-book/myst-theme/issues/828#issuecomment-4936047469) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#828](https://github.com/jupyter-book/myst-theme/issues/828#issuecomment-4935746130) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 💪 Opened PR [#925](https://github.com/jupyter-book/myst-theme/pull/925) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 💪 Opened PR [#924](https://github.com/jupyter-book/myst-theme/pull/924) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#88](https://github.com/2i2c-org/jupyterhub-home-nfs/issues/88#issuecomment-4939839721) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+2. 🎉 Merged PR [#89](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/89) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+3. 💪 Opened PR [#89](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/89) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+4. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4937359350) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#828](https://github.com/jupyter-book/myst-theme/issues/828#issuecomment-4936047469) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
