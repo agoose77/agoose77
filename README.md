@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8718](https://github.com/2i2c-org/infrastructure/pull/8718#issuecomment-4956358893) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8718](https://github.com/2i2c-org/infrastructure/pull/8718#issuecomment-4956338929) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4955689767) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4945011419) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4943195888) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🚀 Published release [v0.0.1](https://github.com/agoose77/hucl/releases/tag/v0.0.1) in [agoose77/hucl](https://github.com/agoose77/hucl)
+2. 🗣 Commented on [#8651](https://github.com/2i2c-org/infrastructure/issues/8651#issuecomment-4958853602) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8718](https://github.com/2i2c-org/infrastructure/pull/8718#issuecomment-4956358893) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8718](https://github.com/2i2c-org/infrastructure/pull/8718#issuecomment-4956338929) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-4955689767) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
