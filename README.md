@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/agoose77/hucl/releases/tag/v0.0.3) in [agoose77/hucl](https://github.com/agoose77/hucl)
-2. 🚀 Published release [v0.0.2](https://github.com/agoose77/hucl/releases/tag/v0.0.2) in [agoose77/hucl](https://github.com/agoose77/hucl)
-3. 💪 Opened PR [#79](https://github.com/2i2c-org/utoronto-image/pull/79) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-4. 🚀 Published release [v0.0.1](https://github.com/agoose77/hucl/releases/tag/v0.0.1) in [agoose77/hucl](https://github.com/agoose77/hucl)
-5. 🗣 Commented on [#8651](https://github.com/2i2c-org/infrastructure/issues/8651#issuecomment-4958853602) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#8735](https://github.com/2i2c-org/infrastructure/pull/8735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🚀 Published release [v0.0.3](https://github.com/agoose77/hucl/releases/tag/v0.0.3) in [agoose77/hucl](https://github.com/agoose77/hucl)
+3. 🚀 Published release [v0.0.2](https://github.com/agoose77/hucl/releases/tag/v0.0.2) in [agoose77/hucl](https://github.com/agoose77/hucl)
+4. 💪 Opened PR [#79](https://github.com/2i2c-org/utoronto-image/pull/79) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+5. 🚀 Published release [v0.0.1](https://github.com/agoose77/hucl/releases/tag/v0.0.1) in [agoose77/hucl](https://github.com/agoose77/hucl)
 <!--END_SECTION:activity-->
