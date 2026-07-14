@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/agoose77/hucl/releases/tag/v0.0.4) in [agoose77/hucl](https://github.com/agoose77/hucl)
-2. 🔒 Closed issue [#8736](https://github.com/2i2c-org/infrastructure/issues/8736) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Assigned issue [#8736](https://github.com/2i2c-org/infrastructure/issues/8736) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#8736](https://github.com/2i2c-org/infrastructure/issues/8736) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#8735](https://github.com/2i2c-org/infrastructure/pull/8735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#8738](https://github.com/2i2c-org/infrastructure/pull/8738) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#8468](https://github.com/2i2c-org/infrastructure/issues/8468#issuecomment-4971033255) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#2497](https://github.com/2i2c-org/infrastructure/issues/2497#issuecomment-4971019935) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#8737](https://github.com/2i2c-org/infrastructure/issues/8737) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#8737](https://github.com/2i2c-org/infrastructure/issues/8737) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
