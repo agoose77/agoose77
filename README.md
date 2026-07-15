@@ -6,7 +6,7 @@ I have experience in many aspects of software engineering, including game design
 
 At 2i2c I wok as an Open Source Applications Engineer on [MyST](https://github.com/jupyter-book/mystmd) community building, tooling, and the wider ecosystem. 
 
-My main focus at Princeton was on the [Awkward Array project](awkward-array.org/), a library that makes it possible to 
+My main focus at Princeton was on the [Awkward Array project](https://awkward-array.org/), a library that makes it possible to 
 > manipulate JSON-like data with NumPy-like idioms.
 
 I remain an active maintainer of the project. 
