@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8756](https://github.com/2i2c-org/infrastructure/pull/8756) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#8756](https://github.com/2i2c-org/infrastructure/pull/8756) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#8755](https://github.com/2i2c-org/infrastructure/pull/8755) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8755](https://github.com/2i2c-org/infrastructure/pull/8755) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#8517](https://github.com/2i2c-org/infrastructure/issues/8517) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#2044](https://github.com/jupyterhub/binderhub/pull/2044#issuecomment-4993512097) in [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub)
+2. 🗣 Commented on [#7959](https://github.com/2i2c-org/infrastructure/issues/7959#issuecomment-4993386016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7959](https://github.com/2i2c-org/infrastructure/issues/7959) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5708](https://github.com/emscripten-forge/recipes/pull/5708#issuecomment-4993371989) in [emscripten-forge/recipes](https://github.com/emscripten-forge/recipes)
+5. 🗣 Commented on [#8517](https://github.com/2i2c-org/infrastructure/issues/8517#issuecomment-4993354204) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
