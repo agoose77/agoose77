@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8769](https://github.com/2i2c-org/infrastructure/pull/8769) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8769](https://github.com/2i2c-org/infrastructure/pull/8769#issuecomment-5023569014) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#8769](https://github.com/2i2c-org/infrastructure/pull/8769) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8768](https://github.com/2i2c-org/infrastructure/pull/8768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8768](https://github.com/2i2c-org/infrastructure/pull/8768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8681](https://github.com/2i2c-org/infrastructure/issues/8681#issuecomment-5024785159) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#51](https://github.com/agoose77/gennaker-tools/pull/51) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. 🎉 Merged PR [#12](https://github.com/ProjectPythia/ptype-ml-cookbook/pull/12) in [ProjectPythia/ptype-ml-cookbook](https://github.com/ProjectPythia/ptype-ml-cookbook)
+4. 🎉 Merged PR [#8769](https://github.com/2i2c-org/infrastructure/pull/8769) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8769](https://github.com/2i2c-org/infrastructure/pull/8769#issuecomment-5023569014) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
