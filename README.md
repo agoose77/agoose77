@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8777](https://github.com/2i2c-org/infrastructure/pull/8777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#8777](https://github.com/2i2c-org/infrastructure/pull/8777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#5639](https://github.com/make-all/tuya-local/issues/5639) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-4. ❗ Opened issue [#5639](https://github.com/make-all/tuya-local/issues/5639) in [make-all/tuya-local](https://github.com/make-all/tuya-local)
-5. 🗣 Commented on [#8681](https://github.com/2i2c-org/infrastructure/issues/8681#issuecomment-5024785159) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8780](https://github.com/2i2c-org/infrastructure/pull/8780) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8780](https://github.com/2i2c-org/infrastructure/pull/8780) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8779](https://github.com/2i2c-org/infrastructure/pull/8779) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#8777](https://github.com/2i2c-org/infrastructure/pull/8777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#8777](https://github.com/2i2c-org/infrastructure/pull/8777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
