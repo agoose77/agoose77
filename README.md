@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/2i2c-org/initiatives/issues/29) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. 🗣 Commented on [#8506](https://github.com/2i2c-org/infrastructure/issues/8506#issuecomment-5045496345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#8506](https://github.com/2i2c-org/infrastructure/issues/8506) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❌ Closed PR [#167](https://github.com/ProjectPythia/cookbook-actions/pull/167) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
-5. ℹ️ Labeled issue [#194](https://github.com/ProjectPythia/cookbook-actions/issues/194) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+1. ℹ️ Assigned issue [#8790](https://github.com/2i2c-org/infrastructure/issues/8790) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#8790](https://github.com/2i2c-org/infrastructure/issues/8790) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#128](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/128#issuecomment-5047740405) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
+4. 🔒 Closed issue [#8747](https://github.com/2i2c-org/infrastructure/issues/8747) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8737](https://github.com/2i2c-org/infrastructure/issues/8737#issuecomment-5047650166) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
