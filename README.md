@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#8790](https://github.com/2i2c-org/infrastructure/issues/8790) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#8790](https://github.com/2i2c-org/infrastructure/issues/8790) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#128](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/128#issuecomment-5047740405) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-4. 🔒 Closed issue [#8747](https://github.com/2i2c-org/infrastructure/issues/8747) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8737](https://github.com/2i2c-org/infrastructure/issues/8737#issuecomment-5047650166) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8794](https://github.com/2i2c-org/infrastructure/pull/8794) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#8793](https://github.com/2i2c-org/infrastructure/pull/8793) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8794](https://github.com/2i2c-org/infrastructure/pull/8794) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#8793](https://github.com/2i2c-org/infrastructure/pull/8793) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8790](https://github.com/2i2c-org/infrastructure/issues/8790) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
