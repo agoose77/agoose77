@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8506](https://github.com/2i2c-org/infrastructure/issues/8506#issuecomment-5045388967) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#192](https://github.com/ProjectPythia/cookbook-actions/pull/192#issuecomment-5045216473) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
-3. 🎉 Merged PR [#192](https://github.com/ProjectPythia/cookbook-actions/pull/192) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
-4. 🗣 Commented on [#192](https://github.com/ProjectPythia/cookbook-actions/pull/192#issuecomment-5045014968) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
-5. 💪 Opened PR [#192](https://github.com/ProjectPythia/cookbook-actions/pull/192) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+1. 🔒 Closed issue [#29](https://github.com/2i2c-org/initiatives/issues/29) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+2. 🗣 Commented on [#8506](https://github.com/2i2c-org/infrastructure/issues/8506#issuecomment-5045496345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#8506](https://github.com/2i2c-org/infrastructure/issues/8506) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❌ Closed PR [#167](https://github.com/ProjectPythia/cookbook-actions/pull/167) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
+5. ℹ️ Labeled issue [#194](https://github.com/ProjectPythia/cookbook-actions/issues/194) in [ProjectPythia/cookbook-actions](https://github.com/ProjectPythia/cookbook-actions)
 <!--END_SECTION:activity-->
