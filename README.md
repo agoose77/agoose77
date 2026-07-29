@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8651](https://github.com/2i2c-org/infrastructure/issues/8651#issuecomment-5104120636) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#8828](https://github.com/2i2c-org/infrastructure/pull/8828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled PR [#8828](https://github.com/2i2c-org/infrastructure/pull/8828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8828](https://github.com/2i2c-org/infrastructure/pull/8828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#2](https://github.com/HigherEdData/dubois-jupyterlite/pull/2) in [HigherEdData/dubois-jupyterlite](https://github.com/HigherEdData/dubois-jupyterlite)
+1. ❗ Opened issue [#8836](https://github.com/2i2c-org/infrastructure/issues/8836) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7783](https://github.com/2i2c-org/infrastructure/issues/7783) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7782](https://github.com/2i2c-org/infrastructure/issues/7782) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#7781](https://github.com/2i2c-org/infrastructure/issues/7781) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8651](https://github.com/2i2c-org/infrastructure/issues/8651#issuecomment-5104120636) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
