@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8855](https://github.com/2i2c-org/infrastructure/pull/8855) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#8855](https://github.com/2i2c-org/infrastructure/pull/8855) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#8618](https://github.com/2i2c-org/infrastructure/issues/8618) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8845](https://github.com/2i2c-org/infrastructure/pull/8845) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8618](https://github.com/2i2c-org/infrastructure/issues/8618#issuecomment-5142781049) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#8856](https://github.com/2i2c-org/infrastructure/issues/8856) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#8856](https://github.com/2i2c-org/infrastructure/issues/8856) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#8856](https://github.com/2i2c-org/infrastructure/issues/8856) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#289](https://github.com/jupyter-ai-contrib/jupyter-server-documents/issues/289) in [jupyter-ai-contrib/jupyter-server-documents](https://github.com/jupyter-ai-contrib/jupyter-server-documents)
+5. 🗣 Commented on [#3019](https://github.com/jupyter-book/mystmd/pull/3019#issuecomment-5165168316) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
