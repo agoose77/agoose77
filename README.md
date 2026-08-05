@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3020](https://github.com/jupyter-book/mystmd/issues/3020) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❗ Opened issue [#3020](https://github.com/jupyter-book/mystmd/issues/3020) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#2648](https://github.com/jupyter-book/jupyter-book/issues/2648) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. ℹ️ Labeled PR [#2978](https://github.com/jupyter-book/mystmd/pull/2978) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#8788](https://github.com/2i2c-org/infrastructure/issues/8788#issuecomment-5184325326) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#54](https://github.com/agoose77/gennaker-tools/pull/54) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+2. 💪 Opened PR [#54](https://github.com/agoose77/gennaker-tools/pull/54) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+3. ℹ️ Labeled issue [#3020](https://github.com/jupyter-book/mystmd/issues/3020) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. ❗ Opened issue [#3020](https://github.com/jupyter-book/mystmd/issues/3020) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#2648](https://github.com/jupyter-book/jupyter-book/issues/2648) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
