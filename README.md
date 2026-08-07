@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#912](https://github.com/jupyter-book/myst-theme/pull/912#issuecomment-5218507889) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#911](https://github.com/jupyter-book/myst-theme/issues/911#issuecomment-5218495526) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#8868](https://github.com/2i2c-org/infrastructure/issues/8868#issuecomment-5217529613) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185#issuecomment-5217268284) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. ℹ️ Labeled issue [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. 💪 Opened PR [#8874](https://github.com/2i2c-org/infrastructure/pull/8874) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Unassigned issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Assigned issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#912](https://github.com/jupyter-book/myst-theme/pull/912#issuecomment-5218507889) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
