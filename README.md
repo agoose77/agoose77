@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185#issuecomment-5217268284) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-2. ℹ️ Labeled issue [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-3. ❗ Opened issue [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-4. 🗣 Commented on [#8814](https://github.com/2i2c-org/infrastructure/issues/8814#issuecomment-5207136153) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8814](https://github.com/2i2c-org/infrastructure/issues/8814) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8868](https://github.com/2i2c-org/infrastructure/issues/8868#issuecomment-5217529613) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185#issuecomment-5217268284) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+3. ℹ️ Labeled issue [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. ❗ Opened issue [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🗣 Commented on [#8814](https://github.com/2i2c-org/infrastructure/issues/8814#issuecomment-5207136153) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
