@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5219657559) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
-2. 💪 Opened PR [#8874](https://github.com/2i2c-org/infrastructure/pull/8874) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Unassigned issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#8873](https://github.com/2i2c-org/infrastructure/issues/8873) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5221071879) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
+2. 🎉 Merged PR [#8874](https://github.com/2i2c-org/infrastructure/pull/8874) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5220961741) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
+4. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5220932194) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
+5. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5219657559) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
 <!--END_SECTION:activity-->
