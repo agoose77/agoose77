@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5227524874) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
-2. 🔒 Closed issue [#3010](https://github.com/jupyter-book/mystmd/issues/3010) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#3023](https://github.com/jupyter-book/mystmd/pull/3023#issuecomment-5227477765) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5221071879) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
-5. 🎉 Merged PR [#8874](https://github.com/2i2c-org/infrastructure/pull/8874) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#4](https://github.com/agoose77/nixos-config/issues/4) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+2. 🔒 Closed issue [#2](https://github.com/agoose77/nixos-config/issues/2) in [agoose77/nixos-config](https://github.com/agoose77/nixos-config)
+3. 🗣 Commented on [#70](https://github.com/NASA-IMPACT/science-support/issues/70#issuecomment-5227524874) in [NASA-IMPACT/science-support](https://github.com/NASA-IMPACT/science-support)
+4. 🔒 Closed issue [#3010](https://github.com/jupyter-book/mystmd/issues/3010) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#3023](https://github.com/jupyter-book/mystmd/pull/3023#issuecomment-5227477765) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
