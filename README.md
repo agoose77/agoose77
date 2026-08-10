@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/81) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-2. 🗣 Commented on [#3011](https://github.com/jupyter-book/mystmd/issues/3011#issuecomment-5238826789) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#3022](https://github.com/jupyter-book/mystmd/issues/3022#issuecomment-5238105644) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#830](https://github.com/jupyter-book/myst-theme/pull/830#issuecomment-5237988003) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🔒 Closed issue [#890](https://github.com/jupyter-book/myst-theme/issues/890) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#8877](https://github.com/2i2c-org/infrastructure/issues/8877) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#75](https://github.com/2i2c-org/initiatives/issues/75#issuecomment-5241793783) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+3. 🗣 Commented on [#8873](https://github.com/2i2c-org/infrastructure/issues/8873#issuecomment-5241721406) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8876](https://github.com/2i2c-org/infrastructure/issues/8876#issuecomment-5241312597) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#8876](https://github.com/2i2c-org/infrastructure/issues/8876) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
