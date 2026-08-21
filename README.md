@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8948](https://github.com/2i2c-org/infrastructure/pull/8948#issuecomment-5367838451) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8221](https://github.com/2i2c-org/infrastructure/issues/8221#issuecomment-5361773626) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#96](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/96) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-4. 💪 Opened PR [#96](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/96) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
-5. 🗣 Commented on [#6](https://github.com/CryoInTheCloud/image-cryo-python-AI/issues/6#issuecomment-5355089694) in [CryoInTheCloud/image-cryo-python-AI](https://github.com/CryoInTheCloud/image-cryo-python-AI)
+1. 💪 Opened PR [#97](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/97) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+2. ❗ Opened issue [#8951](https://github.com/2i2c-org/infrastructure/issues/8951) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8948](https://github.com/2i2c-org/infrastructure/pull/8948#issuecomment-5367838451) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8221](https://github.com/2i2c-org/infrastructure/issues/8221#issuecomment-5361773626) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#96](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/96) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
 <!--END_SECTION:activity-->
