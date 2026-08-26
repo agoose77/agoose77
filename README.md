@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1553](https://github.com/voila-dashboards/voila/issues/1553#issuecomment-5424440713) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
-2. ℹ️ Labeled issue [#8844](https://github.com/2i2c-org/infrastructure/issues/8844) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Unlabeled issue [#8844](https://github.com/2i2c-org/infrastructure/issues/8844) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8965](https://github.com/2i2c-org/infrastructure/issues/8965#issuecomment-5412467987) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#8965](https://github.com/2i2c-org/infrastructure/issues/8965) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8844](https://github.com/2i2c-org/infrastructure/issues/8844#issuecomment-5425298340) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#8985](https://github.com/2i2c-org/infrastructure/pull/8985) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8985](https://github.com/2i2c-org/infrastructure/pull/8985) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#63](https://github.com/2i2c-org/initiatives/issues/63#issuecomment-5424947438) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+5. 🗣 Commented on [#1553](https://github.com/voila-dashboards/voila/issues/1553#issuecomment-5424440713) in [voila-dashboards/voila](https://github.com/voila-dashboards/voila)
 <!--END_SECTION:activity-->
