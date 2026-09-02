@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#58](https://github.com/agoose77/gennaker-tools/pull/58) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-4. ℹ️ Labeled PR [#58](https://github.com/agoose77/gennaker-tools/pull/58) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
-5. 💪 Opened PR [#58](https://github.com/agoose77/gennaker-tools/pull/58) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+1. 🔒 Closed issue [#3043](https://github.com/jupyter-book/mystmd/issues/3043) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#9046](https://github.com/2i2c-org/infrastructure/pull/9046) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🚀 Published release [v0.0.6](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.6) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
+4. 🎉 Merged PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
