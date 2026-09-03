@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8916](https://github.com/2i2c-org/infrastructure/issues/8916#issuecomment-5529034297) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔓 Reopened issue [#8916](https://github.com/2i2c-org/infrastructure/issues/8916) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#3048](https://github.com/jupyter-book/mystmd/pull/3048) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#941](https://github.com/jupyter-book/myst-theme/pull/941#issuecomment-5530743930) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🎉 Merged PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#9050](https://github.com/2i2c-org/infrastructure/pull/9050) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
