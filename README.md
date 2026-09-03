@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3043](https://github.com/jupyter-book/mystmd/issues/3043) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#9046](https://github.com/2i2c-org/infrastructure/pull/9046) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🚀 Published release [v0.0.6](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers/releases/tag/v0.0.6) in [2i2c-org/jupyterhub-oauthenticator-authz-helpers](https://github.com/2i2c-org/jupyterhub-oauthenticator-authz-helpers)
-4. 🎉 Merged PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#9043](https://github.com/2i2c-org/infrastructure/pull/9043) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#8919](https://github.com/2i2c-org/infrastructure/issues/8919) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled PR [#9008](https://github.com/2i2c-org/infrastructure/pull/9008) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#9008](https://github.com/2i2c-org/infrastructure/pull/9008#issuecomment-5525521764) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#9008](https://github.com/2i2c-org/infrastructure/pull/9008#issuecomment-5525284665) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#9008](https://github.com/2i2c-org/infrastructure/pull/9008#issuecomment-5524938499) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
