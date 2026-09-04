@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/2i2c-org/binderhub-service/pull/172) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-2. 🎉 Merged PR [#3048](https://github.com/jupyter-book/mystmd/pull/3048) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 💪 Opened PR [#172](https://github.com/2i2c-org/binderhub-service/pull/172) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
-4. 💪 Opened PR [#3048](https://github.com/jupyter-book/mystmd/pull/3048) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#941](https://github.com/jupyter-book/myst-theme/pull/941#issuecomment-5530743930) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🗣 Commented on [#9053](https://github.com/2i2c-org/infrastructure/pull/9053#issuecomment-5540770209) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#9053](https://github.com/2i2c-org/infrastructure/pull/9053) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#172](https://github.com/2i2c-org/binderhub-service/pull/172) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
+4. 🎉 Merged PR [#3048](https://github.com/jupyter-book/mystmd/pull/3048) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 💪 Opened PR [#172](https://github.com/2i2c-org/binderhub-service/pull/172) in [2i2c-org/binderhub-service](https://github.com/2i2c-org/binderhub-service)
 <!--END_SECTION:activity-->
