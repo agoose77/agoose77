@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6907](https://github.com/2i2c-org/infrastructure/issues/6907#issuecomment-5570855351) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#40](https://github.com/conda-forge/dagmc-feedstock/pull/40#issuecomment-5570538507) in [conda-forge/dagmc-feedstock](https://github.com/conda-forge/dagmc-feedstock)
-3. ❗ Opened issue [#102](https://github.com/jupyter-book/team-compass/issues/102) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
-4. ❗ Opened issue [#9060](https://github.com/2i2c-org/infrastructure/issues/9060) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8965](https://github.com/2i2c-org/infrastructure/issues/8965) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#941](https://github.com/jupyter-book/myst-theme/pull/941#issuecomment-5617775512) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#6907](https://github.com/2i2c-org/infrastructure/issues/6907#issuecomment-5570855351) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#40](https://github.com/conda-forge/dagmc-feedstock/pull/40#issuecomment-5570538507) in [conda-forge/dagmc-feedstock](https://github.com/conda-forge/dagmc-feedstock)
+4. ❗ Opened issue [#102](https://github.com/jupyter-book/team-compass/issues/102) in [jupyter-book/team-compass](https://github.com/jupyter-book/team-compass)
+5. ❗ Opened issue [#9060](https://github.com/2i2c-org/infrastructure/issues/9060) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
