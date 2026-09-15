@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9085](https://github.com/2i2c-org/infrastructure/pull/9085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#9085](https://github.com/2i2c-org/infrastructure/pull/9085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#302](https://github.com/jupyter-book/jupyterlab-myst/issues/302) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+1. 🗣 Commented on [#3047](https://github.com/jupyter-book/mystmd/pull/3047#issuecomment-5688720463) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❌ Closed PR [#9085](https://github.com/2i2c-org/infrastructure/pull/9085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#9085](https://github.com/2i2c-org/infrastructure/pull/9085) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 4. 🔒 Closed issue [#302](https://github.com/jupyter-book/jupyterlab-myst/issues/302) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-5. 🎉 Merged PR [#295](https://github.com/jupyter-book/jupyterlab-myst/pull/295) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+5. 🔒 Closed issue [#302](https://github.com/jupyter-book/jupyterlab-myst/issues/302) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
 <!--END_SECTION:activity-->
