@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9084](https://github.com/2i2c-org/infrastructure/issues/9084) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#9083](https://github.com/2i2c-org/infrastructure/pull/9083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled PR [#9083](https://github.com/2i2c-org/infrastructure/pull/9083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#9083](https://github.com/2i2c-org/infrastructure/pull/9083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#925](https://github.com/jupyter-book/myst-theme/pull/925#issuecomment-5671623323) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. ❗ Opened issue [#2672](https://github.com/jupyter-book/jupyter-book/issues/2672) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+2. ❗ Opened issue [#2670](https://github.com/jupyter-book/jupyter-book/issues/2670) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. ℹ️ Labeled PR [#59](https://github.com/agoose77/gennaker-tools/pull/59) in [agoose77/gennaker-tools](https://github.com/agoose77/gennaker-tools)
+4. ❗ Opened issue [#9084](https://github.com/2i2c-org/infrastructure/issues/9084) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#9083](https://github.com/2i2c-org/infrastructure/pull/9083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
