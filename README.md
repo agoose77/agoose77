@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9092](https://github.com/2i2c-org/infrastructure/issues/9092) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8951](https://github.com/2i2c-org/infrastructure/issues/8951#issuecomment-5701978811) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8951](https://github.com/2i2c-org/infrastructure/issues/8951#issuecomment-5701974782) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8109](https://github.com/2i2c-org/infrastructure/issues/8109#issuecomment-5701930861) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8109](https://github.com/2i2c-org/infrastructure/issues/8109) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#941](https://github.com/jupyter-book/myst-theme/pull/941#issuecomment-5704769165) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#3035](https://github.com/jupyter-book/mystmd/pull/3035#issuecomment-5703499296) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#3040](https://github.com/jupyter-book/mystmd/pull/3040#issuecomment-5703477533) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#3044](https://github.com/jupyter-book/mystmd/pull/3044#issuecomment-5703447595) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🎉 Merged PR [#9095](https://github.com/2i2c-org/infrastructure/pull/9095) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
