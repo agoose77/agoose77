@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#600](https://github.com/MAAP-Project/maap-documentation/pull/600#issuecomment-5777656522) in [MAAP-Project/maap-documentation](https://github.com/MAAP-Project/maap-documentation)
-2. ℹ️ Assigned issue [#9120](https://github.com/2i2c-org/infrastructure/issues/9120) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9120](https://github.com/2i2c-org/infrastructure/issues/9120) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#128](https://github.com/conda-forge/mystmd-feedstock/issues/128) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-5. ❗ Opened issue [#128](https://github.com/conda-forge/mystmd-feedstock/issues/128) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+1. 💪 Opened PR [#961](https://github.com/jupyter-book/myst-theme/pull/961) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🎉 Merged PR [#9121](https://github.com/2i2c-org/infrastructure/pull/9121) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Labeled PR [#9121](https://github.com/2i2c-org/infrastructure/pull/9121) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#9121](https://github.com/2i2c-org/infrastructure/pull/9121) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#960](https://github.com/jupyter-book/myst-theme/pull/960) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
