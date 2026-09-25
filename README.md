@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3064](https://github.com/jupyter-book/mystmd/pull/3064) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#3063](https://github.com/jupyter-book/mystmd/issues/3063) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🗣 Commented on [#3063](https://github.com/jupyter-book/mystmd/issues/3063#issuecomment-5832006605) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. ℹ️ Labeled issue [#2](https://github.com/myst-contrib/myst-named-kernels/issues/2) in [myst-contrib/myst-named-kernels](https://github.com/myst-contrib/myst-named-kernels)
-5. ❗ Opened issue [#2](https://github.com/myst-contrib/myst-named-kernels/issues/2) in [myst-contrib/myst-named-kernels](https://github.com/myst-contrib/myst-named-kernels)
+1. 💪 Opened PR [#99](https://github.com/2i2c-org/jupyterhub-home-nfs/pull/99) in [2i2c-org/jupyterhub-home-nfs](https://github.com/2i2c-org/jupyterhub-home-nfs)
+2. 💪 Opened PR [#3064](https://github.com/jupyter-book/mystmd/pull/3064) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔒 Closed issue [#3063](https://github.com/jupyter-book/mystmd/issues/3063) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#3063](https://github.com/jupyter-book/mystmd/issues/3063#issuecomment-5832006605) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. ℹ️ Labeled issue [#2](https://github.com/myst-contrib/myst-named-kernels/issues/2) in [myst-contrib/myst-named-kernels](https://github.com/myst-contrib/myst-named-kernels)
 <!--END_SECTION:activity-->
