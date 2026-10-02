@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.4.3](https://github.com/jupyter-book/jupyterlab-myst/releases/tag/v2.4.3) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-2. 🗣 Commented on [#970](https://github.com/jupyter-book/myst-theme/pull/970#issuecomment-5951752305) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🗣 Commented on [#970](https://github.com/jupyter-book/myst-theme/pull/970#issuecomment-5951731576) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#13](https://github.com/jupyterhub/roadmap/issues/13#issuecomment-5939544699) in [jupyterhub/roadmap](https://github.com/jupyterhub/roadmap)
-5. 🗣 Commented on [#9084](https://github.com/2i2c-org/infrastructure/issues/9084#issuecomment-5934565649) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#972](https://github.com/jupyter-book/myst-theme/pull/972) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+2. 🗣 Commented on [#970](https://github.com/jupyter-book/myst-theme/pull/970#issuecomment-5955814440) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🚀 Published release [v2.4.3](https://github.com/jupyter-book/jupyterlab-myst/releases/tag/v2.4.3) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. 🗣 Commented on [#970](https://github.com/jupyter-book/myst-theme/pull/970#issuecomment-5951752305) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#970](https://github.com/jupyter-book/myst-theme/pull/970#issuecomment-5951731576) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
