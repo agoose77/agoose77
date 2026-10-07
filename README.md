@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7470](https://github.com/2i2c-org/infrastructure/issues/7470#issuecomment-6018701406) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#977](https://github.com/jupyter-book/myst-theme/pull/977) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 🎉 Merged PR [#978](https://github.com/jupyter-book/myst-theme/pull/978) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🗣 Commented on [#977](https://github.com/jupyter-book/myst-theme/pull/977#issuecomment-6019673259) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-5. 🗣 Commented on [#9217](https://github.com/2i2c-org/infrastructure/pull/9217#issuecomment-6018209427) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#62](https://github.com/mainsail-org/gennaker-tools/pull/62) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+2. 💪 Opened PR [#62](https://github.com/mainsail-org/gennaker-tools/pull/62) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+3. 🎉 Merged PR [#61](https://github.com/mainsail-org/gennaker-tools/pull/61) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+4. 💪 Opened PR [#61](https://github.com/mainsail-org/gennaker-tools/pull/61) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+5. 🎉 Merged PR [#60](https://github.com/mainsail-org/gennaker-tools/pull/60) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
 <!--END_SECTION:activity-->
