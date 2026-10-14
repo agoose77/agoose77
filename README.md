@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2882](https://github.com/jupyter-book/mystmd/pull/2882#issuecomment-6163957591) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ℹ️ Assigned issue [#9218](https://github.com/2i2c-org/infrastructure/issues/9218) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#3092](https://github.com/jupyter-book/mystmd/pull/3092) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#3092](https://github.com/jupyter-book/mystmd/pull/3092#issuecomment-6166976934) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#3092](https://github.com/jupyter-book/mystmd/pull/3092) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❌ Closed PR [#3](https://github.com/mainsail-org/gennaker-tools/pull/3) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+2. ❌ Closed PR [#52](https://github.com/mainsail-org/gennaker-tools/pull/52) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+3. ❌ Closed PR [#2](https://github.com/mainsail-org/gennaker-tools/pull/2) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+4. 🗣 Commented on [#3086](https://github.com/jupyter-book/mystmd/pull/3086#issuecomment-6164875291) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#2882](https://github.com/jupyter-book/mystmd/pull/2882#issuecomment-6163957591) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
 <!--END_SECTION:activity-->
