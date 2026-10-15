@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/mainsail-org/gennaker-tools/pull/3) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-2. ❌ Closed PR [#52](https://github.com/mainsail-org/gennaker-tools/pull/52) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-3. ❌ Closed PR [#2](https://github.com/mainsail-org/gennaker-tools/pull/2) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-4. 🗣 Commented on [#3086](https://github.com/jupyter-book/mystmd/pull/3086#issuecomment-6164875291) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#2882](https://github.com/jupyter-book/mystmd/pull/2882#issuecomment-6163957591) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🔒 Closed issue [#9253](https://github.com/2i2c-org/infrastructure/issues/9253) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#9262](https://github.com/2i2c-org/infrastructure/pull/9262#issuecomment-6190517530) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Closed PR [#3](https://github.com/mainsail-org/gennaker-tools/pull/3) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+4. ❌ Closed PR [#52](https://github.com/mainsail-org/gennaker-tools/pull/52) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+5. ❌ Closed PR [#2](https://github.com/mainsail-org/gennaker-tools/pull/2) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
 <!--END_SECTION:activity-->
