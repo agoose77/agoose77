@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9253](https://github.com/2i2c-org/infrastructure/issues/9253) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#9262](https://github.com/2i2c-org/infrastructure/pull/9262#issuecomment-6190517530) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❌ Closed PR [#3](https://github.com/mainsail-org/gennaker-tools/pull/3) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-4. ❌ Closed PR [#52](https://github.com/mainsail-org/gennaker-tools/pull/52) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-5. ❌ Closed PR [#2](https://github.com/mainsail-org/gennaker-tools/pull/2) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+1. ❗ Opened issue [#9279](https://github.com/2i2c-org/infrastructure/issues/9279) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#9280](https://github.com/2i2c-org/infrastructure/issues/9280) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#9285](https://github.com/2i2c-org/infrastructure/issues/9285) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#9262](https://github.com/2i2c-org/infrastructure/pull/9262) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#9280](https://github.com/2i2c-org/infrastructure/issues/9280) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
