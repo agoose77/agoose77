@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9279](https://github.com/2i2c-org/infrastructure/issues/9279) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Assigned issue [#9280](https://github.com/2i2c-org/infrastructure/issues/9280) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9285](https://github.com/2i2c-org/infrastructure/issues/9285) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#9262](https://github.com/2i2c-org/infrastructure/pull/9262) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#9280](https://github.com/2i2c-org/infrastructure/issues/9280) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#9283](https://github.com/2i2c-org/infrastructure/pull/9283) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#2729](https://github.com/jupyter-book/mystmd/issues/2729) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#2910](https://github.com/jupyter-book/mystmd/pull/2910#issuecomment-6199308954) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🚀 Published release [React Router 8 Preview](https://github.com/jupyter-book/myst-theme/releases/tag/react-router-8-preview) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#9276](https://github.com/2i2c-org/infrastructure/pull/9276) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
