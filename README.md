@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/2i2c-org/initiatives/issues/35#issuecomment-6194458065) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. 🗣 Commented on [#9277](https://github.com/2i2c-org/infrastructure/issues/9277#issuecomment-6192991177) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8492](https://github.com/2i2c-org/infrastructure/issues/8492#issuecomment-6196052688) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9253](https://github.com/2i2c-org/infrastructure/issues/9253#issuecomment-6190526917) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#9218](https://github.com/2i2c-org/infrastructure/issues/9218#issuecomment-6194473489) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#304](https://github.com/jupyter-book/jupyterlab-myst/issues/304) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. 🗣 Commented on [#35](https://github.com/2i2c-org/initiatives/issues/35#issuecomment-6194458065) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+3. 🗣 Commented on [#9277](https://github.com/2i2c-org/infrastructure/issues/9277#issuecomment-6192991177) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8492](https://github.com/2i2c-org/infrastructure/issues/8492#issuecomment-6196052688) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#9253](https://github.com/2i2c-org/infrastructure/issues/9253#issuecomment-6190526917) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
