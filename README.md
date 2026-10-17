@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/choldgraf/myst-author/issues/3#issuecomment-6214346285) in [choldgraf/myst-author](https://github.com/choldgraf/myst-author)
-2. ℹ️ Assigned issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#2729](https://github.com/jupyter-book/mystmd/issues/2729#issuecomment-6199316829) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🗣 Commented on [#9282](https://github.com/2i2c-org/infrastructure/issues/9282#issuecomment-6223331243) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#9296](https://github.com/2i2c-org/infrastructure/issues/9296#issuecomment-6223372313) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#3](https://github.com/choldgraf/myst-author/issues/3#issuecomment-6214346285) in [choldgraf/myst-author](https://github.com/choldgraf/myst-author)
+4. ℹ️ Assigned issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
