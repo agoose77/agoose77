@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#985](https://github.com/jupyter-book/myst-theme/pull/985#issuecomment-6224852201) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#9282](https://github.com/2i2c-org/infrastructure/issues/9282#issuecomment-6223331243) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9296](https://github.com/2i2c-org/infrastructure/issues/9296#issuecomment-6223372313) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#3](https://github.com/choldgraf/myst-author/issues/3#issuecomment-6214346285) in [choldgraf/myst-author](https://github.com/choldgraf/myst-author)
-5. ℹ️ Assigned issue [#9296](https://github.com/2i2c-org/infrastructure/issues/9296) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#9300](https://github.com/2i2c-org/infrastructure/pull/9300) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#1](https://github.com/2i2c-org/example-image-stack/pull/1) in [2i2c-org/example-image-stack](https://github.com/2i2c-org/example-image-stack)
+3. 💪 Opened PR [#9300](https://github.com/2i2c-org/infrastructure/pull/9300) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#985](https://github.com/jupyter-book/myst-theme/pull/985#issuecomment-6224852201) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🗣 Commented on [#9282](https://github.com/2i2c-org/infrastructure/issues/9282#issuecomment-6223331243) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
