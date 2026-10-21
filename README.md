@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8414](https://github.com/2i2c-org/infrastructure/issues/8414#issuecomment-6317508014) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8414](https://github.com/2i2c-org/infrastructure/issues/8414) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9281](https://github.com/2i2c-org/infrastructure/issues/9281#issuecomment-6316631544) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9060](https://github.com/2i2c-org/infrastructure/issues/9060#issuecomment-6316603810) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#57](https://github.com/2i2c-org/initiatives/issues/57#issuecomment-6315778410) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+1. 🎉 Merged PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+2. ℹ️ Labeled PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+3. ℹ️ Labeled PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+4. ℹ️ Labeled PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+5. 💪 Opened PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
 <!--END_SECTION:activity-->
