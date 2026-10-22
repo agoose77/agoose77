@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#985](https://github.com/jupyter-book/myst-theme/pull/985) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#985](https://github.com/jupyter-book/myst-theme/pull/985#issuecomment-6337639458) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-3. 💪 Opened PR [#987](https://github.com/jupyter-book/myst-theme/pull/987) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-4. 🎉 Merged PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-5. ℹ️ Labeled PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
+1. 💪 Opened PR [#9333](https://github.com/2i2c-org/infrastructure/pull/9333) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#985](https://github.com/jupyter-book/myst-theme/pull/985) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#985](https://github.com/jupyter-book/myst-theme/pull/985#issuecomment-6337639458) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#987](https://github.com/jupyter-book/myst-theme/pull/987) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#69](https://github.com/mainsail-org/gennaker-tools/pull/69) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
 <!--END_SECTION:activity-->
