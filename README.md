@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9352](https://github.com/2i2c-org/infrastructure/issues/9352) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Assigned issue [#9352](https://github.com/2i2c-org/infrastructure/issues/9352) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7992](https://github.com/2i2c-org/infrastructure/issues/7992#issuecomment-6442704501) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9259](https://github.com/2i2c-org/infrastructure/issues/9259#issuecomment-6442713861) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#2601](https://github.com/jupyter/docker-stacks/issues/2601) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
+1. 🔒 Closed issue [#3108](https://github.com/jupyter-book/mystmd/issues/3108) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🗣 Commented on [#2672](https://github.com/jupyter-book/jupyter-book/issues/2672#issuecomment-6449969210) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+3. ❗ Opened issue [#2684](https://github.com/jupyter-book/jupyter-book/issues/2684) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🗣 Commented on [#3107](https://github.com/jupyter-book/mystmd/pull/3107#issuecomment-6442909152) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#987](https://github.com/jupyter-book/myst-theme/pull/987#issuecomment-6442542996) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
 <!--END_SECTION:activity-->
