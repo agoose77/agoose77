@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2601](https://github.com/jupyter/docker-stacks/issues/2601) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
-2. ℹ️ Labeled issue [#2601](https://github.com/jupyter/docker-stacks/issues/2601) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
-3. 🎉 Merged PR [#3104](https://github.com/jupyter-book/mystmd/pull/3104) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🎉 Merged PR [#3106](https://github.com/jupyter-book/mystmd/pull/3106) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 💪 Opened PR [#3106](https://github.com/jupyter-book/mystmd/pull/3106) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. ❗ Opened issue [#9352](https://github.com/2i2c-org/infrastructure/issues/9352) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#9352](https://github.com/2i2c-org/infrastructure/issues/9352) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7992](https://github.com/2i2c-org/infrastructure/issues/7992#issuecomment-6442704501) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#9259](https://github.com/2i2c-org/infrastructure/issues/9259#issuecomment-6442713861) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#2601](https://github.com/jupyter/docker-stacks/issues/2601) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 <!--END_SECTION:activity-->
