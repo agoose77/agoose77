@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2602](https://github.com/jupyter/docker-stacks/issues/2602) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
-2. 🗣 Commented on [#9352](https://github.com/2i2c-org/infrastructure/issues/9352#issuecomment-6469180052) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#2602](https://github.com/jupyter/docker-stacks/issues/2602) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
-4. 💪 Opened PR [#2603](https://github.com/jupyter/docker-stacks/pull/2603) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
-5. 💪 Opened PR [#9356](https://github.com/2i2c-org/infrastructure/pull/9356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#81](https://github.com/2i2c-org/utoronto-image/pull/81) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. 💪 Opened PR [#81](https://github.com/2i2c-org/utoronto-image/pull/81) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+3. ❗ Opened issue [#2602](https://github.com/jupyter/docker-stacks/issues/2602) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
+4. 🗣 Commented on [#9352](https://github.com/2i2c-org/infrastructure/issues/9352#issuecomment-6469180052) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Labeled issue [#2602](https://github.com/jupyter/docker-stacks/issues/2602) in [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 <!--END_SECTION:activity-->
