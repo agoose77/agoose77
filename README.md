@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3108](https://github.com/jupyter-book/mystmd/issues/3108) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🗣 Commented on [#2672](https://github.com/jupyter-book/jupyter-book/issues/2672#issuecomment-6449969210) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-3. ❗ Opened issue [#2684](https://github.com/jupyter-book/jupyter-book/issues/2684) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🗣 Commented on [#3107](https://github.com/jupyter-book/mystmd/pull/3107#issuecomment-6442909152) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#987](https://github.com/jupyter-book/myst-theme/pull/987#issuecomment-6442542996) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+1. 🎉 Merged PR [#80](https://github.com/2i2c-org/utoronto-image/pull/80) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. 💪 Opened PR [#80](https://github.com/2i2c-org/utoronto-image/pull/80) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+3. 🔒 Closed issue [#3108](https://github.com/jupyter-book/mystmd/issues/3108) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+4. 🗣 Commented on [#2672](https://github.com/jupyter-book/jupyter-book/issues/2672#issuecomment-6449969210) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+5. ❗ Opened issue [#2684](https://github.com/jupyter-book/jupyter-book/issues/2684) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 <!--END_SECTION:activity-->
