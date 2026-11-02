@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9379](https://github.com/2i2c-org/infrastructure/pull/9379) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#9379](https://github.com/2i2c-org/infrastructure/pull/9379) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9375](https://github.com/2i2c-org/infrastructure/pull/9375#issuecomment-6576172898) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#9376](https://github.com/2i2c-org/infrastructure/pull/9376) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#9376](https://github.com/2i2c-org/infrastructure/pull/9376) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+2. ❗ Opened issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+3. 🗣 Commented on [#9331](https://github.com/2i2c-org/infrastructure/issues/9331#issuecomment-6580427879) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#9293](https://github.com/2i2c-org/infrastructure/issues/9293#issuecomment-6580489160) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#9293](https://github.com/2i2c-org/infrastructure/issues/9293) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
