@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-2. ❗ Opened issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
-3. 🗣 Commented on [#9331](https://github.com/2i2c-org/infrastructure/issues/9331#issuecomment-6580427879) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9293](https://github.com/2i2c-org/infrastructure/issues/9293#issuecomment-6580489160) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#9293](https://github.com/2i2c-org/infrastructure/issues/9293) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#9391](https://github.com/2i2c-org/infrastructure/pull/9391) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#9391](https://github.com/2i2c-org/infrastructure/pull/9391) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#9383](https://github.com/2i2c-org/infrastructure/pull/9383#issuecomment-6591404307) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
+5. ❗ Opened issue [#132](https://github.com/conda-forge/mystmd-feedstock/issues/132) in [conda-forge/mystmd-feedstock](https://github.com/conda-forge/mystmd-feedstock)
 <!--END_SECTION:activity-->
