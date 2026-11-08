@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/reflective-org/reflective-image/pull/10) in [reflective-org/reflective-image](https://github.com/reflective-org/reflective-image)
-2. 🎉 Merged PR [#9426](https://github.com/2i2c-org/infrastructure/pull/9426) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#9428](https://github.com/2i2c-org/infrastructure/pull/9428) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#9385](https://github.com/2i2c-org/infrastructure/issues/9385) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#9428](https://github.com/2i2c-org/infrastructure/pull/9428) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#3133](https://github.com/jupyter-book/mystmd/pull/3133#issuecomment-6720657164) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🎉 Merged PR [#10](https://github.com/reflective-org/reflective-image/pull/10) in [reflective-org/reflective-image](https://github.com/reflective-org/reflective-image)
+3. 🎉 Merged PR [#9426](https://github.com/2i2c-org/infrastructure/pull/9426) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#9428](https://github.com/2i2c-org/infrastructure/pull/9428) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#9385](https://github.com/2i2c-org/infrastructure/issues/9385) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
