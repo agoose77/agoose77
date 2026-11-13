@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1004](https://github.com/jupyter-book/myst-theme/issues/1004#issuecomment-6849920749) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 🗣 Commented on [#296](https://github.com/jupyter-book/jupyterlab-myst/issues/296#issuecomment-6837884425) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
-3. 🗣 Commented on [#3143](https://github.com/jupyter-book/mystmd/pull/3143#issuecomment-6837842583) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-4. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-6837128981) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. 💪 Opened PR [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. 💪 Opened PR [#306](https://github.com/jupyter-book/jupyterlab-myst/pull/306) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. 🗣 Commented on [#1004](https://github.com/jupyter-book/myst-theme/issues/1004#issuecomment-6849920749) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+3. 🗣 Commented on [#296](https://github.com/jupyter-book/jupyterlab-myst/issues/296#issuecomment-6837884425) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+4. 🗣 Commented on [#3143](https://github.com/jupyter-book/mystmd/pull/3143#issuecomment-6837842583) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-6837128981) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
 <!--END_SECTION:activity-->
