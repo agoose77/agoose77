@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-2. 🗣 Commented on [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185#issuecomment-6836280145) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-3. 🗣 Commented on [#9296](https://github.com/2i2c-org/infrastructure/issues/9296#issuecomment-6832479304) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9190](https://github.com/2i2c-org/infrastructure/issues/9190#issuecomment-6828814993) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#2677](https://github.com/jupyter-book/jupyter-book/issues/2677#issuecomment-6827437290) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+1. 🗣 Commented on [#296](https://github.com/jupyter-book/jupyterlab-myst/issues/296#issuecomment-6837884425) in [jupyter-book/jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst)
+2. 🗣 Commented on [#3143](https://github.com/jupyter-book/mystmd/pull/3143#issuecomment-6837842583) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-6837128981) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. 💪 Opened PR [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🗣 Commented on [#185](https://github.com/jupyterhub/grafana-dashboards/issues/185#issuecomment-6836280145) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
 <!--END_SECTION:activity-->
