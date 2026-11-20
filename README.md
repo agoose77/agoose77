@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9506](https://github.com/2i2c-org/infrastructure/pull/9506) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#9506](https://github.com/2i2c-org/infrastructure/pull/9506) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9296](https://github.com/2i2c-org/infrastructure/issues/9296#issuecomment-6979671550) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#71](https://github.com/mainsail-org/gennaker-tools/pull/71) in [mainsail-org/gennaker-tools](https://github.com/mainsail-org/gennaker-tools)
-5. 🗣 Commented on [#9150](https://github.com/2i2c-org/infrastructure/issues/9150#issuecomment-6985530777) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🚀 Published release [Slides Theme](https://github.com/agoose77/delft-slides-2026/releases/tag/slides-theme) in [agoose77/delft-slides-2026](https://github.com/agoose77/delft-slides-2026)
+2. 🔒 Closed issue [#9455](https://github.com/2i2c-org/infrastructure/issues/9455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#9534](https://github.com/2i2c-org/infrastructure/pull/9534) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-7041689636) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. ❌ Closed PR [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
 <!--END_SECTION:activity-->
