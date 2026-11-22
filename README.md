@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Slides Theme](https://github.com/agoose77/delft-slides-2026/releases/tag/slides-theme) in [agoose77/delft-slides-2026](https://github.com/agoose77/delft-slides-2026)
-2. 🔒 Closed issue [#9455](https://github.com/2i2c-org/infrastructure/issues/9455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#9534](https://github.com/2i2c-org/infrastructure/pull/9534) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-7041689636) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. ❌ Closed PR [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. 🔒 Closed issue [#1472](https://github.com/jupyter-book/mystmd/issues/1472) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 🔒 Closed issue [#2310](https://github.com/jupyter-book/mystmd/issues/2310) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. 🔒 Closed issue [#1048](https://github.com/jupyter-book/jupyter-book/issues/1048) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
+4. 🚀 Published release [Slides Theme](https://github.com/agoose77/delft-slides-2026/releases/tag/slides-theme) in [agoose77/delft-slides-2026](https://github.com/agoose77/delft-slides-2026)
+5. 🔒 Closed issue [#9455](https://github.com/2i2c-org/infrastructure/issues/9455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
