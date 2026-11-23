@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1472](https://github.com/jupyter-book/mystmd/issues/1472) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 🔒 Closed issue [#2310](https://github.com/jupyter-book/mystmd/issues/2310) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#1048](https://github.com/jupyter-book/jupyter-book/issues/1048) in [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
-4. 🚀 Published release [Slides Theme](https://github.com/agoose77/delft-slides-2026/releases/tag/slides-theme) in [agoose77/delft-slides-2026](https://github.com/agoose77/delft-slides-2026)
-5. 🔒 Closed issue [#9455](https://github.com/2i2c-org/infrastructure/issues/9455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#9](https://github.com/myst-contrib/fog-theme/issues/9) in [myst-contrib/fog-theme](https://github.com/myst-contrib/fog-theme)
+2. ❗ Opened issue [#8](https://github.com/myst-contrib/fog-theme/issues/8) in [myst-contrib/fog-theme](https://github.com/myst-contrib/fog-theme)
+3. ❗ Opened issue [#7](https://github.com/myst-contrib/fog-theme/issues/7) in [myst-contrib/fog-theme](https://github.com/myst-contrib/fog-theme)
+4. 🗣 Commented on [#987](https://github.com/jupyter-book/myst-theme/pull/987#issuecomment-7111345081) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+5. 🎉 Merged PR [#9537](https://github.com/2i2c-org/infrastructure/pull/9537) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
